@@ -18,7 +18,7 @@ sections:
   label: English
   create: documents
   match: "*.md"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: es
   label: Spanish
