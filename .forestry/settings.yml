@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: config.json
-  label: Settings
+  label: Site Settings
 - type: directory
   path: ''
   label: All Pages
