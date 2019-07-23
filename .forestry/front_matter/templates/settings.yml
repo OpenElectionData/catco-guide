@@ -12,7 +12,7 @@ fields:
     use_select: true
     source:
       type: pages
-      section: pages
+      section: english
   description: Select which pages to display on the sidebar. Drag & drop to reorder
     them.
 - name: sidebar_es
