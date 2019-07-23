@@ -13,3 +13,5 @@ fields:
     source:
       type: pages
       section: pages
+pages:
+- config.json
