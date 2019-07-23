@@ -9,10 +9,16 @@ sections:
   label: Settings
 - type: directory
   path: ''
-  label: Pages
+  label: All Pages
   create: all
   match: "**/*.md"
   new_doc_ext: md
+- type: directory
+  path: ''
+  label: English
+  create: documents
+  match: "*.md"
+  new_doc_ext: ".md"
 - type: directory
   path: es
   label: Spanish
