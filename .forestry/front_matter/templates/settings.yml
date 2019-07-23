@@ -7,11 +7,25 @@ fields:
   label: title
 - type: list
   name: sidebar
-  label: sidebar
+  label: 'Sidebar: English'
   config:
     use_select: true
     source:
       type: pages
       section: pages
+  description: Select which pages to display on the sidebar. Drag & drop to reorder
+    them.
+- name: sidebar_es
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: spanish
+  label: 'Sidebar: Spanish'
+  description: Select which pages to display on the sidebar. Drag & drop to reorder
+    them.
 pages:
 - config.json
