@@ -1,18 +1,22 @@
+const config = require("../config.json");
+
 module.exports = {
-  locales: {
-    // The key is the path for the locale to be nested under.
-    // As a special case, the default locale can use '/' as its path.
-    "/": {
-      lang: "en-US", // this will be set as the lang attribute on <html>
-      title: "CATCO Guide",
-      description: "CATCO Guide for NDI"
-    },
-    "/es/": {
-      lang: "es",
-      title: "CATCO Guide",
-      description: "CATCO Guide for NDI (Spanish)"
-    }
-  },
+  host: "localhost",
+  title: config.title,
+  // locales: {
+  //   // The key is the path for the locale to be nested under.
+  //   // As a special case, the default locale can use '/' as its path.
+  //   "/": {
+  //     lang: "en-US", // this will be set as the lang attribute on <html>
+  //     title: config.title,
+  //     description: "CATCO Guide for NDI"
+  //   },
+  //   "/es/": {
+  //     lang: "es",
+  //     title: "CATCO Guide",
+  //     description: "CATCO Guide for NDI (Spanish)"
+  //   }
+  // },
   themeConfig: {
     displayAllHeaders: true,
     locales: {
@@ -31,9 +35,11 @@ module.exports = {
           }
         },
         // algolia docsearch options for current locale
-        algolia: {}
+        algolia: {},
         // nav: [{ text: "Nested", link: "/nested/" }],
         // sidebar: ["/", "/introduction"]
+        // sidebar: auto
+        sidebar: config.sidebar
       },
       "/es/": {
         selectText: "Languages (ES)",
