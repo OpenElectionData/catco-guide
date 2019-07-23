@@ -8,3 +8,8 @@ fields:
 - type: list
   name: sidebar
   label: sidebar
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: pages
