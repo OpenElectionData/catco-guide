@@ -1,6 +1,10 @@
 {
   "title": "CATCO Guide",
   "sidebar": [
+    "introduction.md",
     "acronyms.md"
+  ],
+  "sidebar_es": [
+    "es/acronyms.md"
   ]
 }
