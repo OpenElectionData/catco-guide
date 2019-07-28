@@ -31,6 +31,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-polyglot
   - jekyll-figure
+  - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
