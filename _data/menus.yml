@@ -1,4 +1,6 @@
 ---
 sidebar:
+- about.md
 - acronyms.md
 - example.md
+- introduction.md
