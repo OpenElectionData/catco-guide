@@ -12,7 +12,7 @@ sections:
   label: 'Guide: Spanish'
   create: documents
   match: "**/*.es.md"
-  new_doc_ext: ".es.md"
+  new_doc_ext: es.md
 - type: jekyll-pages
   label: Pages
   create: all
