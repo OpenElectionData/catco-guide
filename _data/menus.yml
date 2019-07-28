@@ -1,6 +1,4 @@
 ---
 sidebar:
-- url: "/acronym"
-  title: Acronym
-  identifier: acronym
-  weight: 1
+ - acronyms.md
+ - example.md

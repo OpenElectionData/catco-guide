@@ -22,7 +22,6 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.0"
   gem "jekyll-polyglot"
   gem "jekyll-figure"
-  gem "jekyll-menus"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
