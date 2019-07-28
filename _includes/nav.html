@@ -1,0 +1,22 @@
+{% assign pages_list = site.pages | sort:"nav_order" %}
+
+<nav role="navigation" aria-label="Main navigation">
+  <ul class="navigation-list">
+    {% for node in pages_list %}
+      {% if node.parent == nil %}
+        <li class="navigation-list-item{% if page.url == node.url %} active{% endif %}">
+          <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
+          {% if node.subnav.size > 0 %}
+          <ul class="navigation-list-child-list">
+          {% for item in node.subnav %}
+            <li class="navigation-list-item">
+              <a href="{{ item.url }}" class="navigation-list-link">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

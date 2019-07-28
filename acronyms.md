@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Acronyms
-lang: en-US
+lang: en
+permalink: /acronyms/
 ---
 
 List of acronyms here.

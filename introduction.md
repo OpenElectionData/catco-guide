@@ -1,10 +1,13 @@
 ---
-title: Introduction
+layout: page
+title: 1. Introduction
 subtitle: And Summary
-lang: en-US
+lang: en
+image:
+  url: https://placekitten.com/300/400
+  caption: CATCO is better with cats.
+permalink: /introduction/
 ---
-
-testing testing test. foobar. testing
 
 Nonpartisan citizen election observation groups and other civil society organizations (CSOs) work hard every day organizing citizens, collecting and analyzing data, and making the case for democratic reforms. In more closed environments, they also must push back against infringements by authoritarian power structures. Over the past three-plus decades, the citizen-based electoral integrity movement spread to more than 100 countries and involved more than four million activists. Working to defend and advance universal and equal suffrage through a free and informed choice simultaneously reinforces democratic norms and exposes the repression and political corruption of autocrats. That’s why frustrating citizen election observation is a goal for those who seek to close democratic space and why it is important to invigorate citizen election observation to meet the challenges of closing environments...
 
