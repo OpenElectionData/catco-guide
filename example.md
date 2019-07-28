@@ -6,9 +6,13 @@ lang: en
 image:
   url: https://placekitten.com/300/400
   caption: CATCO is better with cats.
-permalink: /example/
----
+permalink: "/example/"
+menu:
+  sidebar:
+    weight: 3
+    title: Example
 
+---
 Lorem ipsum dolor sit amet, tota graeco ancillae eos ut. Ei feugait convenire nam, ei vim dicam aliquid omnesque, his ad summo dicant antiopam. Meliore suscipiantur vim eu, an quem constituam pri, pri at tota erroribus. Mel ei facer vidisse invidunt. Ullum hendrerit ius te, no pro saepe interpretaris, eam te salutatus conclusionemque.
 
 Et has euismod facilisi. Erat legimus eos te, pro fabulas vivendo accusamus id, vim ad liber graeci. Vel no numquam vituperatoribus. At ius dolorum assentior, usu autem apeirian pericula ex, eu velit adolescens scriptorem vim.

@@ -1,6 +1,6 @@
 ---
 sidebar:
-  - url: /acronym
-    title: Acronym
-    identifier: acronym
----
+- url: "/acronym"
+  title: Acronym
+  identifier: acronym
+  weight: 1
