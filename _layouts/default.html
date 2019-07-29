@@ -52,24 +52,29 @@
             </nav>
           {% endif %}
         {% endunless %}
-        <div id="main-content" class="page-content" role="main">
+        <main id="main-content" class="page-content">
           {{ content }}
-
-          {% if page.has_children == true and page.has_toc != false %}
-          <hr>
-          <h2 class="text-delta">Table of contents</h2>
-          {% assign children_list = site.pages | sort:"nav_order" %}
-          <ul>
-            {% for child in children_list %}
-              {% if child.parent == page.title and child.title != page.title %}
-              <li>
-                <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
-              </li>
-              {% endif %}
+        </main>
+        <footer class="page__footer">
+          {% if site.data.menus.sidebar contains page.path %}
+          <ul class="pagination">
+            {% for item in site.data.menus.sidebar %}
+            {% if item == page.path %}
+            {% unless forloop.first %}
+            {% assign prev = forloop.index0 | minus: 1 %}
+            {%- assign navitem = site.pages | where: "path", site.data.menus.sidebar[prev] | first -%}
+            {% include pagination.html item=navitem class="prev" %}
+            {% endunless %}
+            {% unless forloop.last %}
+            {% assign next = forloop.index0 | plus: 1 %}
+            {%- assign navitem = site.pages | where: "path", site.data.menus.sidebar[next] | first -%}
+            {% include pagination.html item=navitem class="next" %}
+            {% endunless %}
+            {% endif %}
             {% endfor %}
           </ul>
           {% endif %}
-        </div>
+        </footer>
       </div>
       <footer role="contentinfo" class="site-footer">
         <p class="text-small text-grey-dk-000 mb-0">Footer</p>

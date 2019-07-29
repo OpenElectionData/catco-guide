@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Acronyms
 lang: es
 permalink: /acronyms/

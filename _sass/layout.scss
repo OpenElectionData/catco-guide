@@ -5,7 +5,7 @@
 .page-wrap {
   display: grid;
   grid-template-areas: "sidebar content";
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: minmax(25%, 350px) auto;
   width: 100%;
   height: 100vh;
   // @include mq(md) {
@@ -49,6 +49,8 @@
 }
 
 .main-content-wrap {
+  position: relative;
+
   @include mq(md) {
     // position: absolute;
     // top: 0;
@@ -153,6 +155,13 @@ body {
     position: static;
     align-self: flex-end;
     justify-self: end;
+  }
+
+  .main-content-wrap & {
+    @include mq(md) {
+      position: sticky;
+      top: 100vh;
+    }
   }
 }
 

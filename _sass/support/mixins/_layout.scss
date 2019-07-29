@@ -42,3 +42,60 @@
     $color 5px 10px
   );
 }
+
+%arrow-icon {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  box-shadow: inset -1px 1px 0 0 #000;
+  transform-origin: 50% 50%;
+  transition: all 0.2s ease-in-out;
+}
+
+%arrow-line {
+  content: "";
+  display: block;
+  position: absolute;
+  top: calc(50% + 1px);
+  width: 1rem;
+  height: 1px;
+  background-color: #000;
+  transition: all 0.2s ease-in-out;
+}
+
+@mixin pagination-arrows($direction: left) {
+  $opposite: left;
+  @if $direction == left {
+    $opposite: right;
+  }
+  padding-#{$direction}: 1.5rem;
+
+  &::before {
+    @extend %arrow-icon;
+    #{$direction}: 1px;
+
+    @if $direction == left {
+      transform: translateY(-2.5px) rotate(-135deg);
+    } @else {
+      transform: translateY(-2.5px) rotate(45deg);
+    }
+  }
+
+  &::after {
+    @extend %arrow-line;
+    #{$direction}: 0;
+  }
+
+  &:not(:disabled):hover i {
+    #{$opposite}: calc(100% + 1rem);
+
+    &::after {
+      width: calc(2rem - 1px);
+      #{$opposite}: -1rem;
+    }
+  }
+}
