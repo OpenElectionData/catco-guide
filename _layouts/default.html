@@ -7,11 +7,11 @@
   <div class="page-wrap">
     <div class="side-bar">
       <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 lh-tight">{{ site.title }}</a>
-      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
+      <button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button>
       <div class="navigation main-nav js-main-nav">
         {% include nav.html %}
       </div>
-      <footer role="contentinfo" class="site-footer">
+      <footer role="contentinfo" class="site-footer side-bar__footer">
         <p class="text-small text-grey-dk-000 mb-0">Footer</p>
       </footer>
     </div>
@@ -76,7 +76,7 @@
           {% endif %}
         </footer>
       </div>
-      <footer role="contentinfo" class="site-footer">
+      <footer role="contentinfo" class="site-footer main-content__footer">
         <p class="text-small text-grey-dk-000 mb-0">Footer</p>
       </footer>
     </div>

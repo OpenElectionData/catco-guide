@@ -4,20 +4,15 @@
 
 .page-wrap {
   display: grid;
-  grid-template-areas: "sidebar content";
-  grid-template-columns: minmax(25%, 350px) auto;
+  grid-template-areas: "sidebar" "content";
+  grid-template-columns: auto;
   width: 100%;
-  height: 100vh;
-  // @include mq(md) {
-  //   position: absolute;
-  //   top: 0;
-  //   left: 0;
-  //   display: flex;
-  //   width: 100%;
-  //   height: 100%;
-  //   overflow-x: hidden;
-  //   overflow-y: hidden;
-  // }
+
+  @include mq(md) {
+    grid-template-areas: "sidebar content";
+    grid-template-columns: 1fr 3fr;
+    height: 100vh;
+  }
 }
 
 .side-bar {
@@ -32,29 +27,18 @@
   @include mq(md) {
     position: relative;
     flex-wrap: nowrap;
-    // position: absolute;
-    // width: $nav-width + 16px;
     height: 100%;
-    // padding-top: $gutter-spacing * 2;
     padding-bottom: 0;
     flex-direction: column;
     border-right: $border $border-color;
     align-items: flex-end;
   }
-
-  // @include mq(lg) {
-  //   width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-  //   min-width: $nav-width;
-  // }
 }
 
 .main-content-wrap {
   position: relative;
 
   @include mq(md) {
-    // position: absolute;
-    // top: 0;
-    // left: 0;
     width: 100%;
     height: 100%;
     min-height: 600px;
@@ -82,9 +66,10 @@
 }
 
 .page-header {
-  background-color: $sidebar-color;
+  display: none;
 
   @include mq(md) {
+    display: block;
     background-color: $body-background-color;
   }
 
@@ -116,12 +101,7 @@
 .site-title,
 .site-footer {
   @include container;
-
   width: 100%;
-
-  // @include mq(lg) {
-  //   width: $nav-width + 32px;
-  // }
 }
 
 .navigation {
@@ -136,7 +116,6 @@
 
 body {
   position: relative;
-  padding-bottom: $sp-10;
 
   @include mq(md) {
     position: static;
@@ -147,6 +126,8 @@ body {
 // stylelint-enable selector-max-type
 
 .site-footer {
+  position: relative;
+  margin-top: $sp-4;
   padding-top: $sp-2;
   padding-bottom: $sp-2;
   background: $grey-lt-000;
@@ -157,20 +138,46 @@ body {
     justify-self: end;
   }
 
+  .side-bar & {
+    display: none;
+
+    @include mq(md) {
+      display: block;
+    }
+  }
+
   .main-content-wrap & {
     @include mq(md) {
       position: sticky;
       top: 100vh;
     }
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: -10px;
+      left: 0;
+      width: 100%;
+      @include stripes($grey-lt-100);
+
+      @include mq(md) {
+        display: none;
+      }
+    }
   }
 }
 
 .page__img {
-  float: right;
-  margin: 0 0 1rem 2rem;
+  margin: 1rem auto;
 
   @include mq(md) {
+    float: right;
     max-width: 300px;
+    margin: 0 0 1rem 2rem;
+  }
+
+  img {
+    margin: 0 auto;
   }
 }
 
