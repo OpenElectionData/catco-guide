@@ -4,3 +4,9 @@ sidebar:
 - acronyms.md
 - example.md
 - introduction.md
+
+header:
+- id: download
+  title: Download Guide
+  url: /
+  class: btn btn-download

@@ -17,4 +17,11 @@
       @include pagination-arrows("right");
     }
   }
+
+  a {
+    &:hover,
+    &:focus {
+      color: $blue;
+    }
+  }
 }
