@@ -128,8 +128,8 @@ body {
 .site-footer {
   position: relative;
   margin-top: $sp-4;
-  padding-top: $sp-2;
-  padding-bottom: $sp-2;
+  padding-top: $sp-4;
+  padding-bottom: $sp-4;
   background: $grey-lt-000;
 
   @include mq(md) {
@@ -164,6 +164,97 @@ body {
         display: none;
       }
     }
+  }
+
+  .footer__heading {
+    color: $blue;
+    font-family: $font__sanchez;
+  }
+
+  a {
+    color: $blue;
+    background-image: none;
+
+    &:hover {
+      color: $black;
+      background-image: none;
+    }
+  }
+}
+
+.main-footer {
+  display: grid;
+  grid-template-areas:
+    "logo"
+    "about"
+    "address"
+    "social"
+    "copyright";
+  grid-template-columns: 1fr;
+
+  @include mq(md) {
+    grid-template-areas:
+      "logo about address social"
+      "logo copyright copyright copyright";
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, auto);
+    justify-content: space-between;
+  }
+
+  .main-content-wrap & {
+    @include mq(md) {
+      grid-column-gap: 2rem;
+      grid-template-areas:
+        "about address social"
+        "copyright copyright copyright";
+      grid-template-columns: 40% 25% auto;
+    }
+  }
+
+  .footer__logo {
+    grid-area: logo;
+
+    .main-content-wrap & {
+      @include mq(md) {
+        display: none;
+      }
+    }
+  }
+
+  .footer__about {
+    grid-area: about;
+  }
+
+  .footer__social {
+    grid-area: social;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    @include fs-4;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+    }
+
+    .icon {
+      width: 1.5em;
+      height: 1.5em;
+      margin-right: 0.5em;
+    }
+  }
+
+  .footer__address {
+    grid-area: address;
+  }
+
+  .footer__copyright {
+    grid-area: copyright;
+    margin-top: 1rem;
   }
 }
 

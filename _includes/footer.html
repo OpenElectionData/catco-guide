@@ -1,0 +1,55 @@
+<footer role="contentinfo" class="site-footer {{ include.class }}">
+  <a href="" class="footer__logo">
+    NDI Logo
+  </a>
+  <div class="footer__about">
+    <div class="footer__heading">About this Site</div>
+    <p class="text-small">
+      This guide offers a step-by-step approach to strategic communications
+      planning and programming in closing political spaces. It offers
+      strategies, tactics and case studies for civil society groups operating in
+      repressive environments.
+    </p>
+  </div>
+  <div class="footer__address">
+    <div class="footer__heading">National Democratic Institute</div>
+    <address class="text-small">
+      455 Massachusetts Ave, NW<br />
+      8th Floor<br />
+      Washington, DC 20001-2621<br />
+      +1-202-728-5500
+    </address>
+  </div>
+  <ul class="footer__social">
+    <li class="footer__social-item">
+      <a href="https://facebook.com/{{ site.facebook }}">
+        <svg class="icon icon-facebook">
+          <use xlink:href="#icon-facebook"></use>
+        </svg>
+        {{ site.facebook }}
+      </a>
+    </li>
+    <li class="footer__social-item">
+      <a href="https://twitter.com/{{ site.twitter }}">
+        <svg class="icon icon-twitter">
+          <use xlink:href="#icon-twitter"></use>
+        </svg>
+        {{ site.twitter | prepend: "@" }}</a
+      >
+    </li>
+    <li class="footer__social-item">
+      <a href="https://instagram.com/{{ site.instagram }}">
+        <svg class="icon icon-instagram">
+          <use xlink:href="#icon-instagram"></use>
+        </svg>
+        {{ site.instagram | prepend: "@" }}</a
+      >
+    </li>
+  </ul>
+  <div class="footer__copyright">
+    <p class="text-small text-grey-dk-000 mb-0">
+      Copyright 2019 &copy; - National Democratic Institute - All rights
+      reserved. <a href="https://www.ndi.org/privacy-policy">Privacy Policy</a>
+    </p>
+  </div>
+</footer>
