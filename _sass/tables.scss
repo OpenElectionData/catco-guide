@@ -7,7 +7,8 @@ table {
   display: block;
   width: 100%;
   max-width: 100%;
-  margin-bottom: $sp-5;
+  margin-top: $sp-6;
+  margin-bottom: $sp-6;
   overflow-x: auto;
   border-collapse: separate;
 
@@ -22,8 +23,7 @@ td {
   padding-right: $sp-3;
   padding-bottom: $sp-2;
   padding-left: $sp-3;
-  background-color: lighten($body-background-color, 2%);
-  border-bottom: $border rgba($border-color, 0.5);
+  border-bottom: $border $border-color;
   border-left: $border $border-color;
 
   &:first-of-type {
@@ -42,6 +42,7 @@ tbody {
   }
 
   td {
+    vertical-align: top;
     @include fs-3;
   }
 
@@ -58,4 +59,9 @@ thead {
     @include fs-5;
     border-bottom: 2px solid $border-color;
   }
+}
+
+.table--cols-equal {
+  width: 100%;
+  table-layout: fixed;
 }
