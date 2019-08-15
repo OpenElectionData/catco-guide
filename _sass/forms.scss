@@ -1,0 +1,26 @@
+%input {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background-color: $grey-lt-000;
+  border: $border $border-color;
+}
+
+.form-default {
+  margin: $sp-6;
+
+  label {
+    display: block;
+    font-family: $font__montserrat;
+    font-weight: bold;
+  }
+}
+
+.form-input {
+  @extend %input;
+}
+
+.form-textarea {
+  @extend %input;
+  min-height: 150px;
+}
