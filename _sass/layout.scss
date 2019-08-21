@@ -51,6 +51,7 @@
 
   @include mq(md) {
     position: relative;
+    width: 100%;
     max-width: $content-width;
     margin: 0 auto;
     padding: $gutter-spacing;
