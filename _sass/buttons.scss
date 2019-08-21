@@ -76,29 +76,29 @@
 }
 
 .btn-outline {
-  color: $link-color;
+  color: $white;
   background: transparent;
-  box-shadow: inset 0 0 0 2px $grey-lt-300;
+  box-shadow: inset 0 0 0 2px $blue-light;
 
   &:hover,
   &:active,
   &.zeroclipboard-is-hover,
   &.zeroclipboard-is-active {
-    color: darken($link-color, 4%);
+    color: $blue-light;
     text-decoration: none;
     background-color: transparent;
-    box-shadow: inset 0 0 0 3px $grey-lt-300;
+    box-shadow: inset 0 0 0 3px $white;
   }
 
   &:focus {
     text-decoration: none;
     outline: none;
-    box-shadow: inset 0 0 0 2px $grey-dk-100, 0 0 0 3px rgba(blue, 0.25);
+    box-shadow: inset 0 0 0 2px $white, 0 0 0 3px rgba(blue, 0.25);
   }
 
   &:focus:hover,
   &.selected:focus {
-    box-shadow: inset 0 0 0 2px $grey-dk-100;
+    box-shadow: inset 0 0 0 2px $white;
   }
 }
 
@@ -120,12 +120,12 @@
 
 .btn-download {
   color: $white;
-  background-color: $blue;
+  background-color: $green;
   box-shadow: none;
 
   &:hover,
   &:focus {
     color: $white;
-    background-color: darken($blue, 20%);
+    background-color: darken($green, 20%);
   }
 }

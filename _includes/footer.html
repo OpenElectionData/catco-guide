@@ -22,6 +22,14 @@
   </div>
   <ul class="footer__social">
     <li class="footer__social-item">
+      <a href="mailto:{{ site.email }}">
+        <svg class="icon icon-mail">
+          <use xlink:href="#icon-mail"></use>
+        </svg>
+        {{ site.email }}
+      </a>
+    </li>
+    <li class="footer__social-item">
       <a href="https://facebook.com/{{ site.facebook }}">
         <svg class="icon icon-facebook">
           <use xlink:href="#icon-facebook"></use>
@@ -49,7 +57,11 @@
   <div class="footer__copyright">
     <p class="text-small text-grey-dk-000 mb-0">
       Copyright 2019 &copy; - National Democratic Institute - All rights
-      reserved. <a href="https://www.ndi.org/privacy-policy">Privacy Policy</a>
+      reserved.
+      <a href="https://www.ndi.org/privacy-policy">Privacy Policy</a> |
+      <a href="https://www.ndi.org/terms-and-conditions"
+        >Terms &amp; Conditions</a
+      >
     </p>
   </div>
 </footer>

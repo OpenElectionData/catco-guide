@@ -4,7 +4,7 @@
       {%- assign item = site.pages | where: "path", node | first -%}
       <li class="navigation-list-item{% if page.url == item.url %} active{% endif %}">
         <a href="{{ item.url | relative_url }}" class="navigation-list-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
-        {% if item.subnav.size > 0 %}
+        {% if item.subnav.size > 0 and page.url == item.url %}
         <ul class="navigation-list-child-list">
         {% for subitem in item.subnav %}
           <li class="navigation-list-item">

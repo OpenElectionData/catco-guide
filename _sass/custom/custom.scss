@@ -48,12 +48,16 @@ $black: #000;
 //
 
 $blue: #2b648b;
+$blue-dark: darken($blue, 20%);
+$blue-light: lighten($blue, 40%);
 $green-light: #a2eae3;
 $green: #50cec1;
 $green-dark: #28aa9d;
 $gray-light: #d1d3d4;
 $gray: #77787b;
 $gray-dark: #08122b;
+
+$header-height: 70px;
 
 // $body-background-color: $white !default;
 $sidebar-color: $white;

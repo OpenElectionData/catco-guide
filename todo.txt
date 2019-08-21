@@ -1,0 +1,3 @@
+- Make menu items expandable
+- Open active menu item on that page
+- Terms & Conditions

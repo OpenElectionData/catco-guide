@@ -38,7 +38,7 @@
   height: $height;
   background-image: repeating-linear-gradient(
     -75deg,
-    transparent 0 5px,
+    $white 0 5px,
     $color 5px 10px
   );
 }
