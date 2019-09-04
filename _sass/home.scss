@@ -57,8 +57,11 @@
       margin: 0;
       color: $white;
       font-family: $font__montserrat;
+      font-weight: 700;
       font-size: 56px;
       font-size: 3.5rem;
+      text-transform: uppercase;
+      letter-spacing: -1px;
     }
 
     &-subtitle {
@@ -73,6 +76,92 @@
 
     &-btn {
       margin: 0 auto;
+      padding: 8px 3rem;
+      color: $white;
+      font-family: $font__montserrat;
+      text-transform: uppercase;
+      background: rgba($white, 0.2);
+      border: 2px solid $white;
+      border-radius: 8%/50%;
+      box-shadow: none;
+    }
+  }
+
+  &__subsection {
+    display: grid;
+    grid-template-areas: "img" "content";
+    grid-template-columns: 1fr;
+    @extend %section-wrapper;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: $white;
+
+    @include mq(md) {
+      margin-top: 8rem;
+      margin-bottom: 8rem;
+    }
+
+    &-content {
+      grid-area: content;
+      padding: 4rem;
+    }
+
+    &-img {
+      display: block;
+      grid-area: img;
+      width: 100%;
+
+      @include mq(md) {
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    &-title {
+      position: relative;
+      margin: 0 0 2rem;
+      color: $green-dark;
+      font-family: $font__sanchez;
+      @include fs-8;
+
+      &::before {
+        content: "";
+        position: absolute;
+        top: -2rem;
+        right: 0;
+        bottom: -2rem;
+        left: -2rem;
+        border-top: 1px solid $blue;
+        border-left: 1px solid $blue;
+      }
+    }
+
+    p {
+      color: $gray;
+
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  &__purpose {
+    @include mq(md) {
+      grid-template-columns: 1fr 2fr;
+      grid-template-areas: "img content";
+    }
+  }
+
+  &__use {
+    @include mq(md) {
+      grid-template-columns: 2fr 1fr;
+      grid-template-areas: "content img";
+    }
+
+    .home__subsection-img {
+      @include mq(md) {
+        object-position: 75% center;
+      }
     }
   }
 }
