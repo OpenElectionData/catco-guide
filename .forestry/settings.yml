@@ -4,15 +4,21 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: _data/menus.yml
-  label: Menus
+- type: directory
+  path: ''
+  label: 'Guide: English'
+  create: documents
+  match: "**/*.en.md"
+  new_doc_ext: ".en.md"
 - type: directory
   path: ''
   label: 'Guide: Spanish'
   create: documents
   match: "**/*.es.md"
-  new_doc_ext: es.md
+  new_doc_ext: ".es.md"
+- type: document
+  path: _data/menus.yml
+  label: Menus
 - type: jekyll-pages
   label: Pages
   create: all
