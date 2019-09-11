@@ -5,13 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: _guide
   label: 'Guide: English'
   create: documents
   match: "**/*.en.md"
   new_doc_ext: en.md
 - type: directory
-  path: ''
+  path: _guide
   label: 'Guide: Spanish'
   create: documents
   match: "**/*.es.md"
