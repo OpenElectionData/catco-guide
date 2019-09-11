@@ -1,13 +1,11 @@
 ---
 sidebar:
-- about.md
-- acronyms.md
-- example.md
-- introduction.md
-- what-to-accomplish.md
+  - about.md
+  - acronyms.md
+  - example.md
 
 header:
-- id: download
-  title: Download Guide
-  url: /
-  class: btn btn-download
+  - id: download
+    title: Download Guide
+    url: /
+    class: btn btn-download

@@ -15,10 +15,25 @@ facebook: "National.Democratic.Institute"
 twitter: ndi
 instagram: ndidemocracy
 
-
 # Theme Settings
 search_enabled: true
 permalink: pretty
+
+# Collections
+collections:
+  posts:
+    output: false
+  guide:
+    title: Guide
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "guide"
+    values:
+      layout: page
+      permalink: "/:slug/"
 
 # Translation Settings
 languages: ["en", "es"]
@@ -38,7 +53,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-polyglot
   - jekyll-figure
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
