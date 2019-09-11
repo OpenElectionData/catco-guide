@@ -9,6 +9,6 @@ fields:
     use_select: true
     source:
       type: pages
-      section: jekyll-pages
+      section: guide-english
 pages:
 - _data/menus.yml
