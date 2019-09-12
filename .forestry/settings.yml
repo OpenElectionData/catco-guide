@@ -10,12 +10,16 @@ sections:
   create: documents
   match: "*.en.md"
   new_doc_ext: en.md
+  templates:
+  - guide-pages
 - type: directory
   path: _guide
   label: 'Guide: Spanish'
   create: documents
   match: "**/*.es.md"
   new_doc_ext: es.md
+  templates:
+  - guide-pages
 - type: document
   path: _data/menus.yml
   label: Menus
