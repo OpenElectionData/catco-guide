@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 1. Introduction
 subtitle: And Summary
 lang: en

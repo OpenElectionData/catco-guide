@@ -60,17 +60,18 @@
       </main>
       <footer class="page__footer">
         {% if site.data.menus.sidebar contains page.path %}
+        {%- assign pages = site.pages | concat: site.guide -%}
         <ul class="pagination">
           {% for item in site.data.menus.sidebar %}
           {% if item == page.path %}
           {% unless forloop.first %}
           {% assign prev = forloop.index0 | minus: 1 %}
-          {%- assign navitem = site.pages | where: "path", site.data.menus.sidebar[prev] | first -%}
+          {%- assign navitem = pages | where: "path", site.data.menus.sidebar[prev] | first -%}
           {% include pagination.html item=navitem class="prev" %}
           {% endunless %}
           {% unless forloop.last %}
           {% assign next = forloop.index0 | plus: 1 %}
-          {%- assign navitem = site.pages | where: "path", site.data.menus.sidebar[next] | first -%}
+          {%- assign navitem = pages | where: "path", site.data.menus.sidebar[next] | first -%}
           {% include pagination.html item=navitem class="next" %}
           {% endunless %}
           {% endif %}

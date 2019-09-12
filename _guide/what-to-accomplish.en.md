@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 2. What Are You Trying To Accomplish?
 subtitle: Setting Goals, Strategies, and Tactics
 lang: en
@@ -31,7 +30,7 @@ Brainstorm communications goals by yourself or with your team by thinking about 
 - Do we want to change laws or policies?
 - What do people need to understand or be educated about?
 
-{% textarea label="List your Goals below" id="goals" %}
+{% textarea label="List your Goals below" id="goals" size="large" %}
 
 You may have brainstormed a long list of things you hope to accomplish, but it’s important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn’t mean you have to give up on them forever - you can always turn your attention to them at a later date.
 
@@ -57,11 +56,11 @@ By defining the time-specific aspect of your goals, you’ll get a better sense 
 
 Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
 
-{% textarea label="1" id="goals1" %}
-{% textarea label="2" id="goals2" %}
-{% textarea label="3" id="goals3" %}
-{% textarea label="4" id="goals4" %}
-{% textarea label="5" id="goals5" %}
+{% textarea label="1" id="goals1" size="small" %}
+{% textarea label="2" id="goals2" size="small" %}
+{% textarea label="3" id="goals3" size="small" %}
+{% textarea label="4" id="goals4" size="small" %}
+{% textarea label="5" id="goals5" size="small" %}
 
 Your communications strategies and tactics will flow directly from your goals. _Try not to get distracted by tasks that do not ultimately help you achieve your goals._
 
