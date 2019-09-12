@@ -129,3 +129,15 @@
     background-color: darken($green, 20%);
   }
 }
+
+.btn--pdf {
+  color: $white;
+  background-color: $blue;
+  box-shadow: none;
+
+  &:hover,
+  &:focus {
+    color: $white;
+    background-color: darken($blue, 20%);
+  }
+}

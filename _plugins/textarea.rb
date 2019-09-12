@@ -22,6 +22,7 @@ module Jekyll
       "<div class=\"form-default\">
         <label for=\"#{@id}\">#{@label}:</label>
         <textarea class=\"form-textarea form-textarea--#{@size}\" name=\"#{@id}\" id=\"#{@id}\" rows=\"#{@rows}\"></textarea>
+        <button class=\"btn btn--pdf\" data-id=\"#{@id}\">Save as PDF</button> 
       </div>"
     end
 
