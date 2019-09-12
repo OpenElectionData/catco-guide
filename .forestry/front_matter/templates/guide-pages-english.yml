@@ -1,4 +1,11 @@
 ---
 label: 'Guide Pages: English'
 hide_body: true
-fields: []
+fields:
+- name: lang
+  type: text
+  config:
+    required: false
+  label: Language
+  hidden: true
+  default: en
