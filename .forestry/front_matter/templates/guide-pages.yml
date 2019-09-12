@@ -1,0 +1,29 @@
+---
+label: Guide Pages
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: lang
+  label: lang
+- type: field_group
+  name: image
+  label: image
+  fields:
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: caption
+    label: caption
+- type: text
+  name: permalink
+  label: permalink

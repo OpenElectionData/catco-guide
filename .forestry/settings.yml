@@ -9,7 +9,7 @@ sections:
   label: 'Guide: English'
   create: documents
   match: "*.en.md"
-  new_doc_ext: ".en.md"
+  new_doc_ext: en.md
 - type: directory
   path: _guide
   label: 'Guide: Spanish'
