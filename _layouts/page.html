@@ -4,7 +4,7 @@ layout: default
 
 {%- if page.image.url -%}
 <figure class="page__img">
-  <img src="https://placekitten.com/300/400" />
+  <img src="{{ page.image.url }}" alt="" title="{{ page.image.caption }}" />
   {%- if page.image.caption -%}
   <figcaption class="caption">{{ page.image.caption }}</figcaption>
   {%- endif -%}
