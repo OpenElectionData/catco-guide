@@ -1,5 +1,5 @@
 ---
-label: 'Guide Pages: Meta'
+label: Guide Pages
 hide_body: false
 fields:
 - type: text
@@ -8,6 +8,20 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+- name: lang
+  type: select
+  default: en
+  config:
+    required: true
+    options:
+    - en
+    - es
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
 - type: field_group
   name: image
   label: Featured Image
