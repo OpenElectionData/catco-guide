@@ -33,7 +33,10 @@
     </defs>
   </svg>
   <header class="home__header">
-    <a href="https://ndi.org" class="home__logo">NDI</a>
+    <a href="https://ndi.org" class="home__logo">
+      <img src="{{ "/assets/images/ndi_logo_green.svg" | absolute_url }}" alt="National
+        Democratic Institute" title="Visit the NDI website">
+    </a>
     <button class="js-main-nav-trigger home__nav-trigger btn btn-outline" type="button"
       data-text-toggle="Hide">Menu</button>
     <div class="home__nav js-main-nav">
@@ -50,9 +53,17 @@
   </header>
   <main>
     <section class="home__intro">
+      <div class="home__intro-bg">
+        <picture>
+          <source srcset="{{ "/assets/images/ukraine-protest-TS.jpg" | absolute_url }}" media="(max-width: 800px)">
+          <source srcset="{{ "/assets/images/ukraine-protest-TS@1,5x.jpg" | absolute_url }}" media="(max-width: 1200px)">
+          <source srcset="{{ "/assets/images/ukraine-protest-TS@2x.jpg" | absolute_url }}" media="(max-width: 1600px)">
+          <img src="{{ "/assets/images/ukraine-protest-TS@3x.jpg" | absolute_url }}" alt="Protest in Ukraine">
+        </picture>
+      </div>
       <h1 class="home__intro-title">{{ site.title_full_br }}</h1>
       <div class="home__intro-subtitle">{{ site.subtitle }}</div>
-      <a href="{{ site.url }}" class="btn home__intro-btn">Start Reading</a>
+      <a href="/introduction" class="btn home__intro-btn">Start Reading</a>
     </section>
     <section class="home__subsection home__purpose">
       <img src="{{ "/assets/images/BERSIH_2.jpg" | absolute_url }}" class="home__subsection-img" alt="" />
@@ -71,6 +82,6 @@
       </div>
     </section>
   </main>
-  {% include footer.html class="main-footer" %}
+  {% include footer.html class="main-footer home__footer" %}
 </body>
 </html>
