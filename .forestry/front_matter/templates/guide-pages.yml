@@ -3,27 +3,21 @@ label: Guide Pages
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: subtitle
-  label: subtitle
-- type: text
-  name: lang
-  label: lang
+  label: Subtitle
 - type: field_group
   name: image
-  label: image
+  label: Featured Image
   fields:
-  - type: text
-    name: url
-    label: url
+  - name: url
+    type: file
+    config:
+      maxSize: 250
+    label: Featured Image
+    description: Select or upload the featured image for this page in the guide.
   - type: text
     name: caption
-    label: caption
-- type: text
-  name: permalink
-  label: permalink
+    label: Image Caption
