@@ -1,7 +1,9 @@
+{%- assign pages = site.pages | concat: site.guide -%}
+
 <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
     {% for node in site.data.menus.sidebar %}
-      {%- assign item = site.pages | where: "path", node | first -%}
+      {%- assign item = pages | where: "path", node | first -%}
       <li class="navigation-list-item{% if page.url == item.url %} active{% endif %}">
         <a href="{{ item.url | relative_url }}" class="navigation-list-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
         {% if item.subnav.size > 0 and page.url == item.url %}

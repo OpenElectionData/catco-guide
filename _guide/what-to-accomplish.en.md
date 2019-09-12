@@ -7,10 +7,6 @@ image:
   url: https://placekitten.com/300/400
   caption: CATCO is better with cats.
 permalink: "/what-to-accomplish/"
-menu:
-  sidebar:
-    weight: 5
-    title: Chapter 2
 ---
 
 Once you’re deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it’s important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you’ll be working toward as a group.
@@ -52,6 +48,7 @@ Vague goals are hard to work toward, or to know when you’ve achieved them. Avo
 | Build our credibility   | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
 | Raise awareness         | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election.                                   |
 | Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms.                                                                                                       |
+
 {: .table--cols-equal}
 
 By defining the time-specific aspect of your goals, you’ll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it’s important to be clear with your team and your leadership of what you’re hoping to accomplish when. You want to especially be sure you’re working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you’re making steady progress on it.
