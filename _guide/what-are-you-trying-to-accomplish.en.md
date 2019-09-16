@@ -54,7 +54,7 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 ### Tactics
 
-{% textarea label="What are the individual actions you might take to enact each strategy?" id="Tactics" size="large" %}
+{% textarea label="What are the individual actions you might take to enact each strategy listed?" id="Tactics" size="large" %}
 
 **Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.**
 
