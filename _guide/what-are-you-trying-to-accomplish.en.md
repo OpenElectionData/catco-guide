@@ -45,7 +45,7 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 {% textarea label="List Your Target Audiences" id="List Your Target Audiences" size="large" %}
 
-{% textarea label="List the Strategies for Each Target Audience" id="List the Strategies for Each Target Audience" size="large" %}
+{% textarea label="List the Strategies for Reaching Each Target Audience" id="List the Strategies for Each Target Audience" size="large" %}
 
 {% textarea label="List Your the Tactics You Will use to Engage Each Target Audience" id="List Your the Tactics You Will use to Engage Each Target Audience" size="large" %}
 
