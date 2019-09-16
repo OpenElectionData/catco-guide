@@ -43,13 +43,4 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 **Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
 You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
 
-| *Target Audiences* | *Strategies* | *Tactics* |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
-| ------------------ | ------------ | --------- |
+
