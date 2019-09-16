@@ -53,8 +53,6 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 **For example, let's say you've gotten this far but none of your strategies involve reaching the audience of the political party in power - even though they will be an important group to accept the legitimacy of the PVT findings. Revisit your goals, strategies and tactics to think about how you'll talk to them and what you hope to accomplish when you do.**
 
-{% textarea label="table" id="target audiences" size="large" %}
-
 ## About Your Foes
 
 By definition, your foes will disagree with your goals, and you shouldn't spend time trying to convince them otherwise. Bu that doesn't mean you can ignore them.
