@@ -16,7 +16,7 @@ Your "friends" are the 5-10 percent of the public that already support your caus
 
 Your "foes" are the 5-10 percent of the public that will always disagree with your cause, no matter what you say or how you try to convince them. It's not worth spending time trying to convince them otherwise, but you will want to limit the amount of negative influence they have on you and your issue.
 
-(The percentage of the population you can trust can count as friends or foes will vary - sometimes significantly- depending on the country, political context, and issue. This chart is meant to be a starting point for mapping out your audiences.)
+(The percentage of the population you can trust can count as friends or foes will vary - sometimes significantly - depending on the country, political context, and issue. This chart is meant to be a starting point for mapping out your audiences.)
 
 The biggest space in the middle, usually 80-90 percent of the public, are "strangers." They don't know about your organization or issue and so haven't formed an opinion one way or the other.  these people can be further divided into "influentials" - the media, political operatives and leaders, government officials, civic activists, academics, and business and community leaders who help other form opinions - and the general public.
 
@@ -32,4 +32,10 @@ To help you decide which segments of the general public to prioritize, it can be
 
 Let's continue with our example to see how this works:
 
-By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.   
+By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.
+
+| Target Audiences | Strategies
+| --- | --- 
+| Cell | Cell 
+| Cell | Cell 
+| Cell | Cell 
