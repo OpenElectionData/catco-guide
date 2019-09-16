@@ -35,12 +35,10 @@ Let's continue with our example to see how this works:
 By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.
 
 | *Target Audiences* | *Strategies* | 
-| :------------------------- | :--------- | 
-| Journalists who write about elections<br>Members of the party in power<br>Members of the opposition party/parties<br> | **Strategy 1:** Use digital advertising to generate web trafiic and social reach. |
+| :----------------- | :--------- | 
+| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties<br> | **Strategy 1:** Use digital advertising to generate web trafiic and social reach. |
 | Young men ages 16-26 | **Strategy 2:** Have a celebrity or influential person share our content on social media and direct people to the website. |
 | Exisiting members (aka our "friends") and their social networks | **Strategy 3:** Use our email list to encourage peer-to-peer social sharing. |
 
 **Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
 You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
-
-
