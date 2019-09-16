@@ -43,11 +43,11 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 **Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
 You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
 
-{% textarea label="Identity Your Audience" id="List Your Target Audiences" size="large" %}
+{% textarea label="List Your Target Audiences" id="List Your Target Audiences" size="large" %}
 
-{% textarea label="Identity Your Audience" id="List the Strategies for Each Target Audience" size="large" %}
+{% textarea label="List the Strategies for Each Target Audience" id="List the Strategies for Each Target Audience" size="large" %}
 
-{% textarea label="Identity Your Audience" id="List Your the Tactics You Will use to Engage Each Target Audience" size="large" %}
+{% textarea label="List Your the Tactics You Will use to Engage Each Target Audience" id="List Your the Tactics You Will use to Engage Each Target Audience" size="large" %}
 
 **Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.**
 
