@@ -34,3 +34,8 @@ Let's continue with our example to see how this works:
 
 By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.
 
+| Target Audiences | Strategies | Header |
+| --- | --- | --- |
+| Journalists who write about elections | Strategy 1: Use digital advertising to generate web trafiic and social reach. | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
