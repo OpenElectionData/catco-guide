@@ -43,6 +43,11 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 **Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
 You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
 
+{% textarea label="Identity Your Audience" id="List Your Target Audiences" size="large" %}
+
+{% textarea label="Identity Your Audience" id="List the Strategies for Each Target Audience" size="large" %}
+
+{% textarea label="Identity Your Audience" id="List Your the Tactics You Will use to Engage Each Target Audience" size="large" %}
 
 **Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.**
 
@@ -52,8 +57,8 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 ## About Your Foes
 
-By definition, your foes will disagree with your goals, and you shouldn't spend time trying to convince them otherwise. Bu that doesn't mean you can ignore them. 
+By definition, your foes will disagree with your goals, and you shouldn't spend time trying to convince them otherwise. Bu that doesn't mean you can ignore them.
 
-Spend time thinking about who exactly your foes are. Maybe it's the readers of a particular publication or viewers of a specific television station. Maybe it's the leaders of the party in power. Maybe it's the leaders of the opposition party or parties. While you may not be able to change their minds and bring them on board with your goals, you will need to limit their influence and the damage they can do to you and your own goals.  
+Spend time thinking about who exactly your foes are. Maybe it's the readers of a particular publication or viewers of a specific television station. Maybe it's the leaders of the party in power. Maybe it's the leaders of the opposition party or parties. While you may not be able to change their minds and bring them on board with your goals, you will need to limit their influence and the damage they can do to you and your own goals.
 
 Limiting the influence of foes may need to be its own goal, with strategies, tactics, resources, and audiences identified. Or you might integrate it throughout all your goals and strategies. What you decide will depend on how powerful, trusted, and pervasive your foes are. But whatever you choose, do not ignore your foes.  Assume that they will be working just as hard as you - often with significantly more resources at their disposal - to communicate with your key audiences about their goals.
