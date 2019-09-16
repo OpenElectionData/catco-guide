@@ -29,7 +29,7 @@ To help you decide which segments of the general public to prioritize, it can be
 
 {% callout title="Targeting the Right Audiences" %} "Audiences depend on the campaign," said Iryna Shvets, program manager of Civil Network OPORA, a citizen observer group in Ukraine. "We are never targeting the 'general public.'" The group may end up educating members of the general public as a side-effect of more targeted communications, but it is too broad and vast an audience to try to target in and of itself. Instead, they focus on key stakeholders and decision makers for a particular campaign or lobbying effort. For example, if they want to push for changes to law or norms to align them with international standards, they'll target Members of Parliament or international organizations that believe will support international norms for democratic elections.  {% endcallout %}
 
-## Your Turn: Identity Your Audience
+### Your Turn: Identify Your Audience
 
 Let's continue with our example to see how this works:
 
@@ -44,11 +44,11 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 **Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
 You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
 
-{% textarea label="List Your Target Audiences" id="List Your Target Audiences" size="small" %}
+### Target Audiences
 
-{% textarea label="List the Strategies for Reaching Each Target Audience" id="List the Strategies for Each Target Audience" size="large" %}
+### Strategies
 
-{% textarea label="List Your the Tactics You Will use to Engage Each Target Audience" id="List Your the Tactics You Will Use to Engage Each Target Audience" size="large" %}
+### Tactics
 
 **Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.**
 
