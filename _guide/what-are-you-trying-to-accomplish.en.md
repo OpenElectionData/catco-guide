@@ -45,7 +45,7 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 | Target Audiences | Strategies | Tactics |
 | :--- | :--- | :--- |
-|  |  |  |
+| {% textarea label="table" id="target audiences" size="large" %} | {% textarea label="table" id="Strategies" size="large" %} | {% textarea label="table" id="Tactics" size="large" %} |
 
 {: .table--cols-equal}
 
@@ -63,4 +63,4 @@ By definition, your foes will disagree with your goals, and you shouldn't spend 
 
 Spend time thinking about who exactly your foes are. Maybe it's the readers of a particular publication or viewers of a specific television station. Maybe it's the leaders of the party in power. Maybe it's the leaders of the opposition party or parties. While you may not be able to change their minds and bring them on board with your goals, you will need to limit their influence and the damage they can do to you and your own goals.  
 
-Limiting the influence of foes may need to be its own goal, with strategies, tactics, resources, and audiences identified. Or you might integrate it throughout all your goals and strategies. What you decide will depend on how powerful, trusted, and pervasive your foes are. But whatever you choose, do not ignore your foes.  Assume that they will be working just as hard as you - often with significantly more resources at their disposal - to communicate with your key audiences about their goals. 
+Limiting the influence of foes may need to be its own goal, with strategies, tactics, resources, and audiences identified. Or you might integrate it throughout all your goals and strategies. What you decide will depend on how powerful, trusted, and pervasive your foes are. But whatever you choose, do not ignore your foes.  Assume that they will be working just as hard as you - often with significantly more resources at their disposal - to communicate with your key audiences about their goals.
