@@ -36,6 +36,6 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 
 | Target Audiences | Strategies
 | --- | --- 
-| Cell | Cell 
-| Cell | Cell 
-| Cell | Cell 
+| Journalists who write about elections | Strategy 1: Use digital advertising to generate web traffic and social reach.
+| Young men ages 16-26 | Srategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. 
+| Exisisting members (aka our "friedns") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing.  
