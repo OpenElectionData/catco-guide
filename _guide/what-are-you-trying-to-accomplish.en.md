@@ -44,7 +44,7 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 **Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
 You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
 
-{% textarea label="List Your Target Audiences" id="List Your Target Audiences" size="large" %}
+{% textarea label="List Your Target Audiences" id="List Your Target Audiences" size="small" %}
 
 {% textarea label="List the Strategies for Reaching Each Target Audience" id="List the Strategies for Each Target Audience" size="large" %}
 
@@ -56,7 +56,7 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 ## About Your Foes
 
-By definition, your foes will disagree with your goals, and you shouldn't spend time trying to convince them otherwise. Bu that doesn't mean you can ignore them.
+By definition, your foes will disagree with your goals, and you shouldn't spend time trying to convince them otherwise. But that doesn't mean you can ignore them.
 
 Spend time thinking about who exactly your foes are. Maybe it's the readers of a particular publication or viewers of a specific television station. Maybe it's the leaders of the party in power. Maybe it's the leaders of the opposition party or parties. While you may not be able to change their minds and bring them on board with your goals, you will need to limit their influence and the damage they can do to you and your own goals.
 
