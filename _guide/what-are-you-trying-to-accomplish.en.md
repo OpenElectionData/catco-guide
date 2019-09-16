@@ -46,11 +46,6 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 | Target Audiences | Strategies | Tactics |
 | :--- | :--- | :--- |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 
 {: .table--cols-equal}
