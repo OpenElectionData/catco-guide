@@ -46,6 +46,8 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 ### Target Audiences
 
+{% textarea label="List Audiences " id="a_unique_id" size="large" %}
+
 ### Strategies
 
 ### Tactics
