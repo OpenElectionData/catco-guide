@@ -36,7 +36,7 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 
 | *Target Audiences* | *Strategies* | 
 | :------------------ | :------------ | 
-| <ul> <li> Journalists who write about elections </li> <br> <li> Members of the party in power </li> <br> <li> Members of the opposition party/parties </li> | **Strategy 1:** Use digital advertising to generate web trafiic and social reach. |
+| <ul> <li> Journalists who write about elections </li> <br> <li> Members of the party in power </li> <br> <li> Members of the opposition party/parties </li> </ul> | **Strategy 1:** Use digital advertising to generate web trafiic and social reach. |
 | Young men ages 16-26 | **Strategy 2:** Have a celebrity or influential person share our content on social media and direct people to the website. |
 | Exisiting members (aka our "friends") and their social networks | **Strategy 3:** Use our email list to encourage peer-to-peer social sharing. |
 
