@@ -28,6 +28,8 @@ To help you decide which segments of the general public to prioritize, it can be
 
 {% callout title="Targeting the Right Audiences" %} "Audiences depend on the campaign," said Iryna Shvets, program manager of Civil Network OPORA, a citizen observer group in Ukraine. "We are never targeting the 'general public.'" The group may end up educating members of the general public as a side-effect of more targeted communications, but it is too broad and vast an audience to try to target in and of itself. Instead, they focus on key stakeholders and decision makers for a particular campaign or lobbying effort. For example, if they want to push for changes to law or norms to align them with international standards, they'll target Members of Parliament or international organizations that believe will support international norms for democratic elections.  {% endcallout %}
 
-## Rationale
+## Your Turn: Identity Your Audience
 
-By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. 
+Let's continue with our example to see how this works:
+
+By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.   
