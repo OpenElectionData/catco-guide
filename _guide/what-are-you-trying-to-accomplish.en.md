@@ -36,10 +36,9 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 
 | Target Audiences | Strategies |
 | :--- | :--- |
-| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties<br> | **Strategy 1:** Use digital advertising to generate web trafiic and social reach. |
-| Young men ages 16-26 | **Strategy 2:** Have a celebrity or influential person share our content on social media and direct people to the website. |
-| Exisiting members (aka our "friends") and their social networks | **Strategy 3:** Use our email list to encourage peer-to-peer social sharing. |
-
+| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties<br> | Strategy 1: Use digital advertising to generate web trafiic and social reach. |
+| Young men ages 16-26 | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
+| Exisiting members (aka our "friends") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing. |
 
 **Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
 You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
@@ -48,12 +47,18 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 | :--- | :--- | :--- |
 |  |  |  |
 
-
 {: .table--cols-equal}
 
 \[some how edit to get text boxes and have it work in editor\]
 
-**Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.** 
+**Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.**
 
 **For example, let's say you've gotten this far but none of your strategies involve reaching the audience of the political party in power - even though they will be an important group to accept the legitimacy of the PVT findings. Revisit your goals, strategies and tactics to think about how you'll talk to them and what you hope to accomplish when you do.**
 
+## About Your Foes
+
+By definition, your foes will disagree with your goals, and you shouldn't spend time trying to convince them otherwise. Bu that doesn't mean you can ignore them. 
+
+Spend time thinking about who, exactly, your foes are. Maybe it's the readers of a particular publication or viewers of a specific television station. Maybe it's the leaders of the party in power. Maybe it's the leaders of the opposition party or parties. While you may not be able to change their minds and bring them on board with your goals, you will need to limit their influence and the damage they can do to you and your own goals.  
+
+Limiting the influence of foes may need to be its own goal, with strategies, tactics, resources, and audiences identified. Or you might integrate it throughout all your goals and strategies. What you decide will depend on how powerful, trusted, and pervasive your foes are. But whatever you choose, do not ignore your foes.  Assume that they will be working just as hard as you - often with significantly more resources at their disposal - to communicate with your key audiences about their goals. 
