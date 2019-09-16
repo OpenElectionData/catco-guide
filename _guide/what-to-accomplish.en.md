@@ -6,13 +6,13 @@ image:
   url: https://placekitten.com/300/400
   caption: CATCO is better with cats.
 permalink: "/what-to-accomplish/"
----
 
+---
 Once you’re deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it’s important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you’ll be working toward as a group.
 
 By setting clear, well-defined goals, you’ll be better able to prioritize the tasks that help you reach them, while ignoring those that get in the way. Without clear goals from the start, you won’t know if you’ve succeeded by the end, or if you need to change course mid-stream.
 
-You have likely already done some form of goal-setting for your organization as a whole. Communications goals can be a part of a larger organizational goal, or they can stand alone as their own goal. For example, your larger organizational goal may be to conduct a verification of the voter list and use the findings to advocate for reforms in voter registration processes. To achieve that goal, you would need a communications goal of raising awareness of the findings of the voter list verification with the media, activists, and the public to mobilize support for influencing decisionmakers. Your communications goals should always help you advance and achieve your organizational goals.
+You have likely already done some form of goal-setting for your organization as a whole. Communications goals can be a part of a larger organizational goal, or they can stand alone as their own goal. For example, your larger organizational goal may be to conduct a verification of the voter list and use the findings to advocate for reforms in voter registration processes. To achieve that goal, you would need a communications goal of raising awareness of the findings of the voter list verification with the media, activists, and the public to mobilize support for influencing decision makers. Your communications goals should always help you advance and achieve your organizational goals.
 
 You also want to be sure your goals are responding to the challenges your organization and your country are facing. If you have not already done a landscape analysis, organizational risk assessment, and SWOT (strengths, weaknesses, opportunities, and threats) analysis of the specific threats or challenges facing you and your political environment, it’s a good idea to do these before setting your goals. A risk assessment is especially important if you are operating in a closed or closing space. As you set your goals, be sure to consider what risks might be heightened as a result of your work (or your changing political environment) and take steps to mitigate, avoid, or accept those risks. Keep in mind that these risks can be very diverse in nature (physical, digital, emotional, legal, etc.), so be sure to think holistically as you consider them. A great resource to start thinking about your general digital risk is [Security Planner](https://securityplanner.org/) by Jigsaw. Those in higher risk organizations in closed or closing spaces should also [seek out guidance](https://securityplanner.org/#/tool/information-for-high-risk-users) from professional security trainers or auditors.
 
@@ -20,15 +20,15 @@ You also want to be sure your goals are responding to the challenges your organi
 
 Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
 
-- What do we want to change or improve about the country’s democratic or electoral processes?
-- Do we want to raise awareness? If so, what does that look like?
-- Do we want to expand our network of volunteers? If so, for what purpose?
-- Do we want to enhance our credibility?
-- Do we want to question the credibility of others?
-- Do we want people to change their behavior or perceptions?
-- Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?
-- Do we want to change laws or policies?
-- What do people need to understand or be educated about?
+* What do we want to change or improve about the country’s democratic or electoral processes?
+* Do we want to raise awareness? If so, what does that look like?
+* Do we want to expand our network of volunteers? If so, for what purpose?
+* Do we want to enhance our credibility?
+* Do we want to question the credibility of others?
+* Do we want people to change their behavior or perceptions?
+* Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?
+* Do we want to change laws or policies?
+* What do people need to understand or be educated about?
 
 {% textarea label="List your Goals below" id="goals" size="large" %}
 
@@ -42,11 +42,11 @@ Don’t forget to include organizational development in your goals. In Nigeria, 
 
 Vague goals are hard to work toward, or to know when you’ve achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
 
-| Vague Goals             | SMART Goals                                                                                                                                                                                                          |
-| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Build our credibility   | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
-| Raise awareness         | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election.                                   |
-| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms.                                                                                                       |
+| Vague Goals | SMART Goals |
+| :--- | :--- |
+| Build our credibility | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
+| Raise awareness | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election. |
+| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms. |
 
 {: .table--cols-equal}
 
@@ -84,11 +84,11 @@ To illustrate this, let’s build out one of the example goals above with strate
 
 **SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
 
-| Strategies                                                                                                                   | Tactics                                                                                                                                                                                                                                                                                                                                               | Resources Needed                                                                                                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Strategy 1: Use digital advertising to generate web traffic and social reach.                                                | Raise USD 10,000 for an ads budget.<br /><br />Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences.<br /><br />Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | \$10,000<br /><br />10 hours/week of dedicated staff time                                                                                                                                                                |
-| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach.<br /><br />Reach out to that person and their team.<br /><br />Provide them with content and instructions on how to help on an ongoing basis.                                                     | Two weeks of staff time to identify the right celebrity or other person and how to reach them.<br /><br />Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
-| Strategy 3: Use our email list to encourage peer-to-peer social sharing.                                                     | Write blog posts twice a week and share them on social media.<br /><br />Create graphics and videos for social media that people will want to share.<br /><br />Post once a day.<br /><br />Email social content to our list and ask them to share the posts with their networks.                                                                     | Two hours/day of staff time to create content and email our list.                                                                                                                                                        |
+| Strategies | Tactics | Resources Needed |
+| --- | --- | --- |
+| Strategy 1: Use digital advertising to generate web traffic and social reach. | Raise USD 10,000 for an ads budget.<br /><br />Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences.<br /><br />Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | $10,000<br /><br />10 hours/week of dedicated staff time |
+| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach.<br /><br />Reach out to that person and their team.<br /><br />Provide them with content and instructions on how to help on an ongoing basis. | Two weeks of staff time to identify the right celebrity or other person and how to reach them.<br /><br />Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
+| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br /><br />Create graphics and videos for social media that people will want to share.<br /><br />Post once a day.<br /><br />Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |
 
 {: .table--cols-equal}
 
