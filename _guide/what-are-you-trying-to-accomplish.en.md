@@ -56,3 +56,4 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 **Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.** 
 
 **For example, let's say you've gotten this far but none of your strategies involve reaching the audience of the political party in power - even though they will be an important group to accept the legitimacy of the PVT findings. Revisit your goals, strategies and tactics to think about how you'll talk to them and what you hope to accomplish when you do.**
+
