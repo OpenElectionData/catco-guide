@@ -46,15 +46,15 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 ### Target Audiences
 
-{% textarea label="Who are the groups of people you want to reach out to? " id="Target Audience" size="large" %}
+{% textarea label="Who are the groups of people you want to reach out to?" id="Target Audience" size="large" %}
 
 ### Strategies
 
-{% textarea label="What strategy will you use to reach out to each target audience?   " id="Strategies" size="large" %}
+{% textarea label="What strategy will you use to reach out to each target audience?  " id="Strategies" size="large" %}
 
 ### Tactics
 
-{% textarea label="What are the individual actions you might take to enact each strategy? " id="Tactics" size="large" %}
+{% textarea label="What are the individual actions you might take to enact each strategy?" id="Tactics" size="large" %}
 
 **Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.**
 
