@@ -41,7 +41,7 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 | Young men ages 16-26 | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
 | Exisiting members (aka our "friends") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing. |
 
-**Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why? You may need to change or refine your tactics as you get a clearer picture of who your audience is.** 
+**Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why? You may need to change or refine your tactics as you get a clearer picture of who your audience is.**
 
 ### Target Audiences
 
@@ -77,7 +77,8 @@ By now, you should have a list of audiences you plan to reach. To reach them eff
 
 Here are three questions you’ll want to research about all your target audiences. The answers to these questions will help you determine effective messages, messengers, and platforms later on.
 
-	1. ***Where are they?*** This refers to where they are both geographically and online. If your influencers are all in the capital, it doesn’t make sense to buy ads in newspapers outside of the capital. If you’re trying to reach young men ages 16-26 and they are all on Facebook but not many on Twitter, don’t invest time and resources into Twitter. 
-    2. ***What are the main ways they consume information?*** Do they get it online? In print? On the radio? Are there specific websites, platforms, services, publications, TV shows, or people they trust? If your key audience listens to the same radio program at 3pm every day, you may want to buy an ad during that program. You also may not want to schedule your own event for that time. 
-	3. ***Who influences them?*** Who are the trusted messengers for your audiences? This could be a politician, celebrity, academic, journalist, or a member of their family or peer group. By identifying people who are already reaching your target audience, you may avoid having to build that audience from scratch. Think expansively and creatively here. The person that influences your target audience may not be well known to you.
- 
+1\. **Where are they?** This refers to where they are both geographically and online. If your influencers are all in the capital, it doesn’t make sense to buy ads in newspapers outside of the capital. If you’re trying to reach young men ages 16-26 and they are all on Facebook but not many on Twitter, don’t invest time and resources into Twitter. 
+
+2\. **What are the main ways they consume information?** Do they get it online? In print? On the radio? Are there specific websites, platforms, services, publications, TV shows, or people they trust? If your key audience listens to the same radio program at 3pm every day, you may want to buy an ad during that program. You also may not want to schedule your own event for that time. 
+
+3\. **Who influences them?** Who are the trusted messengers for your audiences? This could be a politician, celebrity, academic, journalist, or a member of their family or peer group. By identifying people who are already reaching your target audience, you may avoid having to build that audience from scratch. Think expansively and creatively here. The person that influences your target audience may not be well known to you.
