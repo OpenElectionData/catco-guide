@@ -52,7 +52,7 @@ Vague goals are hard to work toward, or to know when you’ve achieved them. Avo
 
 By defining the time-specific aspect of your goals, you’ll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it’s important to be clear with your team and your leadership of what you’re hoping to accomplish when. You want to especially be sure you’re working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you’re making steady progress on it.
 
-## Your Turn: Setting SMART Goals
+### Your Turn: Setting SMART Goals
 
 Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
 
@@ -92,7 +92,7 @@ To illustrate this, let’s build out one of the example goals above with strate
 
 {: .table--cols-equal}
 
-## Your Turn: Identifying Strategies, Tactics, and Resources
+### Your Turn: Identifying Strategies, Tactics, and Resources
 
 Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That’s okay! Adjust your goals to reflect what you can realistically achieve.
 
