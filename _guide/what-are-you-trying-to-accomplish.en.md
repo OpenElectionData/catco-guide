@@ -41,8 +41,7 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 | Young men ages 16-26 | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
 | Exisiting members (aka our "friends") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing. |
 
-**Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why?
-You may need to change or refine your tactics as you get a clearer picture of who your audience is. Who's missing?**
+**Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why? You may need to change or refine your tactics as you get a clearer picture of who your audience is.** 
 
 ### Target Audiences
 
@@ -56,9 +55,11 @@ You may need to change or refine your tactics as you get a clearer picture of wh
 
 {% textarea label="What are the individual actions you might take to enact each strategy listed?" id="Tactics" size="small" %}
 
-**Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.**
+_Who's Missing?_
 
-**For example, let's say you've gotten this far but none of your strategies involve reaching the audience of the political party in power - even though they will be an important group to accept the legitimacy of the PVT findings. Revisit your goals, strategies and tactics to think about how you'll talk to them and what you hope to accomplish when you do.**
+Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.
+
+For example, let's say you've gotten this far but none of your strategies involve reaching the audience of the political party in power - even though they will be an important group to accept the legitimacy of the PVT findings. Revisit your goals, strategies and tactics to think about how you'll talk to them and what you hope to accomplish when yo**u do.**
 
 ## About Your Foes
 
@@ -68,4 +69,4 @@ Spend time thinking about who exactly your foes are. Maybe it's the readers of a
 
 Limiting the influence of foes may need to be its own goal, with strategies, tactics, resources, and audiences identified. Or you might integrate it throughout all your goals and strategies. What you decide will depend on how powerful, trusted, and pervasive your foes are. But whatever you choose, do not ignore your foes.  Assume that they will be working just as hard as you - often with significantly more resources at their disposal - to communicate with your key audiences about their goals.
 
-This is particularly important if your group is operating in a repressive environment and/or a country with closing political space. In these contexts you will need to dedicate significantly more time and resources to the issue of addressing and/ or mitigating the damage that foes can do to your ability to communicate effectively with your target audiences.  Authoritarian regimes use a tremendous amount of resources to suppress, discredit, or silence credible information about elections and the findings of credible observer groups. These regimes have strong influence and, in many cases, direct or indirect control over the traditional media. Online media, including social media, may also be restricted or blocked during critical times surrounding elections.  Some governments and political actors have increasingly used tools such as bots and trolls to flood citizens with disinformation and propaganda.
+This is particularly important if your group is operating in a repressive environment and/or a country with closing political space. In these contexts you will need to dedicate significantly more time and resources to the issue of addressing and/ or mitigating the damage that foes can do to your ability to communicate effectively with your target audiences.  Authoritarian regimes use a tremendous amount of resources to suppress, discredit, or silence credible information about elections and the findings of credible observer groups. These regimes have strong influence and, in many cases, direct or indirect control over the traditional media. Online media, including social media, may also be restricted or blocked during critical times surrounding elections.  Some governments and political actors have increasingly used tools such as bots and trolls to flood citizens with disinformation \[footnote TBD: Disinformation is when false information is hared with the intent of causing harm.\]  and propaganda.
