@@ -36,7 +36,6 @@ fields:
     name: caption
     label: Image Caption
 pages:
-- _guide/4-what-do-you-want-to-say.en.md
 - _guide/3-who-are-you-talking-to.md
 - _guide/what-are-you-trying-to-accomplish.en.md
 - _guide/introduction.en.md
