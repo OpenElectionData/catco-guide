@@ -16,7 +16,7 @@ You have likely already done some form of goal-setting for your organization as 
 
 You also want to be sure your goals are responding to the challenges your organization and your country are facing. If you have not already done a landscape analysis, organizational risk assessment, and SWOT (strengths, weaknesses, opportunities, and threats) analysis of the specific threats or challenges facing you and your political environment, it’s a good idea to do these before setting your goals. A risk assessment is especially important if you are operating in a closed or closing space. As you set your goals, be sure to consider what risks might be heightened as a result of your work (or your changing political environment) and take steps to mitigate, avoid, or accept those risks. Keep in mind that these risks can be very diverse in nature (physical, digital, emotional, legal, etc.), so be sure to think holistically as you consider them. A great resource to start thinking about your general digital risk is [Security Planner](https://securityplanner.org/) by Jigsaw. Those in higher risk organizations in closed or closing spaces should also [seek out guidance](https://securityplanner.org/#/tool/information-for-high-risk-users) from professional security trainers or auditors.
 
-## Your Turn: Setting Communications Goals
+### Your Turn: Setting Communications Goals
 
 Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
 
