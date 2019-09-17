@@ -97,7 +97,21 @@ If your audiences are different from you, you may not know these answers off the
 
 When you’re done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
 
-| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there’s something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter.  | 
-| --- | --- | 
-| Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. | 
-| Young men ages 16-26| These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them.| 
+| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there’s something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
+| --- | --- |
+| Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
+| Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
+
+## Your Turn: Creating Detailed Audience Profiles
+
+**Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.** 
+
+{% textarea label="Target Audience" id="1" size="Small" %}  {% textarea label="Detailed Profile" id="1" size="Small" %}
+
+{% textarea label="Target Audience" id="2" size="Small" %} {% textarea label="Detailed Profile" id="2" size="Small" %}
+
+{% textarea label="Target Audience" id="3" size="Small" %} {% textarea label="Detailed Profile" id="3" size="Small" %}
+
+{% textarea label="Target Audience" id="4" size="Small" %} {% textarea label="Detailed Profile" id="4" size="Small" %}
+
+With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
