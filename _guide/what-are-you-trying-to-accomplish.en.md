@@ -5,6 +5,7 @@ subtitle: Identifying Your Audience
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.
@@ -108,12 +109,16 @@ When you’re done, you should have a pretty detailed picture of your target aud
 
 **Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
 
-{% textarea label="Target Audience" id="1" size="Small" %}  {% textarea label="Detailed Profile" id="1" size="Small" %}
+{% textarea label="Target Audience" id="1a" size="Small" %}  
+{% textarea label="Detailed Profile" id="1b" size="Small" %}
 
-{% textarea label="Target Audience" id="2" size="Small" %} {% textarea label="Detailed Profile" id="2" size="Small" %}
+{% textarea label="Target Audience" id="2a" size="Small" %} 
+{% textarea label="Detailed Profile" id="2b" size="Small" %}
 
-{% textarea label="Target Audience" id="3" size="Small" %} {% textarea label="Detailed Profile" id="3" size="Small" %}
+{% textarea label="Target Audience" id="3a" size="Small" %} 
+{% textarea label="Detailed Profile" id="3b" size="Small" %}
 
-{% textarea label="Target Audience" id="4" size="Small" %} {% textarea label="Detailed Profile" id="4" size="Small" %}
+{% textarea label="Target Audience" id="4a" size="Small" %} 
+{% textarea label="Detailed Profile" id="4b" size="Small" %}
 
 With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
