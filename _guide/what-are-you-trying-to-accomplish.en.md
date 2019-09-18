@@ -65,7 +65,7 @@ For example, let's say you've gotten this far but none of your strategies involv
 However, they have to come up with direct contact and outreach strategies for each audience, because they are blacklisted by the pro-government mainstream media, and therefore can’t rely on major media outlets to disseminate their messages for them. Instead, they create a different product (videos, infographics, high-level briefings) and customized message for each target audience. They begin by creating content for a broad, public audience, since that is the largest audience. Then, they transform and repurpose those general educational materials for the public with specialized messages and formats to reach their other targeted audiences, like holding private briefings with higher-level information for the international community.
 
 ![](/assets/images/A_DSC1721.jpg)  
- {% endcallout %}
+{% endcallout %}
 
 ## About Your Foes
 
@@ -108,7 +108,7 @@ When you’re done, you should have a pretty detailed picture of your target aud
 | Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
 | Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
 
-## Your Turn: Creating Detailed Audience Profiles
+### Your Turn: Creating Detailed Audience Profiles
 
 **Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
 
