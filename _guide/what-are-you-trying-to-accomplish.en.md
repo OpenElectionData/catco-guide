@@ -28,7 +28,7 @@ To help you decide which segments of the general public to prioritize, it can be
 
 {% callout title="Targeting the Right Audiences" %} "Audiences depend on the campaign," said Iryna Shvets, program manager of Civil Network OPORA, a citizen observer group in Ukraine. "We are never targeting the 'general public.'" The group may end up educating members of the general public as a side-effect of more targeted communications, but it is too broad and vast an audience to try to target in and of itself. Instead, they focus on key stakeholders and decision makers for a particular campaign or lobbying effort. For example, if they want to push for changes to law or norms to align them with international standards, they'll target Members of Parliament or international organizations that believe will support international norms for democratic elections.  {% endcallout %}
 
-## Your Turn: Identify Your Audience
+### Your Turn: Identify Your Audience
 
 Let's continue with our example to see how this works:
 
@@ -103,7 +103,6 @@ If your audiences are different from you, you may not know these answers off the
 
 When you’re done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
 
-
 ### Your Turn: Creating Detailed Audience Profiles
 
 **Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
@@ -111,13 +110,13 @@ When you’re done, you should have a pretty detailed picture of your target aud
 {% textarea label="Target Audience" id="1a" size="Small" %}  
 {% textarea label="Detailed Profile" id="1b" size="Small" %}
 
-{% textarea label="Target Audience" id="2a" size="Small" %} 
+{% textarea label="Target Audience" id="2a" size="Small" %}
 {% textarea label="Detailed Profile" id="2b" size="Small" %}
 
-{% textarea label="Target Audience" id="3a" size="Small" %} 
+{% textarea label="Target Audience" id="3a" size="Small" %}
 {% textarea label="Detailed Profile" id="3b" size="Small" %}
 
-{% textarea label="Target Audience" id="4a" size="Small" %} 
+{% textarea label="Target Audience" id="4a" size="Small" %}
 {% textarea label="Detailed Profile" id="4b" size="Small" %}
 
 With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
