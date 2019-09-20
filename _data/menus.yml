@@ -1,13 +1,1 @@
----
-sidebar:
-- about.md
-- acronyms.md
-- example.md
-- _guide/introduction.en.md
-- _guide/what-to-accomplish.en.md
-- _guide/what-are-you-trying-to-accomplish.en.md
-header:
-- id: download
-  title: Download Guide
-  url: "/"
-  class: btn btn-download
+--- {}
