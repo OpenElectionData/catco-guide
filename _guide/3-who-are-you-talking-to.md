@@ -5,7 +5,6 @@ subtitle: Identifying Your Audience
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 ## About Your Foes
