@@ -3,7 +3,7 @@ module Jekyll
 
     def initialize(tag_name, text, tokens)
        super
-       @label = text.match(/(label=\")([\w|\s]*)(")/i).captures[1]
+       @label = text.match(/(label=\")([\w|\s|(?!.,\-;:)]*)(")/i).captures[1]
        @id = text.match(/(id=\")([\w|\s]*)(")/i).captures[1]
        @size = text.match(/(size=\")([\w|\s]*)(")/i).captures[1]
 

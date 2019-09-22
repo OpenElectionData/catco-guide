@@ -1,3 +1,5 @@
-- Make menu items expandable
 - Open active menu item on that page
 - Terms & Conditions
+
+- Add ability to group textareas together for single PDF button
+- Print all responses on page at bottom

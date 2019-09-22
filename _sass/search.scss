@@ -19,6 +19,12 @@
   &.nav-open {
     display: block;
   }
+
+  .home & {
+    margin-bottom: $sp-4;
+    padding-bottom: $sp-4;
+    border-bottom: $border $border-color;
+  }
 }
 
 .search-results-wrap {
@@ -46,6 +52,14 @@
 
   @include mq(md) {
     width: 300px;
+  }
+
+  .home & {
+    margin-left: 0.5rem;
+
+    @include mq(md) {
+      width: 100%;
+    }
   }
 }
 

@@ -41,13 +41,14 @@
       data-text-toggle="Hide">Menu</button>
     <div class="home__nav js-main-nav">
       {% if site.data.menus.header.size > 0 %}
-      <ul class="list-style-none">
+      <ul class="home__nav-download">
         {% for link in site.data.menus.header %}
         <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}"><a href="{{ link.url }}"
             class="{{ link.class }}">{{ link.title }}</a></li>
         {% endfor %}
       </ul>
       {% endif %}
+      {% include search.html %}
       {% include nav.html %}
     </div>
   </header>

@@ -22,18 +22,27 @@ function toggleNav() {
     var textToggle = navTrigger.getAttribute("data-text-toggle");
 
     nav.classList.toggle("nav-open");
-    auxNav.classList.toggle("nav-open");
     navTrigger.classList.toggle("nav-open");
     search.classList.toggle("nav-open");
     navTrigger.innerText = textToggle;
     navTrigger.setAttribute("data-text-toggle", text);
     textToggle = text;
+
+    if (auxNav) {
+      auxNav.classList.toggle("nav-open");
+    }
   });
 }
 
 // Site search
 
 function initSearch() {
+  var searchInput = document.querySelector(".js-search-input");
+
+  if (!searchInput) {
+    return;
+  }
+
   var index = lunr(function() {
     this.ref("id");
     this.field("title", { boost: 20 });
@@ -156,11 +165,6 @@ function initSearch() {
   }
 }
 
-function pageFocus() {
-  var mainContent = document.querySelector(".js-main-content");
-  mainContent.focus();
-}
-
 // Print PDF
 var pdfBtns = document.querySelectorAll(".btn--pdf");
 Array.from(pdfBtns).forEach(btn => {
@@ -168,9 +172,6 @@ Array.from(pdfBtns).forEach(btn => {
     var id = this.getAttribute("data-id");
     var label = document.querySelector('label[for="' + id + '"]').innerHTML;
     var element = document.getElementById(id).value;
-
-    console.log(label);
-    console.log(element);
 
     var doc = new jsPDF();
 
@@ -184,7 +185,6 @@ Array.from(pdfBtns).forEach(btn => {
 
 function ready() {
   toggleNav();
-  pageFocus();
   if (typeof lunr !== "undefined") {
     initSearch();
   }

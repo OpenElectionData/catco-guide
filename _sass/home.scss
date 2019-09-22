@@ -26,18 +26,38 @@
   }
 
   &__nav-trigger {
+    position: relative;
     flex: 0 0 auto;
+    z-index: 20;
+
+    &.nav-open {
+      color: $blue;
+    }
   }
 
   &__nav {
     position: absolute;
+    top: 0;
     right: 0;
+    height: 100vh;
+    padding: $sp-4 $sp-6;
+    background: $white;
+    z-index: 10;
     visibility: hidden;
     opacity: 0;
+    overflow: scroll;
+    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
 
     &.nav-open {
       visibility: visible;
       opacity: 1;
+    }
+
+    &-download {
+      margin: 0 0 $sp-4;
+      padding: 0 0 $sp-4;
+      list-style: none;
+      border-bottom: $border $border-color;
     }
   }
 
