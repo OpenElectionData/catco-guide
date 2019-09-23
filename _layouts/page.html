@@ -11,10 +11,16 @@ layout: default
 </figure>
 {%- endif -%}
 
-<h1 class="fs-9">
+<h1 class="fs-9 page__title" data-title="{{ page.title }} {{ page.subtitle }}">
   {{ page.title }}
   {%- if page.subtitle -%}<span class="page__subtitle">{{ page.subtitle }}</span
   >{%- endif -%}
 </h1>
 
 {{ content }}
+
+{%- if page.uses_forms -%}
+<button class="btn btn--pdf btn--pdf-all" data-id="printAll">
+  Save All Responses
+</button>
+{%- endif -%}

@@ -140,4 +140,9 @@
     color: $white;
     background-color: darken($blue, 20%);
   }
+
+  &-all {
+    display: block;
+    margin: $sp-6 0 $sp-6 auto;
+  }
 }

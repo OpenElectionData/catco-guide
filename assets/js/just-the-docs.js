@@ -166,25 +166,75 @@ function initSearch() {
 }
 
 // Print PDF
-var pdfBtns = document.querySelectorAll(".btn--pdf");
-Array.from(pdfBtns).forEach(btn => {
-  btn.addEventListener("click", function() {
-    var id = this.getAttribute("data-id");
-    var label = document.querySelector('label[for="' + id + '"]').innerHTML;
-    var element = document.getElementById(id).value;
+function printPDF() {
+  var pdfBtns = document.querySelectorAll(".btn--pdf");
+  Array.from(pdfBtns).forEach(btn => {
+    btn.addEventListener("click", function() {
+      var doc = new jsPDF();
+      var maxLength = 170;
 
-    var doc = new jsPDF();
+      var pageTitle = document
+        .querySelector(".page__title")
+        .getAttribute("data-title");
+      var title = doc.splitTextToSize(
+        "Raising Voices - " + pageTitle,
+        maxLength
+      );
 
-    doc.text(label, 10, 10);
-    doc.text(element, 10, 20);
-    doc.save("a4.pdf");
+      doc.setFontSize(22);
+      doc.setFontStyle("bold");
+      doc.text(title, 10, 15);
+
+      var id = this.getAttribute("data-id");
+
+      if (id === "printAll") {
+        var textareas = document.querySelectorAll(
+          ".form-default .form-textarea"
+        );
+
+        // height = 10 pt * 5 lines * 1.15
+
+        Array.from(textareas).forEach(textarea => {
+          var textareaId = textarea.getAttribute("id");
+          var label = document.querySelector('label[for="' + textareaId + '"]')
+            .innerHTML;
+          var element = textarea.value;
+
+          var labelText = doc.splitTextToSize(label, maxLength);
+          var content = doc.splitTextToSize(element, maxLength);
+
+          var heightTitle = content.length * doc.internal.getLineHeight();
+
+          console.log(heightTitle);
+
+          doc.setFontSize(16);
+          doc.text(labelText, 10, 30);
+          doc.setFontStyle("normal");
+          doc.text(content, 10, 40);
+        });
+      } else {
+        var label = document.querySelector('label[for="' + id + '"]').innerHTML;
+        var element = document.getElementById(id).value;
+
+        var labelText = doc.splitTextToSize(label, maxLength);
+        var content = doc.splitTextToSize(element, maxLength);
+
+        doc.setFontSize(16);
+        doc.text(labelText, 10, 30);
+        doc.setFontStyle("normal");
+        doc.text(content, 10, 40);
+      }
+
+      doc.save("raising-voices-" + pageTitle + ".pdf");
+    });
   });
-});
+}
 
 // Document ready
 
 function ready() {
   toggleNav();
+  printPDF();
   if (typeof lunr !== "undefined") {
     initSearch();
   }
