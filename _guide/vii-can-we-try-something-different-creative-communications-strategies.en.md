@@ -1,6 +1,6 @@
 ---
 lang: en
-title: VII Can We Try Something Different? Creative Communications Strategies
+title: 7. Can We Try Something Different? Creative Communications Strategies
 subtitle: ''
 image:
   url: ''
