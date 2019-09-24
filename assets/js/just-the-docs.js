@@ -209,13 +209,12 @@ function printPDF() {
       }
 
       doc.autoTable({
-        startY: yPos,
         columns: [{ dataKey: "[0]", header: "Your Responses" }],
         body: bodyRows,
         rowPageBreak: "auto",
         tableWidth: "auto",
         showHead: "never",
-        margin: 9,
+        margin: { top: yPos, right: 9, bottom: 9, left: 9 },
         bodyStyles: { valign: "top" },
         theme: "plain",
         styles: {
