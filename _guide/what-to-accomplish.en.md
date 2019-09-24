@@ -7,9 +7,8 @@ image:
   caption: CATCO is better with cats.
 permalink: "/what-to-accomplish/"
 uses_forms: true
-uses_form: true
-
 ---
+
 Once you’re deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it’s important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you’ll be working toward as a group.
 
 By setting clear, well-defined goals, you’ll be better able to prioritize the tasks that help you reach them, while ignoring those that get in the way. Without clear goals from the start, you won’t know if you’ve succeeded by the end, or if you need to change course mid-stream.
