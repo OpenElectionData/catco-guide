@@ -7,8 +7,9 @@ image:
   caption: CATCO is better with cats.
 permalink: "/introduction/"
 uses_forms: true
----
+uses_form: false
 
+---
 Nonpartisan citizen election observation groups and other civil society organizations (CSOs) work hard every day organizing citizens, collecting and analyzing data, and making the case for democratic reforms. In more closed environments, they also must push back against infringements by authoritarian power structures. Over the past three-plus decades, the citizen-based electoral integrity movement spread to more than 100 countries and involved more than four million activists. Working to defend and advance universal and equal suffrage through a free and informed choice simultaneously reinforces democratic norms and exposes the repression and political corruption of autocrats. That’s why frustrating citizen election observation is a goal for those who seek to close democratic space and why it is important to invigorate citizen election observation to meet the challenges of closing environments...
 
 Robust and thoughtful election observation and analysis can only foster democratic progress if compelling messages reach changemakers. In an open society they include government officials and legislators, as well as media, advocacy groups, businesses, and citizens in general. In relatively closed societies, traditional media, legislators, and businesses may be controlled by autocratic power structures, making it harder to reach citizens and to effect change. To be effective, election observer groups’ reports, analyses, and narratives need to break through, grab attention, and spur action.
@@ -34,27 +35,3 @@ Each chapter introduces a new concept and component in the strategic communicati
 The guide is structured to be used as a workbook or to guide a group planning process. Practical exercises throughout each chapter will allow you and your team to immediately apply the concepts to your own strategic plan. There are hypothetical and real-world examples included in each chapter to illustrate how the concepts and ideas can be used, and case studies at the end to give you a sense of what others are doing and what is possible. By the time you reach the end of this guide, you should have a complete strategic communications plan in hand that you can begin implementing immediately.
 
 Authoritarian actors have become increasingly savvy at using communications strategies to limit debate, close spaces, and silence critics. CSOs will need to increase, amplify, and professionalize their communications approaches in order to overcome these new challenges. We hope this guide will serve as an important tool to help you do just that.
-
-## this is a secondary heading
-
-{% callout title="Title of the callout box" %}
-The content of the callout box should go here. It can include text, images, or lists.
-{% endcallout %}
-
-{% figure caption:"Image caption goes here" class:"left" %}
-![](/assets/images/obama.jpg)
-{% endfigure %}
-
-{% textarea_group id="group1" %}
-
-{% textarea label="The label for the field should go here" id="a_unique_id" size="large" button="false" %}
-
-{% textarea label="The label for the field should go here2" id="a_unique_id2" size="large" button="false" %}
-
-{% endtextarea_group %}
-
-| Header | Header | Header |
-| ------ | ------ | ------ |
-| Cell   | Cell   | Cell   |
-| Cell   | Cell   | Cell   |
-| Cell   | Cell   | Cell   |
