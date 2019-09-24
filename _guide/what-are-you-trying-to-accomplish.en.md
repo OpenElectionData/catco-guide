@@ -3,11 +3,12 @@ lang: en
 title: 3. Who Are you Talking To?
 subtitle: Identifying Your Audience
 image:
-  url: ""
-  caption: ""
+  url: ''
+  caption: ''
 uses_forms: true
----
+uses_form: true
 
+---
 In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.
 
 {% figure caption:"Chart adapted from Ed Grefe's lectures as an adjunct professor at George Washington University." class:"center" %} ![](/assets/images/bell_chart_eng.png)
