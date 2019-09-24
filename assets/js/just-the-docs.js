@@ -171,59 +171,74 @@ function printPDF() {
   Array.from(pdfBtns).forEach(btn => {
     btn.addEventListener("click", function() {
       var doc = new jsPDF();
-      var maxLength = 170;
 
       var pageTitle = document
         .querySelector(".page__title")
         .getAttribute("data-title");
-      var title = doc.splitTextToSize(
-        "Raising Voices - " + pageTitle,
-        maxLength
-      );
+      var title = doc.splitTextToSize("Raising Voices - " + pageTitle, 135);
 
-      doc.setFontSize(22);
-      doc.setFontStyle("bold");
-      doc.text(title, 10, 15);
-
+      var yPos = doc.getTextDimensions(title).h + 10;
       var id = this.getAttribute("data-id");
+      var bodyRows = [];
 
-      if (id === "printAll") {
+      if (id === "printAll" || id.startsWith("group__")) {
+        var selector = "";
+        if (id.startsWith("group__")) {
+          selector = "#" + id + " ";
+        }
+
         var textareas = document.querySelectorAll(
-          ".form-default .form-textarea"
+          selector + ".form-default .form-textarea"
         );
-
-        // height = 10 pt * 5 lines * 1.15
 
         Array.from(textareas).forEach(textarea => {
           var textareaId = textarea.getAttribute("id");
           var label = document.querySelector('label[for="' + textareaId + '"]')
             .innerHTML;
-          var element = textarea.value;
+          var content = textarea.value;
 
-          var labelText = doc.splitTextToSize(label, maxLength);
-          var content = doc.splitTextToSize(element, maxLength);
-
-          var heightTitle = content.length * doc.internal.getLineHeight();
-
-          console.log(heightTitle);
-
-          doc.setFontSize(16);
-          doc.text(labelText, 10, 30);
-          doc.setFontStyle("normal");
-          doc.text(content, 10, 40);
+          bodyRows.push({ "[0]": label });
+          bodyRows.push({ "[0]": content });
         });
       } else {
         var label = document.querySelector('label[for="' + id + '"]').innerHTML;
-        var element = document.getElementById(id).value;
+        var content = document.getElementById(id).value;
 
-        var labelText = doc.splitTextToSize(label, maxLength);
-        var content = doc.splitTextToSize(element, maxLength);
-
-        doc.setFontSize(16);
-        doc.text(labelText, 10, 30);
-        doc.setFontStyle("normal");
-        doc.text(content, 10, 40);
+        bodyRows.push({ "[0]": label });
+        bodyRows.push({ "[0]": content });
       }
+
+      doc.autoTable({
+        startY: yPos,
+        columns: [{ dataKey: "[0]", header: "Your Responses" }],
+        body: bodyRows,
+        rowPageBreak: "auto",
+        tableWidth: "auto",
+        showHead: "never",
+        margin: 9,
+        bodyStyles: { valign: "top" },
+        theme: "plain",
+        styles: {
+          overflow: "linebreak",
+          cellWidth: "wrap",
+          rowPageBreak: "avoid",
+          halign: "left",
+          fontSize: "12"
+        },
+        columnStyles: {
+          "[0]": { halign: "left", cellWidth: "auto" }
+        },
+        alternateRowStyles: {
+          fontStyle: "bold",
+          fontSize: "14",
+          cellPadding: { top: 10 }
+        },
+        didDrawPage: function(data) {
+          doc.setFontSize(22);
+          doc.setFontStyle("bold");
+          doc.text(title, 10, 15);
+        }
+      });
 
       doc.save("raising-voices-" + pageTitle + ".pdf");
     });

@@ -45,7 +45,13 @@ The content of the callout box should go here. It can include text, images, or l
 ![](/assets/images/obama.jpg)
 {% endfigure %}
 
-{% textarea label="The label for the field should go here" id="a_unique_id" size="large" %}
+{% textarea_group id="group1" %}
+
+{% textarea label="The label for the field should go here" id="a_unique_id" size="large" button="false" %}
+
+{% textarea label="The label for the field should go here2" id="a_unique_id2" size="large" button="false" %}
+
+{% endtextarea_group %}
 
 | Header | Header | Header |
 | ------ | ------ | ------ |
