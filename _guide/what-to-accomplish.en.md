@@ -100,7 +100,7 @@ To illustrate this, let’s build out one of the example goals above with strate
 
 Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That’s okay! Adjust your goals to reflect what you can realistically achieve.
 
-**Goal 1:** 
+**Goal 1:**
 
 {% textarea label="List your tactics and resources for Strategy 1" id="1" size="large" %}
 
