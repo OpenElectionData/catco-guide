@@ -71,6 +71,8 @@ Your communications strategies and tactics will flow directly from your goals. _
 In Malaysia, the [BERSIH 2.0](http://www.bersih.org/) group gathers at the start of each year to set its goals, prioritize them, and plan their activities around them. At the beginning of 2018 - an election year - they knew they’d be devoting a lot of time and resources to getting out the vote. But they were also pursuing a long-term, four-year campaign with the goal of having election districts redrawn to make them fair. The group also needed to be sure there was time and flexibility for at least one unexpected campaign, in case authorities did something that would require organizing protests, which can take up to three to four months. As a team, they identified these three goals as priorities and adjusted their work accordingly. When competing priorities came up during day-to-day work, staff was able to check them against their yearly planning to choose what to pursue.
 
 "To be able to build a movement, your leadership really needs to be strong," said Maria Chin Abdullah, former Chairperson of BERSIH 2.0. "People will have differences of opinions, but at the end of the day, the leadership needs to be working together toward common goals."
+
+![BERSIH 2.0 members encouraging people to vote ](/assets/images/BERSIH_3.jpg "Photo from BERSIH 2.0")
 {% endcallout %}
 
 ## Strategies and Tactics to Achieve Your Goals
