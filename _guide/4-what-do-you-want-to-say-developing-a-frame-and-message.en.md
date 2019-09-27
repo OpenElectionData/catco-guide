@@ -132,7 +132,7 @@ With complicated topics and difficult messaging, BERSIH 2.0 suggests starting ea
 
 Rather than focus on the minutiae of redistricting policy, they focused on the simple fact that, when you compared the smallest and largest electoral districts, not everyone’s vote was the same. This topline message distilled a complex and complicated issue into one that was easy to understand and empathize with. And -- thanks to the group’s careful organizing, preparation, and training -- the message was echoed and emphasized by key leaders and influencers who were all using the same messaging and materials. {% endcallout %}
 
-## _You’re Not a Mind Reader_
+## You’re Not a Mind Reader
 
 Go back to your research and profiles of each of your target audiences. Make sure your targeted messages align with what you learned about each one. If you are conducting audience research at the same time as messaging research, use the focus groups and interviews with members of key audiences to test different versions of your message and see what resonates. Like with your audience research, the goal of messaging research is to learn what they respond to, not to try to convince them to respond well to messages you’ve already chosen. It’s important to keep an open mind and really listen to how they respond to different versions of your message - you’ll often be surprised that language or approaches you didn’t think would work can be the most effective.
 
