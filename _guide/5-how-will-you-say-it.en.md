@@ -95,3 +95,5 @@ Audio and video content can be great for capturing stories, conveying informatio
   *  **Repetition:** Keep reiterating your main points. Your audience will be tuning in and out for small intervals. New people will be joining all the time. Be sure to reiterate your main points frequently, and introduce yourself and your purpose frequently too.
   *  **Make a plan:** A live stream isn’t an excuse to do an improvised hour. Think about who will appear on the live stream and prep them as much as possible: what information are you sure you want to convey, what messages should be emphasized, what questions will you ask, etc.
   *  **Tools:** Software like the [OBS platform](https://obsproject.com/) allows you to produce fairly sophisticated live streams for free or cheap. You can stream to multiple platforms, insert captions or lower thirds, or other graphics, add commentary to another live stream as it happens, and more.
+
+  ### Your Turn: Communications Products  
