@@ -7,6 +7,7 @@ image:
   caption: 'Photo: NDI, Mikhail Velmakin'
 permalink: "/what-to-accomplish/"
 uses_forms: true
+published: false
 
 ---
 Once you’re deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it’s important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you’ll be working toward as a group.
@@ -36,8 +37,12 @@ Brainstorm communications goals by yourself or with your team by thinking about 
 You may have brainstormed a long list of things you hope to accomplish, but it’s important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn’t mean you have to give up on them forever - you can always turn your attention to them at a later date.
 
 {% callout title="Setting Organizational Goals" %}
-Don’t forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country’s democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.  
- {%endcallout %}
+Don’t forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country’s democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
+
+![](/assets/images/yiaga_3-1.jpg)
+
+  
+{% endcallout %}
 
 ## Smart Goals
 
