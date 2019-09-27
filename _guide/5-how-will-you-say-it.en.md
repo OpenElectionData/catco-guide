@@ -97,3 +97,9 @@ Audio and video content can be great for capturing stories, conveying informatio
   *  **Tools:** Software like the [OBS platform](https://obsproject.com/) allows you to produce fairly sophisticated live streams for free or cheap. You can stream to multiple platforms, insert captions or lower thirds, or other graphics, add commentary to another live stream as it happens, and more.
 
   ### Your Turn: Communications Products  
+
+  **Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you’re targeting and advance your goals.**
+
+  **Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences.**
+
+  **GOAL:**
