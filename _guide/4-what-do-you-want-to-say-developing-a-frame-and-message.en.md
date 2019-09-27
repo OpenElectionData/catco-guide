@@ -107,7 +107,7 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 **Go back and look at your goals -- make sure this message supports your overall goals.**
 
-{% figure caption:"your topline message is what you want your audience to learn and have reinforced every time they hear from you. _Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
+{% figure caption:" your topline message is what you want your audience to learn and have reinforced every time they hear from you. _Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
 {% endfigure %}
 
 ## Different Messages Resonate with Different Audiences
@@ -144,7 +144,7 @@ From our example, maybe journalists don’t respond to the term “statistically
 
 To combat this dilemma of getting people interested and engaged with the electoral process, which they perceived as less exciting than the election results, CRTA tried to simplify the language they used to talk about the process and make it more relatable. A part of this strategy involved using common metaphors to communicate about and connect with the electoral process. For example, they began using the metaphor of a soccer game: a soccer fan wouldn’t be happy if they knew the referees were corrupt, if one team had to play with tied legs against another team which was even allowed to play with their hands, etc. Through this commonly understood and relatable metaphor, the group was able to introduce the concept of fair play in the electoral process and why it was so important to the outcome. {% endcallout %}
 
-## The Importance of Staying on Message 
+## The Importance of Staying on Message
 
 The best communicators are very disciplined about staying on message. By staying on message, you’re never in danger of hurting your cause by saying something that contradicts your goals, and you’re using every opportunity to reinforce and teach your message to your audience. You might feel like you are repeating yourself too much, but it’s the best way to have your message break through with your audience.
 
@@ -180,9 +180,9 @@ You can develop similar narratives for significant issues your long-term observe
 
 Putting a face and personal experience to the statistic has more emotional power, helps the audience understand the stakes of the problem, and will help them retain the information -- that this election was run in an unfair and uncredible manner.
 
-Also, notice how the story of the working mother not being able to vote exists within our established frame and drives home our topline message. For her story to have emotional impact, we are assuming that democracy is good and that people should all have an opportunity to cast a vote for the party or person of their choice. This story illustrates our main message that the PVT helps independently check whether the official election results are accurate and that every vote should count. And it emotionally resonates with the audience in a way that they will learn and remember our overall message and findings. 
+Also, notice how the story of the working mother not being able to vote exists within our established frame and drives home our topline message. For her story to have emotional impact, we are assuming that democracy is good and that people should all have an opportunity to cast a vote for the party or person of their choice. This story illustrates our main message that the PVT helps independently check whether the official election results are accurate and that every vote should count. And it emotionally resonates with the audience in a way that they will learn and remember our overall message and findings.
 
-### Your Turn: Using Compelling Narrative 
+### Your Turn: Using Compelling Narrative
 
 **Spend some time brainstorming the stories you know that illustrate and drive home your messages. Remember that the best stories have settings, characters, a narrative arc, and a moral/message.**
 
@@ -190,6 +190,6 @@ Also, notice how the story of the working mother not being able to vote exists w
 
 **Now look at your messages and goals. Which stories do you wish you could tell to connect with target audiences? What stories do you need to be on the lookout for or spend some time researching and recording?**
 
-{% textarea label="Which stories do you wish you could tell to connect with target audiences?" id="1" size="large" button= "false" %} 
+{% textarea label="Which stories do you wish you could tell to connect with target audiences?" id="1" size="large" button= "false" %}
 
 **Integrate the stories you already know about into your communications plan. Who will tell them, how, and to which audience(s)? For the kinds of stories you need to research or be on the lookout for, who will do this work? How will you convey what to look for or ask about? How will you collect these stories and disseminate them to the right people?**
