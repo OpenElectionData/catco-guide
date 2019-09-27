@@ -40,7 +40,6 @@ Don’t forget to include organizational development in your goals. In Nigeria, 
 
 ![](/assets/images/yiaga_3-1.jpg)
 
-  
 {% endcallout %}
 
 ## Smart Goals
