@@ -84,7 +84,7 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 ### Your Turn: Create Your Topline Message
 
-Start by brainstorming all of the possible things you might want to say. Don’t hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:
+**Start by brainstorming all of the possible things you might want to say. Don’t hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
 
 **● Someone asks you what your organization is all about. How do you answer?**
 
@@ -100,10 +100,34 @@ Start by brainstorming all of the possible things you might want to say. Don’t
 
 **● What keeps you advocating for this cause every day?**
 
-Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.
+**Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
 
-Keep narrowing down and honing each group. Which words or themes keep coming up? Which ones are the most persuasive? The most inspiring? The most emotional?
+**Keep narrowing down and honing each group. Which words or themes keep coming up? Which ones are the most persuasive? The most inspiring? The most emotional?**
 
-Take the most persuasive phrases and words and craft them into one or two sentences. That’s your topline message.
+**Take the most persuasive phrases and words and craft them into one or two sentences. That’s your topline message.**
 
-Go back and look at your goals -- make sure this message supports your overall goals.
+**Go back and look at your goals -- make sure this message supports your overall goals.**
+
+{% figure caption:"your topline message is what you want your audience to learn and have reinforced every time they hear from you. _Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
+{% endfigure %}
+
+## Different Messages Resonate with Different Audiences
+
+Your topline message should be clear, concise, persuasive, and support your goals and frame. However, different people may respond differently to your message, and you may need to adapt or adjust it depending on who you are communicating with.
+
+This can mean changing the tone or vocabulary you use, or it can mean reshaping the main message to emphasize the values or emotions that will connect with a particular audience. The resulting messages shouldn’t contradict your frame or topline message, but they should resonate with the different subsets of audiences you identified so you are more easily able to connect and communicate with them.
+
+Example:
+
+| Goal | Top Line Message | Target Audience | Target Message |
+| --- | --- | --- |
+| Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.  | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections
+Members of the party in power 
+Members of the opposition party
+ | **A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results.** 
+ 
+A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. 
+
+
+A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
+
