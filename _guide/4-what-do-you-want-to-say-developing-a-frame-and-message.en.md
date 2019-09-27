@@ -121,12 +121,4 @@ Example:
 
 | Goal | Top Line Message | Target Audience | Target Message |
 | --- | --- | --- | --- |
-| Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.  | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections
-Members of the party in power 
-Members of the opposition party
- | **A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results.** 
- 
-A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. 
-
-
-A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
+| Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.  | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections; Members of the party in power; Members of the opposition party | A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results. A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
