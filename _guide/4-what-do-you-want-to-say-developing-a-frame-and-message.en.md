@@ -120,7 +120,7 @@ This can mean changing the tone or vocabulary you use, or it can mean reshaping 
 Example:
 
 | Goal | Top Line Message | Target Audience | Target Message |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.  | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections
 Members of the party in power 
 Members of the opposition party
@@ -130,4 +130,3 @@ A PVT verifies that announced election results are accurate. Win or lose, great 
 
 
 A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
-
