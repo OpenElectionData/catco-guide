@@ -106,8 +106,8 @@ Take the SMART goals you identified and use the below table (following the above
 
 {% textarea label="List your tactics and resources for Strategy 1" id="1" size="large" %}
 
-{% textarea label="List your tactics and resources for Strategy 2" id="1" size="large" %}
+{% textarea label="List your tactics and resources for Strategy 2" id="2" size="large" %}
 
-{% textarea label="List your tactics and resources for Strategy 3" id="1" size="large" %}
+{% textarea label="List your tactics and resources for Strategy 3" id="3" size="large" %}
 
 Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them -- from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group’s communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
