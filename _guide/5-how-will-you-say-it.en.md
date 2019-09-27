@@ -1,0 +1,74 @@
+---
+lang: en
+uses_forms: true
+title: 5. How Will You Say It?
+subtitle: 'Identifying The Best Format '
+image:
+  url: ''
+  caption: ''
+published: false
+
+---
+The way you present your content can often have as big an impact as the content itself on how it is received and retained. A well-packaged message will stay with the audience far longer than a dull or unattractive one. It’s worth spending some time thinking about the best way to present your message and story, depending on both the type of information you’re trying to relay and the way your audience is primed to absorb it.
+
+## Written Content
+
+Text is often the preferred way of relaying information. It offers the writer tight control over the final product and ensures that the message is clear and prominent.
+
+Press releases, written reports, emails, and blog posts are all common ways of writing and relaying findings and observations. The biggest pitfalls with these forms of communications are that they can be too long and unengaging. A dry, 30-page written report of election findings doesn’t do much good if no one reads past page one. Some tips to keep in mind for your written communications:
+
+* ● With all written materials, be sure that the most important information is conveyed close to the beginning. Ask yourself, if someone only spent one minute reading this, would they have learned the most important information? With longer reports, include a short executive summary to start with that outlines your main findings.
+* Use illustrative stories and the narrative structure covered previously whenever you can. People are more likely to stay engaged and keep reading past the one minute mark if they are personally or emotionally drawn to what you are writing. Instead of leading with facts and statistics, focus on values and personal stakes or outcomes.
+* Use illustrative stories and the narrative structure covered previously whenever you can. People are more likely to stay engaged and keep reading past the one minute mark if they are personally or emotionally drawn to what you are writing. Instead of leading with facts and statistics, focus on values and personal stakes or outcomes.
+
+## Best Practices for Writing a Press Release
+
+A well-written press release should read like a news article -- a news article written to reflect exactly the story and angle that you want. In addition to the general tips above regarding all written content, press releases should also reflect the following:
+
+* The headline should be short, concise, and a clear reflection of your story or findings, framed exactly how you would like it to be framed. If a reporter or member of the public read the headline, they should learn the most important information without having to read further. For example, _Election Observation Group Conducts PVT_ is not a good headline for a press release. _Major Irregularities Found in Pre-Election Period Cast Doubt on Credibility of Elections, Group Finds,_ on the other hand, is much better. It conveys the most important information of the findings in a clear manner, rather than asking the audience to continue reading down to get the important information. (The headline doesn’t have to be bad news to be newsworthy. _Election Results Credible, Observer Group Finds_ is still newsworthy and informative while relaying good news.)
+* Keep your sentences and paragraphs short. This is how good reporters tend to write, and if they want to model their story off of your press release, that is ideal.
+* Craft good, newsworthy quotes. Ideally, you want a reporter to copy your quote and include it as-is in an article. Craft a short and newsworthy quote or two that is attributable to key figures in your organization or movement. (Always have the person the quote is attributed to approve the quote!) You might want to break the quote into two or three sentences to give a reporter flexibility with how much they want to print from it. Example: _“All Spaniards should be proud of the accountable, transparent, and peaceful manner in which their elections were run today,” said Maria Garcia, president of Spain’s Election Observation Group. “Election observers were in over 200 polling locations observing everything from the poll opening to the vote count, and saw no evidence of widespread irregularities.”_ Whichever sentence of that quote a reporter chooses to run (or the full quote), it is newsworthy and informative.
+* You can include several quotes from different leaders or different organizations, just be sure each one says something different in tone and substance.
+* Include a sentence or two of standard language about your organization at the end of the press release. This should be written to describe your work and organization exactly how you would like news organizations to describe your work and organization.
+* As with all your written materials, make sure your press release is on message and does not contradict your frame.
+* While the media is your primary audience for a press release, they can also be powerful ways to communicate your findings or issue to members of the public. If you plan to post the press release on your website, send it as an email to your members, or post it to social media and make sure it uses language and tone that all audiences will easily understand and appreciate.
+* Know the difference between a **media advisory**, a **press statement**, and a **press release**.
+  *  A **media advisory** is an invitation to the press to come to a newsworthy event (a press conference, press call, demonstration, photo opportunity, etc). It should have clear details on when and where the event is happening, who will be there, and why it is newsworthy.
+  * A **press statement** is a quote that reporters can use in their stories. It should be considerably shorter than a press release, have a sentence or two about the context or precipitating event, followed by a newsworthy quote, and a sentence or two about the organization’s work and mission. (Note: a press statement is not the same as an observation statement or report - see below.)
+  * Finally, a **press release** is the longest of these three types of media documents. It should be written in the style of a news story and framed the way you want the media to frame your work, issue, or findings. See the section on _Additional Resources_ for sample press releases from YIAGA AFRICA in Nigeria and PACE in Myanmar.
+  * Be sure to translate your press materials into English in order to make them easily available for international media.
+
+## Best Practices for Writing Observation Statements and Other Reports
+
+An **observation statement or report** is a longer document (that may be summarized in a press release and/or press statement) to convey the findings and recommendations from your organization’s observation effort to the public. Most election observation organizations will release periodic statements on the pre-election environment as well as a statement or statements on the conduct of election day processes and a final report that provides comprehensive analysis of all aspects of the election observed. These documents serve as an important written record of the electoral integrity issues that emerged during the course of a given election cycle. They also present your group’s findings about major successes and gaps in the electoral process, thereby enabling election stakeholders to set benchmarks for future elections and establish clear agendas for electoral reform. In addition to the general tips provided above regarding all written content, observation statements or reports should reflect the following:
+
+* Even though observation statements provide an in-depth review of your observation findings, keep in mind that your audience are not all election experts. Present findings clearly and make sure to explain any election jargon. For instance, do not assume readers will understand the name of specialized methods, equipment, or documents that may be used during the electoral process.
+* Include a brief summary of your conclusion(s), main findings, and priority recommendations; this can also serve as the basis of the content of any press releases about the statement.
+* Include an explanation of your observation methodology which highlights how observers were deployed and collected information.
+* Include a section providing more in-depth information on your findings and analysis. When possible, this can be broken up into sub-sections to better organize your findings. For instance, a long-term observation statement may include the sub-sections “Voter Registration,” “Campaign Events,” or “Candidate Nomination Process.”
+* Include a section for recommendations that are specific, realistic, targeted, and action-based.
+* Where relevant, reference international or regional commitments and standards (such as the _Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations_; the International Covenant on Civil and Political Rights, General Comment 25; the African Charter on Democracy, Elections, and Governance; or the OSCE Copenhagen Document).
+* Strategically incorporate data visualization, such as charts, maps, infographics, or photographs, especially if you want to highlight a particular finding or if the visualization makes it easier to understand.
+* Pay attention to tone and word choice in your statements. Avoid inflammatory language or words that may otherwise resonate with your audience in a way you were not intending.
+* Like press releases, always try to translate reports into English to appeal to a more international audience.
+
+In addition, make sure to set reasonable expectations with your audience in advance regarding the timing of your observation statements, particularly those about election day; you need to allow adequate time to collect, clean, and analyze all of your observation data. Also, when you know you will need a statement within a short time frame (for instance on or immediately after election day), consider what parts of an observation statement can be drafted in advance (like the methodology section) and have a statement outline prepared and agreed upon by leadership prior to that date so that the content or findings can be slotted in quickly once they are finalized. You can also prepare data visualization, such as infographics, in advance.
+
+## Visual Content
+
+Many people are visual learners and can retain information better if it’s presented to them in a graphic or visual form. In addition, visual representations can sometimes distill complex ideas or topics in a way that is more easily understandable for everyone. Here are some tips for creating memorable visual content:
+
+* **Photographs** can be a powerful and emotional way to reinforce your message. The best photographs focus on individuals and details, not settings or crowds. If you plan to use photography in your communications materials, you will need to create a clear plan of who will take the photos, when they should take pictures and of what, and how those photographs will be shared with you. You’ll also want to be sure that the photo is accurate -- ideally your volunteers or employees are the source, or the source is otherwise trustworthy. Ask people’s permission before you take their photo - especially in dangerous or compromising situations.
+  * Be aware of the staging, lighting, and backdrop of your photos. For instance, as an observer group, you probably conduct _a lot_ of trainings and may end up having a lot of training-related photos. Only use the most compelling ones and look for a variety of settings and participants. Make sure that visual content on your website or social media includes images besides and beyond trainings.
+
+
+  * If you have the resources to hire a professional photographer for important events, think about doing so. Good event photographs or photos of protests, rallies, trainings, or other important landmarks can be used for reports, social media, websites, donor materials, promotional materials, and so much more. If you can’t hire a professional photographer, see if someone in your membership is willing to volunteer their time and photography skills. You also might want to invest in a higher quality digital camera than what’s offered in a smartphone (although newer smartphones are equipped with increasingly good cameras).
+* **Graphics and infographics** can distill complex concepts or data into an easy-to-understand and easy-to-retain format. When creating graphics or infographics, do not over-complicate things or add too much text. The final product should make your point clearly and succinctly to anyone casually scrolling through a social media feed. To help achieve this simplicity and clarity, think about the three to five points you want to be sure to make, and then come up with one clear visual and a one sentence explanation for each. Trying to convey more than one idea or statistic in a single graphic makes information incredibly difficult to digest and retain.
+  * If possible, use a graphic designer to design your graphics and infographics. If you cannot afford to hire one, see if someone in your membership is willing to volunteer their time and skills. A professional designer will help you avoid common mistakes like a final graphic that is too cluttered, too complicated, or using conflicting fonts and colors.
+*  **Visual memes and GIFs** can be a fun and engaging way to connect with people on social media -- but only if they truly make sense with the point you’re trying to make and you can use them in an authentic way. Nothing is worse than an organization trying to wedge its message into the meme of the day, and people will be quick to let you know when it doesn’t ring true.
+* **Animation** can help distill complex ideas into simple and more relatable concepts and can easily incorporate humor to engage your audience.
+* **Be creative** about other ways you can tell your story visually. Perhaps an illustrator or a graphic novelist can make a comic-style explainer or narrative, or an artist can create visually striking posters or flyers that you can distribute.
+
+{% callout title="Choose Authenticity Over Trendiness" %} In Belarus, the poll watching group [Right To Choose (R2C)](https://pvby.org/en) had relied on memes to fill their social network feeds. But the memes weren’t working -- the tone was wrong and the memes felt inauthentic, snide, and unserious. The audience felt patronized by them. Instead of showcasing memes that were unthinkingly critical of the president and ruling authorities, people wanted to see the evidence for themselves and make up their own minds.
+
+R2C’s social media content now focuses on authentic, clear content based on facts, rather than recycling irrelevant memes. {% endcallout %}
