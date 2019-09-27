@@ -154,13 +154,13 @@ Your topline message should be included -- verbatim or close to -- in everything
 
 For example, in the 2015 pre-election period, the media frequently would ask about anomalies they had found in the voter list. Rather than address standalone anomalies that might benefit one party or another, Sai would pivot to the value of transparency and the benefit of looking at the voter list systematically, rather than drawing inferences from specific anomalies.  {% endcallout %}
 
-## _The Power of Narrative_
+## The Power of Narrative
 
 Humans are hardwired to tell and connect to stories. Stories create an emotional and empathetic connection, and stay with people for longer than facts or statistics. Telling stories is how we teach people, connect with them, and gain their trust and friendship. Using stories to meet your communications goals and convey your messages can be a powerful and effective approach.
 
 All stories have settings, characters, and plots. The best stories also have a narrative arc and a moral. A narrative arc means that the plot builds to a climax rather than just a plot where one thing happens after another without any sort of build up. After the climax, there is a resolution that should contain some sort of lesson or moral.
 
-For example, here is a story that just has a setting, character, and plot: _Yesterday, I ran errands around the city. I went to the tailor, then the supermarket, then the library. Then I went home._ The setting is the city, I am the character, and the plot is a series of actions. While technically a narrative, without a narrative arc or moral, it’s pretty boring! And you are unlikely to remember anything about it or learn anything from it.
+For example, here is a story that just has a setting, character, and plot: _Yesterday, I ran errands around the city. I went to the tailor, then the supermarket, then the library. Then I went home._ The setting is the city, I am the character, and the plot is the series of actions. While technically a narrative, without a narrative arc or moral, it’s pretty boring! And you are unlikely to remember anything about it or learn anything from it.
 
 A more effective narrative would go something like this: _Yesterday, I ran errands around the city. I went to the tailor, but the tailor had ripped my pants! I demanded my money back, but instead he kept the pants and threw me out of the shop. On my way home I bought a sewing machine so that I can hem my own pants from now on._ That story builds to a climax (I got thrown out of the shop), and you learned a lesson that it’s a good idea to hem your pants yourself.
 
