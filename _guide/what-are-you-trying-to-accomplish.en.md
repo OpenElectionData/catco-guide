@@ -116,11 +116,11 @@ When you’re done, you should have a pretty detailed picture of your target aud
 | Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
 | Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
 
-{% textarea label="Target Audience" id="1a" size="Small" button="false" %}  
+{% textarea label="Target Audience 1" id="1a" size="Small" button="false" %}  
 {% textarea label="Detailed Profile" id="1b" size="Small" button="false" %}
 
-{% textarea label="Target Audience" id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="2b" size="Small" button="false" %}
+{% textarea label="Target Audience 2" id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="2b" size="Small" button="false" %}
 
-{% textarea label="Target Audience" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="3b" size="Small" button="false" %}
+{% textarea label="Target Audience 3" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="3b" size="Small" button="false" %}
 
-{% textarea label="Target Audience" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="4b" size="Small" button="false" %}
+{% textarea label="Target Audience 4" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="4b" size="Small" button="false" %}
