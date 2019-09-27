@@ -152,7 +152,7 @@ Your topline message should be included -- verbatim or close to -- in everything
 
 {% callout title="Staying on Message" %} In Myanmar, Sai Ye Kya Swar Myint, the executive director of the [People's Alliance for Credible Elections (PACE)](https://www.pacemyanmar.org/) learned how to stay on message despite partisan or tricky questions from the media. The media, while relatively open in Myanmar, is highly partisan, and will often ask leading questions meant to benefit one party over another. Instead of answering directly, Sai pivots to messages about the process, PACE’s methodology, and values like transparency in government.
 
-For example, in the 2015 pre-election period, the media would ask frequently about anomalies they had found in the voter list. Rather than address standalone anomalies that might benefit one party or another, Sai would pivot to the value of transparency and the benefit of looking at the voter list systematically, rather than drawing inferences from specific anomalies.  {% endcallout %}
+For example, in the 2015 pre-election period, the media frequently would ask about anomalies they had found in the voter list. Rather than address standalone anomalies that might benefit one party or another, Sai would pivot to the value of transparency and the benefit of looking at the voter list systematically, rather than drawing inferences from specific anomalies.  {% endcallout %}
 
 ## _The Power of Narrative_
 
