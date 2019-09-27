@@ -6,6 +6,7 @@ image:
   url: ''
   caption: ''
 uses_forms: true
+published: false
 
 ---
 In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.
@@ -45,15 +46,15 @@ By selecting these audiences, we're hoping to raise awareness and understanding 
 
 ### Target Audiences
 
-{% textarea label="Who are the groups of people you want to reach out to?" id="Target Audience" size="small" %}
+{% textarea label="Who are the groups of people you want to reach out to?" id="Target Audience" size="small" button="false" %}
 
 ### Strategies
 
-{% textarea label="What strategy will you use to reach out to each target audience?  " id="Strategies" size="small" %}
+{% textarea label="What strategy will you use to reach out to each target audience?  " id="Strategies" size="small" button="false" %}
 
 ### Tactics
 
-{% textarea label="What are the individual actions you might take to enact each strategy listed?" id="Tactics" size="small" %}
+{% textarea label="What are the individual actions you might take to enact each strategy listed?" id="Tactics" size="small" button="false" %}
 
 _Who's Missing?_
 
@@ -104,8 +105,8 @@ If your audiences are different from you, you may not know these answers off the
 
 When you’re done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
 
-| Target Audience | Strategy | 
-| --- | --- | 
+| Target Audience | Strategy |
+| --- | --- |
 | Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there’s something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
 | Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
 | Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
@@ -114,16 +115,13 @@ When you’re done, you should have a pretty detailed picture of your target aud
 
 **Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
 
-{% textarea label="Target Audience" id="1a" size="Small" %}  
-{% textarea label="Detailed Profile" id="1b" size="Small" %}
+{% textarea label="Target Audience" id="1a" size="Small" button="false" %}  
+{% textarea label="Detailed Profile" id="1b" size="Small" button="false" %}
 
-{% textarea label="Target Audience" id="2a" size="Small" %}
-{% textarea label="Detailed Profile" id="2b" size="Small" %}
+{% textarea label="Target Audience" id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="2b" size="Small" button="false" %}
 
-{% textarea label="Target Audience" id="3a" size="Small" %}
-{% textarea label="Detailed Profile" id="3b" size="Small" %}
+{% textarea label="Target Audience" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="3b" size="Small" button="false" %}
 
-{% textarea label="Target Audience" id="4a" size="Small" %}
-{% textarea label="Detailed Profile" id="4b" size="Small" %}
+{% textarea label="Target Audience" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile" id="4b" size="Small" button="false" %}
 
 With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
