@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3. Who Are you Talking To?
+title: 3. Who Are You Talking To?
 subtitle: Identifying Your Audience
 image:
   url: ''
