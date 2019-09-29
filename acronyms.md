@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: SMS
+  full_name: short message service (text messages)
 - acronym: YIAGA AFRICA
   full_name: Youth Initiative for Advocacy, Growth & Advancement
 - acronym: BERSIH 2.0
