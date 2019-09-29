@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: CRM
+  full_name: customer relationship manager
 - acronym: CRTA
   full_name: Centar za istraživanje, transparentnost i odgovornost (Center for Research,
     Transparency and Accountability)
