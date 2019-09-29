@@ -80,6 +80,7 @@ function initSearch() {
         index.add({
           id: data[i].id,
           title: data[i].title,
+          excerpt: data[i].excerpt,
           content: data[i].content,
           url: data[i].url
         });
@@ -129,23 +130,23 @@ function initSearch() {
           for (var i in results) {
             var resultsListItem = document.createElement("li");
             var resultsLink = document.createElement("a");
-            var resultsUrlDesc = document.createElement("span");
+            var resultsDesc = document.createElement("span");
             var resultsUrl = store[results[i].ref].url;
-            var resultsRelUrl = store[results[i].ref].relUrl;
             var resultsTitle = store[results[i].ref].title;
+            var resultsExcerpt = store[results[i].ref].excerpt;
 
             resultsLink.setAttribute("href", resultsUrl);
             resultsLink.innerText = resultsTitle;
-            resultsUrlDesc.innerText = resultsRelUrl;
+            resultsDesc.innerText = resultsExcerpt;
 
             resultsList.classList.add("search-results-list");
             resultsListItem.classList.add("search-results-list-item");
             resultsLink.classList.add("search-results-link");
-            resultsUrlDesc.classList.add("fs-2", "text-grey-dk-000", "d-block");
+            resultsDesc.classList.add("fs-2", "text-grey-dk-000", "d-block");
 
             resultsList.appendChild(resultsListItem);
             resultsListItem.appendChild(resultsLink);
-            resultsLink.appendChild(resultsUrlDesc);
+            resultsLink.appendChild(resultsDesc);
           }
         }
 
