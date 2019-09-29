@@ -1,13 +1,13 @@
 ---
 lang: en
 uses_forms: true
-title: '4. What Do You Want To Say? '
+title: "4. What Do You Want To Say? "
 subtitle: Developing a Frame and Message
 image:
-  url: ''
-  caption: ''
-
+  url: ""
+  caption: ""
 ---
+
 ## Develop a Communications Frame
 
 A communications frame is the set of values and assumptions that all of your communications take for granted. Having a clear communications frame from the outset will ensure consistency across your communications, but it will also ensure that your audiences understand where you are coming from and what you are trying to communicate to them.
@@ -24,33 +24,33 @@ You may need to re-adjust your frame to match that of your audience so that they
 
 **Brainstorm a list of basic values and assumptions that are at the core of your work and communications.**
 
-{% textarea label="1" id="value1" size="small" button= "false" %}
+{% textarea label="1" id="value1" size="small" button="false" %}
 
-{% textarea label="2" id="value2" size="small" button= "false" %}
+{% textarea label="2" id="value2" size="small" button="false" %}
 
-{% textarea label="3" id="value3" size="small" button= "false" %}
+{% textarea label="3" id="value3" size="small" button="false" %}
 
-{% textarea label="4" id="value4" size="small" button= "false" %}
+{% textarea label="4" id="value4" size="small" button="false" %}
 
 **Refine these until you have a clear list of assumptions and values that will be reflected throughout your communications.**
 
 **Now list the values and assumptions of your key target audiences to assess whether this frame truly matches the values and assumptions of each of your key audiences.**
 
-{% textarea label="Target Audience 1" id="1" size="small" button= "false" %}
+{% textarea label="Target Audience 1" id="1" size="small" button="false" %}
 
-{% textarea label="Target Audience 1 Value and Assumptions" id="1" size="large" button= "false" %}
+{% textarea label="Target Audience 1 Value and Assumptions" id="1" size="large" button="false" %}
 
-{% textarea label="Target Audience 2" id="2" size="small" button= "false" %}
+{% textarea label="Target Audience 2" id="2" size="small" button="false" %}
 
-{% textarea label="Target Audience 2 Value and Assumptions" id="2" size="large" button= "false" %}
+{% textarea label="Target Audience 2 Value and Assumptions" id="2" size="large" button="false" %}
 
-{% textarea label="Target Audience 3" id="3" size="small" button= "false" %}
+{% textarea label="Target Audience 3" id="3" size="small" button="false" %}
 
-{% textarea label="Target Audience 3 Value and Assumptions" id="3" size="large" button= "false" %}
+{% textarea label="Target Audience 3 Value and Assumptions" id="3" size="large" button="false" %}
 
-{% textarea label="Target Audience 4" id="4" size="small" button= "false" %}
+{% textarea label="Target Audience 4" id="4" size="small" button="false" %}
 
-{% textarea label="Target Audience 4 Value and Assumptions" id="4" size="large" button= "false" %}
+{% textarea label="Target Audience 4 Value and Assumptions" id="4" size="large" button="false" %}
 
 **Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?**
 
@@ -70,10 +70,10 @@ Continuing with our example, if your goal is to raise awareness of your PVT and 
 
 The message in the example above is:
 
-* Short
-* Clear
-* Teaches the audience something it might not know
-* Embedded with values and emotion meant to connect with the audience
+- Short
+- Clear
+- Teaches the audience something it might not know
+- Embedded with values and emotion meant to connect with the audience
 
 If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
 
@@ -118,8 +118,8 @@ This can mean changing the tone or vocabulary you use, or it can mean reshaping 
 
 Example:
 
-| Goal | Top Line Message | Target Audience | Target Message |
-| --- | --- | --- | --- |
+| Goal                                                                                                                                                                                              | Top Line Message                                                                                                                                   | Target Audience                                                                                       | Target Message                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections; Members of the party in power; Members of the opposition party | A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results. A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
 
 In the examples above, the topline message has been slightly modified in each of the target messages to appeal more strongly to the emotions of each target audience. For journalists, the PVT will make their reporting easier and more accurate. For members of the party in power, respecting the PVT results will bolster their historical reputation as great leaders who respect the will of the people. For members of the opposition party, the PVT will deter fraud and the chance that the election will be stolen from them.
@@ -152,7 +152,7 @@ Your topline message should be included -- verbatim or close to -- in everything
 
 {% callout title="Staying on Message" %} In Myanmar, Sai Ye Kya Swar Myint, the executive director of the [People's Alliance for Credible Elections (PACE)](https://www.pacemyanmar.org/) learned how to stay on message despite partisan or tricky questions from the media. The media, while relatively open in Myanmar, is highly partisan, and will often ask leading questions meant to benefit one party over another. Instead of answering directly, Sai pivots to messages about the process, PACE’s methodology, and values like transparency in government.
 
-For example, in the 2015 pre-election period, the media frequently would ask about anomalies they had found in the voter list. Rather than address standalone anomalies that might benefit one party or another, Sai would pivot to the value of transparency and the benefit of looking at the voter list systematically, rather than drawing inferences from specific anomalies.  {% endcallout %}
+For example, in the 2015 pre-election period, the media frequently would ask about anomalies they had found in the voter list. Rather than address standalone anomalies that might benefit one party or another, Sai would pivot to the value of transparency and the benefit of looking at the voter list systematically, rather than drawing inferences from specific anomalies. {% endcallout %}
 
 ## The Power of Narrative
 
@@ -186,10 +186,10 @@ Also, notice how the story of the working mother not being able to vote exists w
 
 **Spend some time brainstorming the stories you know that illustrate and drive home your messages. Remember that the best stories have settings, characters, a narrative arc, and a moral/message.**
 
-{% textarea label="List the stories you will use to illustrate your message" id="1" size="large" button= "false" %}
+{% textarea label="List the stories you will use to illustrate your message" id="1" size="large" button="false" %}
 
 **Now look at your messages and goals. Which stories do you wish you could tell to connect with target audiences? What stories do you need to be on the lookout for or spend some time researching and recording?**
 
-{% textarea label="Which stories do you wish you could tell to connect with target audiences?" id="1" size="large" button= "false" %}
+{% textarea label="Which stories do you wish you could tell to connect with target audiences?" id="1" size="large" button="false" %}
 
 **Integrate the stories you already know about into your communications plan. Who will tell them, how, and to which audience(s)? For the kinds of stories you need to research or be on the lookout for, who will do this work? How will you convey what to look for or ask about? How will you collect these stories and disseminate them to the right people?**
