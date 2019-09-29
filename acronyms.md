@@ -4,6 +4,9 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: ISFED
+  full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (International
+    Society for Fair Elections and Democracy)
 - acronym: LGBTI
   full_name: lesbian, gay, bisexual, trans, intersex
 - acronym: MOCHA
