@@ -92,4 +92,12 @@
     margin-left: 1em;
     font-weight: 500;
   }
+
+  [id]::before {
+    content: "";
+    display: block;
+    height: 75px;
+    margin-top: -75px;
+    visibility: hidden;
+  }
 }

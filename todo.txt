@@ -1,4 +1,3 @@
-- Open the active menu items on the page
 - Add link to download Guide (is there an ndi.org link for this or should it be hosted on the CATCO website?)
 - Browser testing
 - Translations menu
