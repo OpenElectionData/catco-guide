@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: PII
+  full_name: personally identifiable information
 - acronym: PVT
   full_name: parallel vote tabulation
 - acronym: R2C
