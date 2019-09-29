@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: R2C
+  full_name: Right To Choose
 - acronym: SMART
   full_name: Specific, Measurable, Attainable, Relevant, Time-sensitive
 - acronym: SMS
