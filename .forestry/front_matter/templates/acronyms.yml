@@ -3,9 +3,6 @@ label: Acronyms
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: title
   label: title
 - type: text
@@ -14,3 +11,21 @@ fields:
 - type: text
   name: permalink
   label: permalink
+- name: list
+  type: field_group_list
+  fields:
+  - name: acronym
+    type: text
+    config:
+      required: false
+    label: Acronym
+  - name: full_name
+    type: text
+    config:
+      required: false
+    label: Full Name
+  config:
+    min: 
+    max: 
+    labelField: acronym
+  label: List
