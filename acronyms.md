@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: GDPR
+  full_name: European Union General Data Protection Regulations
 - acronym: ISFED
   full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (International
     Society for Fair Elections and Democracy)
