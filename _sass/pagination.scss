@@ -1,5 +1,6 @@
 .pagination {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   list-style: none;
   margin: 0;
@@ -14,6 +15,7 @@
     }
 
     &--next {
+      margin-left: $sp-4;
       @include pagination-arrows("right");
     }
   }
