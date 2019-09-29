@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: NGO
+  full_name: non-governmental organization
 - acronym: OPORA
   full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
 - acronym: PACE
