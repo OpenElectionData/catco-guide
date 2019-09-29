@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: SMART
+  full_name: Specific, Measurable, Attainable, Relevant, Time-sensitive
 - acronym: SMS
   full_name: short message service (text messages)
 - acronym: YIAGA AFRICA
