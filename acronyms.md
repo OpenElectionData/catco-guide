@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: LGBTI
+  full_name: lesbian, gay, bisexual, trans, intersex
 - acronym: MOCHA
   full_name: Manager, Owner, Consultant, Helper, Approver
 - acronym: NDI
