@@ -4,6 +4,12 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: BERSIH 2.0
+  full_name: Gabungan Pilihanraya Bersih dan Adil (Coalition for Clean and Fair Elections)
+- acronym: CEC
+  full_name: Central Election Commission of Ukraine
+- acronym: CODEO
+  full_name: Coalition of Domestic Election Observers
 - acronym: CRM
   full_name: customer relationship manager
 - acronym: CRTA
@@ -40,8 +46,6 @@ list:
   full_name: short message service (text messages)
 - acronym: YIAGA AFRICA
   full_name: Youth Initiative for Advocacy, Growth & Advancement
-- acronym: BERSIH 2.0
-  full_name: Gabungan Pilihanraya Bersih dan Adil (Coalition for Clean and Fair Elections)
 
 ---
 List of acronyms here.
