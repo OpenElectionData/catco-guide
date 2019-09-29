@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: PACE
+  full_name: People’s Alliance for Credible Elections
 - acronym: PII
   full_name: personally identifiable information
 - acronym: PVT
