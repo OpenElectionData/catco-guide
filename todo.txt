@@ -1,2 +1,4 @@
-- Open active menu item on that page
-- Favicon
+- Add the favicon (Thanks Phil!)
+- Open the active menu items on the page
+- Add link to download Guide (is there an ndi.org link for this or should it be hosted on the CATCO website?)
+- Browser testing
