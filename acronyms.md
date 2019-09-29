@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: MOCHA
+  full_name: Manager, Owner, Consultant, Helper, Approver
 - acronym: NDI
   full_name: National Democratic Institute
 - acronym: NGO
