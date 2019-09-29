@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: CSOs
+  full_name: civil society organizations
 - acronym: GDPR
   full_name: European Union General Data Protection Regulations
 - acronym: ISFED
