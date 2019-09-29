@@ -29,3 +29,5 @@ fields:
     max: 
     labelField: acronym
   label: List
+pages:
+- acronyms.md
