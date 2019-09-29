@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: NDI
+  full_name: National Democratic Institute
 - acronym: NGO
   full_name: non-governmental organization
 - acronym: OPORA
