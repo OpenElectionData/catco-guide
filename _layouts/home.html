@@ -43,13 +43,18 @@
       {% if site.data.menus.header.size > 0 %}
       <ul class="home__nav-download">
         {% for link in site.data.menus.header %}
-        <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}"><a href="{{ link.url }}"
+        {% assign url = link.url %}
+        {% if link.id == 'download' %}
+        {% assign url = '/images/assets/Raising_Voices_' | append: site.active_lang | append: '.pdf' %}
+        {% endif %}
+        <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}"><a href="{{ url }}"
             class="{{ link.class }}">{{ link.title }}</a></li>
         {% endfor %}
       </ul>
       {% endif %}
       {% include search.html %}
       {% include nav.html %}
+      {% include nav-languages.html %}
     </div>
   </header>
   <main>

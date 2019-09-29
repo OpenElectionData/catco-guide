@@ -140,3 +140,110 @@
 .aux-nav {
   font-family: $font__montserrat;
 }
+
+.language-selection {
+  position: relative;
+  z-index: 20;
+  align-self: center;
+  margin-top: $sp-4;
+
+  @include mq(md) {
+    margin-top: 0;
+    padding: 0 1.25rem;
+    text-align: right;
+
+    &:hover {
+      .language-menu {
+        display: block;
+      }
+    }
+
+    .home & {
+      margin: $sp-4 0 0;
+      padding: $sp-4 0 0;
+      text-align: left;
+      border-top: $border $border-color;
+    }
+
+    &::after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 50%;
+      right: 0.3rem;
+      width: 0.5em;
+      height: 0.5em;
+      transform-origin: 50% 50%;
+      transform: translate(0, -0.3rem) rotate(135deg);
+      box-shadow: inset -#{0.1em} 0.1em 0 0 $black;
+      border-radius: 0 1em * 0.15 0 0;
+      transition: all 0.5s ease-in-out;
+
+      .home & {
+        display: none;
+      }
+    }
+  }
+}
+
+.language-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+
+  @include mq(md) {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    min-width: 150px;
+    display: none;
+    background: lighten($body-background-color, 1%);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
+
+    .home & {
+      position: static;
+      display: block;
+    }
+  }
+
+  .home & {
+    background: none;
+    box-shadow: none;
+  }
+
+  li {
+    transition: background-color 0.3s ease-in-out;
+
+    &.active-item {
+      display: none;
+    }
+
+    &:hover {
+      background-color: darken($body-background-color, 2%);
+
+      .home & {
+        background-color: transparent;
+      }
+    }
+  }
+
+  a {
+    display: block;
+    padding: 0.5rem 0;
+    background-image: none;
+
+    @include mq(md) {
+      padding: 0.5rem;
+    }
+
+    .home & {
+      padding: 0 !important;
+    }
+
+    &:hover {
+      color: $blue;
+      background-image: none;
+    }
+  }
+}
