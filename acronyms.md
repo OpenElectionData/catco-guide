@@ -4,6 +4,8 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: PVT
+  full_name: parallel vote tabulation
 - acronym: R2C
   full_name: Right To Choose
 - acronym: SMART
