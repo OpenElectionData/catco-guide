@@ -4,6 +4,9 @@ title: Acronyms
 lang: en
 permalink: "/acronyms/"
 list:
+- acronym: CRTA
+  full_name: Centar za istraživanje, transparentnost i odgovornost (Center for Research,
+    Transparency and Accountability)
 - acronym: CSOs
   full_name: civil society organizations
 - acronym: GDPR
