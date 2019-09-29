@@ -18,6 +18,7 @@ instagram: ndidemocracy
 # Theme Settings
 search_enabled: true
 permalink: pretty
+pdf_url: "/assets/images/Raising_Voices_"
 
 # Collections
 collections:

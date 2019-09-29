@@ -3,13 +3,13 @@
 //
 
 .navigation {
-  @include mq(md) {
+  @include mq(lg) {
     padding-top: $sp-8;
     flex: 1 1 auto;
   }
 
   nav {
-    @include mq(md) {
+    @include mq(lg) {
       position: sticky;
       top: calc(#{$header-height} + #{$sp-9});
     }
@@ -23,7 +23,7 @@
   list-style: none;
 
   .main-nav & {
-    @include mq(md) {
+    @include mq(lg) {
       position: sticky;
       top: 0;
       margin-top: 0;
@@ -69,7 +69,7 @@
       width: 5px;
       background-color: $blue;
 
-      @include mq(md) {
+      @include mq(lg) {
         left: $gutter-spacing * -1;
       }
     }
@@ -102,7 +102,7 @@
 .aux-nav {
   display: none;
 
-  @include mq(md) {
+  @include mq(lg) {
     display: block;
   }
 
@@ -118,7 +118,7 @@
   top: $sp-3;
   right: $sp-4;
 
-  @include mq(md) {
+  @include mq(lg) {
     display: none !important;
   }
 }
@@ -147,7 +147,7 @@
   align-self: center;
   margin-top: $sp-4;
 
-  @include mq(md) {
+  @include mq(lg) {
     margin-top: 0;
     padding: 0 1.25rem;
     text-align: right;
@@ -192,7 +192,7 @@
   padding: 0;
   text-align: left;
 
-  @include mq(md) {
+  @include mq(lg) {
     position: absolute;
     top: 100%;
     right: 0;
@@ -233,7 +233,7 @@
     padding: 0.5rem 0;
     background-image: none;
 
-    @include mq(md) {
+    @include mq(lg) {
       padding: 0.5rem;
     }
 

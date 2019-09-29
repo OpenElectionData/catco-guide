@@ -10,7 +10,7 @@
   padding: $sp-2;
   margin-bottom: $sp-3;
 
-  @include mq(md) {
+  @include mq(lg) {
     display: block;
     padding: 0;
     margin-bottom: 0;
@@ -40,7 +40,7 @@
     background: lighten($body-background-color, 1%);
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
 
-    @include mq(md) {
+    @include mq(lg) {
       width: 300px;
     }
   }
@@ -50,14 +50,14 @@
   display: flex;
   height: 100%;
 
-  @include mq(md) {
+  @include mq(lg) {
     width: 300px;
   }
 
   .home & {
     margin-left: 0.5rem;
 
-    @include mq(md) {
+    @include mq(lg) {
       width: 100%;
     }
   }

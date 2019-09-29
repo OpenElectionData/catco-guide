@@ -8,7 +8,7 @@
   grid-area: header;
   width: 100%;
 
-  @include mq(md) {
+  @include mq(lg) {
     grid-template-areas: "logo navigation";
     grid-template-columns: 1fr 3fr;
   }
@@ -43,12 +43,12 @@
     @include container;
     background-color: $white;
 
-    @include mq(md) {
+    @include mq(lg) {
       display: flex;
     }
 
     &::after {
-      @include mq(md) {
+      @include mq(lg) {
         content: "";
         position: absolute;
         bottom: -10px;

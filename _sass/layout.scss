@@ -8,7 +8,7 @@
   grid-template-columns: auto;
   width: 100%;
 
-  @include mq(md) {
+  @include mq(lg) {
     grid-template-areas: "header header" "sidebar content" "footer footer";
     grid-template-columns: 1fr 3fr;
     grid-template-rows: $header-height auto auto;
@@ -21,7 +21,7 @@
   flex-wrap: wrap;
   background-color: $sidebar-color;
 
-  @include mq(md) {
+  @include mq(lg) {
     position: relative;
     flex-wrap: nowrap;
     padding-bottom: 0;
@@ -34,7 +34,7 @@
 .main-content-wrap {
   position: relative;
 
-  @include mq(md) {
+  @include mq(lg) {
     width: 100%;
     height: 100%;
     min-height: 600px;
@@ -49,7 +49,7 @@
   padding-top: $gutter-spacing-sm;
   @include container;
 
-  @include mq(md) {
+  @include mq(lg) {
     position: relative;
     width: 100%;
     max-width: $content-width;
@@ -70,7 +70,7 @@
 body {
   position: relative;
 
-  @include mq(md) {
+  @include mq(lg) {
     position: static;
     padding-bottom: 0;
   }
@@ -79,7 +79,7 @@ body {
 .page__img {
   margin: 1rem auto;
 
-  @include mq(md) {
+  @include mq(lg) {
     float: right;
     max-width: 300px;
     margin: 0 0 1rem 2rem;
@@ -132,7 +132,7 @@ figure {
   }
 
   &.right {
-    @include mq(md) {
+    @include mq(lg) {
       float: right;
       width: 40%;
       margin: 0 0 1rem 1rem;
@@ -140,7 +140,7 @@ figure {
   }
 
   &.left {
-    @include mq(md) {
+    @include mq(lg) {
       float: left;
       width: 40%;
       margin: 0 1rem 1rem 0;

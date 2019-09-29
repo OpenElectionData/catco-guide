@@ -45,7 +45,7 @@
         {% for link in site.data.menus.header %}
         {% assign url = link.url %}
         {% if link.id == 'download' %}
-        {% assign url = '/images/assets/Raising_Voices_' | append: site.active_lang | append: '.pdf' %}
+        {% assign url = site.pdf_url | append: site.active_lang | append: '.pdf' | absolute_url %}
         {% endif %}
         <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}"><a href="{{ url }}"
             class="{{ link.class }}">{{ link.title }}</a></li>

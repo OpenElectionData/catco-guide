@@ -2,7 +2,7 @@
 
 // Media query mixin
 // Usage:
-// @include mq(md) {
+// @include mq(lg) {
 //   ..medium and up styles
 // }
 @mixin mq($name) {
@@ -27,7 +27,7 @@
   padding-right: $gutter-spacing-sm;
   padding-left: $gutter-spacing-sm;
 
-  @include mq(md) {
+  @include mq(lg) {
     padding-right: $gutter-spacing;
     padding-left: $gutter-spacing;
   }
