@@ -98,3 +98,19 @@ There are a number of ways to introduce humor into your communications, and each
 * **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you’re funny and therefore successful.
+
+### YOUR TURN: Look back at your topline and related messages in your communications plan. 
+
+Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?
+
+If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started: 
+
+{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size_="_small_" %}_
+
+{% textarea label="Is there an absurd or ridiculous news event you can satorize in a way that reinforces your message?" id="humor2" size="small" %}
+
+{% textarea label="Is there a well-known expression or idiom that can be changed for your purposes?" id="humor3" size="small" %}
+
+{% textarea label="What issue or aspect of your work do you often have the hardest time explaining? Is there a funny way to approach it or a funny outcome you could use to better explain it?" id="humor4" size="small" %}
+
+{% textarea label="Are there any comedians or comedic actors you can work with?" id="humor5" size="small" %}
