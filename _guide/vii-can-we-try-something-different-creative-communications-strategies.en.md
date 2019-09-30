@@ -38,13 +38,13 @@ As with your other strategies, any pop culture strategies and tactics you pursue
 
 **Looking at this list, ask yourself the following questions:**
 
-{% textarea label="**Do any of these explicitly deal with politics? If so, what are they saying about it?**" id="culure1" size="small" %}
+{% textarea label="**Do any of these explicitly deal with politics? If so, what are they saying about it?**" id="culure1" size="small" % button="false" %}
 
 {% textarea label="**For those that aren’t dealing with politics, what are the dominant narratives? What values or morals do they impart? What ideas do they take for granted or reinforce? What frame are they operating within?**" id="culture2" size="small" % button="false" %}
 
-{% textarea label="**Of the narratives and values you identified, which reinforce your frame and message, and which contradict or undermine it?**" id="culture3" size="small" %}
+{% textarea label="**Of the narratives and values you identified, which reinforce your frame and message, and which contradict or undermine it?**" id="culture3" size="small" % button="false" %}
 
-{% textarea label="**Is there anything or anyone on the list of pop culture that is particularly appealing to your target audiences?**" id="culture4" size="small" %}
+{% textarea label="**Is there anything or anyone on the list of pop culture that is particularly appealing to your target audiences?**" id="culture4" size="small" % button="false" %}
 
 **For the narratives that reinforce your message and frame -- especially the ones popular with your target audiences -- how can you amplify and engage with those parts of pop culture? Can you tie your work and message to the pop culture modalities? Can you engage authentically with fans about the real-world counterparts or impact? Can you recruit the stars or spokespeople to join your campaign or collaborate with you in some way?**
 
