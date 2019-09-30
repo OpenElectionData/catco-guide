@@ -1,22 +1,19 @@
 ---
 sidebar:
-  - acknowledgements.md
-  - acronyms.md
-  - _guide/introduction.en.md
-  - _guide/2-what-are-you-trying-to-accomplish.md
-  - _guide/what-are-you-trying-to-accomplish.en.md
-  - _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
-  - _guide/5-how-will-you-say-it.en.md
+- acknowledgements.md
+- acronyms.md
+- _guide/introduction.en.md
+- _guide/2-what-are-you-trying-to-accomplish.md
+- _guide/what-are-you-trying-to-accomplish.en.md
+- _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
+- _guide/5-how-will-you-say-it.en.md
+- _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
 header:
-  - id: download
-    title: Download Guide
-    class: btn btn-download
+- id: download
+  title: Download Guide
+  class: btn btn-download
 languages:
-  - identifier: en
-    title: English
-    url: "/"
-    weight: 1
-  # - identifier: es
-  #   title: Español
-  #   url: "/es"
-  #   weight: 2
+- identifier: en
+  title: English
+  url: "/"
+  weight: 1
