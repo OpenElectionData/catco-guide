@@ -70,3 +70,15 @@ If you plan to communicate with fan communities, here are some practical tips to
 * **Listen.** Spend some time listening to the fans, how they interact, what their internal references and jokes are, and what they love about the thing they’re a fan of. It’s okay to lurk online or at events for a while, just listening to get a sense for the tone and topics to use once you’re ready to engage.
 
 **Have authentic interactions.** Don’t always try to wedge in your talking points or web address. Interact authentically and have real conversations with fans -- pivot to your message when it feels natural.
+
+## The Power of Comedy
+
+Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren’t lighthearted or humorous. 
+
+There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don’t want to be reminded that things are bad, and the path forward is arduous. 
+
+The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.  
+
+Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people’s minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic. 
+
+There are, of course, times when a light-hearted or humorous approach is inappropriate. But this approach is overlooked often and is so effective that it should at least be considered and integrated when appropriate.
