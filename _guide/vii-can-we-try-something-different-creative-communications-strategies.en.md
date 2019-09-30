@@ -125,7 +125,7 @@ This type of communication can occur on any of the platforms or formats already 
 
 In other cases, your audience may not undergo the experience themselves, and so you’ll want to simulate it for them or otherwise create some kind of empathic connection to the experience. For example, you could create a simple first person, role-playing game that puts the user in the position of having to vote with a physical disability. At each barrier in the process, the player would have to decide what to do or how to handle it. If there are stairs to the entrance of the polling place, players would have the option of asking others to carry them up the stairs or not voting that day and going home instead. By forcing able-bodied players to make choices from the point of view of a disabled voter, the player will reflect on the importance of accessible polling places, something they may not have given much thought to in the past. 
 
-![OPORA Infographic](/assets/images/opora_3.jpg "OPORA Infographic")
+{% figure caption: "OPORA infographic" class:"left"}![OPORA Infographic](/assets/images/opora_3.jpg "OPORA Infographic"){% endfigure %}
 
 You can achieve a similar outcome with videos, virtual reality, slide decks, online quizzes, or first person essays aimed at putting the audience through an experience different from their own. Be sure to structure it in such a way that there is room for reflection about the experience to increase the chance of the audience retaining what it learns.
 
