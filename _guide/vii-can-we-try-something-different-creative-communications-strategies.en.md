@@ -50,6 +50,10 @@ As with your other strategies, any pop culture strategies and tactics you pursue
 
 **For the narratives that contradict or devalue your message and frame, think about how you can present counter narratives or rebuttals to what is harmful. Can you work directly with the creators to change how your issues are presented within the culture? Can you recruit the actors or artists involved to serve as spokespeople for your cause to debunk some of the harmful messages in their work? Can you parody or play with the original narrative to present your side or ideas instead?**
 
+{% callout title="Using Humor and the Arts to Convey a Message" %}
+In Malaysia, BERSIH 2.0 experimented with a number of arts and culture tactics to get the public interested and engaged on the topic of redistricting. They presented film screenings followed by discussion sessions. They organized a series of concerts to raise awareness of the issue. They also organized a standup comedy show and encouraged the comics to use material about BERSIH 2.0 and the issues - even if it meant poking fun at the issues and the organization - in an effort to teach through laughter. The comedy show proved to be so popular they extended its run - it ended up running for 10 days, and 300-400 people came to each show.
+{% endcallout %}
+
 ## _Tips for Collaborating with Artists and Fans_
 
 Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them: 
