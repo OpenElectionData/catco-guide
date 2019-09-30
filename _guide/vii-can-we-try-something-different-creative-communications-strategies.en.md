@@ -77,11 +77,24 @@ Using humor and comedy in your communications can help your message break throug
 
 There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don’t want to be reminded that things are bad, and the path forward is arduous.
 
-The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
+The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.  
 
-{% figure class="left" size %}  
+{% figure class="left" size "small" %}  
 ![Presentation of how comedy works for social change.](/assets/images/comedy-1-1.jpg)
 
 Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people’s minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic.
 
 There are, of course, times when a light-hearted or humorous approach is inappropriate. But this approach is overlooked often and is so effective that it should at least be considered and integrated when appropriate.
+
+\[INSERT "HOW COMEDY WORKS GRAPHIC"\]
+
+## The Format of Your Comedy Matters
+
+There are a number of ways to introduce humor into your communications, and each serves a different purpose and conveys different cues about your message. It’s not enough to decide you want to integrate humor into your messaging -- think carefully about what kind of humor is appropriate for the context and best serves your purposes.
+
+* **Satirical news.** Satirical news points out and reframes absurdity. For it to work, your audience must have some basic familiarity with the situation being satirized, or they will not understand it or find it funny. Satire is good for motivating the base of people who already agree with you, but is likely to alienate or turn off people who don’t agree with you.
+* **Scripted, comedic storytelling.** Funny scripted stories -- TV shows, public service announcements (PSAs), movies, online videos, etc. -- are great for creating relationships between the viewers and your characters. This understanding or empathy can help normalize unfamiliar experiences and expose the viewer to people or situations they might not otherwise encounter.
+* **Humorous ads.** Making someone laugh in a short amount of time captures their attention and sticks in their memory. Humorous ads -- print, online, televised, or radio -- work to quickly grab your attention and can be very memorable. They can also spark discussion and sharing with friends and family.
+* **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
+
+Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you’re funny and therefore successful.
