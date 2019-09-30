@@ -144,3 +144,21 @@ For either of these approaches, it’s best to have immediate actions ready for 
 **Now for each experience, decide whether your audience is likely to experience it themselves, or will need it simulated for them in some way.**
 
 **If they’ll experience it themselves, how will you encourage them to reflect and act from the experience? If they will not experience it for themselves, what are effective ways to simulate the experience and encourage them to reflect on it?**
+
+Sharing People’s Stories
+
+As already discussed, using narrative is a powerful way to emotionally connect with your audience and relay the story of your work, organization, or findings. For the most part, the narrative approaches in Chapter IV are for stories that you created or sought out -- and thereby maintain careful control of the narrative. 
+
+As a related strategy, it can be very compelling to hear from different people about a range of personal experiences or stories. Collecting and curating user-generated videos or stories can show the diversity of experiences and ideas about different issues, increasing the chances that the audience will connect with one of them, and also learn to experience and empathize with different people and points of view. 
+
+This strategy can be difficult to carry out for a number of reasons. People must have an interesting or compelling story to tell. They need to feel safe -- emotionally and physically -- sharing it with you. They need to feel comfortable with the technical aspects of submitting their story (if it requires special equipment, internet bandwidth, etc.). And finally you need to have the staff capacity to vet and curate the stories as they come in -- while you want to show a range of experiences and emotions, you still want the stories to fall within your frame and reinforce your message, and at the very least not contribute to hate speech or abuse. 
+
+But if you can overcome those challenges, the benefits can be great. People love to tell and listen to stories. Showing a range of personal stories can create empathy, understanding, and engagement that data, messaging, and talking points never will. This strategy also gives regular people a way to get involved and feel like their story and experiences are part of a larger community. Learning you are not alone in how you think or what you’ve experienced creates a powerful form of community that will strengthen people’s commitment to your work and cause. 
+
+You might consider this strategy when you think a range of stories will reinforce your overall message and frame, or when a behavior or outcome would benefit from being reinforced by a person’s peer group. For example, perhaps you are trying to boost voter turnout with young women or men ages 18-25. If they aren’t voting because they don’t perceive it as cool or worth their time, then videos, statements, and infographics from an election observation group might not be enough to convince them. However, if they can explore 100 videos of other young women men telling their personal stories of the first time they voted and how it made them feel, your audience is more likely to trust those authentic narratives. They’ll want to belong to a community that votes, like those in the videos. 
+
+In some instances, you may want to recruit and collect the stories yourself. This is a good approach to take if you want them all to look similar aesthetically (you can control how they’re filmed), or you want to solicit stories from specific people and you want to make it easy on them. The drawbacks to this approach are that you’ll need enough staff time and skills to recruit the people, film or otherwise collect their story, and then edit or produce the final narrative. 
+
+Instead, you might opt to have users submit their own stories. This will result in a wider variety of stories and experiences, but they will vary in quality and you will still need staff time to ensure that the stories you display help your mission.  
+
+However you decide to solicit and collect people’s stories, you’ll need to think about how you plan to display them, how people will find them, and what you hope they’ll do once they hear the stories. You may also need to include some kind of legal disclaimer about how and who can publish or share stories, and how they can be used.
