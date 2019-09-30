@@ -77,7 +77,7 @@ Using humor and comedy in your communications can help your message break throug
 
 There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don’t want to be reminded that things are bad, and the path forward is arduous.
 
-The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.  
+The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
 
 {% figure class="left" size "small" %}  
 ![Presentation of how comedy works for social change.](/assets/images/comedy-1-1.jpg)
@@ -99,18 +99,48 @@ There are a number of ways to introduce humor into your communications, and each
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you’re funny and therefore successful.
 
-### YOUR TURN: Look back at your topline and related messages in your communications plan. 
+### YOUR TURN: Look back at your topline and related messages in your communications plan.
 
-Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?
+**Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?**
 
-If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started: 
+**If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:**
 
-{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size_="_small_" %}_
+{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size_="_small_" button="false" %}
 
-{% textarea label="Is there an absurd or ridiculous news event you can satorize in a way that reinforces your message?" id="humor2" size="small" %}
+{% textarea label="Is there an absurd or ridiculous news event you can satorize in a way that reinforces your message?" id="humor2" size="small" button="false" %}
 
-{% textarea label="Is there a well-known expression or idiom that can be changed for your purposes?" id="humor3" size="small" %}
+{% textarea label="Is there a well-known expression or idiom that can be changed for your purposes?" id="humor3" size="small" button="false" %}
 
-{% textarea label="What issue or aspect of your work do you often have the hardest time explaining? Is there a funny way to approach it or a funny outcome you could use to better explain it?" id="humor4" size="small" %}
+{% textarea label="What issue or aspect of your work do you often have the hardest time explaining? Is there a funny way to approach it or a funny outcome you could use to better explain it?" id="humor4" size="small" button="false" %}
 
-{% textarea label="Are there any comedians or comedic actors you can work with?" id="humor5" size="small" %} 
+{% textarea label="Are there any comedians or comedic actors you can work with?" id="humor5" size="small" button="false" %}
+
+## Experiential Learning and Communications
+
+Experiential learning is the process of experiencing something new and then reflecting on that experience to come to new knowledge or larger lessons. It is commonly used in the classroom or in job training programs, and used creatively, the same principles can be applied to a communications campaign.
+
+In some cases, your audience will undergo a new experience themselves, and you can help enrich the reflection stage of the experience so they learn new lessons. For example, if people are showing up at the polls and there is only one candidate on the ballot (or only one viable candidate), they may vote for that one candidate (the experience) and not think much of it because there’s only ever been one candidate on the ballot (no reflection). Instead, you can aim your communications to interact with that voter shortly before or after their experience voting to add context and encourage reflection on their experience. Why was there only one candidate on the ballot? Can you have a credible election without choice? How would the country be different with a real choice at the ballot?
+
+This type of communication can occur on any of the platforms or formats already discussed. For example, you might host a Facebook Live shortly after the election in which you pose questions to the audience aimed at causing reflection and ask them to contribute their thoughts and reactions about their experience in registering to vote. You could run newspaper or digital ads aimed at provoking reflections on common experiences that the audiences had while voting. You could hold community forums or go canvassing door-to-door to hold in-depth conversations in which people share their experience over the course of the election period and, through guided discussion, reflect on that experience to learn larger lessons about democracy, credible elections or accountability in government.
+
+In other cases, your audience may not undergo the experience themselves, and so you’ll want to simulate it for them or otherwise create some kind of empathic connection to the experience. For example, you could create a simple first person, role-playing game that puts the user in the position of having to vote with a physical disability. At each barrier in the process, the player would have to decide what to do or how to handle it. If there are stairs to the entrance of the polling place, players would have the option of asking others to carry them up the stairs or not voting that day and going home instead. By forcing able-bodied players to make choices from the point of view of a disabled voter, the player will reflect on the importance of accessible polling places, something they may not have given much thought to in the past.
+
+You can achieve a similar outcome with videos, virtual reality, slide decks, online quizzes, or first person essays aimed at putting the audience through an experience different from their own. Be sure to structure it in such a way that there is room for reflection about the experience to increase the chance of the audience retaining what it learns.
+
+For either of these approaches, it’s best to have immediate actions ready for someone to take, in order to channel their newfound knowledge and enthusiasm into useful action. This might mean something as simple as signing up for your email list for updates and alerts, or something more involved like protesting inaccessible polling places at the election commission -- but you want to be sure people take action based on what they’ve just experienced and learned.
+
+**YOUR TURN:**
+
+**Are there experiences that your audiences will have or should have that can teach valuable lessons about your work and mission? Brainstorm what those experiences could be:**
+
+{% textarea label="1" id="experience1" size="small" button="false" %}
+
+{% textarea label="2" id="experience2" size="small" button="false" %}
+
+{% textarea label="3" id="experience3" size="small" button="false" %}
+
+{% textarea label="4" id="experience4" size="small" button="false" %}
+
+**Now for each experience, decide whether your audience is likely to experience it themselves, or will need it simulated for them in some way.**
+
+**If they’ll experience it themselves, how will you encourage them to reflect and act from the experience? If they will not experience it for themselves, what are effective ways to simulate the experience and encourage them to reflect on it?**
