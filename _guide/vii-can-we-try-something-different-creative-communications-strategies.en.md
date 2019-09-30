@@ -80,7 +80,7 @@ There are a couple of messaging pitfalls that comedy can help overcome: messages
 The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
 
 {% figure class="left" size "small" %}  
-![Presentation of how comedy works for social change.](/assets/images/comedy-1-1.jpg){% end figure %}
+![Presentation of how comedy works for social change.](/assets/images/comedy-1-1.jpg){% endfigure %}
 
 Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people’s minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic.
 
