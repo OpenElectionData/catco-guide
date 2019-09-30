@@ -156,7 +156,7 @@ As a related strategy, it can be very compelling to hear from different people a
 This strategy can be difficult to carry out for a number of reasons. People must have an interesting or compelling story to tell. They need to feel safe -- emotionally and physically -- sharing it with you. They need to feel comfortable with the technical aspects of submitting their story (if it requires special equipment, internet bandwidth, etc.). And finally you need to have the staff capacity to vet and curate the stories as they come in -- while you want to show a range of experiences and emotions, you still want the stories to fall within your frame and reinforce your message, and at the very least not contribute to hate speech or abuse. 
 
 {% figure caption:"BERSIH 2.0" class="left" %}  
-![](/assets/images/BERSIH_2-1.jpg)
+![](/assets/images/BERSIH_2-1.jpg){% endfigure %}
 
 But if you can overcome those challenges, the benefits can be great. People love to tell and listen to stories. Showing a range of personal stories can create empathy, understanding, and engagement that data, messaging, and talking points never will. This strategy also gives regular people a way to get involved and feel like their story and experiences are part of a larger community. Learning you are not alone in how you think or what you’ve experienced creates a powerful form of community that will strengthen people’s commitment to your work and cause. 
 
