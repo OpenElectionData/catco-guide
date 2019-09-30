@@ -49,3 +49,20 @@ As with your other strategies, any pop culture strategies and tactics you pursue
 **For the narratives that reinforce your message and frame -- especially the ones popular with your target audiences -- how can you amplify and engage with those parts of pop culture? Can you tie your work and message to the pop culture modalities? Can you engage authentically with fans about the real-world counterparts or impact? Can you recruit the stars or spokespeople to join your campaign or collaborate with you in some way?**
 
 **For the narratives that contradict or devalue your message and frame, think about how you can present counter narratives or rebuttals to what is harmful. Can you work directly with the creators to change how your issues are presented within the culture? Can you recruit the actors or artists involved to serve as spokespeople for your cause to debunk some of the harmful messages in their work? Can you parody or play with the original narrative to present your side or ideas instead?**
+
+## _Tips for Collaborating with Artists and Fans_
+
+Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them: 
+
+* **Let the artists do the art.** An artist’s job is to be professionally creative, and you should give them the space to do so. Don’t try to tell them how to do their jobs. Let them pitch ideas of how their talents might be best used. If an idea sounds weird or out there at first, hear them out -- just because it feels uncomfortable or different from how you have done things before doesn’t mean it is a bad idea. Don’t try to rein them in or change their vision unless absolutely necessary.
+* **An artist’s time is valuable.** Artists and other creatives are paid professionals; don’t assume they will volunteer their services. Be prepared to offer and pay them at their market rate. If you can’t afford to pay them, ask them if they will volunteer their services or offer a reduced rate but understand this is a lot to ask for and treat their time with value and respect even if you are not paying for it directly.
+* **Collaborate, don’t dictate.** You’re each bringing different knowledge bases to the table. Form a collaborative partnership where you’re lifting up each other’s work, not trying to make it fit into your preconceived ideas.
+
+One example is when _Black Panther_ (a popular superhero movie which takes place in the mythical African nation of Wakanda) fans organized a “Wakanda The Vote” campaign to register people attending _Black Panther_ film screenings to vote. The idea was not just to watch a screening about a fictional country built on the power of black people, but to simultaneously build black power in the real world.
+
+If you plan to communicate with fan communities, here are some practical tips to keep in mind:
+
+* **Be a fan.** If you want to talk to fan communities about a movie, TV show, book, or musician, be a fan! Fans are fiercely loyal and passionate about the object of their adoration -- don’t start by criticizing or pointing out the shortcomings, but approach from a place of authentic admiration.
+* **Listen.** Spend some time listening to the fans, how they interact, what their internal references and jokes are, and what they love about the thing they’re a fan of. It’s okay to lurk online or at events for a while, just listening to get a sense for the tone and topics to use once you’re ready to engage.
+
+**Have authentic interactions.** Don’t always try to wedge in your talking points or web address. Interact authentically and have real conversations with fans -- pivot to your message when it feels natural.
