@@ -5,7 +5,7 @@ subtitle: Creative Communications Strategies
 image:
   url: ''
   caption: ''
-uses_forms: false
+uses_forms: true
 
 ---
 Politics and elections are serious business. Pushing for democratic progress often involves facing great risks, threats, and even dangers for your organization and -- in some cases -- your own personal safety. But just because the topics and consequences of your work are serious doesn’t mean they should be dense or dull.
@@ -56,7 +56,7 @@ In Malaysia, BERSIH 2.0 experimented with a number of arts and culture tactics t
 
 ## _Tips for Collaborating with Artists and Fans_
 
-Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them: 
+Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them:
 
 * **Let the artists do the art.** An artist’s job is to be professionally creative, and you should give them the space to do so. Don’t try to tell them how to do their jobs. Let them pitch ideas of how their talents might be best used. If an idea sounds weird or out there at first, hear them out -- just because it feels uncomfortable or different from how you have done things before doesn’t mean it is a bad idea. Don’t try to rein them in or change their vision unless absolutely necessary.
 * **An artist’s time is valuable.** Artists and other creatives are paid professionals; don’t assume they will volunteer their services. Be prepared to offer and pay them at their market rate. If you can’t afford to pay them, ask them if they will volunteer their services or offer a reduced rate but understand this is a lot to ask for and treat their time with value and respect even if you are not paying for it directly.
@@ -73,12 +73,14 @@ If you plan to communicate with fan communities, here are some practical tips to
 
 ## The Power of Comedy
 
-Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren’t lighthearted or humorous. 
+Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren’t lighthearted or humorous.
 
-There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don’t want to be reminded that things are bad, and the path forward is arduous. 
+There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don’t want to be reminded that things are bad, and the path forward is arduous.
 
-The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.  
+The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
 
-Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people’s minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic. 
+![](/assets/images/comedy-1-1.jpg)
+
+Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people’s minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic.
 
 There are, of course, times when a light-hearted or humorous approach is inappropriate. But this approach is overlooked often and is so effective that it should at least be considered and integrated when appropriate. 
