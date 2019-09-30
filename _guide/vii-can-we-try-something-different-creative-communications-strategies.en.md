@@ -38,7 +38,7 @@ As with your other strategies, any pop culture strategies and tactics you pursue
 
 **Looking at this list, ask yourself the following questions:**
 
-{% textarea label="}**Do any of these explicitly deal with politics? If so, what are they saying about it?**" id="culure1" size="small" %
+{% textarea label="**Do any of these explicitly deal with politics? If so, what are they saying about it?**" id="culure1" size="small" %}
 
 {% textarea label="**For those that aren’t dealing with politics, what are the dominant narratives? What values or morals do they impart? What ideas do they take for granted or reinforce? What frame are they operating within?**" id="culture2" size="small" %}
 
