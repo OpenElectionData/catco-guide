@@ -100,7 +100,7 @@ If you decide to create a Facebook page for your organization instead of or in a
 
 Facebook accommodates text, links, images, and video. It excels in particular at visual content -- pictures and photo albums, graphics and infographics, produced or live video. When planning your Facebook strategy be sure to include lots of visual content. If your group operates in a closing or closed political environment, however, make sure to use caution when posting videos and/or photos of people and whether it might expose them to security risks, such as intimidation, harassment, or retribution.
 
-{% figure caption:"_Photo: OPORA_" class:"left" %} ![](/assets/images/opora_1.jpg) {% endfigure %}
+{% figure caption:"_OPORA Infographic_" class:"left" %} ![](/assets/images/opora_1.jpg) {% endfigure %}
 
 Pay attention to the types and messages of the content that gets the most engagement (likes, comments, and shares). Track it over time to see what content your audience responds to.
 
@@ -185,6 +185,8 @@ Keep in mind what was covered earlier about narrative. Listing percentages and s
 The leaders/spokespeople of your press conference should be well-rehearsed with your topline message and should understand how to tie their stories and remarks back to the overall messages you are trying to convey. _This is not the time for them to go off message._ In addition to rehearsing their remarks, prepare a list of likely tough questions, and prepare them to answer those questions. Practice using the answers to reiterate your overall messages.
 
 You should also give some thought to the venue and visual look of your press conference. Television and photojournalists will be looking for good visuals, and a well-staged press conference can add to its newsworthiness. For example, if your group found that registered voters were not permitted to vote in a high percentage of polling stations -- assuming that it would be safe and journalists would travel -- you could hold the press conference outside a venue where many voters were denied their right to vote rather than in a hotel conference room. Could several of the people who were unable to vote stand behind the speakers while they talk, perhaps holding signs? Are there other visuals you could set up or project to add to the visual interest of the press conference even if at a standard location, such as projecting slides with relevant infographics, charts, and/or photos while the spokesperson(s) is/are speaking? Would a photo of your press conference show the image of your organization that you want to project and/or tell the story you want to convey?
+
+{% figure caption:"_Photo: PACE_" class:"right" %} ![](/assets/images/Preliminary finding press conference of 2017 By-Elections  (1).JPG) {% endfigure %}
 
 Candidly, a good press conference can be hard to achieve if a lot of egos are involved. If your leaders/spokespeople insist on making long speeches, focusing on their own personal opinions rather than the organization’s findings and talking points, or repeating what the others have said without adding anything new or interesting, you may want to consider other strategies to pursue earned media, like one-on-one interviews with leaders or sending small scoops to different, friendly reporters. If your press conference isn’t interesting enough to earn press coverage, then it is a waste of your time and the reporters’ time. Even worse, if your press conference presents differing viewpoints or goes off message, it can harm your cause and your credibility.
 
