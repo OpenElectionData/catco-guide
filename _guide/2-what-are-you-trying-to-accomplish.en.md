@@ -91,16 +91,25 @@ To illustrate this, let’s build out one of the example goals above with strate
 
 **SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
 
-| Strategies | Tactics| Resources Needed |
+| Strategies | Tactics | Resources Needed |
 | --- | --- | --- |
-| Strategy 1: Use digital advertising to generate web traffic and social reach. |Raise USD 10,000 for an ads budget.<br/><br/> Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences.<br/><br/> Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | $10,000 <br/><br/> 10 hours/week of dedicated staff time |
-| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br/><br/> Reach out to that person and their team. <br/><br/> Provide them with content and instructions on how to help on an ongoing basis. | Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br/><br/>Three hours/week of staff time to manage that relationship and continue to give them updated content to share.|
-| Strategy 3: Use our email list to encourage peer-to-peer social sharing.| Write blog posts twice a week and share them on social media.<br/><br/>Create graphics and videos for social media that people will want to share.<br/><br/> Post once a day.<br/><br/>
-Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |
+| Strategy 1: Use digital advertising to generate web traffic and social reach. | Raise USD 10,000 for an ads budget.<br/><br/> Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences.<br/><br/> Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | $10,000 <br/><br/> 10 hours/week of dedicated staff time |
+| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br/><br/> Reach out to that person and their team. <br/><br/> Provide them with content and instructions on how to help on an ongoing basis. | Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br/><br/>Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
+| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br/><br/>Create graphics and videos for social media that people will want to share.<br/><br/> Post once a day.<br/><br/> |  |
+| Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |  |
 
 {: .table--cols-equal}
 
 ### Your Turn: Identifying Strategies, Tactics, and Resources
+
 Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That’s okay! Adjust your goals to reflect what you can realistically achieve.
 
 **Goal 1:**
+
+{% textarea label="List your tactics and resources for Strategy 1" id="Goal1" size="large" %}
+
+{% textarea label="List your tactics and resources for Strategy 2" id="Goal2" size="large" %}
+
+{% textarea label="List your tactics and resources for Strategy 3" id="Goal3" size="large" %}
+
+Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them – from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group’s communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
