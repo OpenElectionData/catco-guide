@@ -219,3 +219,25 @@ The group organizes town hall meetings for young people and lawmakers to have di
 {% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ") {% endfigure %}
 
 One town hall held in December 2017 was amplified to the point where it was trending throughout social and traditional media. In addition to reaching more people and raising awareness about the issue, the strategy worked to encourage lawmakers in attendance to vote to lower the age limit for candidates running for office. {% endcallout %}
+
+### Your Turn 
+
+**Brainstorm a list of the various communications tools and platforms available to you. They might be some or all of what we listed above, or they might be unique tools and platforms to where you are, your resources, and your circumstances.**
+
+**  
+ Here are some questions to get you started:**
+
+* **What print publications are popular in your country and with whom?**
+* **What TV and radio stations or programs are popular in your country and with whom?**
+* **Are there blogs or websites focused on politics and elections that are widely read?** 
+* **What are the political leanings (if any) of the print, broadcast, or internet outlets you’ve listed?** 
+* **What social networks are popular and with whom?** 
+* **What messaging platforms are most popular and with whom?** 
+* **How do you get your information?** 
+* **How do your parents get their information?** 
+* **How do your grandparents get their information?**
+* **How do your children get their information?**
+
+**Now start matching up the different communications channels to your target audiences. Rely on your audience research here, if possible, rather than guessing.**
+
+Continuing our example, your communications plan might start to look like this:
