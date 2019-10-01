@@ -4,8 +4,8 @@ uses_forms: true
 title: '6. Where Will You Say It? '
 subtitle: 'Identifying the Best Platform '
 image:
-  url: ''
-  caption: ''
+  url: "/assets/images/NDI_Honduras.jpg"
+  caption: 'Photo: NDI Honduras '
 published: false
 
 ---
