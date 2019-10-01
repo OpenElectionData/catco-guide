@@ -41,6 +41,7 @@ fields:
     name: caption
     label: Image Caption
 pages:
+- _guide/testy-test-test.en.md
 - _guide/6-where-will-you-say-it.en.md
 - _guide/5-how-will-you-say-it.en.md
 - _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
