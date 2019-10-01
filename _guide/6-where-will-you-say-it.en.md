@@ -100,6 +100,8 @@ If you decide to create a Facebook page for your organization instead of or in a
 
 Facebook accommodates text, links, images, and video. It excels in particular at visual content -- pictures and photo albums, graphics and infographics, produced or live video. When planning your Facebook strategy be sure to include lots of visual content. If your group operates in a closing or closed political environment, however, make sure to use caution when posting videos and/or photos of people and whether it might expose them to security risks, such as intimidation, harassment, or retribution.
 
+{% figure caption:"_Photo: OPORA_" class:"left" %} ![](/assets/images/opora_1.jpg) {% endfigure %}
+
 Pay attention to the types and messages of the content that gets the most engagement (likes, comments, and shares). Track it over time to see what content your audience responds to.
 
 You can also try posting several versions or presentations of the same data. Because only a fraction of your followers will see a given post, you don’t risk them seeing the same thing many times, but you gain valuable insights about which graphic or type of presentation gets the most engagement and understanding from your audience, and you can model future content on what you learn.
