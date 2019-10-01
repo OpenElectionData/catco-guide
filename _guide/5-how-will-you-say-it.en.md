@@ -36,7 +36,7 @@ A well-written press release should read like a news article -- a news article w
   1. A **media advisory** is an invitation to the press to come to a newsworthy event (a press conference, press call, demonstration, photo opportunity, etc). It should have clear details on when and where the event is happening, who will be there, and why it is newsworthy.
   2. A **press statement** is a quote that reporters can use in their stories. It should be considerably shorter than a press release, have a sentence or two about the context or precipitating event, followed by a newsworthy quote, and a sentence or two about the organization’s work and mission. (Note: a press statement is not the same as an observation statement or report - see below.)
   3. Finally, a **press release** is the longest of these three types of media documents. It should be written in the style of a news story and framed the way you want the media to frame your work, issue, or findings. See the section on _Additional Resources_ for sample press releases from YIAGA AFRICA in Nigeria and PACE in Myanmar.
-  * Be sure to translate your press materials into English in order to make them easily available for international media.
+* Be sure to translate your press materials into English in order to make them easily available for international media.
 
 ## Best Practices for Writing Observation Statements and Other Reports
 
@@ -81,23 +81,38 @@ Audio and video content can be great for capturing stories, conveying informatio
 * If you are taking video or audio clips with your phone, be aware that the microphone will be closer to you than to your subject. The microphone will be more likely to pick up your instructions or your side of the conversation due to proximity. To make this easier to fix or edit later, avoid speaking over your subject. Let your subject say everything they need to say without interruptions, then ask the next question or give the next instruction when they have finished speaking.
 * **Subtitles:** If you plan to post your video to social media, be sure to subtitle it. Most people scrolling through Facebook or Instagram will not have their sound turned on. In addition, if people in the video are speaking in the local language you may want to consider subtitles in English, especially if your audience is the international community.
 
-  {% callout title="Using Video to Convey Key Information to the Public" %} To expand their external outreach in a more visual manner, the [International Society for fair Elections and Democracy (ISFED)](https://isfed.ge/eng) produced an ["About Us" video](https://www.youtube.com/watch?v=JV_dcsCmasU) explaining the organization’s history, their work in election observation, methodologies used, and technology and outreach tools utilized. The video features several key individuals from ISFED’s staff who speak to different parts of ISFED’s story as an organization, and also includes subtitles in English (when someone is speaking in Georgian) and in Georgian (when someone is speaking in English), expanding the reach of who is able to view and understand the video.
+{% callout title="Using Video to Convey Key Information to the Public" %} To expand their external outreach in a more visual manner, the [International Society for fair Elections and Democracy (ISFED)](https://isfed.ge/eng) produced an ["About Us" video](https://www.youtube.com/watch?v=JV_dcsCmasU) explaining the organization’s history, their work in election observation, methodologies used, and technology and outreach tools utilized. The video features several key individuals from ISFED’s staff who speak to different parts of ISFED’s story as an organization, and also includes subtitles in English (when someone is speaking in Georgian) and in Georgian (when someone is speaking in English), expanding the reach of who is able to view and understand the video.
 
-  Leading up to the 2019 general elections in Nigeria, YIAGA AFRICA released videos highlighting various components of their election observation effort and relevant voter education issues in the lead up to election day. One [video](https://www.youtube.com/watch?v=Qxogx-9fagw&feature=youtu.be) focused on political party agents’ participation in the electoral process. The video featured YIAGA AFRICA’s PVT Director explaining the need for political parties to observe the process in polling units, yet the video also cut to infographics showing data collected from PVTs in prior years. Another [video](https://www.youtube.com/watch?v=eWh2YHMeI_4&feature=youtu.be) focused on the introduction of electronic voting technologies in Nigeria, following a similar format.{% endcallout %}
+ 
 
-  ## Live Stream Video
+{% figure caption:"_Photo: ISFED_" class:"right" %} 
 
-  Facebook, Twitter, Instagram, YouTube, and some regional social networks now all allow for live streaming, which can be a powerful tool. Essentially, live streaming allows you to become your own broadcast television station, curating your own content, and showing events unfold live and unedited. Live streaming is good at conveying urgency and/or for interacting with your audience. It’s a great tool for broadcasting events from the field as they unfold or for having a dialogue with your viewers. In addition, your live stream video can also be archived and shared for viewing later by your followers. Here are some tips for producing a successful live stream:
-  * **Logistics:** Be sure you have bandwidth and battery power. Live streaming needs a reliable internet or data connection and uses a lot of battery power if you are live streaming via cell phone. Plan for what to do if the internet goes down before or during your live stream.
-  * **Outreach:** Tell people you’ll be live. Advertise your live stream ahead of time so people know how and when to tune in. Facebook even allows you to “reserve” a live streaming time so you can circulate the link ahead of time. Ask for questions or comments ahead of the live stream, if you’ll be taking or addressing questions.
-  * **Repetition:** Keep reiterating your main points. Your audience will be tuning in and out for small intervals. New people will be joining all the time. Be sure to reiterate your main points frequently, and introduce yourself and your purpose frequently too.
-  * **Make a plan:** A live stream isn’t an excuse to do an improvised hour. Think about who will appear on the live stream and prep them as much as possible: what information are you sure you want to convey, what messages should be emphasized, what questions will you ask, etc.
-  * **Tools:** Software like the [OBS platform](https://obsproject.com/) allows you to produce fairly sophisticated live streams for free or cheap. You can stream to multiple platforms, insert captions or lower thirds, or other graphics, add commentary to another live stream as it happens, and more.
+![Image shows a person utilizing SMS services to collect information.](/assets/images/ISFED-2.jpg 'ISFED produced an "About Us" video')
 
-  ### Your Turn: Communications Products
+{% endfigure %}
 
-  **Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you’re targeting and advance your goals.**
+Leading up to the 2019 general elections in Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) released videos highlighting various components of their election observation effort and relevant voter education issues in the lead up to election day. One [video](https://www.youtube.com/watch?v=Qxogx-9fagw&feature=youtu.be) focused on political party agents’ participation in the electoral process. The video featured YIAGA AFRICA’s PVT Director explaining the need for political parties to observe the process in polling units, yet the video also cut to infographics showing data collected from PVTs in prior years. Another [video](https://www.youtube.com/watch?v=eWh2YHMeI_4&feature=youtu.be) focused on the introduction of electronic voting technologies in Nigeria, following a similar format.
 
-  **Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences.**
+{% figure caption:"Image caption goes here" class:"left" %}
+![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
+{% endfigure %}
 
-  **GOAL:**
+{% endcallout %}
+
+## Live Stream Video
+
+Facebook, Twitter, Instagram, YouTube, and some regional social networks now all allow for live streaming, which can be a powerful tool. Essentially, live streaming allows you to become your own broadcast television station, curating your own content, and showing events unfold live and unedited. Live streaming is good at conveying urgency and/or for interacting with your audience. It’s a great tool for broadcasting events from the field as they unfold or for having a dialogue with your viewers. In addition, your live stream video can also be archived and shared for viewing later by your followers. Here are some tips for producing a successful live stream:
+
+* **Logistics:** Be sure you have bandwidth and battery power. Live streaming needs a reliable internet or data connection and uses a lot of battery power if you are live streaming via cell phone. Plan for what to do if the internet goes down before or during your live stream.
+* **Outreach:** Tell people you’ll be live. Advertise your live stream ahead of time so people know how and when to tune in. Facebook even allows you to “reserve” a live streaming time so you can circulate the link ahead of time. Ask for questions or comments ahead of the live stream, if you’ll be taking or addressing questions.
+* **Repetition:** Keep reiterating your main points. Your audience will be tuning in and out for small intervals. New people will be joining all the time. Be sure to reiterate your main points frequently, and introduce yourself and your purpose frequently too.
+* **Make a plan:** A live stream isn’t an excuse to do an improvised hour. Think about who will appear on the live stream and prep them as much as possible: what information are you sure you want to convey, what messages should be emphasized, what questions will you ask, etc.
+* **Tools:** Software like the [OBS platform](https://obsproject.com/) allows you to produce fairly sophisticated live streams for free or cheap. You can stream to multiple platforms, insert captions or lower thirds, or other graphics, add commentary to another live stream as it happens, and more.
+
+### Your Turn: Communications Products
+
+**Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you’re targeting and advance your goals.**
+
+**Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences.**
+
+**GOAL:**
