@@ -29,7 +29,7 @@ Brainstorm communications goals by yourself or with your team by thinking about 
 * Do we want to change laws or policies?
 * What do people need to understand or be educated about?
 
-{% textarea label="List Your Goals Below" id="1" size="large" %}
+{% textarea label="List Your Goals Below" id="goals" size="large" %}
 
 You may have brainstormed a long list of things you hope to accomplish, but it’s important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn’t mean you have to give up on them forever - you can always turn your attention to them at a later date.
 
@@ -55,15 +55,15 @@ By defining the time-specific aspect of your goals, you’ll get a better sense 
 
 Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
 
-{% textarea label="1" id="id1" size="small" %}
+{% textarea label="goals1" id="goals1" size="small" %}
 
-{% textarea label="2" id="id2" size="small" %}
+{% textarea label="goals2" id="goals2" size="small" %}
 
-{% textarea label="3" id="id3" size="small" %}
+{% textarea label="goals3" id="goals3" size="small" %}
 
-{% textarea label="4" id="id4" size="small" %}
+{% textarea label="goals4" id="goals4" size="small" %}
 
-{% textarea label="5" id="id5" size="small" %}
+{% textarea label="goals5" id="goals5" size="small" %}
 
 Your communications strategies and tactics will flow directly from your goals. _Try not to get distracted by tasks that do not ultimately help you achieve your goals._
 
@@ -72,7 +72,7 @@ In Malaysia, the [BERSIH 2.0](http://www.bersih.org/) group gathers at the start
 
 “To be able to build a movement, your leadership really needs to be strong,” said Maria Chin Abdullah, former Chairperson of BERSIH 2.0. “People will have differences of opinions, but at the end of the day, the leadership needs to be working together toward common goals.”
 
-![](/assets/images/BERSIH_3.jpg)
+![BERSIH 2.0 memebrs encouraging people to vote](/assets/images/BERSIH_3.jpg "Photo from BERSIH 2.0")
 
 {% endcallout %}
 
