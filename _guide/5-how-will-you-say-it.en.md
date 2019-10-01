@@ -6,6 +6,7 @@ subtitle: 'Identifying The Best Format '
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 The way you present your content can often have as big an impact as the content itself on how it is received and retained. A well-packaged message will stay with the audience far longer than a dull or unattractive one. It’s worth spending some time thinking about the best way to present your message and story, depending on both the type of information you’re trying to relay and the way your audience is primed to absorb it.
@@ -17,8 +18,6 @@ Text is often the preferred way of relaying information. It offers the writer ti
 Press releases, written reports, emails, and blog posts are all common ways of writing and relaying findings and observations. The biggest pitfalls with these forms of communications are that they can be too long and unengaging. A dry, 30-page written report of election findings doesn’t do much good if no one reads past page one. Some tips to keep in mind for your written communications:
 
 * With all written materials, be sure that the most important information is conveyed close to the beginning. Ask yourself, if someone only spent one minute reading this, would they have learned the most important information? With longer reports, include a short executive summary to start with that outlines your main findings.
-
-
 * Use illustrative stories and the narrative structure covered previously whenever you can. People are more likely to stay engaged and keep reading past the one minute mark if they are personally or emotionally drawn to what you are writing. Instead of leading with facts and statistics, focus on values and personal stakes or outcomes.
 * Use illustrative stories and the narrative structure covered previously whenever you can. People are more likely to stay engaged and keep reading past the one minute mark if they are personally or emotionally drawn to what you are writing. Instead of leading with facts and statistics, focus on values and personal stakes or outcomes.
 
@@ -34,9 +33,9 @@ A well-written press release should read like a news article -- a news article w
 * As with all your written materials, make sure your press release is on message and does not contradict your frame.
 * While the media is your primary audience for a press release, they can also be powerful ways to communicate your findings or issue to members of the public. If you plan to post the press release on your website, send it as an email to your members, or post it to social media and make sure it uses language and tone that all audiences will easily understand and appreciate.
 * Know the difference between a **media advisory**, a **press statement**, and a **press release**.
-  * A **media advisory** is an invitation to the press to come to a newsworthy event (a press conference, press call, demonstration, photo opportunity, etc). It should have clear details on when and where the event is happening, who will be there, and why it is newsworthy.
-  * A **press statement** is a quote that reporters can use in their stories. It should be considerably shorter than a press release, have a sentence or two about the context or precipitating event, followed by a newsworthy quote, and a sentence or two about the organization’s work and mission. (Note: a press statement is not the same as an observation statement or report - see below.)
-  * Finally, a **press release** is the longest of these three types of media documents. It should be written in the style of a news story and framed the way you want the media to frame your work, issue, or findings. See the section on _Additional Resources_ for sample press releases from YIAGA AFRICA in Nigeria and PACE in Myanmar.
+  1. A **media advisory** is an invitation to the press to come to a newsworthy event (a press conference, press call, demonstration, photo opportunity, etc). It should have clear details on when and where the event is happening, who will be there, and why it is newsworthy.
+  2. A **press statement** is a quote that reporters can use in their stories. It should be considerably shorter than a press release, have a sentence or two about the context or precipitating event, followed by a newsworthy quote, and a sentence or two about the organization’s work and mission. (Note: a press statement is not the same as an observation statement or report - see below.)
+  3. Finally, a **press release** is the longest of these three types of media documents. It should be written in the style of a news story and framed the way you want the media to frame your work, issue, or findings. See the section on _Additional Resources_ for sample press releases from YIAGA AFRICA in Nigeria and PACE in Myanmar.
   * Be sure to translate your press materials into English in order to make them easily available for international media.
 
 ## Best Practices for Writing Observation Statements and Other Reports
@@ -72,9 +71,9 @@ Many people are visual learners and can retain information better if it’s pres
 
 R2C’s social media content now focuses on authentic, clear content based on facts, rather than recycling irrelevant memes. {% endcallout %}
 
-## Audio and Video Content 
+## Audio and Video Content
 
-Audio and video content can be great for capturing stories, conveying information in a short period of time, and connecting emotionally with your audience. Here are some tips for producing great video or audio content: 
+Audio and video content can be great for capturing stories, conveying information in a short period of time, and connecting emotionally with your audience. Here are some tips for producing great video or audio content:
 
 * **Film quality:** There is no one single rule for the quality of a video, but the quality should reflect the larger message and point you’re trying to get across. A video from inside a polling station taken on a cell phone or in the middle of a protest may be shaky or grainy, but that conveys authenticity. However, an explainer video that’s meant to establish your professionalism and expertise should be well-shot and nicely edited to get that point across.
 * **Length:** There is also no one single rule for the length of your video. As with text, be sure to include the most important information at the start of your video. People will rarely watch past the first minute, and on social media they will likely not watch past 10 seconds. Starting with an introduction to the topic or the speaker is wasting precious seconds that aren’t conveying the most important information. But, while remaining concise and getting to the point quickly, you should take the time you need to convey your information, narrative, and point of view effectively.
@@ -89,13 +88,13 @@ Audio and video content can be great for capturing stories, conveying informatio
   ## Live Stream Video
 
   Facebook, Twitter, Instagram, YouTube, and some regional social networks now all allow for live streaming, which can be a powerful tool. Essentially, live streaming allows you to become your own broadcast television station, curating your own content, and showing events unfold live and unedited. Live streaming is good at conveying urgency and/or for interacting with your audience. It’s a great tool for broadcasting events from the field as they unfold or for having a dialogue with your viewers. In addition, your live stream video can also be archived and shared for viewing later by your followers. Here are some tips for producing a successful live stream:
-  *  **Logistics:** Be sure you have bandwidth and battery power. Live streaming needs a reliable internet or data connection and uses a lot of battery power if you are live streaming via cell phone. Plan for what to do if the internet goes down before or during your live stream.
-  *  **Outreach:** Tell people you’ll be live. Advertise your live stream ahead of time so people know how and when to tune in. Facebook even allows you to “reserve” a live streaming time so you can circulate the link ahead of time. Ask for questions or comments ahead of the live stream, if you’ll be taking or addressing questions.
-  *  **Repetition:** Keep reiterating your main points. Your audience will be tuning in and out for small intervals. New people will be joining all the time. Be sure to reiterate your main points frequently, and introduce yourself and your purpose frequently too.
-  *  **Make a plan:** A live stream isn’t an excuse to do an improvised hour. Think about who will appear on the live stream and prep them as much as possible: what information are you sure you want to convey, what messages should be emphasized, what questions will you ask, etc.
-  *  **Tools:** Software like the [OBS platform](https://obsproject.com/) allows you to produce fairly sophisticated live streams for free or cheap. You can stream to multiple platforms, insert captions or lower thirds, or other graphics, add commentary to another live stream as it happens, and more.
+  * **Logistics:** Be sure you have bandwidth and battery power. Live streaming needs a reliable internet or data connection and uses a lot of battery power if you are live streaming via cell phone. Plan for what to do if the internet goes down before or during your live stream.
+  * **Outreach:** Tell people you’ll be live. Advertise your live stream ahead of time so people know how and when to tune in. Facebook even allows you to “reserve” a live streaming time so you can circulate the link ahead of time. Ask for questions or comments ahead of the live stream, if you’ll be taking or addressing questions.
+  * **Repetition:** Keep reiterating your main points. Your audience will be tuning in and out for small intervals. New people will be joining all the time. Be sure to reiterate your main points frequently, and introduce yourself and your purpose frequently too.
+  * **Make a plan:** A live stream isn’t an excuse to do an improvised hour. Think about who will appear on the live stream and prep them as much as possible: what information are you sure you want to convey, what messages should be emphasized, what questions will you ask, etc.
+  * **Tools:** Software like the [OBS platform](https://obsproject.com/) allows you to produce fairly sophisticated live streams for free or cheap. You can stream to multiple platforms, insert captions or lower thirds, or other graphics, add commentary to another live stream as it happens, and more.
 
-  ### Your Turn: Communications Products  
+  ### Your Turn: Communications Products
 
   **Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you’re targeting and advance your goals.**
 
