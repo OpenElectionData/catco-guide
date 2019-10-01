@@ -241,3 +241,19 @@ One town hall held in December 2017 was amplified to the point where it was tren
 **Now start matching up the different communications channels to your target audiences. Rely on your audience research here, if possible, rather than guessing.**
 
 Continuing our example, your communications plan might start to look like this:
+
+\[enter picture of table here\]
+
+## Got to People Where They Are
+
+{% figure caption:"_Photo: PACE_" class:"center" %} ![](/assets/images/pace_2.jpg) {% endfigure %}
+
+Remember to try to go to people where they already are. If your target audience is mostly on Facebook, don’t try to contact them via email. If your target audience gets most of their news in the daily paper, don’t play radio ads for them. If your target audience gets most of their news at the barber shop, you need to consider a barber outreach program.
+
+Since you may not belong to the demographics you’re reaching out to, you may not be fluent in the ways people are communicating with each other on these different channels.
+
+In this case, spend as much time as you can researching and exploring the different online and offline channels before diving in. If your audience is on Facebook and you are not a member, join. See how people interact with each other and like different pages. Assess what kinds of content spark the most conversation or comments, the tone with which people speak to each other, what slang or abbreviations might be popular on the site, how often people post, and so on. Try to get familiar with how to use the platform before you increase your organization’s use of it.
+
+If your audience listens to a certain radio program during which you want to buy advertising, listen to that program for a couple of weeks and take note of the advertising. What type and tone of advertising is already there? What does the radio program’s content say about the likes and interests of your audience? If you are targeting a specific blogger, read that person’s blog, post comments to the blog, and strike up a relationship with the blogger to the extent possible through available channels.
+
+Do not try to lure people away from the networks they’re already a part of just because you are uncomfortable or unaware of those networks. If you have an active and interesting Twitter feed but all of your potential supporters are on Facebook, you are wasting your time.
