@@ -119,8 +119,32 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Target Audience 1**
 
+{% textarea label="Who are they?" id="Audience 1" size="small" %}
+
+{% textarea label="What message will you use?" id="Message 1" size="small" %}
+
+{% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" %}
+
 **Target Audience 2**
+
+{% textarea label="Who are they?" id="Audience 2" size="small" %}
+
+{% textarea label="What message will you use?" id="Message 2" size="small" %}
+
+{% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" %}
 
 **Target Audience 3**
 
+{% textarea label="Who are they?" id="Audience 3" size="small" %}
+
+{% textarea label="What message will you use?" id="Message 3" size="small" %}
+
+{% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" %}
+
 **Target Audience 4**
+
+{% textarea label="Who are they?" id="Audience 4" size="small" %}
+
+{% textarea label="What message will you use?" id="Message 4" size="small" %}
+
+{% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" %}
