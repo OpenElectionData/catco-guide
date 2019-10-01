@@ -6,7 +6,6 @@ subtitle: ''
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 This is a test. You can delete me and not worry. 
