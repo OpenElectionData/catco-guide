@@ -96,12 +96,6 @@ If the account is fake, report or flag it on the platform for violating the term
 
 ## Responding to Crises of Your Own Making
 
-{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." class:"right" %} 
-
-![On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report.](/assets/images/BERSIH_4-1.jpg "BERSIH 2.0 Photo")
-
-{% endfigure %}
-
 It happens to the best of us -- sometimes the crisis is something we cause ourselves. Maybe the leadership got caught doing something wrong, maybe a tweet was offensive or insensitive, maybe the newsletter went out with inaccurate information. _These things will happen._ It’s how you handle them that people will remember.
 
 {% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." %} 
