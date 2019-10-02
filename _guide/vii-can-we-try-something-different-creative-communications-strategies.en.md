@@ -79,7 +79,7 @@ There are a couple of messaging pitfalls that comedy can help overcome: messages
 
 The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
 
-{% figure caption:"Academy on Strengthening Citizen Observation in Closing Spaces." class:"left" %}  
+{% figure caption:"Academy on Strengthening Citizen Observation in Closing Spaces. NDI Photo." class:"left" %}  
 ![Academy on Strengthening Citizen Observation in Closing Spaces.](/assets/images/comedy-1-1.jpg "NDI Photo") {% endfigure %}
 
 Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people’s minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic.
@@ -155,7 +155,7 @@ As a related strategy, it can be very compelling to hear from different people a
 
 This strategy can be difficult to carry out for a number of reasons. People must have an interesting or compelling story to tell. They need to feel safe -- emotionally and physically -- sharing it with you. They need to feel comfortable with the technical aspects of submitting their story (if it requires special equipment, internet bandwidth, etc.). And finally you need to have the staff capacity to vet and curate the stories as they come in -- while you want to show a range of experiences and emotions, you still want the stories to fall within your frame and reinforce your message, and at the very least not contribute to hate speech or abuse.
 
-{% figure caption:"Protesters hold placards with caracature depicting Najib Razak, Rosmah Mansur, Jho Low." class:"left" %}  
+{% figure caption:"Protesters hold placards with caracature depicting Najib Razak, Rosmah Mansur, Jho Low. BERSIH 2.0" class:"left" %}  
 ![Protesters hold placards with caracature depicting Najib Razak, Rosmah Mansur, Jho Low.](/assets/images/BERSIH_2-1.jpg "BERSIH 2.0"){% endfigure %}
 
 But if you can overcome those challenges, the benefits can be great. People love to tell and listen to stories. Showing a range of personal stories can create empathy, understanding, and engagement that data, messaging, and talking points never will. This strategy also gives regular people a way to get involved and feel like their story and experiences are part of a larger community. Learning you are not alone in how you think or what you’ve experienced creates a powerful form of community that will strengthen people’s commitment to your work and cause.
