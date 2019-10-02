@@ -75,6 +75,12 @@ Fake, automated social media accounts, aka bots, are becoming an increasingly po
 
 Signs that the account is actually a bot:
 
+{% figure caption:"NDI Kosovo Photo." class:"right" %}
+
+![Two women interviewed in a television studio.](/assets/images/kosovo-2.jpg "NDI Kosovo Photo")
+
+{% endfigure %}
+
 * **The bio or profile picture are suspect.** Look at the bio of the account -- does it sound like a real person? Is there any personal information in it? Is the profile picture of a real person or a blank silhouette? If it’s a silhouette, that strongly increases the chances it’s a bot. If it’s a real person, do a reverse image search of the picture. If the picture appears frequently across the internet, it is probably a fake account.
 * **The account’s posting behavior is suspect.** Is the account posting more frequently an even an energetic person would likely be able to (for example, more than 50 times per day)? Is it retweeting what look to be other fake accounts with frequency? Is it posting political propaganda or fake news? Is it posting commercial or advertising messages frequently? Or retweeting messages in a number of different languages? These are all signs the account may be fake.
 * **The accounts followers are suspect.** Does the account have a high percentage of followers with silhouette avatars or other signs that they are fake? Did the account receive a large number of followers in a very short period of time? Is the account following a huge amount of accounts but has almost no followers itself? These are signs that the account is likely to be a bot.
@@ -82,7 +88,7 @@ Signs that the account is actually a bot:
 
 If the account is fake, report or flag it on the platform for violating the terms of service. Feel free to block or mute the fake account, and don’t waste any time arguing with the bot.
 
-{% figure caption:"NDI Kosovo Photo." class:"right" %}
+{% figure caption:"NDI Kosovo Photo." class:"left" %}
 
 ![Two women interviewed in a television studio.](/assets/images/kosovo-2.jpg "NDI Kosovo Photo")
 
