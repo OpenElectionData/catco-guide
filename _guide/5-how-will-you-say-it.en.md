@@ -6,6 +6,7 @@ subtitle: 'Identifying The Best Format '
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 The way you present your content can often have as big an impact as the content itself on how it is received and retained. A well-packaged message will stay with the audience far longer than a dull or unattractive one. It’s worth spending some time thinking about the best way to present your message and story, depending on both the type of information you’re trying to relay and the way your audience is primed to absorb it.
@@ -37,6 +38,9 @@ A well-written press release should read like a news article -- a news article w
   3. Finally, a **press release** is the longest of these three types of media documents. It should be written in the style of a news story and framed the way you want the media to frame your work, issue, or findings. See the section on _Additional Resources_ for sample press releases from YIAGA AFRICA in Nigeria and PACE in Myanmar.
 * Be sure to translate your press materials into English in order to make them easily available for international media.
 
+{% figure caption:"Image caption goes here" class:"center" %} ![](/assets/images/yiaga_1-2.jpg)
+{% endfigure %}
+
 ## Best Practices for Writing Observation Statements and Other Reports
 
 An **observation statement or report** is a longer document (that may be summarized in a press release and/or press statement) to convey the findings and recommendations from your organization’s observation effort to the public. Most election observation organizations will release periodic statements on the pre-election environment as well as a statement or statements on the conduct of election day processes and a final report that provides comprehensive analysis of all aspects of the election observed. These documents serve as an important written record of the electoral integrity issues that emerged during the course of a given election cycle. They also present your group’s findings about major successes and gaps in the electoral process, thereby enabling election stakeholders to set benchmarks for future elections and establish clear agendas for electoral reform. In addition to the general tips provided above regarding all written content, observation statements or reports should reflect the following:
@@ -46,7 +50,7 @@ An **observation statement or report** is a longer document (that may be summari
 * Include an explanation of your observation methodology which highlights how observers were deployed and collected information.
 * Include a section providing more in-depth information on your findings and analysis. When possible, this can be broken up into sub-sections to better organize your findings. For instance, a long-term observation statement may include the sub-sections “Voter Registration,” “Campaign Events,” or “Candidate Nomination Process.”
 * Include a section for recommendations that are specific, realistic, targeted, and action-based.
-* Where relevant, reference international or regional commitments and standards (such as the [_Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations_](https://gndem.org/assets/pdfs/DoGP_en.pdf); the International Covenant on Civil and Political Rights, General Comment 25; the African Charter on Democracy, Elections, and Governance; or the OSCE Copenhagen Document).
+* Where relevant, reference international or regional commitments and standards (such as the [_Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations_](https://gndem.org/assets/pdfs/DoGP_en.pdf); the International Covenant on Civil and Political Rights, General Comment 25; t[he African Charter on Democracy, Elections, and Governance](https://au.int/en/treaties/african-charter-democracy-elections-and-governance); or the [OSCE Copenhagen Document](https://www.osce.org/odihr/elections/14304?download=true)).
 * Strategically incorporate data visualization, such as charts, maps, infographics, or photographs, especially if you want to highlight a particular finding or if the visualization makes it easier to understand.
 * Pay attention to tone and word choice in your statements. Avoid inflammatory language or words that may otherwise resonate with your audience in a way you were not intending.
 * Like press releases, always try to translate reports into English to appeal to a more international audience.
