@@ -29,3 +29,55 @@ In Belarus, Right To Choose (R2C) was the target of a PR campaign designed to sm
 
 The recording would have been a lot harder to combat if it had gone immediately to major news outlets, and underscored to the group the importance of having a plan and sample drafts prepared in order to respond quickly and forcefully should something similar happen in the future.
 {% endcallout %}
+
+## Prepare What You Can
+
+A crisis by definition is fast-moving and high-stress. It’s worth spending time at the beginning of a campaign preparing your crisis materials and preparing your staff and validators while you have the time and space to be more relaxed and thoughtful.
+
+* **Create your materials.** Prepare sample blog posts, fact sheets, frequently asked questions (FAQs) for reporters, press releases, emails, text messages, and/or social media content. There will inevitably be placeholders and edits that need to be made in the moment, but if you have the outlines and templates already done, you will feel more in control and able to respond more quickly in the moment.
+* **Appoint and prepare your spokespeople.** Have a clear plan and internal understanding of who can speak on behalf of the organization in a crisis situation. Do all staff have the authority to speak directly to reporters or post on social media? Or do they need to refer all inquiries to an organizational spokesperson? If the spokesperson is unavailable (out of the country, in jail, etc.), who is next in line to serve as spokesperson? Once this plan is clearly laid out to your staff, spend some time training and preparing those who have been designated as spokespeople. Practice your messaging and responses with them so the responses sound natural. Try asking them hard questions and “gotcha” questions so they get comfortable responding in hostile situations.
+* **Line up your validators.** If you believe there is a realistic chance that you, your leadership, or your organization will be attacked for being un-credible, corrupt, foreign agents, or otherwise untrustworthy, your own denials or responses may not be enough. In that case you’ll need to line up and prepare any third-party validators and influencers that you believe will be willing to speak up on your behalf and vouch for your good values and intentions. Approach these people early on and see if they will be willing to join a “rapid response” list, then give them materials and briefings on what to do and what to say if they are needed.
+* **Secure your communications.** If you think your mobile or internet access will be restricted or blocked at a crucial time, or if you think your emails or digital communications are in danger of being hacked, take the necessary digital safety precautions. Train your staff on best practices for keeping safe online. Have a plan for getting your message and content out when the internet or mobile networks are disabled.
+
+**Prepare international support.** It might be hard for your message to break through if social media or state media is being flooded by mis- or disinformation. In that case, you might want to rely on organized diaspora communities or international influencers to get your message through on social media or through other trusted, unofficial channels. Let them know ahead of time what kinds of attacks you expect, why they should be skeptical of them, and how they can help you fight back against mis- or disinformation and attacks. You want them to feel empowered to stand up for the truth or come to your defense if needed.
+
+{% callout title="Planning Ahead for Likely Threats" %}
+In Serbia, CRTA develops a crisis plan for a variety of different scenarios on election day -- violence, failure of communications channels, etc. 
+
+This planning proved useful when one of their observers was physically attacked on election day. Because the group had a clear process for centralizing decision making and controlling information, they were able to release a measured message about the attack without causing a panic among other observers or the public. The group made clear that it would not allow other observers to be attacked, and that they had the backing of the public on their side -- a message that resonated with the public and was successful at stopping more violence against observers. 
+
+“Plan for risks and how to mitigate them,” says Rasa Nedeljkov, CRTA’s program director. “Be as imaginative as possible, write them down, and plan a simulation.”
+{% endcallout %}
+
+## Tracking and Anticipating Attacks
+
+In some cases, your opposition or attackers may be using easily-accessed tools and platforms to plan their attacks or opposition to your organization and/or the issues you care about. You should be actively monitoring these online spaces in order to anticipate the messaging and tactics of what is coming your way, and be able to get ahead of it and prepare for it tas much as possible. 
+
+Set up a dummy account in the relevant chat rooms or platforms. Depending on your country context, some places where your opposition might be organizing are Reddit, Twitter, Facebook groups, 4chan, 8chan, Gab, YouTube, or WhatsApp. Listen to and monitor what people are saying. If you start to see some messages or tactics gain momentum, prepare your response. It can also be an effective tactic if you warn relevant audiences that this argument or attack may be coming, and why they shouldn’t believe it. It’s harder to disprove once the argument is out there, but if you can tell people to disregard disinformation ahead of time, they may be more skeptical of it or more likely to reject it. 
+
+Advance warning can be an especially effective tactic with the media -- or, if the state is doing the attacking and the media is state-run, an effective tactic with international media. Preparing your response ahead of time for likely disinformation, where it might come from, what form it might take, and why they should distrust it, can lead to the media not reporting on harmful disinformation, or at the very least checking with you about its truthfulness first.
+
+## Call Out the Liars, Not the Lies
+
+There is some debate over whether repeating a particular lie or piece of disinformation in order to debunk it further reinforces the lie itself. In general, you should try to avoid repeating your opponents’ messages. 
+
+This doesn’t mean you should ignore attacks or lies, however. You should be intentional and conscientious of how you’re responding. If you need to debunk something, begin by stating the truth and your own messaging, making clear what you are responding to. 
+
+Another effective tactic is to ignore the lie, but focus on the liars who are perpetuating it. If you discredit the source of the information, it can be more effective than trying to debunk the lie itself. It can also weaken the cause of the threat, rather than having to respond to each new lie every time. If the source remains trusted and in good standing, you’ll have a new crisis every time they attack you. If you can work to make them a less trusted messenger, their future attacks will have less power. 
+
+You can also try to have the content or accounts removed or deactivated if they are on social media platforms. Get the contact information for a representative of Twitter, Facebook, and other social platforms operating in your country if they have an office there. Establish a relationship with them at the outset of your campaign, and get clear guidance from them on what to do if you see false or abusive information about yourself or your cause online. Review the terms of service of the major platforms so you know on what grounds you can recommend content or a user be removed from a platform. Get a commitment from your contact at the company that they will help you take down or flag harmful or slanderous information. (You can also use these relationships to get tips on how to better optimize your own social content.) This may be easier to secure if you are able to buy ads on the platform (tech companies are for-profit, at the end of the day), but you should reach out to them and establish these relationships even if you don’t have the resources to buy ads. 
+
+**Use your best judgment about when to engage at all or when to ignore.** If there are just a handful of trolls without many followers saying the same thing over and over in their own little echo chamber, you probably can ignore it. You don’t need to bring additional attention outside of their circles to the attacks or lies. If, however, you see it breaking out of the echo chamber of the original trolls, being picked up in larger circles or by mainstream news outlets, you need to act immediately.
+
+## Spot the Bot
+
+Fake, automated social media accounts, aka bots, are becoming an increasingly popular tool for attacking organizations, spreading disinformation, and generally being annoying and wasting your time.
+
+Signs that the account is actually a bot:
+
+* **The bio or profile picture are suspect.** Look at the bio of the account -- does it sound like a real person? Is there any personal information in it? Is the profile picture of a real person or a blank silhouette? If it’s a silhouette, that strongly increases the chances it’s a bot. If it’s a real person, do a reverse image search of the picture. If the picture appears frequently across the internet, it is probably a fake account.
+* **The account’s posting behavior is suspect.** Is the account posting more frequently an even an energetic person would likely be able to (for example, more than 50 times per day)? Is it retweeting what look to be other fake accounts with frequency? Is it posting political propaganda or fake news? Is it posting commercial or advertising messages frequently? Or retweeting messages in a number of different languages? These are all signs the account may be fake.
+* **The accounts followers are suspect.** Does the account have a high percentage of followers with silhouette avatars or other signs that they are fake? Did the account receive a large number of followers in a very short period of time? Is the account following a huge amount of accounts but has almost no followers itself? These are signs that the account is likely to be a bot.
+* **Check** [**https://botcheck.me/**](https://botcheck.me/ "https://botcheck.me/") **or** [**https://botometer.iuni.iu.edu**](https://botometer.iuni.iu.edu "https://botometer.iuni.iu.edu")**.** If you don’t have the time or the inclination to analyze each account to determine if it’s a bot, run the profile through one of these bot detection tools to see if it’s likely to be a bot.
+
+If the account is fake, report or flag it on the platform for violating the terms of service. Feel free to block or mute the fake account, and don’t waste any time arguing with the bot.
