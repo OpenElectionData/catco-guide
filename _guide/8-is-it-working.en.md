@@ -117,3 +117,32 @@ A/B testing can help you refine the effectiveness of your message, appeals, subj
 * {% textarea label="C" id="goalc" size="small" %}
 
 **Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
+
+Continuing our example, it might look something like this: 
+
+GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. 
+
+* 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
+* 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
+* Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
+* Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
+* Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
+
+## Put a System In Place
+
+Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren’t working.
+
+Questions to keep in mind when you are setting up your metrics-collection process:
+
+* Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)?
+* Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work?
+* How long does the collection process take and is it overly arduous?
+* Can the process or part of the process be automated?
+* How often does the data need to be collected?
+* Are all the necessary data points being collected?
+* Is the data being displayed in a way that is easy to read and draw conclusions from?
+* Who needs access to the data? Do they have it?
+
+Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn’t working.
+
+Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
