@@ -18,7 +18,8 @@ Depending on how many people you have on staff and what work you need to accompl
 
 {% figure caption:"PACE working on developing topline messages. PACE Photo." % } 
 
-![PACE working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo"){% endfigure %}
+![PACE working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo")
+{% endfigure %}
 
 Regardless of how many people are on the communications team or on your organization’s staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
 
@@ -40,13 +41,13 @@ The other benefit of assigning MOCHA roles to each project is it allows you to e
 
 **Looking at the full list of MOCHA responsibilities and deadlines, ask yourself the following questions:**
 
-{% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1_"_ size="small button="false"%}
+{% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1_"_ size="small button="false" %}
 
-{% textarea label="Do they have additional non-communications responsibilities you need to take into account? How much of their time will be taken by communications duties, and can they spare it?" id="MOCHA1_"_ size="small" button="false"%}
+{% textarea label="Do they have additional non-communications responsibilities you need to take into account? How much of their time will be taken by communications duties, and can they spare it?" id="MOCHA1_"_ size="small" button="false" %}
 
-{% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA1_"_ size="small" button="false"%}
+{% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA1_"_ size="small" button="false" %}
 
-{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA1_"_ size="small" button="false"%}
+{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA1_"_ size="small" button="false" %}
 
 ## _Staff Accountability and Prioritization_
 
