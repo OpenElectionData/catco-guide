@@ -104,6 +104,12 @@ If the account is fake, report or flag it on the platform for violating the term
 
 It happens to the best of us -- sometimes the crisis is something we cause ourselves. Maybe the leadership got caught doing something wrong, maybe a tweet was offensive or insensitive, maybe the newsletter went out with inaccurate information. _These things will happen._ It’s how you handle them that people will remember.
 
+{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." %} 
+
+![On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report.](/assets/images/BERSIH_4-1.jpg "BERSIH 2.0 Photo")
+
+{% endfigure %}
+
 * **Don’t obsess over the mistake.** Yes, it would be nice if there was a time machine you could take and not hit “send” on that email, but wishing will not make it so. Accept the mistake, and focus on the response and making things right.
 * **Listen to the people who told you about the mistake.** You may have said or published something not realizing it hurt people’s feelings or offended a person or group of people. Instead of shrugging off their complaints, listen to what they are saying. That doesn’t mean you have to accept their critique, but you should take it seriously and if you have inadvertently made a mistake, admit it, and correct it.
 * **Apologize sincerely.** If you or your organization did something wrong, admit it and apologize. Don’t apologize “if people were offended.” If you published something offensive, acknowledge that and explain in your apology what you’ve learned and what you’re doing to ensure it never happens again. People are much more likely to remain favorable toward your work and organization if they believe you are authentic and are genuinely committed to learning from your mistakes.
