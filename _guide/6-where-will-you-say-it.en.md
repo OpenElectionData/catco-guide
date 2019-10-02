@@ -225,11 +225,11 @@ If these tools and platforms won’t reach the people with whom you’re trying 
 
 {% callout title="Reaching Out Beyond the Web" %} In Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) has developed an effective mix of in-person interactions with social and traditional media amplification of those events.
 
-The group organizes town hall meetings for young people and lawmakers to have direct dialogue on ways to increase youth participation in politics and encourage lawmakers to be more accountable to their young constituents. YIAGA AFRICA invites radio and broadcast journalists, bloggers, and social media influencers to these town halls, and encourages the social media savvy young attendees to record, share, and tweet about the town hall, adding to the event’s reach and credibility.
-
 {% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ")
 
 {% endfigure %}
+
+The group organizes town hall meetings for young people and lawmakers to have direct dialogue on ways to increase youth participation in politics and encourage lawmakers to be more accountable to their young constituents. YIAGA AFRICA invites radio and broadcast journalists, bloggers, and social media influencers to these town halls, and encourages the social media savvy young attendees to record, share, and tweet about the town hall, adding to the event’s reach and credibility.
 
 One town hall held in December 2017 was amplified to the point where it was trending throughout social and traditional media. In addition to reaching more people and raising awareness about the issue, the strategy worked to encourage lawmakers in attendance to vote to lower the age limit for candidates running for office. {% endcallout %}
 
