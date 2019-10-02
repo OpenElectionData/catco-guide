@@ -150,3 +150,5 @@ Questions to keep in mind when you are setting up your metrics-collection proces
 Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn’t working.
 
 Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
+
+**_INSERT TABLES HERE_**
