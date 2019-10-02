@@ -42,13 +42,13 @@ The other benefit of assigning MOCHA roles to each project is it allows you to e
 
 **Looking at the full list of MOCHA responsibilities and deadlines, ask yourself the following questions:**
 
-{% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1_"_ size="small" %}
+{% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1_"_ size="small button="false"%}
 
-{% textarea label="Do they have additional non-communications responsibilities you need to take into account? How much of their time will be taken by communications duties, and can they spare it?" id="MOCHA1_"_ size="small" %}
+{% textarea label="Do they have additional non-communications responsibilities you need to take into account? How much of their time will be taken by communications duties, and can they spare it?" id="MOCHA1_"_ size="small" button="false"%}
 
-{% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA1_"_ size="small" %}
+{% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA1_"_ size="small" button="false"%}
 
-{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA1_"_ size="small" %}
+{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA1_"_ size="small" button="false"%}
 
 ## _Staff Accountability and Prioritization_
 
