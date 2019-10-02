@@ -46,7 +46,7 @@ An **observation statement or report** is a longer document (that may be summari
 * Include an explanation of your observation methodology which highlights how observers were deployed and collected information.
 * Include a section providing more in-depth information on your findings and analysis. When possible, this can be broken up into sub-sections to better organize your findings. For instance, a long-term observation statement may include the sub-sections “Voter Registration,” “Campaign Events,” or “Candidate Nomination Process.”
 * Include a section for recommendations that are specific, realistic, targeted, and action-based.
-* Where relevant, reference international or regional commitments and standards (such as the _Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations_; the International Covenant on Civil and Political Rights, General Comment 25; the African Charter on Democracy, Elections, and Governance; or the OSCE Copenhagen Document).
+* Where relevant, reference international or regional commitments and standards (such as the [_Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations_](https://gndem.org/assets/pdfs/DoGP_en.pdf); the International Covenant on Civil and Political Rights, General Comment 25; the African Charter on Democracy, Elections, and Governance; or the OSCE Copenhagen Document).
 * Strategically incorporate data visualization, such as charts, maps, infographics, or photographs, especially if you want to highlight a particular finding or if the visualization makes it easier to understand.
 * Pay attention to tone and word choice in your statements. Avoid inflammatory language or words that may otherwise resonate with your audience in a way you were not intending.
 * Like press releases, always try to translate reports into English to appeal to a more international audience.
@@ -82,9 +82,7 @@ Audio and video content can be great for capturing stories, conveying informatio
 
 {% callout title="Using Video to Convey Key Information to the Public" %} To expand their external outreach in a more visual manner, the [International Society for fair Elections and Democracy (ISFED)](https://isfed.ge/eng) produced an ["About Us" video](https://www.youtube.com/watch?v=JV_dcsCmasU) explaining the organization’s history, their work in election observation, methodologies used, and technology and outreach tools utilized. The video features several key individuals from ISFED’s staff who speak to different parts of ISFED’s story as an organization, and also includes subtitles in English (when someone is speaking in Georgian) and in Georgian (when someone is speaking in English), expanding the reach of who is able to view and understand the video.
 
- 
-
-{% figure caption:"_Photo: ISFED_" class:"right" %} 
+{% figure caption:"_Photo: ISFED_" class:"right" %}
 
 ![Image shows a person utilizing SMS services to collect information.](/assets/images/ISFED-2.jpg 'ISFED produced an "About Us" video')
 
