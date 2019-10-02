@@ -12,7 +12,7 @@ There are dozens of ways of communicating with people, and all have their own pr
 
 Depending on your goals and audiences, some tools and platforms are better than others, and their strengths and weaknesses are important to take into account when planning how you’ll deliver your messages. Whatever you choose, be sure it will reach your target audiences with maximum impact.
 
-## Website 
+## Website
 
 Your organizational website is the place that interested people will come looking for information about your mission, work, activities, and how they can get involved to support your cause. Your website is often the way you present your organization to the digital world, and it should be designed and maintained with that in mind.
 
@@ -20,16 +20,16 @@ People arriving at your website should have an immediate sense of both the work 
 
 If you’re organization does not currently have a website, the following are initial steps and ideas to consider:
 
-* **What do you need your website to convey and to whom?** Most people will spend less than 10 seconds on your website -- what do you want them to learn or do in that 10 seconds? Make the most important or most requested information easy to find and access. For example, if you are trying to boost your credibility or make your expertise clear, how will you present yourself as professionals and experts in both the design and content you choose to present? 
-* **Look at websites of similar groups** -- in your country or abroad. What do you like and dislike about those sites? What does the design and content say about their values, work, and mission? How can you tell that they are credible experts? What content do they prioritize and what do they make hard to find? 
+* **What do you need your website to convey and to whom?** Most people will spend less than 10 seconds on your website -- what do you want them to learn or do in that 10 seconds? Make the most important or most requested information easy to find and access. For example, if you are trying to boost your credibility or make your expertise clear, how will you present yourself as professionals and experts in both the design and content you choose to present?
+* **Look at websites of similar groups** -- in your country or abroad. What do you like and dislike about those sites? What does the design and content say about their values, work, and mission? How can you tell that they are credible experts? What content do they prioritize and what do they make hard to find?
 * **Look at other popular websites from fields unrelated to yours**. Civil society organizations can learn a lot by studying the ways that business or media sites are set up -- groups with more resources that spend a lot of time and effort examining usage analytics and honing their websites in response. Ask yourself those same questions about the other sites -- what do you like and dislike? How do the design and content work together to convey values, work, and mission? How do they lay out their information so it’s easy to access and draws in the audience so they spend more time on the site?
 * **Design your website based on what you know about your target audiences and what you learned from researching other websites.** Websites can range from the very simple to the very complex. There is no single best practice for websites; instead the complexity, look, feel, and function should all be decided based on who you are trying to reach and what you want to say to them. If you decide that you need a simple landing page without much more than a mission statement and a mechanism to collect emails, you can likely design that yourself using any number of free or cheap tools. If you need a very complex site with lots of information, multimedia integration, and complex logic, you may need to hire an experienced web developer.
 * **Consider the security and sustainability of your website.** Consult with technical professionals to ensure you are making website design and development decisions that will allow your organization to maintain the availability and integrity of its site. A website that is hacked, taken down, or poorly maintained can have a negative impact on your organization and its reputation. Even if you are working with an external web developer for the initial build of your website, it is important to ensure that it is designed in a way that your organization can maintain over time and that you have an in-house technical expert(s) who can be responsible for updating the website after it is completed. Your organization should ensure that any decisions taken about the level of complexity, programming language and/or platform to use for web development is one that these in-house experts will be able to easily utilize to make any needed modifications or updates after the site is delivered.
 
 If your organization already has a website, you should still review if its design and content meets your goals. This includes:
 
-* **Evaluate it critically.** Does the homepage immediately convey the most important information? Do the design elements reflect your current branding and convey the tone and personality of your organization? Is the site’s messaging aligned with your frame and topline message? Is it easy to find the information most critical to your audiences? Has the website been updated with the most recent statements, photos, and content? How does your site look when accessed in the ways your audience is most likely to access it (i.e. mobile or desktop, internet speed, etc.)? Do all the links work? Are other design elements wonky or broken? Is it accessible to those with visual or hearing impairments? 
-* **Protect your website from trolls, viruses, hackers, or other harmful actors.** Make sure your site has a Secure Socket Layer (SSL) certificate to encrypt any data sent and received by users to your site (such as personal details submitted via contact forms or credit card information, if you accept payments to your site). If you are concerned about adversaries taking down your website via a distributed denial of service attack (DDOS), consider setting up advanced protection through products such as Cloudflare or Google’s Project Shield. 
+* **Evaluate it critically.** Does the homepage immediately convey the most important information? Do the design elements reflect your current branding and convey the tone and personality of your organization? Is the site’s messaging aligned with your frame and topline message? Is it easy to find the information most critical to your audiences? Has the website been updated with the most recent statements, photos, and content? How does your site look when accessed in the ways your audience is most likely to access it (i.e. mobile or desktop, internet speed, etc.)? Do all the links work? Are other design elements wonky or broken? Is it accessible to those with visual or hearing impairments?
+* **Protect your website from trolls, viruses, hackers, or other harmful actors.** Make sure your site has a Secure Socket Layer (SSL) certificate to encrypt any data sent and received by users to your site (such as personal details submitted via contact forms or credit card information, if you accept payments to your site). If you are concerned about adversaries taking down your website via a distributed denial of service attack (DDOS), consider setting up advanced protection through products such as Cloudflare or Google’s Project Shield.
 * **Look at your Google Analytics.** (See next section if you have not yet set up Google Analytics on your website). How are people traveling through the site? What pages are most popular and does that match with the content you want to prioritize? What pages are people exiting the site from most often? How long are people staying on the site? What kind of devices or internet browsers are they using to access your site?
 * **Make adjustments as needed**. After examining all the data and answering the questions posed above, you may find that you only need to make just a few minor changes to your site to ensure it is accomplishing your goals. Or, you may need to make substantial changes or redesign it altogether. That can feel daunting, but if your website does not reflect your mission and isn’t set up to help you achieve your goals, it is worth the time and effort to correct it.
 
@@ -99,7 +99,7 @@ If you decide to create a Facebook page for your organization instead of or in a
 
 Facebook accommodates text, links, images, and video. It excels in particular at visual content -- pictures and photo albums, graphics and infographics, produced or live video. When planning your Facebook strategy be sure to include lots of visual content. If your group operates in a closing or closed political environment, however, make sure to use caution when posting videos and/or photos of people and whether it might expose them to security risks, such as intimidation, harassment, or retribution.
 
-{% figure caption:"_OPORA Infographic_" class:"left" %} ![](/assets/images/opora_1.jpg) {% endfigure %}
+{% figure caption:"_OPORA Infographic_" class:"left" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic") {% endfigure %}
 
 Pay attention to the types and messages of the content that gets the most engagement (likes, comments, and shares). Track it over time to see what content your audience responds to.
 
@@ -159,7 +159,7 @@ The goal is to build a relationship of respect and trust, so that the reporter k
 
 These same strategies can also be applied to members of nontraditional media. Your goals may require that you include bloggers, podcast hosts, YouTube stars, comedians, and/or social media influencers into your earned media strategy. Engaging such actors may also require sustained, trusted, one-on-one outreach. Members of the nontraditional media still want to provide popular, interesting, and relevant content to their audiences, and if they trust you to help them achieve their goals, they will amplify your message, content, and information accordingly.
 
-{% callout title="Build Relationships with Journalists" %} In Myanmar, Neichi Minn, the communications and advocacy officer of [PACE](https://www.pacemyanmar.org/), is always working to find out which journalists are tracking election news and keeping in touch with them. In addition to keeping in frequent contact with journalists one-on-one, she organizes a media briefing prior to each election. This private briefing explains PACE’s methodology, what PACE is tracking, what the findings will mean, and how the journalists can use those findings in their reporting. “It’s a useful strategy,” says Minn. “A lot of journalists are now reaching out and they ask specific questions, because they know what information they can ask from PACE.” {% figure caption: "_Photo: PACE_" class:"right" %} ![PACE Communications officer talking with journalists interested in elections](/assets/images/pace_5-1.jpg "PACE speaks with Media ") 
+{% callout title="Build Relationships with Journalists" %} In Myanmar, Neichi Minn, the communications and advocacy officer of [PACE](https://www.pacemyanmar.org/), is always working to find out which journalists are tracking election news and keeping in touch with them. In addition to keeping in frequent contact with journalists one-on-one, she organizes a media briefing prior to each election. This private briefing explains PACE’s methodology, what PACE is tracking, what the findings will mean, and how the journalists can use those findings in their reporting. “It’s a useful strategy,” says Minn. “A lot of journalists are now reaching out and they ask specific questions, because they know what information they can ask from PACE.” {% figure caption: "_Photo: PACE_" class:"right" %} ![PACE Communications officer talking with journalists interested in elections](/assets/images/pace_5-1.jpg "PACE speaks with Media ")
 
 {% endfigure %}{% endcallout %}
 
@@ -199,45 +199,45 @@ If you’re promoting posts on social media, you might want to simply boost a po
 
 There are a few ways to create custom audiences for Facebook promotions. These can be very powerful:
 
-* **Upload a list of email addresses.** These people will be targeted based on the email addresses you upload (_note: if you upload someone’s work email and they use their personal email for their Facebook credentials, you will not be able to reach them this way_). This can be slightly more expensive because often the audience is very narrow, but it can be very powerful. For example, you can advertise your work to a very narrow audience of potential international donors to promote support for your organization or enlist them in advocacy, or you can promote a reminder for an event to all of the people who have already RSVPed with an email address. 
-* **Create a lookalike audience.** If you have a strong base of supporters that already follow your Facebook page or group, or you have built a strong email list of supporters, you can create a “lookalike” audience on Facebook. Facebook will identify a subset of people that are similar to your existing supporters but that aren’t your supporters -- yet. This can be a great way to expand your base of support, because you’re advertising to people who are demographically and behaviorally inclined to support your work as modeled by your existing supporters. If you are advertising to build your email list, sign a petition, or attend an event or protest, this can be a useful approach. 
+* **Upload a list of email addresses.** These people will be targeted based on the email addresses you upload (_note: if you upload someone’s work email and they use their personal email for their Facebook credentials, you will not be able to reach them this way_). This can be slightly more expensive because often the audience is very narrow, but it can be very powerful. For example, you can advertise your work to a very narrow audience of potential international donors to promote support for your organization or enlist them in advocacy, or you can promote a reminder for an event to all of the people who have already RSVPed with an email address.
+* **Create a lookalike audience.** If you have a strong base of supporters that already follow your Facebook page or group, or you have built a strong email list of supporters, you can create a “lookalike” audience on Facebook. Facebook will identify a subset of people that are similar to your existing supporters but that aren’t your supporters -- yet. This can be a great way to expand your base of support, because you’re advertising to people who are demographically and behaviorally inclined to support your work as modeled by your existing supporters. If you are advertising to build your email list, sign a petition, or attend an event or protest, this can be a useful approach.
 * **Target based on demographics or self-identified interests.** The upside to Facebook collecting vast stores of our most personal data is that it is easy to find your target audiences based on geographic location, age, gender, and their self-identified interests. For example, if you want to target young men aged 16-26 in a particular province who support a particular opposition party or leader, this is the tool you would use.
 
 However you choose to advertise, the fundamentals of good messaging and storytelling still apply. If you keep your ads on-message and use compelling personal stories and visuals, people will find them persuasive.
 
-## Offline Considerations 
+## Offline Considerations
 
-If these tools and platforms won’t reach the people with whom you’re trying to connect, such as rural communities where social media, internet, or other media are not easily accessible, think creatively about other ways to reach them. 
+If these tools and platforms won’t reach the people with whom you’re trying to connect, such as rural communities where social media, internet, or other media are not easily accessible, think creatively about other ways to reach them.
 
-* You may need to pair your online communications with offline organizing techniques. If important audiences are offline, how can you recruit and train your online supporters to reach them? Do you need to recruit or hire organizers from within a community to host forums or events or go door-to-door? 
-* Who is already speaking to the people with whom you want to speak? Can you meet with influencers of those audiences and work with them to disseminate your message? 
-* Can you organize non-traditional events that will attract your key audiences like educational forums, concerts, art shows, film screenings, sports events, contests, raffles, etc.? Be sure to think about how you will convert attendance into action or support. 
+* You may need to pair your online communications with offline organizing techniques. If important audiences are offline, how can you recruit and train your online supporters to reach them? Do you need to recruit or hire organizers from within a community to host forums or events or go door-to-door?
+* Who is already speaking to the people with whom you want to speak? Can you meet with influencers of those audiences and work with them to disseminate your message?
+* Can you organize non-traditional events that will attract your key audiences like educational forums, concerts, art shows, film screenings, sports events, contests, raffles, etc.? Be sure to think about how you will convert attendance into action or support.
 * Some audiences might respond well to meetings with your organization’s leaders in the context of a high-level briefing or to share what they perceive to be inside information. This can work well with key volunteers, journalists, community leaders, and international donors. Making people feel like they are part of something bigger or that they are special or unique in some way may motivate them to engage more deeply with you and your message.
 * If you are operating in a more restrictive context, your organization may not be able to organize the more high-profile events mentioned above. However, you should think creatively about ways you can safely yet effectively engage your main audiences offline.
 
 {% callout title="Reaching Out Beyond the Web" %} In Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) has developed an effective mix of in-person interactions with social and traditional media amplification of those events.
 
-The group organizes town hall meetings for young people and lawmakers to have direct dialogue on ways to increase youth participation in politics and encourage lawmakers to be more accountable to their young constituents. YIAGA AFRICA invites radio and broadcast journalists, bloggers, and social media influencers to these town halls, and encourages the social media savvy young attendees to record, share, and tweet about the town hall, adding to the event’s reach and credibility. 
+The group organizes town hall meetings for young people and lawmakers to have direct dialogue on ways to increase youth participation in politics and encourage lawmakers to be more accountable to their young constituents. YIAGA AFRICA invites radio and broadcast journalists, bloggers, and social media influencers to these town halls, and encourages the social media savvy young attendees to record, share, and tweet about the town hall, adding to the event’s reach and credibility.
 
 {% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ") {% endfigure %}
 
 One town hall held in December 2017 was amplified to the point where it was trending throughout social and traditional media. In addition to reaching more people and raising awareness about the issue, the strategy worked to encourage lawmakers in attendance to vote to lower the age limit for candidates running for office. {% endcallout %}
 
-### Your Turn 
+### Your Turn
 
 **Brainstorm a list of the various communications tools and platforms available to you. They might be some or all of what we listed above, or they might be unique tools and platforms to where you are, your resources, and your circumstances.**
 
-**  
- Here are some questions to get you started:**
+\**  
+Here are some questions to get you started:**
 
 * **What print publications are popular in your country and with whom?**
 * **What TV and radio stations or programs are popular in your country and with whom?**
-* **Are there blogs or websites focused on politics and elections that are widely read?** 
-* **What are the political leanings (if any) of the print, broadcast, or internet outlets you’ve listed?** 
-* **What social networks are popular and with whom?** 
-* **What messaging platforms are most popular and with whom?** 
-* **How do you get your information?** 
-* **How do your parents get their information?** 
+* **Are there blogs or websites focused on politics and elections that are widely read?**
+* **What are the political leanings (if any) of the print, broadcast, or internet outlets you’ve listed?**
+* **What social networks are popular and with whom?**
+* **What messaging platforms are most popular and with whom?**
+* **How do you get your information?**
+* **How do your parents get their information?**
 * **How do your grandparents get their information?**
 * **How do your children get their information?**
 
