@@ -99,7 +99,7 @@ If you decide to create a Facebook page for your organization instead of or in a
 
 Facebook accommodates text, links, images, and video. It excels in particular at visual content -- pictures and photo albums, graphics and infographics, produced or live video. When planning your Facebook strategy be sure to include lots of visual content. If your group operates in a closing or closed political environment, however, make sure to use caution when posting videos and/or photos of people and whether it might expose them to security risks, such as intimidation, harassment, or retribution.
 
-{% figure caption:"_OPORA Infographic_" class:"left" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic") 
+{% figure caption:"_OPORA Infographic_" class:"left" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
 
 {% endfigure %}
 
@@ -161,11 +161,13 @@ The goal is to build a relationship of respect and trust, so that the reporter k
 
 These same strategies can also be applied to members of nontraditional media. Your goals may require that you include bloggers, podcast hosts, YouTube stars, comedians, and/or social media influencers into your earned media strategy. Engaging such actors may also require sustained, trusted, one-on-one outreach. Members of the nontraditional media still want to provide popular, interesting, and relevant content to their audiences, and if they trust you to help them achieve their goals, they will amplify your message, content, and information accordingly.
 
-{% callout title="Build Relationships with Journalists" %} In Myanmar, Neichi Minn, the communications and advocacy officer of [PACE](https://www.pacemyanmar.org/), is always working to find out which journalists are tracking election news and keeping in touch with them. In addition to keeping in frequent contact with journalists one-on-one, she organizes a media briefing prior to each election. This private briefing explains PACE’s methodology, what PACE is tracking, what the findings will mean, and how the journalists can use those findings in their reporting. “It’s a useful strategy,” says Minn. “A lot of journalists are now reaching out and they ask specific questions, because they know what information they can ask from PACE.” 
+{% callout title="Build Relationships with Journalists" %} 
 
 {% figure caption: "_Photo: PACE_" class:"right" %} ![PACE Communications officer talking with journalists interested in elections](/assets/images/pace_5-1.jpg "PACE speaks with Media ")
 
 {% endfigure %}
+
+In Myanmar, Neichi Minn, the communications and advocacy officer of [PACE](https://www.pacemyanmar.org/), is always working to find out which journalists are tracking election news and keeping in touch with them. In addition to keeping in frequent contact with journalists one-on-one, she organizes a media briefing prior to each election. This private briefing explains PACE’s methodology, what PACE is tracking, what the findings will mean, and how the journalists can use those findings in their reporting. “It’s a useful strategy,” says Minn. “A lot of journalists are now reaching out and they ask specific questions, because they know what information they can ask from PACE.”
 
 {% endcallout %}
 
@@ -225,7 +227,7 @@ If these tools and platforms won’t reach the people with whom you’re trying 
 
 The group organizes town hall meetings for young people and lawmakers to have direct dialogue on ways to increase youth participation in politics and encourage lawmakers to be more accountable to their young constituents. YIAGA AFRICA invites radio and broadcast journalists, bloggers, and social media influencers to these town halls, and encourages the social media savvy young attendees to record, share, and tweet about the town hall, adding to the event’s reach and credibility.
 
-{% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ") 
+{% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ")
 
 {% endfigure %}
 
@@ -255,7 +257,7 @@ Continuing our example, your communications plan might start to look like this:
 
 ## Got to People Where They Are
 
-{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE") 
+{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
 
 {% endfigure %}
 
