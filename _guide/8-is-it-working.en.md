@@ -31,3 +31,15 @@ In Nicaragua, the election observation coalition [Panorama Electoral](https://ww
 
 However, in order to achieve their goals of fostering dialogue and increasing participation, the group shifted to collecting metrics on engagement and interaction, prompting them to see the need for a community manager to moderate the dialogue on their social media feeds.
 {% endcallout %}
+
+## Common Analytics and Metrics Available
+
+A number of digital platforms have built-in analytics that you can access for free (or included in the price) that are very powerful when used well.
+
+## Email Analytics
+
+Any mass emailer you use should provide you with basic analytic data you can use to refine your email strategy.
+
+* Open rate: This is the rate at which people open your email. A healthy and active email list will have around a 20 percent open rate for any given email sent.
+* Click-through rate: This is the rate at which people click on whatever links you put in your emails. For emails with a clear call to action, you should expect a click-through rate of 20 percent. Most mass emailers will also show you which links were clicked on the most, so you can learn whether placing your call to action at the top or bottom of your email is more effective, or whether there is one link people were more interested in than others, for example.
+* Unsubscribe rate: This is the rate at which people unsubscribe from any given email. A normal unsubscribe rate is less than 1 percent per send. If you see a sudden spike in unsubscribes, you should figure out whether you’re emailing too often or if your language, tone, or content are alienating your audience.
