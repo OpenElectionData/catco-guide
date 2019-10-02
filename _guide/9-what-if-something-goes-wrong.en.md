@@ -80,6 +80,12 @@ Signs that the account is actually a bot:
 * **The accounts followers are suspect.** Does the account have a high percentage of followers with silhouette avatars or other signs that they are fake? Did the account receive a large number of followers in a very short period of time? Is the account following a huge amount of accounts but has almost no followers itself? These are signs that the account is likely to be a bot.
 * **Check** [**https://botcheck.me/**](https://botcheck.me/ "https://botcheck.me/") **or** [**https://botometer.iuni.iu.edu**](https://botometer.iuni.iu.edu "https://botometer.iuni.iu.edu")**.** If you don’t have the time or the inclination to analyze each account to determine if it’s a bot, run the profile through one of these bot detection tools to see if it’s likely to be a bot.
 
+{% figure caption:"NDI Kosovo Photo." %}
+
+![](/assets/images/kosovo-2.jpg)
+
+{% endfigure %}
+
 If the account is fake, report or flag it on the platform for violating the terms of service. Feel free to block or mute the fake account, and don’t waste any time arguing with the bot.
 
 {% callout title="Sticking to Your Standards" %}
