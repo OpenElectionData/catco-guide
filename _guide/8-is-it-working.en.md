@@ -93,3 +93,11 @@ By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see
 Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what’s available to you to measure. Play around with what’s available, research what each number means, and decide which ones are important to track over time.
 
 Some strategies may require metrics that don’t exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
+
+{% callout title="Evaluating Outreach Efforts On and Offline" %}
+In Malaysia, BERSIH 2.0 tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later.
+
+{% figure caption:"Malaysians protest in the Bersih 5 rally." class:"left" %} 
+
+![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
+{% endcallout %}
