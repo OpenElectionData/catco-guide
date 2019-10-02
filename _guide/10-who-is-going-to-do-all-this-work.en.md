@@ -6,7 +6,6 @@ subtitle: Staffing & Resources
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 Every group is organized differently and has different amounts of resources to devote to its communications. Part of the reason to work through the exercises and steps in this guide is to have a clear understanding of what work needs to be done, what roles need to be filled and by how many people, and what work should be prioritized and urgent, and what work can wait for a later time. 
