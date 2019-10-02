@@ -83,7 +83,7 @@ Audio and video content can be great for capturing stories, conveying informatio
 * If you are taking video or audio clips with your phone, be aware that the microphone will be closer to you than to your subject. The microphone will be more likely to pick up your instructions or your side of the conversation due to proximity. To make this easier to fix or edit later, avoid speaking over your subject. Let your subject say everything they need to say without interruptions, then ask the next question or give the next instruction when they have finished speaking.
 * **Subtitles:** If you plan to post your video to social media, be sure to subtitle it. Most people scrolling through Facebook or Instagram will not have their sound turned on. In addition, if people in the video are speaking in the local language you may want to consider subtitles in English, especially if your audience is the international community.
 
-{% callout title="Using Video to Convey Key Information to the Public" %} 
+{% callout title="Using Video to Convey Key Information to the Public" %}
 
 {% figure caption:"_Photo: ISFED_" class:"right" %}
 
@@ -95,7 +95,7 @@ To expand their external outreach in a more visual manner, the [International So
 
 {% figure caption:"_Infographic from YIAGA_" class:"left" %} ![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
 
- {% endfigure %}
+{% endfigure %}
 
 Leading up to the 2019 general elections in Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) released videos highlighting various components of their election observation effort and relevant voter education issues in the lead up to election day. One [video](https://www.youtube.com/watch?v=Qxogx-9fagw&feature=youtu.be) focused on political party agents’ participation in the electoral process. The video featured YIAGA AFRICA’s PVT Director explaining the need for political parties to observe the process in polling units, yet the video also cut to infographics showing data collected from PVTs in prior years. Another [video](https://www.youtube.com/watch?v=eWh2YHMeI_4&feature=youtu.be) focused on the introduction of electronic voting technologies in Nigeria, following a similar format.
 
@@ -137,11 +137,11 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Target Audience 3**
 
-{% textarea label="Who are they?" id="Audience 3" size="small" %}
+{% textarea label="Who are they?" id="Audience 3" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 3" size="small" %}
+{% textarea label="What message will you use?" id="Message 3" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" %}
+{% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" button="false" %}
 
 **Target Audience 4**
 
