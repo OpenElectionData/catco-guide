@@ -170,8 +170,8 @@ Use these regular check-ins to refine and update your strategies and tactics bas
 -|||||-
 Span <td colspan=3>triple  <td colspan=2>double
   
-| Can Reorder | 2nd operation |2nd operation |2nd operation |
-| :---: | --- |
+| Goal | Top Line Message | Target Audience | Target Message | Communication Tool | Metrics|
+| --- | --- | --- | --- | --- | --- |
 |1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
 |Normal Load <br/> Normal Store| | | No|
 |Volatile Load <br/> MonitorEnter| No|No|No|
