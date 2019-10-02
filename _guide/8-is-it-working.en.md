@@ -48,6 +48,16 @@ Any mass emailer you use should provide you with basic analytic data you can use
 
 Google Analytics tracks all your web traffic and the behavior of the people who visit your website. Once you have a Gmail address, you can use it to open an account at [analytics.google.com](https://analytics.google.com/). There you can get a small bit of code that you place into your website (follow Google’s instructions for how to do this), and after that you will be able to track all your web traffic in real time and over time. Be sure to install Google Analytics on your websites from the very beginning -- the analytics cannot collect data on your site from a time before it was installed.
 
+{% callout title="Using Analytics to Spur Engagement" %}
+
+In Serbia, the CRTA team measure their social media impact by tracking Facebook insights, Twitter analytics, Google analytics, and Youtube analytics. They employ a media monitoring agency that tracks stories published about them and their work.
+
+But they don’t just want to measure reach, they want to measure engagement, and so they tracked new engagement metrics in 2018. The group is calling people to action three times in the lead up to elections, as a way not just to collect and publish data, but to get members of the public engaged in their democracy. They asked people to submit information to help with CRTA’s research and to join the election observation mission by volunteering to be an observer (and pass the training to become an observer).
+
+CRTA will be tracking these higher-level commitments over time to see if people are willing to participate, in an effort to grow their base of supporters over time.
+
+{% endcallout %}
+
 There is a lot of information available to you in analytics, and you should spend some time exploring it to see what’s available. Most of it was designed to help business websites maximize their customers’ experience, but there is still a lot of useful information for civic groups.
 
 * **Audience:** You can learn about the visitors to your website through the audience features. How many unique visitors did you get and how often do they come back? How long do they stay on the site and how many pages do they view in a visit? What are the demographics of your audience and what are their interests? If you were hoping for deep engagement on your website from young men ages 16-26, but your analytics reveal that your primary audience is older women ages 60-75 and they are only staying on the site for an average of 8 seconds, then you may need re-evaluate either the content of your website or the ways that you are promoting it (or both).
@@ -61,16 +71,6 @@ There is a lot of information available to you in analytics, and you should spen
 * You can create sophisticated searches and reports by combining this data. Click on “add a segment” to any report screen to add additional data points. For example, if you want to see how young men ages 16-26 are finding your site versus older women ages 60-75, you can add a demographics segment to your channels analytics screen and find the breakdown. They may have totally different referrals, which you can then refine and cater to more effectively.
 * You can also compare site performance over time with the date range feature. You can look at your analytics over any period of time you choose, and you can also overlay that over any comparable period of time by clicking “compare to.” This can help you analyze trends over time in the data.
 
-{% callout title="Using Analytics to Spur Engagement" %}
-
-In Serbia, the CRTA team measure their social media impact by tracking Facebook insights, Twitter analytics, Google analytics, and Youtube analytics. They employ a media monitoring agency that tracks stories published about them and their work.
-
-But they don’t just want to measure reach, they want to measure engagement, and so they tracked new engagement metrics in 2018. The group is calling people to action three times in the lead up to elections, as a way not just to collect and publish data, but to get members of the public engaged in their democracy. They asked people to submit information to help with CRTA’s research and to join the election observation mission by volunteering to be an observer (and pass the training to become an observer).
-
-CRTA will be tracking these higher-level commitments over time to see if people are willing to participate, in an effort to grow their base of supporters over time.
-
-{% endcallout %}
-
 ## Facebook Insights
 
 Facebook offers free analytics (called Insights) for your page, and also works with your website if you are tracking users’ behavior from Facebook through to your website. There is a lot of useful information collected here, too, and you should explore it to see what’s available and relevant to you. But ultimately you should decide on which metrics matter the most to your success and focus on them.
@@ -79,6 +79,12 @@ Facebook offers free analytics (called Insights) for your page, and also works w
 * **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
 * **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
 * **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
+
+{% callout title="Evaluating Outreach Efforts On and Offline" %} In Malaysia, BERSIH 2.0 tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later. 
+
+{% figure caption:"Malaysians protest in the Bersih 5 rally." class:"left" %} 
+
+![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %} {% endcallout %}
 
 ## Twitter Analytics
 
@@ -93,11 +99,3 @@ By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see
 Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what’s available to you to measure. Play around with what’s available, research what each number means, and decide which ones are important to track over time.
 
 Some strategies may require metrics that don’t exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
-
-{% callout title="Evaluating Outreach Efforts On and Offline" %}
-In Malaysia, BERSIH 2.0 tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later.
-
-{% figure caption:"Malaysians protest in the Bersih 5 rally." class:"left" %} 
-
-![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
-{% endcallout %}
