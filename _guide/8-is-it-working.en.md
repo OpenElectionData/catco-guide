@@ -155,3 +155,9 @@ Once you have a system in place, schedule regular meetings with any team members
 Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
 
 **_INSERT TABLES HERE_**
+
+| Goal | Top Line Message | Target Audience | Target Message | Communication Tool | Metrics
+| --- | --- | --- | --- | --- | --- |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
