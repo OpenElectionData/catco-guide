@@ -105,3 +105,15 @@ As you use metrics to learn what works and is most effective at meeting your goa
 For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that. 
 
 A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
+
+### YOUR TURN
+
+**Review each of your goals. Brainstorm different indicators that will help you know if you’ve achieved them.**
+
+{% textarea label="Goal 1" id="goal1" size="small" %}
+
+* {% textarea label="A" id="goala" size="small" %}
+* {% textarea label="B" id="goalb" size="small" %}
+* {% textarea label="C" id="goalc" size="small" %}
+
+**Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
