@@ -185,7 +185,7 @@ The leaders/spokespeople of your press conference should be well-rehearsed with 
 
 You should also give some thought to the venue and visual look of your press conference. Television and photojournalists will be looking for good visuals, and a well-staged press conference can add to its newsworthiness. For example, if your group found that registered voters were not permitted to vote in a high percentage of polling stations -- assuming that it would be safe and journalists would travel -- you could hold the press conference outside a venue where many voters were denied their right to vote rather than in a hotel conference room. Could several of the people who were unable to vote stand behind the speakers while they talk, perhaps holding signs? Are there other visuals you could set up or project to add to the visual interest of the press conference even if at a standard location, such as projecting slides with relevant infographics, charts, and/or photos while the spokesperson(s) is/are speaking? Would a photo of your press conference show the image of your organization that you want to project and/or tell the story you want to convey?
 
-{% figure caption:"_Photo: PACE_" class:"right" %} ![](/assets/images/Preliminary finding press conference of 2017 By-Elections  (1).JPG) {% endfigure %}
+{% figure caption:"_Photo: PACE_" class:"right" %} ![PACE representative gives press statement.](/assets/images/Preliminary finding press conference of 2017 By-Elections  (1).JPG "PACE") {% endfigure %}
 
 Candidly, a good press conference can be hard to achieve if a lot of egos are involved. If your leaders/spokespeople insist on making long speeches, focusing on their own personal opinions rather than the organization’s findings and talking points, or repeating what the others have said without adding anything new or interesting, you may want to consider other strategies to pursue earned media, like one-on-one interviews with leaders or sending small scoops to different, friendly reporters. If your press conference isn’t interesting enough to earn press coverage, then it is a waste of your time and the reporters’ time. Even worse, if your press conference presents differing viewpoints or goes off message, it can harm your cause and your credibility.
 
@@ -249,7 +249,7 @@ Continuing our example, your communications plan might start to look like this:
 
 ## Got to People Where They Are
 
-{% figure caption:"_Photo: PACE_" class:"center" %} ![](/assets/images/pace_2.jpg) {% endfigure %}
+{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE") {% endfigure %}
 
 Remember to try to go to people where they already are. If your target audience is mostly on Facebook, don’t try to contact them via email. If your target audience gets most of their news in the daily paper, don’t play radio ads for them. If your target audience gets most of their news at the barber shop, you need to consider a barber outreach program.
 
