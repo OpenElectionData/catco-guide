@@ -110,11 +110,11 @@ A/B testing can help you refine the effectiveness of your message, appeals, subj
 
 **Review each of your goals. Brainstorm different indicators that will help you know if you’ve achieved them.**
 
-{% textarea label="Goal 1" id="goal1" size="small" button:"false" %}
+{% textarea label="Goal 1" id="goal1" size="small" button="false" %}
 
-* {% textarea label="A" id="goala" size="small" button:"false" %}
-* {% textarea label="B" id="goalb" size="small" button:"false" %}
-* {% textarea label="C" id="goalc" size="small" button:"false" %}
+* {% textarea label="A" id="goala" size="small" button="false" %}
+* {% textarea label="B" id="goalb" size="small" button="false" %}
+* {% textarea label="C" id="goalc" size="small" button="false" %}
 
 **Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
 
