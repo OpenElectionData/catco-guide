@@ -70,3 +70,26 @@ But they don’t just want to measure reach, they want to measure engagement, an
 CRTA will be tracking these higher-level commitments over time to see if people are willing to participate, in an effort to grow their base of supporters over time.
 
 {% endcallout %}
+
+## Facebook Insights
+
+Facebook offers free analytics (called Insights) for your page, and also works with your website if you are tracking users’ behavior from Facebook through to your website. There is a lot of useful information collected here, too, and you should explore it to see what’s available and relevant to you. But ultimately you should decide on which metrics matter the most to your success and focus on them.
+
+* **Demographics:** You can learn about your audiences’ demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
+* **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
+* **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
+* **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
+
+## Twitter Analytics
+
+By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see free analytics associated with your Twitter account, regardless of whether you are paying for ads. Some of the metrics you can collect are:
+
+* How individual tweets perform, in terms of reach and engagement.
+* How your native videos perform, including how long people watch your videos for.
+* Who your audience is, including income, occupation, interests, gender, education, and income.
+
+## Other Metrics
+
+Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what’s available to you to measure. Play around with what’s available, research what each number means, and decide which ones are important to track over time.
+
+Some strategies may require metrics that don’t exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
