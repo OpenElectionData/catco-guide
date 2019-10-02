@@ -8,6 +8,8 @@ image:
   caption: ''
 
 ---
+{% figure caption:"PACE staff working on developing topline messages. PACE Photo." class="right" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}
+
 Every group is organized differently and has different amounts of resources to devote to its communications. Part of the reason to work through the exercises and steps in this guide is to have a clear understanding of what work needs to be done, what roles need to be filled and by how many people, and what work should be prioritized and urgent, and what work can wait for a later time.
 
 Once you have a clear understanding of what needs to be done, you’ll be better equipped to structure your team in a way that divides up the workload, you’ll know if you need to bring on additional full-time employees, contract employees, or volunteers.
@@ -15,9 +17,6 @@ Once you have a clear understanding of what needs to be done, you’ll be better
 Depending on how many people you have on staff and what work you need to accomplish, there are a number of ways to structure a communications team. You may have a one-person communications team whose job is to do everything, or you may have a large team that is highly segmented and specialized. Your team may grow and shrink depending on where you are in relation to the next election. There is no single correct approach or structure -- just be sure that you are staffed in whatever way allows you to carry out your communications plan as efficiently and effectively as you can.
 
 ## MOCHA
-
-{% figure caption:"PACE working on developing topline messages. PACE Photo." class="left" %} ![](/assets/images/IMG_4422 (1).JPG)
-{% endfigure %}
 
 Regardless of how many people are on the communications team or on your organization’s staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
 
@@ -31,7 +30,7 @@ The MOCHA model gives your team a clear but flexible structure for every project
 
 This model also allows for flexibility within and across teams. When there is a small communications team (or just one person handling communications), that person(s) might feel overwhelmed and unsure who they can ask for help. By clearly identifying who else in the organization is assigned to be helpers, consultants, managers, or approvers, teams can expand to meet the workload that needs to get done as it needs to get done.
 
-{% figure caption:"NDI Photo." class:"right" %} 
+{% figure caption:"NDI Photo." class:"right" %}
 
 ![](/assets/images/NDI_smallgroup-1.jpg)
 
