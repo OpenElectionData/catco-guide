@@ -6,7 +6,6 @@ subtitle: Developing a Frame and Message
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 ## Develop a Communications Frame
@@ -84,14 +83,14 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 ### Your Turn: Create Your Topline Message
 
-**Start by brainstorming all of the possible things you might want to say. Don’t hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:** 
+**Start by brainstorming all of the possible things you might want to say. Don’t hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
 
-* **Someone asks you what your organization is all about. How do you answer?** 
-* **What’s your favorite argument in favor of your cause or organization?** 
-* **What inspired you to take action for this issue?** 
-* **Who does your work help? How does it help them?** 
-* **What values do you uphold in your work?** 
-* **What will happen if your mission fails?** 
+* **Someone asks you what your organization is all about. How do you answer?**
+* **What’s your favorite argument in favor of your cause or organization?**
+* **What inspired you to take action for this issue?**
+* **Who does your work help? How does it help them?**
+* **What values do you uphold in your work?**
+* **What will happen if your mission fails?**
 * **What keeps you advocating for this cause every day?**
 
 **Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
@@ -161,7 +160,13 @@ A more effective narrative would go something like this: _Yesterday, I ran erran
 
 Narrative is powerful. Stories create a deeper personal connection than facts or data. If you had just read that incidents of tailors ripping pants had increased 33 percent in the last two years, you might not change your behavior. But after you heard the story above, you may think twice about taking your pants to a tailor, and consider hemming your pants yourself to avoid the same fate.
 
-{% callout title="Using Compelling Narrative in Election Observation" %} During the 2016 general elections in Ghana, the [Coalition of Domestic Election Observers (CODEO)](http://www.codeoghana.org/) posted a number of videos on their [Facebook page](https://www.facebook.com/CODEOElections/) featuring different individuals undertaking key roles for the PVT. The videos were interactive, and allowed CODEO’s followers to get a firsthand look at why someone was volunteering for the PVT and what exactly volunteers were doing for the PVT. For example, [one video featured Ama](https://www.facebook.com/CODEOElections/videos/1108779319240923/) one of 60 data entry clerks. In Ama’s own words, the viewer learns about her background, what is happening at CODEO’s National Information Center, and why the PVT aligns with her interests, personally and professionally. Similar videos were shared featuring [Netwon, an analyst](https://www.facebook.com/CODEOElections/videos/1109992335786288/), [Dr. Kojo Asante, the data center manager](https://www.facebook.com/CODEOElections/videos/1111107529008102/), [Justice Crabbe, the CODEO co-chair](https://www.facebook.com/CODEOElections/videos/1113075995477922/), and [Leslie, an observer](https://www.facebook.com/CODEOElections/videos/1120441241408064/) at a polling station, among many others. The videos offer personal insight into the individuals behind the observation and their dedication democratic progress in their country, something an election statement alone can rarely provide. {% figure caption:"_Photo: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg) {% endfigure %} {% endcallout %}
+{% callout title="Using Compelling Narrative in Election Observation" %} During the 2016 general elections in Ghana, the [Coalition of Domestic Election Observers (CODEO)](http://www.codeoghana.org/) posted a number of videos on their [Facebook page](https://www.facebook.com/CODEOElections/) featuring different individuals undertaking key roles for the PVT. The videos were interactive, and allowed CODEO’s followers to get a firsthand look at why someone was volunteering for the PVT and what exactly volunteers were doing for the PVT. For example, [one video featured Ama](https://www.facebook.com/CODEOElections/videos/1108779319240923/) one of 60 data entry clerks. In Ama’s own words, the viewer learns about her background, what is happening at CODEO’s National Information Center, and why the PVT aligns with her interests, personally and professionally. Similar videos were shared featuring [Netwon, an analyst](https://www.facebook.com/CODEOElections/videos/1109992335786288/), [Dr. Kojo Asante, the data center manager](https://www.facebook.com/CODEOElections/videos/1111107529008102/), [Justice Crabbe, the CODEO co-chair](https://www.facebook.com/CODEOElections/videos/1113075995477922/), and [Leslie, an observer](https://www.facebook.com/CODEOElections/videos/1120441241408064/) at a polling station, among many others. The videos offer personal insight into the individuals behind the observation and their dedication democratic progress in their country, something an election statement alone can rarely provide.
+
+{% figure caption:"_Photo: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg) 
+
+{% endfigure %}
+
+ {% endcallout %}
 
 ## How Does This Relate to Your Communications Plan?
 
