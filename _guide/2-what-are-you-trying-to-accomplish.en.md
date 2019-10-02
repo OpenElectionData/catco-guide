@@ -55,15 +55,15 @@ By defining the time-specific aspect of your goals, you’ll get a better sense 
 
 Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
 
-{% textarea label="goals1" id="goals1" size="small" %}
+{% textarea label="1" id="goals1" size="small" button="false" %}
 
-{% textarea label="goals2" id="goals2" size="small" %}
+{% textarea label="2" id="goals2" size="small" button="false" %}
 
-{% textarea label="goals3" id="goals3" size="small" %}
+{% textarea label="3" id="goals3" size="small" button="false" %}
 
-{% textarea label="goals4" id="goals4" size="small" %}
+{% textarea label="4" id="goals4" size="small" button="false" %}
 
-{% textarea label="goals5" id="goals5" size="small" %}
+{% textarea label="5" id="goals5" size="small" button="false" %}
 
 Your communications strategies and tactics will flow directly from your goals. _Try not to get distracted by tasks that do not ultimately help you achieve your goals._
 
@@ -93,8 +93,8 @@ To illustrate this, let’s build out one of the example goals above with strate
 | --- | --- | --- |
 | Strategy 1: Use digital advertising to generate web traffic and social reach. | Raise USD 10,000 for an ads budget.<br/><br/> Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences.<br/><br/> Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | $10,000 <br/><br/> 10 hours/week of dedicated staff time |
 | Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br/><br/> Reach out to that person and their team. <br/><br/> Provide them with content and instructions on how to help on an ongoing basis. | Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br/><br/>Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
-| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br/><br/>Create graphics and videos for social media that people will want to share.<br/><br/> Post once a day.<br/><br/> |  
-| Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. | 
+| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br/><br/>Create graphics and videos for social media that people will want to share.<br/><br/> Post once a day.<br/><br/> |  |
+| Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |  |
 
 {: .table--cols-equal}
 
@@ -104,10 +104,10 @@ Take the SMART goals you identified and use the below table (following the above
 
 **Goal 1:**
 
-{% textarea label="List your tactics and resources for Strategy 1" id="1" size="large" %}
+{% textarea label="List your tactics and resources for Strategy 1" id="1" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 2" id="2" size="large" %}
+{% textarea label="List your tactics and resources for Strategy 2" id="2" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 3" id="3" size="large" %}
+{% textarea label="List your tactics and resources for Strategy 3" id="3" size="large" button="false" %}
 
 Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them – from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group’s communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
