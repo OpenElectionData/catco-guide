@@ -103,7 +103,9 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 ## Different Messages Resonate with Different Audiences
 
-{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ") {% endfigure %}
+{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ") 
+
+{% endfigure %}
 
 Your topline message should be clear, concise, persuasive, and support your goals and frame. However, different people may respond differently to your message, and you may need to adapt or adjust it depending on who you are communicating with.
 
@@ -159,11 +161,13 @@ A more effective narrative would go something like this: _Yesterday, I ran erran
 
 Narrative is powerful. Stories create a deeper personal connection than facts or data. If you had just read that incidents of tailors ripping pants had increased 33 percent in the last two years, you might not change your behavior. But after you heard the story above, you may think twice about taking your pants to a tailor, and consider hemming your pants yourself to avoid the same fate.
 
-{% callout title="Using Compelling Narrative in Election Observation" %} During the 2016 general elections in Ghana, the [Coalition of Domestic Election Observers (CODEO)](http://www.codeoghana.org/) posted a number of videos on their [Facebook page](https://www.facebook.com/CODEOElections/) featuring different individuals undertaking key roles for the PVT. The videos were interactive, and allowed CODEO’s followers to get a firsthand look at why someone was volunteering for the PVT and what exactly volunteers were doing for the PVT. For example, [one video featured Ama](https://www.facebook.com/CODEOElections/videos/1108779319240923/) one of 60 data entry clerks. In Ama’s own words, the viewer learns about her background, what is happening at CODEO’s National Information Center, and why the PVT aligns with her interests, personally and professionally. Similar videos were shared featuring [Netwon, an analyst](https://www.facebook.com/CODEOElections/videos/1109992335786288/), [Dr. Kojo Asante, the data center manager](https://www.facebook.com/CODEOElections/videos/1111107529008102/), [Justice Crabbe, the CODEO co-chair](https://www.facebook.com/CODEOElections/videos/1113075995477922/), and [Leslie, an observer](https://www.facebook.com/CODEOElections/videos/1120441241408064/) at a polling station, among many others. The videos offer personal insight into the individuals behind the observation and their dedication democratic progress in their country, something an election statement alone can rarely provide.
+{% callout title="Using Compelling Narrative in Election Observation" %} 
 
 {% figure caption:"_Photo: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg)
 
 {% endfigure %}
+
+During the 2016 general elections in Ghana, the [Coalition of Domestic Election Observers (CODEO)](http://www.codeoghana.org/) posted a number of videos on their [Facebook page](https://www.facebook.com/CODEOElections/) featuring different individuals undertaking key roles for the PVT. The videos were interactive, and allowed CODEO’s followers to get a firsthand look at why someone was volunteering for the PVT and what exactly volunteers were doing for the PVT. For example, [one video featured Ama](https://www.facebook.com/CODEOElections/videos/1108779319240923/) one of 60 data entry clerks. In Ama’s own words, the viewer learns about her background, what is happening at CODEO’s National Information Center, and why the PVT aligns with her interests, personally and professionally. Similar videos were shared featuring [Netwon, an analyst](https://www.facebook.com/CODEOElections/videos/1109992335786288/), [Dr. Kojo Asante, the data center manager](https://www.facebook.com/CODEOElections/videos/1111107529008102/), [Justice Crabbe, the CODEO co-chair](https://www.facebook.com/CODEOElections/videos/1113075995477922/), and [Leslie, an observer](https://www.facebook.com/CODEOElections/videos/1120441241408064/) at a polling station, among many others. The videos offer personal insight into the individuals behind the observation and their dedication democratic progress in their country, something an election statement alone can rarely provide.
 
 {% endcallout %}
 
