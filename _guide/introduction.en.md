@@ -3,8 +3,8 @@ title: 1. Introduction
 subtitle: And Summary
 lang: en
 image:
-  url: "/assets/images/opora_3.jpg"
-  caption: CATCO is better with cats.
+  url: "/assets/images/ndi_kyrgyz_debates-1.jpg"
+  caption: NDI Photo
 permalink: "/introduction/"
 uses_forms: false
 

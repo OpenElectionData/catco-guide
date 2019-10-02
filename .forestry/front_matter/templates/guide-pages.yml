@@ -41,6 +41,7 @@ fields:
     name: caption
     label: Image Caption
 pages:
+- _guide/introduction.en.md
 - _guide/11-what-have-others-tried.en.md
 - _guide/10-who-is-going-to-do-all-this-work.en.md
 - _guide/12-additional-resources.en.md
@@ -52,4 +53,3 @@ pages:
 - _guide/what-are-you-trying-to-accomplish.en.md
 - _guide/2-what-are-you-trying-to-accomplish.en.md
 - _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
-- _guide/introduction.en.md
