@@ -188,3 +188,7 @@ Use these regular check-ins to refine and update your strategies and tactics bas
         </tr>
     </tbody>
 </table>
+
+|\2. horizontal merged cell |
+|/2. vertical merged cell | data1 |
+|data2|
