@@ -160,3 +160,12 @@ Use these regular check-ins to refine and update your strategies and tactics bas
 | --- | --- | --- | --- | --- | --- |
 | Cell | Cell | Cell | Cell | Cell | Cell |
 | ^ | ^ | Cell | Cell | Cell | Cell |
+
+
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| Span <td colspan=3>triple  <td colspan=2>double
+  
+One    | Two | Three | Four    | Five  | Six
+-|||||-
+Span <td colspan=3>triple  <td colspan=2>double
