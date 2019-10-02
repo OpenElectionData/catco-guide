@@ -101,7 +101,7 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 **Go back and look at your goals -- make sure this message supports your overall goals.**
 
-{% figure caption:" your topline message is what you want your audience to learn and have reinforced every time they hear from you. _Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
+{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
 {% endfigure %}
 
 ## Different Messages Resonate with Different Audiences
