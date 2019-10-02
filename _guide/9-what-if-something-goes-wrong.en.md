@@ -82,7 +82,7 @@ Signs that the account is actually a bot:
 
 If the account is fake, report or flag it on the platform for violating the terms of service. Feel free to block or mute the fake account, and don’t waste any time arguing with the bot.
 
-{% figure caption:"NDI Kosovo Photo." %}
+{% figure caption:"NDI Kosovo Photo." class:"right" %}
 
 ![Two women interviewed in a television studio.](/assets/images/kosovo-2.jpg "NDI Kosovo Photo")
 
