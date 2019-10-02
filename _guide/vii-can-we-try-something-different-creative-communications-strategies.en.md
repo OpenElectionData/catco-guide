@@ -79,8 +79,8 @@ There are a couple of messaging pitfalls that comedy can help overcome: messages
 
 The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
 
-{% figure caption:"Academy on Strengthening Citizen Observation in Closing Spaces." class="left" %}  
-![Academy on Strengthening Citizen Observation in Closing Spaces.](/assets/images/comedy-1-1.jpg "NDI Photo"){% endfigure %}
+{% figure caption:"Academy on Strengthening Citizen Observation in Closing Spaces." class:"left" %}  
+![Academy on Strengthening Citizen Observation in Closing Spaces.](/assets/images/comedy-1-1.jpg "NDI Photo") {% endfigure %}
 
 Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people’s minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic.
 
@@ -125,7 +125,7 @@ This type of communication can occur on any of the platforms or formats already 
 
 In other cases, your audience may not undergo the experience themselves, and so you’ll want to simulate it for them or otherwise create some kind of empathic connection to the experience. For example, you could create a simple first person, role-playing game that puts the user in the position of having to vote with a physical disability. At each barrier in the process, the player would have to decide what to do or how to handle it. If there are stairs to the entrance of the polling place, players would have the option of asking others to carry them up the stairs or not voting that day and going home instead. By forcing able-bodied players to make choices from the point of view of a disabled voter, the player will reflect on the importance of accessible polling places, something they may not have given much thought to in the past.
 
-{% figure caption: "OPORA infographic" class:"left"}![OPORA Infographic](/assets/images/opora_3.jpg "OPORA Infographic"){% endfigure %}
+{% figure caption:"OPORA Infographic" class:"left" %} ![OPORA Infographic](/assets/images/opora_3.jpg "OPORA Infographic") {% endfigure %}
 
 You can achieve a similar outcome with videos, virtual reality, slide decks, online quizzes, or first person essays aimed at putting the audience through an experience different from their own. Be sure to structure it in such a way that there is room for reflection about the experience to increase the chance of the audience retaining what it learns.
 
@@ -155,8 +155,9 @@ As a related strategy, it can be very compelling to hear from different people a
 
 This strategy can be difficult to carry out for a number of reasons. People must have an interesting or compelling story to tell. They need to feel safe -- emotionally and physically -- sharing it with you. They need to feel comfortable with the technical aspects of submitting their story (if it requires special equipment, internet bandwidth, etc.). And finally you need to have the staff capacity to vet and curate the stories as they come in -- while you want to show a range of experiences and emotions, you still want the stories to fall within your frame and reinforce your message, and at the very least not contribute to hate speech or abuse.
 
-{% figure caption:"Protesters hold placards with caracature depicting Najib Razak, Rosmah Mansur, Jho Low." class="left" %}  
+{% figure caption:"Protesters hold placards with caracature depicting Najib Razak, Rosmah Mansur, Jho Low." class:"left" %}  
 ![Protesters hold placards with caracature depicting Najib Razak, Rosmah Mansur, Jho Low.](/assets/images/BERSIH_2-1.jpg "BERSIH 2.0"){% endfigure %}
+
 But if you can overcome those challenges, the benefits can be great. People love to tell and listen to stories. Showing a range of personal stories can create empathy, understanding, and engagement that data, messaging, and talking points never will. This strategy also gives regular people a way to get involved and feel like their story and experiences are part of a larger community. Learning you are not alone in how you think or what you’ve experienced creates a powerful form of community that will strengthen people’s commitment to your work and cause.
 
 You might consider this strategy when you think a range of stories will reinforce your overall message and frame, or when a behavior or outcome would benefit from being reinforced by a person’s peer group. For example, perhaps you are trying to boost voter turnout with young women or men ages 18-25. If they aren’t voting because they don’t perceive it as cool or worth their time, then videos, statements, and infographics from an election observation group might not be enough to convince them. However, if they can explore 100 videos of other young women men telling their personal stories of the first time they voted and how it made them feel, your audience is more likely to trust those authentic narratives. They’ll want to belong to a community that votes, like those in the videos.
