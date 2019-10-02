@@ -155,24 +155,3 @@ Once you have a system in place, schedule regular meetings with any team members
 Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
 
 **_INSERT TABLES HERE_**
-
-| Goal | Top Line Message | Target Audience | Target Message | Communication Tool | Metrics|
-| --- | --- | --- | --- | --- | --- |
-| Cell | Cell | Cell | Cell | Cell | Cell |
-| ^ | ^ | Cell | Cell | Cell | Cell |
-
-
-| One    | Two | Three | Four    | Five  | Six|
-|-|-|-|-|-|-
-| Span <td colspan=3>triple  <td colspan=2>double
-  
-| One    | Two | Three | Four    | Five  | Six|
--|||||-
-Span <td colspan=3>triple  <td colspan=2>double
-  
-| Goal | Top Line Message | Target Audience | Target Message | Communication Tool | Metrics|
-| --- | --- | --- | --- | --- | --- |
-|1st operation|Normal Load <br/>Normal Store| Volatile Load <br/>MonitorEnter|Volatile Store<br/> MonitorExit|
-|Normal Load <br/> Normal Store| | | No|
-|Volatile Load <br/> MonitorEnter| No|No|No|
-|Volatile store <br/> MonitorExit| | No|No|
