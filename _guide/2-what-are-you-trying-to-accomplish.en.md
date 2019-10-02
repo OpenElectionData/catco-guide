@@ -35,7 +35,7 @@ You may have brainstormed a long list of things you hope to accomplish, but it�
 
 {% callout title="Setting Organizational Goals %} Don’t forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country’s democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
 
-![](/assets/images/yiaga_3-1.jpg)
+![YIAGA](/assets/images/yiaga_3-1.jpg "YIAGA")
 
 {% endcallout %}
 
@@ -95,7 +95,7 @@ To illustrate this, let’s build out one of the example goals above with strate
 | Strategy 1: Use digital advertising to generate web traffic and social reach. | Raise USD 10,000 for an ads budget.<br/><br/> Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences.<br/><br/> Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | $10,000 <br/><br/> 10 hours/week of dedicated staff time |
 | Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br/><br/> Reach out to that person and their team. <br/><br/> Provide them with content and instructions on how to help on an ongoing basis. | Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br/><br/>Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
 | Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br/><br/>Create graphics and videos for social media that people will want to share.<br/><br/> Post once a day.<br/><br/> |  |
-| Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |
+| Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |  |
 
 {: .table--cols-equal}
 
