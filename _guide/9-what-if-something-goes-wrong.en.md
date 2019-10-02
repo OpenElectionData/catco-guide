@@ -84,7 +84,7 @@ If the account is fake, report or flag it on the platform for violating the term
 
 {% figure caption:"NDI Kosovo Photo." %}
 
-![](/assets/images/kosovo-2.jpg)
+![Two women interviewed in a television studio.](/assets/images/kosovo-2.jpg "NDI Kosovo Photo")
 
 {% endfigure %}
 
