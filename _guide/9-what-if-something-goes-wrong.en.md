@@ -81,3 +81,49 @@ Signs that the account is actually a bot:
 * **Check** [**https://botcheck.me/**](https://botcheck.me/ "https://botcheck.me/") **or** [**https://botometer.iuni.iu.edu**](https://botometer.iuni.iu.edu "https://botometer.iuni.iu.edu")**.** If you don’t have the time or the inclination to analyze each account to determine if it’s a bot, run the profile through one of these bot detection tools to see if it’s likely to be a bot.
 
 If the account is fake, report or flag it on the platform for violating the terms of service. Feel free to block or mute the fake account, and don’t waste any time arguing with the bot.
+
+{% callout title="Sticking to Your Standards" %} 
+
+“The losers of the election are always going to accuse you of being an agent,” said Iryna Shvets, program manager for OPORA. “Always have to stick to the standards -- the standards for independent observations, and the values of your organization.” She advises making those standards and values open and available to the public, so anyone can easily find and understand your methods and purpose. This can help preempt or mitigate those accusations.
+
+{% endcallout %}
+
+## Responding to Crises of Your Own Making
+
+It happens to the best of us -- sometimes the crisis is something we cause ourselves. Maybe the leadership got caught doing something wrong, maybe a tweet was offensive or insensitive, maybe the newsletter went out with inaccurate information. _These things will happen._ It’s how you handle them that people will remember.
+
+* **Don’t obsess over the mistake.** Yes, it would be nice if there was a time machine you could take and not hit “send” on that email, but wishing will not make it so. Accept the mistake, and focus on the response and making things right.
+* **Listen to the people who told you about the mistake.** You may have said or published something not realizing it hurt people’s feelings or offended a person or group of people. Instead of shrugging off their complaints, listen to what they are saying. That doesn’t mean you have to accept their critique, but you should take it seriously and if you have inadvertently made a mistake, admit it, and correct it.
+* **Apologize sincerely.** If you or your organization did something wrong, admit it and apologize. Don’t apologize “if people were offended.” If you published something offensive, acknowledge that and explain in your apology what you’ve learned and what you’re doing to ensure it never happens again. People are much more likely to remain favorable toward your work and organization if they believe you are authentic and are genuinely committed to learning from your mistakes.
+* **Take any necessary steps to address the problem.** Depending on the nature of the crisis, this might mean implementing a better proofreading system, hiring a staff member from an underrepresented group, or even firing the president of the organization. Take meaningful and appropriate action to ensure the crisis doesn’t happen again.
+* **Assume anything you write or say will be published.** Private emails get hacked, private conversations get recorded and leaked. Don’t write or say anything you wouldn’t feel comfortable being published or broadcast. Choose your words carefully and don’t casually insult your co-workers, coalition partners, or opponents. Don’t use offensive language, racist or misogynistic slurs, or anything else that could tarnish your reputation if it got out.
+
+For additional crisis communication planning guidelines -- particularly in response to cyber incidents -- take a look at the Harvard Belfer Center’s [Election Cyber Incident Communications Plan Template](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). Although developed for a political party audience, the template is a great resource for any group looking to develop a structured crisis communications plan in response to cyber incidents, such as disinformation or hacked websites or social media accounts.
+
+**YOUR TURN:**
+
+**Make a list of the most likely threats or crises you are likely to face. These don’t have to be very specific, but general types of threats or lines of attack.**
+
+**1.**
+
+**2.**
+
+**3.**
+
+**4.**
+
+**For each type of crisis you might face, make a list of messages and materials you would need in a rapid-response situation and assign a person to prepare them by a deadline.**
+
+**Make a list of staff spokespeople and third-party validators you will need to help you in times of crisis.**
+
+**1.**
+
+**2.**
+
+**3.**
+
+**4.**
+
+**5.**
+
+**Schedule time with your spokespeople and potential validators where you can practice crisis scenarios. Drill them with hard questions until they are confident staying on message and responding naturally.**
