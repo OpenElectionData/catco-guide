@@ -16,9 +16,8 @@ Depending on how many people you have on staff and what work you need to accompl
 
 ## MOCHA
 
-{% figure caption:"PACE working on developing topline messages. PACE Photo." % } 
-
-![PACE working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo")
+{% figure caption:"PACE working on developing topline messages. PACE Photo." %}
+![](/assets/images/IMG_4422 (1).JPG)
 {% endfigure %}
 
 Regardless of how many people are on the communications team or on your organization’s staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
