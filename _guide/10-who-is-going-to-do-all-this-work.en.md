@@ -8,7 +8,7 @@ image:
   caption: ''
 
 ---
-Every group is organized differently and has different amounts of resources to devote to its communications. Part of the reason to work through the exercises and steps in this guide is to have a clear understanding of what work needs to be done, what roles need to be filled and by how many people, and what work should be prioritized and urgent, and what work can wait for a later time. 
+Every group is organized differently and has different amounts of resources to devote to its communications. Part of the reason to work through the exercises and steps in this guide is to have a clear understanding of what work needs to be done, what roles need to be filled and by how many people, and what work should be prioritized and urgent, and what work can wait for a later time.
 
 Once you have a clear understanding of what needs to be done, you’ll be better equipped to structure your team in a way that divides up the workload, you’ll know if you need to bring on additional full-time employees, contract employees, or volunteers.
 
@@ -29,3 +29,25 @@ The MOCHA model gives your team a clear but flexible structure for every project
 This model also allows for flexibility within and across teams. When there is a small communications team (or just one person handling communications), that person(s) might feel overwhelmed and unsure who they can ask for help. By clearly identifying who else in the organization is assigned to be helpers, consultants, managers, or approvers, teams can expand to meet the workload that needs to get done as it needs to get done.
 
 The other benefit of assigning MOCHA roles to each project is it allows you to evaluate more clearly internal capacity of each staff member and if they realistically have time to accomplish their goals and assignments. If you MOCHA all five of your goals and one person is the Owner for all five, and there are no helpers assigned, then that person is almost certainly going to fail. If, however, you MOCHA each goal and no one feels like they’re overcommitted or signed up for too much when looking at everyone’s workload, then the work is likely to get done well and on time.
+
+### **YOUR TURN:**
+
+**Go back through your communications plan and assign MOCHA roles to each goal, and any large strategies or standalone projects that have been identified within each goal.**
+
+**Looking at the full list of MOCHA responsibilities and deadlines, ask yourself the following questions:** 
+
+{% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1_"_ size="small" %}
+
+{% textarea label="Do they have additional non-communications responsibilities you need to take into account? How much of their time will be taken by communications duties, and can they spare it?" id="MOCHA1_"_ size="small" %}
+
+{% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA1_"_ size="small" %}
+
+{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA1_"_ size="small" %} 
+
+## _Staff Accountability and Prioritization_
+
+However you ultimately end up organizing your team and assigning roles, it’s important that each person has a clear understanding of what they are responsible for completing, how that fits into the overall communications plan, and knows to whom and when to ask for help if they do not believe they’ll be able to meet their goals in time. 
+
+Consider having a regularly scheduled meeting with everyone involved to report on their progress, identify any problems they may have early on, and brainstorm ways to solve them or work around them. You may also want to do individual check-ins or follow ups with all or key staff members or volunteers. Try to foster a team that is creative and takes criticism well -- don’t fault someone for failing, but strive to create an atmosphere where they feel free to admit to mistakes and work together to solve problems and achieve progress on your goals as a team. 
+
+There will inevitably come a time when there is too much to do and the communications team will need to choose to prioritize some work while putting aside other work. Doing this in an open and transparent manner, based on your identified goals, will help your team understand which work to prioritize and why, so that the most important things get done and you make maximum progress on your goals as an organization.
