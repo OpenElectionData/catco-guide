@@ -18,14 +18,14 @@ Inevitably, you will encounter roadblocks, mistakes, and crises. This is true of
 
 You won’t be able to plan for every possible crisis, but you can and should plan for the most likely ones.
 
-Remember when we said your foes would be working just as hard -- and in most cases have significantly more resources -- to enact their own goals? This is the time to think through how they might do that. Will they put out disinformation about your organization and its goals or sources of funding? Will they come after you or your colleagues with personal attacks or smears? Will they try to flood the airwaves and social media channels with disinformation about the elections so your message can’t break through? Do your employees or supporters face the risk of arrest? Will your internet access or mobile service be restricted or suspended? Will they refuse to grant your organization and/or observers accreditation to observe? Will they threaten or take action to shut down your organization? 
+Remember when we said your foes would be working just as hard -- and in most cases have significantly more resources -- to enact their own goals? This is the time to think through how they might do that. Will they put out disinformation about your organization and its goals or sources of funding? Will they come after you or your colleagues with personal attacks or smears? Will they try to flood the airwaves and social media channels with disinformation about the elections so your message can’t break through? Do your employees or supporters face the risk of arrest? Will your internet access or mobile service be restricted or suspended? Will they refuse to grant your organization and/or observers accreditation to observe? Will they threaten or take action to shut down your organization?
 
-Think back to previous crises or attacks on your organization or organizations similar to yours. Where did the threat come from? How was it carried out? How did the organization in crisis respond, and what worked or didn’t work about that response? 
+Think back to previous crises or attacks on your organization or organizations similar to yours. Where did the threat come from? How was it carried out? How did the organization in crisis respond, and what worked or didn’t work about that response?
 
 Since you don’t know exactly what is coming your way, it’s normal for your crisis plan to be a bit vague. But try to make general outlines for how you’ll handle each type of crisis or attack. If you think it is a possibility that the government will release disinformation about your funding or leadership, for example, think through what messages will work best to combat that, what prominent people you can have lined up and ready to vouch for you, what materials you’ll need to distribute, whether you’ll need to activate your supporters to show up, etc. You can also take preemptive measures in some cases, like having a clear explanation on your website about where your funding comes from and how it is spent, if you think that is a likely line of attack. That way, you can point to the public information and you don’t look like you were hiding something or acting suspicious by putting up the information hastily in response to attacks.
 
 {% callout title="Rapid Response in a Crisis" %}
-In Belarus, Right To Choose (R2C) was the target of a PR campaign designed to smear the the coalition and cast doubt on its motives. A secret audio recording of the coalition’s leadership was published to a blog, edited to make it sound like the coalition was trying to harm the election. Luckily, the audio was first published early in the day and was not picked up by other media outlets until the evening, so R2C had a day to prepare its response and wait to see if the story broke through and gained traction. With the day to prepare, the group quickly came together and was able to have a statement ready that emphasized the false nature of the recording and the international observation protocols to which the group adheres. 
+In Belarus, Right To Choose (R2C) was the target of a PR campaign designed to smear the the coalition and cast doubt on its motives. A secret audio recording of the coalition’s leadership was published to a blog, edited to make it sound like the coalition was trying to harm the election. Luckily, the audio was first published early in the day and was not picked up by other media outlets until the evening, so R2C had a day to prepare its response and wait to see if the story broke through and gained traction. With the day to prepare, the group quickly came together and was able to have a statement ready that emphasized the false nature of the recording and the international observation protocols to which the group adheres.
 
 The recording would have been a lot harder to combat if it had gone immediately to major news outlets, and underscored to the group the importance of having a plan and sample drafts prepared in order to respond quickly and forcefully should something similar happen in the future.
 {% endcallout %}
@@ -42,30 +42,30 @@ A crisis by definition is fast-moving and high-stress. It’s worth spending tim
 **Prepare international support.** It might be hard for your message to break through if social media or state media is being flooded by mis- or disinformation. In that case, you might want to rely on organized diaspora communities or international influencers to get your message through on social media or through other trusted, unofficial channels. Let them know ahead of time what kinds of attacks you expect, why they should be skeptical of them, and how they can help you fight back against mis- or disinformation and attacks. You want them to feel empowered to stand up for the truth or come to your defense if needed.
 
 {% callout title="Planning Ahead for Likely Threats" %}
-In Serbia, CRTA develops a crisis plan for a variety of different scenarios on election day -- violence, failure of communications channels, etc. 
+In Serbia, CRTA develops a crisis plan for a variety of different scenarios on election day -- violence, failure of communications channels, etc.
 
-This planning proved useful when one of their observers was physically attacked on election day. Because the group had a clear process for centralizing decision making and controlling information, they were able to release a measured message about the attack without causing a panic among other observers or the public. The group made clear that it would not allow other observers to be attacked, and that they had the backing of the public on their side -- a message that resonated with the public and was successful at stopping more violence against observers. 
+This planning proved useful when one of their observers was physically attacked on election day. Because the group had a clear process for centralizing decision making and controlling information, they were able to release a measured message about the attack without causing a panic among other observers or the public. The group made clear that it would not allow other observers to be attacked, and that they had the backing of the public on their side -- a message that resonated with the public and was successful at stopping more violence against observers.
 
 “Plan for risks and how to mitigate them,” says Rasa Nedeljkov, CRTA’s program director. “Be as imaginative as possible, write them down, and plan a simulation.”
 {% endcallout %}
 
 ## Tracking and Anticipating Attacks
 
-In some cases, your opposition or attackers may be using easily-accessed tools and platforms to plan their attacks or opposition to your organization and/or the issues you care about. You should be actively monitoring these online spaces in order to anticipate the messaging and tactics of what is coming your way, and be able to get ahead of it and prepare for it tas much as possible. 
+In some cases, your opposition or attackers may be using easily-accessed tools and platforms to plan their attacks or opposition to your organization and/or the issues you care about. You should be actively monitoring these online spaces in order to anticipate the messaging and tactics of what is coming your way, and be able to get ahead of it and prepare for it tas much as possible.
 
-Set up a dummy account in the relevant chat rooms or platforms. Depending on your country context, some places where your opposition might be organizing are Reddit, Twitter, Facebook groups, 4chan, 8chan, Gab, YouTube, or WhatsApp. Listen to and monitor what people are saying. If you start to see some messages or tactics gain momentum, prepare your response. It can also be an effective tactic if you warn relevant audiences that this argument or attack may be coming, and why they shouldn’t believe it. It’s harder to disprove once the argument is out there, but if you can tell people to disregard disinformation ahead of time, they may be more skeptical of it or more likely to reject it. 
+Set up a dummy account in the relevant chat rooms or platforms. Depending on your country context, some places where your opposition might be organizing are Reddit, Twitter, Facebook groups, 4chan, 8chan, Gab, YouTube, or WhatsApp. Listen to and monitor what people are saying. If you start to see some messages or tactics gain momentum, prepare your response. It can also be an effective tactic if you warn relevant audiences that this argument or attack may be coming, and why they shouldn’t believe it. It’s harder to disprove once the argument is out there, but if you can tell people to disregard disinformation ahead of time, they may be more skeptical of it or more likely to reject it.
 
 Advance warning can be an especially effective tactic with the media -- or, if the state is doing the attacking and the media is state-run, an effective tactic with international media. Preparing your response ahead of time for likely disinformation, where it might come from, what form it might take, and why they should distrust it, can lead to the media not reporting on harmful disinformation, or at the very least checking with you about its truthfulness first.
 
 ## Call Out the Liars, Not the Lies
 
-There is some debate over whether repeating a particular lie or piece of disinformation in order to debunk it further reinforces the lie itself. In general, you should try to avoid repeating your opponents’ messages. 
+There is some debate over whether repeating a particular lie or piece of disinformation in order to debunk it further reinforces the lie itself. In general, you should try to avoid repeating your opponents’ messages.
 
-This doesn’t mean you should ignore attacks or lies, however. You should be intentional and conscientious of how you’re responding. If you need to debunk something, begin by stating the truth and your own messaging, making clear what you are responding to. 
+This doesn’t mean you should ignore attacks or lies, however. You should be intentional and conscientious of how you’re responding. If you need to debunk something, begin by stating the truth and your own messaging, making clear what you are responding to.
 
-Another effective tactic is to ignore the lie, but focus on the liars who are perpetuating it. If you discredit the source of the information, it can be more effective than trying to debunk the lie itself. It can also weaken the cause of the threat, rather than having to respond to each new lie every time. If the source remains trusted and in good standing, you’ll have a new crisis every time they attack you. If you can work to make them a less trusted messenger, their future attacks will have less power. 
+Another effective tactic is to ignore the lie, but focus on the liars who are perpetuating it. If you discredit the source of the information, it can be more effective than trying to debunk the lie itself. It can also weaken the cause of the threat, rather than having to respond to each new lie every time. If the source remains trusted and in good standing, you’ll have a new crisis every time they attack you. If you can work to make them a less trusted messenger, their future attacks will have less power.
 
-You can also try to have the content or accounts removed or deactivated if they are on social media platforms. Get the contact information for a representative of Twitter, Facebook, and other social platforms operating in your country if they have an office there. Establish a relationship with them at the outset of your campaign, and get clear guidance from them on what to do if you see false or abusive information about yourself or your cause online. Review the terms of service of the major platforms so you know on what grounds you can recommend content or a user be removed from a platform. Get a commitment from your contact at the company that they will help you take down or flag harmful or slanderous information. (You can also use these relationships to get tips on how to better optimize your own social content.) This may be easier to secure if you are able to buy ads on the platform (tech companies are for-profit, at the end of the day), but you should reach out to them and establish these relationships even if you don’t have the resources to buy ads. 
+You can also try to have the content or accounts removed or deactivated if they are on social media platforms. Get the contact information for a representative of Twitter, Facebook, and other social platforms operating in your country if they have an office there. Establish a relationship with them at the outset of your campaign, and get clear guidance from them on what to do if you see false or abusive information about yourself or your cause online. Review the terms of service of the major platforms so you know on what grounds you can recommend content or a user be removed from a platform. Get a commitment from your contact at the company that they will help you take down or flag harmful or slanderous information. (You can also use these relationships to get tips on how to better optimize your own social content.) This may be easier to secure if you are able to buy ads on the platform (tech companies are for-profit, at the end of the day), but you should reach out to them and establish these relationships even if you don’t have the resources to buy ads.
 
 **Use your best judgment about when to engage at all or when to ignore.** If there are just a handful of trolls without many followers saying the same thing over and over in their own little echo chamber, you probably can ignore it. You don’t need to bring additional attention outside of their circles to the attacks or lies. If, however, you see it breaking out of the echo chamber of the original trolls, being picked up in larger circles or by mainstream news outlets, you need to act immediately.
 
@@ -82,7 +82,7 @@ Signs that the account is actually a bot:
 
 If the account is fake, report or flag it on the platform for violating the terms of service. Feel free to block or mute the fake account, and don’t waste any time arguing with the bot.
 
-{% callout title="Sticking to Your Standards" %} 
+{% callout title="Sticking to Your Standards" %}
 
 “The losers of the election are always going to accuse you of being an agent,” said Iryna Shvets, program manager for OPORA. “Always have to stick to the standards -- the standards for independent observations, and the values of your organization.” She advises making those standards and values open and available to the public, so anyone can easily find and understand your methods and purpose. This can help preempt or mitigate those accusations.
 
@@ -104,26 +104,26 @@ For additional crisis communication planning guidelines -- particularly in respo
 
 **Make a list of the most likely threats or crises you are likely to face. These don’t have to be very specific, but general types of threats or lines of attack.**
 
-**1.**
+{% textarea label="1" id="threat1" size="small" button="false" %}
 
-**2.**
+{% textarea label="2" id="threat2" size="small" button="false" %}
 
-**3.**
+{% textarea label="3" id="threat3" size="small" button="false" %}
 
-**4.**
+{% textarea label="4" id="threat4" size="small" button="false" %}
 
 **For each type of crisis you might face, make a list of messages and materials you would need in a rapid-response situation and assign a person to prepare them by a deadline.**
 
 **Make a list of staff spokespeople and third-party validators you will need to help you in times of crisis.**
 
-**1.**
+{% textarea label="1" id="validator1" size="small" button="false" %}
 
-**2.**
+{% textarea label="2" id="validator2" size="small" button="false" %}
 
-**3.**
+{% textarea label="3" id="validator3" size="small" button="false" %}
 
-**4.**
+{% textarea label="4" id="validator4" size="small" button="false" %}
 
-**5.**
+{% textarea label="5" id="validator5" size="small" button="false" %}
 
 **Schedule time with your spokespeople and potential validators where you can practice crisis scenarios. Drill them with hard questions until they are confident staying on message and responding naturally.**
