@@ -76,11 +76,11 @@ Facebook offers free analytics (called Insights) for your page, and also works w
 * **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
 * **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
 
-{% callout title="Evaluating Outreach Efforts On and Offline" %} 
+{% callout title="Evaluating Outreach Efforts On and Offline" %}
 
 {% figure caption:"Malaysians protest in the Bersih 5 rally." class:"right" %}![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
 
-In Malaysia, BERSIH 2.0 tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later. 
+In Malaysia, BERSIH 2.0 tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later.
 
 {% endcallout %}
 
@@ -100,13 +100,13 @@ Some strategies may require metrics that don’t exist easily on one platform bu
 
 ## A/B Testing
 
-As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best. 
+As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best.
 
 {% figure caption:"NDI Photo." class:"left" %}
 
 ![Woman does work on computer.](/assets/images/kosovo-1.jpg "NDI Photo."){% endfigure %}
 
-For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that. 
+For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that.
 
 A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
 
@@ -122,9 +122,9 @@ A/B testing can help you refine the effectiveness of your message, appeals, subj
 
 **Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
 
-Continuing our example, it might look something like this: 
+Continuing our example, it might look something like this:
 
-GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. 
+GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
 
 * 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
 * 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
@@ -135,6 +135,9 @@ GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our websi
 ## Put a System In Place
 
 Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren’t working.
+
+{% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo")
+{% endfigure %}
 
 Questions to keep in mind when you are setting up your metrics-collection process:
 
