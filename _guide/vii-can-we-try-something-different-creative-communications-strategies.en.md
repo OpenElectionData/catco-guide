@@ -86,7 +86,7 @@ Research shows that people take seriously the information they learn through com
 
 There are, of course, times when a light-hearted or humorous approach is inappropriate. But this approach is overlooked often and is so effective that it should at least be considered and integrated when appropriate.
 
-\[INSERT "HOW COMEDY WORKS GRAPHIC"\]
+**_INSERT "HOW COMEDY WORKS GRAPHIC"_**
 
 ## The Format of Your Comedy Matters
 
