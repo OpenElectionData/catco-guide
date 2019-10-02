@@ -158,8 +158,8 @@ Use these regular check-ins to refine and update your strategies and tactics bas
 
 | Goal | Top Line Message | Target Audience | Target Message | Communication Tool | Metrics|
 | --- | --- | --- | --- | --- | --- |
-| Cell | Cell | Cell || Cell | Cell | Cell |
-| ^ | ^ | Cell || Cell | Cell | Cell |
+| Cell | Cell | Cell | Cell | Cell | Cell |
+| ^ | ^ | Cell | Cell | Cell | Cell |
 
 
 <table>
