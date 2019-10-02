@@ -16,7 +16,7 @@ Only 19.9 percent of voters ages 18-29 voted in the 2014 midterms, the lowest yo
 
 Rather than go to the same media outlets that he had relied on up to this point, Obama’s communications team decided to speak to this younger audience through trusted messengers and on platforms and channels that already attracted young people -- rather than trying to attract young people to the platforms and channels that Obama was more familiar or comfortable with. His communications team took a broad look at the media and social media landscape and realized that many young people were on YouTube, where YouTube stars unknown to the general public had millions of young subscribers to their channels.
 
-{% figure caption:"President Barack Obama participates in an interview with YouTube and Google+ to discuss his State of the Union address in the Roosevelt Room of the White House, Jan. 30, 2012." class:"left" %}  
+{% figure caption:"President Barack Obama participates in an interview with YouTube and Google+ to discuss his State of the Union address in the Roosevelt Room of the White House, Jan. 30, 2012." %}
 
 ![](/assets/images/obama.jpg)
 
@@ -45,6 +45,12 @@ In Nicaragua, where stigma and discrimination of LGBTI (lesbian, gay, bisexual, 
 NDI brought together a diverse and representative group of LGBTI activists to better learn about the audience and design an effective campaign to communicate with the target audiences to persuade them to join the cause and support the anti-discrimination ordinance.
 
 To better understand their target audiences, first the activists worked with NDI to design a nationwide study on attitudes toward LGBTI people. They wanted to identify how those audiences thought about their communities, how those attitudes came about, and what influenced them. The activists wanted a sense of what messages might work for straight audiences, instead of trying to guess or impose messages that resonated within the LGBTI communities but might not connect with those outside those communities.
+
+{% figure caption:"NDI Photo" class:"left" %}
+
+![Citizens marching in a parade.](/assets/images/NDI_lgbti-1.jpg "NDI Photo")
+
+{% endfigure %}
 
 The research uncovered some interesting opportunities. A large percentage of those polled recognized LGBTI rights in the abstract, but a much smaller percentage of those people reported a willingness to act in support of those rights. Of those who did report a willingness to act in support of those rights, a very high percentage also reported having an LGBTI family member or loved one. When asked where the stigma or discrimination against LGBTI people came from, most respondents recognized it came from the Catholic Church -- the predominant faith in Nicaragua. Most of those who reported that they had LGBTI family or loved ones also reported that they were regular church-goers.
 
@@ -84,9 +90,15 @@ The live stream was watched by more than 300,000 people on election day and shar
 
 ## Case Study: Creative, Ongoing Tactics for Increased Engagement
 
-Tne major challenge facing CRTA, the civic election observation group in Serbia, was the declining rates of voter participation among Serbians. Participation in voting had been declining since 2008, and by 2016 CRTA felt it was important to re-engage the public and educate them on how important it was to participate in elections and how to protect their own rights while doing so.
+One major challenge facing CRTA, the civic election observation group in Serbia, was the declining rates of voter participation among Serbians. Participation in voting had been declining since 2008, and by 2016 CRTA felt it was important to re-engage the public and educate them on how important it was to participate in elections and how to protect their own rights while doing so.
 
 CRTA employed a number of strategies and a variety of channels and products to accomplish this goal, in order to reach their key audiences with messages that would resonate.
+
+{% figure caption:"CRTA Photo." %}  
+
+![CSO representatives give a press conference for a room of journalists.](/assets/images/CRTA-2-1.jpg "CRTA Photo.")
+
+{% endfigure %}
 
 The group worked to make its messaging simple and relatable, employing common metaphors that people could relate to to make the electoral process and principles more interesting to regular people. They worked to frame statistics on why elections are important within a human context, showing how each statistic related to real people, and making infographics and short Q&As to emphasize this point.
 
@@ -113,6 +125,12 @@ Using humor in the case of the Central Election Commission not only raised aware
 Ultimately the campaign contributed to a new CEC being appointed. In January of 2018, the president formally dismissed the 13 members whose term had expired and officially appointed their replacements, well ahead of 2019 presidential and parliamentary elections.
 
 ## Case Study: “Communications Is Everyone’s Business”
+
+{% figure caption:"YIAGA Africa Photo" %}
+
+![YIAGA Africa Photo.](/assets/images/yiaga_8-1.jpg "YIAGA Africa Photo.")
+
+{% endfigure %}
 
 The communications team of Nigerian election observation group YIAGA AFRICA consists of five staff members: one to write and produce video and radio content, a photography editor, a web manager to update and manage the website, one person to manage the blast email and text program, and a graphic designer who works on social media and infographic content. Together, the team works to normalize and integrate more participatory practices into Nigeria’s political system -- like the importance of young people running for office and the importance of registering to vote.
 

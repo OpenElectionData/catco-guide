@@ -41,8 +41,8 @@ fields:
     name: caption
     label: Image Caption
 pages:
-- _guide/10-who-is-going-to-do-all-this-work.en.md
 - _guide/11-what-have-others-tried.en.md
+- _guide/10-who-is-going-to-do-all-this-work.en.md
 - _guide/12-additional-resources.en.md
 - _guide/9-what-if-something-goes-wrong.en.md
 - _guide/8-is-it-working.en.md
