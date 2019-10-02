@@ -102,6 +102,10 @@ Some strategies may require metrics that don’t exist easily on one platform bu
 
 As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best. 
 
+{% figure caption:"NDI Photo." class:"left" %}
+
+![Woman does work on computer.](/assets/images/kosovo-1.jpg "NDI Photo."){% endfigure %}
+
 For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that. 
 
 A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
