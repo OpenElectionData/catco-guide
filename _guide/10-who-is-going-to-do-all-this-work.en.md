@@ -16,6 +16,12 @@ Depending on how many people you have on staff and what work you need to accompl
 
 ## MOCHA
 
+{% figure caption:"PACE working on developing topline messages. PACE Photo." % } 
+
+![PACE working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo")
+
+{% endfigure %}
+
 Regardless of how many people are on the communications team or on your organization’s staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
 
 * **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
@@ -34,7 +40,7 @@ The other benefit of assigning MOCHA roles to each project is it allows you to e
 
 **Go back through your communications plan and assign MOCHA roles to each goal, and any large strategies or standalone projects that have been identified within each goal.**
 
-**Looking at the full list of MOCHA responsibilities and deadlines, ask yourself the following questions:** 
+**Looking at the full list of MOCHA responsibilities and deadlines, ask yourself the following questions:**
 
 {% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1_"_ size="small" %}
 
@@ -42,12 +48,12 @@ The other benefit of assigning MOCHA roles to each project is it allows you to e
 
 {% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA1_"_ size="small" %}
 
-{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA1_"_ size="small" %} 
+{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA1_"_ size="small" %}
 
 ## _Staff Accountability and Prioritization_
 
-However you ultimately end up organizing your team and assigning roles, it’s important that each person has a clear understanding of what they are responsible for completing, how that fits into the overall communications plan, and knows to whom and when to ask for help if they do not believe they’ll be able to meet their goals in time. 
+However you ultimately end up organizing your team and assigning roles, it’s important that each person has a clear understanding of what they are responsible for completing, how that fits into the overall communications plan, and knows to whom and when to ask for help if they do not believe they’ll be able to meet their goals in time.
 
-Consider having a regularly scheduled meeting with everyone involved to report on their progress, identify any problems they may have early on, and brainstorm ways to solve them or work around them. You may also want to do individual check-ins or follow ups with all or key staff members or volunteers. Try to foster a team that is creative and takes criticism well -- don’t fault someone for failing, but strive to create an atmosphere where they feel free to admit to mistakes and work together to solve problems and achieve progress on your goals as a team. 
+Consider having a regularly scheduled meeting with everyone involved to report on their progress, identify any problems they may have early on, and brainstorm ways to solve them or work around them. You may also want to do individual check-ins or follow ups with all or key staff members or volunteers. Try to foster a team that is creative and takes criticism well -- don’t fault someone for failing, but strive to create an atmosphere where they feel free to admit to mistakes and work together to solve problems and achieve progress on your goals as a team.
 
 There will inevitably come a time when there is too much to do and the communications team will need to choose to prioritize some work while putting aside other work. Doing this in an open and transparent manner, based on your identified goals, will help your team understand which work to prioritize and why, so that the most important things get done and you make maximum progress on your goals as an organization.
