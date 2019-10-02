@@ -94,10 +94,11 @@ Audio and video content can be great for capturing stories, conveying informatio
 
 To expand their external outreach in a more visual manner, the [International Society for fair Elections and Democracy (ISFED)](https://isfed.ge/eng) produced an ["About Us" video](https://www.youtube.com/watch?v=JV_dcsCmasU) explaining the organization’s history, their work in election observation, methodologies used, and technology and outreach tools utilized. The video features several key individuals from ISFED’s staff who speak to different parts of ISFED’s story as an organization, and also includes subtitles in English (when someone is speaking in Georgian) and in Georgian (when someone is speaking in English), expanding the reach of who is able to view and understand the video.
 
-Leading up to the 2019 general elections in Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) released videos highlighting various components of their election observation effort and relevant voter education issues in the lead up to election day. One [video](https://www.youtube.com/watch?v=Qxogx-9fagw&feature=youtu.be) focused on political party agents’ participation in the electoral process. The video featured YIAGA AFRICA’s PVT Director explaining the need for political parties to observe the process in polling units, yet the video also cut to infographics showing data collected from PVTs in prior years. Another [video](https://www.youtube.com/watch?v=eWh2YHMeI_4&feature=youtu.be) focused on the introduction of electronic voting technologies in Nigeria, following a similar format.
-
 {% figure caption:"_Infographic from YIAGA_" class:"left" %} ![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
-{% endfigure %}
+
+ {% endfigure %}
+
+Leading up to the 2019 general elections in Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) released videos highlighting various components of their election observation effort and relevant voter education issues in the lead up to election day. One [video](https://www.youtube.com/watch?v=Qxogx-9fagw&feature=youtu.be) focused on political party agents’ participation in the electoral process. The video featured YIAGA AFRICA’s PVT Director explaining the need for political parties to observe the process in polling units, yet the video also cut to infographics showing data collected from PVTs in prior years. Another [video](https://www.youtube.com/watch?v=eWh2YHMeI_4&feature=youtu.be) focused on the introduction of electronic voting technologies in Nigeria, following a similar format.
 
 {% endcallout %}
 
@@ -117,23 +118,23 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences.**
 
-{% textarea label="What is your topline Message" id="Topline Message" size="large" %}
+{% textarea label="What is your topline Message" id="Topline Message" size="large" button="false" %}
 
 **Target Audience 1**
 
-{% textarea label="Who are they?" id="Audience 1" size="small" %}
+{% textarea label="Who are they?" id="Audience 1" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 1" size="small" %}
+{% textarea label="What message will you use?" id="Message 1" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" %}
+{% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" button="false" %}
 
 **Target Audience 2**
 
-{% textarea label="Who are they?" id="Audience 2" size="small" %}
+{% textarea label="Who are they?" id="Audience 2" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 2" size="small" %}
+{% textarea label="What message will you use?" id="Message 2" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" %}
+{% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" button="false" %}
 
 **Target Audience 3**
 
@@ -145,8 +146,8 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Target Audience 4**
 
-{% textarea label="Who are they?" id="Audience 4" size="small" %}
+{% textarea label="Who are they?" id="Audience 4" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 4" size="small" %}
+{% textarea label="What message will you use?" id="Message 4" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" %}
+{% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" button="false" %}
