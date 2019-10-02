@@ -16,11 +16,11 @@ During your planning process, think about what metrics are meaningful and matter
 
 ## Reach vs Engagement
 
-There are two broad ways to measure your communications: reach and engagement. 
+There are two broad ways to measure your communications: reach and engagement.
 
-Reach looks at how many people saw your content. It does not distinguish between active and passive consumption -- if a person sees your TV ad, receives your email, or scrolls past your content in their newsfeed, it will count toward your reach. Reach can be a useful metric if you are trying to saturate a market, strengthen your brand, or raise awareness of an issue -- just creating a constant presence with a certain audience, even if they are passively consuming your information, can sometimes be an effective strategy. 
+Reach looks at how many people saw your content. It does not distinguish between active and passive consumption -- if a person sees your TV ad, receives your email, or scrolls past your content in their newsfeed, it will count toward your reach. Reach can be a useful metric if you are trying to saturate a market, strengthen your brand, or raise awareness of an issue -- just creating a constant presence with a certain audience, even if they are passively consuming your information, can sometimes be an effective strategy.
 
-Engagement measures whether someone took action with your content in some way. On social media, this might include leaving a comment, sharing your post, or clicking through to join your email list or sign up to volunteer. In an email, it might include opening the email, clicking through your call to action, forwarding the email to a friend, or replying to your email. With a text message, it might mean they reply or show up to the protest you are informing them about. 
+Engagement measures whether someone took action with your content in some way. On social media, this might include leaving a comment, sharing your post, or clicking through to join your email list or sign up to volunteer. In an email, it might include opening the email, clicking through your call to action, forwarding the email to a friend, or replying to your email. With a text message, it might mean they reply or show up to the protest you are informing them about.
 
 Engagement numbers will be lower than reach, but the interactions will be deeper and the audience more heavily invested in your mission and its success. Think carefully about whether you need a smaller-but-active or a larger-but-passive audience to achieve your goals before deciding whether you will emphasize reach or engagement.
 
@@ -61,11 +61,7 @@ CRTA will be tracking these higher-level commitments over time to see if people 
 There is a lot of information available to you in analytics, and you should spend some time exploring it to see what’s available. Most of it was designed to help business websites maximize their customers’ experience, but there is still a lot of useful information for civic groups.
 
 * **Audience:** You can learn about the visitors to your website through the audience features. How many unique visitors did you get and how often do they come back? How long do they stay on the site and how many pages do they view in a visit? What are the demographics of your audience and what are their interests? If you were hoping for deep engagement on your website from young men ages 16-26, but your analytics reveal that your primary audience is older women ages 60-75 and they are only staying on the site for an average of 8 seconds, then you may need re-evaluate either the content of your website or the ways that you are promoting it (or both).
-
-
 * **Devices and browsers:** Part of the audience information includes what browsers and devices they are using to access your site. Be sure that your site is optimized to look its best on the most popular devices and browsers your audience is using.
-
-
 * **Behavior:** You can learn about how people actually use your site from the behavior features. You can see what content is most popular and how long people spend engaging with each page. You can also see the most common site behavior flows -- what pages do people start on and how do they travel through the site? Are they finding the information you most want them to find? Are they engaging deeply with your site or spending only a few seconds on it? Is the path through the site the one you had envisioned? If not, do you need to change your menu or page configuration to ensure that people are seeing the information you want them to prioritize? Use the behavior information to maximize the impact of your content and refine your site to ensure that your audience has an easy time finding the information it needs.
 * **Acquisition:** You can learn a lot about how your audience found your site from the acquisition features. You can find how many people found you through organic search and the search terms they used to do so. You can also see what websites account for your web referrals -- if they are coming from your social media posts, news articles, other referring websites, etc. If your social media referrals are low but your organic search rates are high, you might want to spend more time creating content that performs well based on what people are searching for, rather than creating more posts for social media that refer back to your website, for example. If you are paying for site promotion you can also link your Google AdWords account to your Analytics account and monitor it in this section.
 * You can create sophisticated searches and reports by combining this data. Click on “add a segment” to any report screen to add additional data points. For example, if you want to see how young men ages 16-26 are finding your site versus older women ages 60-75, you can add a demographics segment to your channels analytics screen and find the breakdown. They may have totally different referrals, which you can then refine and cater to more effectively.
@@ -80,11 +76,13 @@ Facebook offers free analytics (called Insights) for your page, and also works w
 * **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
 * **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
 
-{% callout title="Evaluating Outreach Efforts On and Offline" %} In Malaysia, BERSIH 2.0 tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later. 
+{% callout title="Evaluating Outreach Efforts On and Offline" %} In Malaysia, BERSIH 2.0 tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later.
 
-{% figure caption:"Malaysians protest in the Bersih 5 rally." class:"left" %} 
+{% figure caption:"Malaysians protest in the Bersih 5 rally." class:"left" %}
 
-![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %} {% endcallout %}
+![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
+
+{% endcallout %}
 
 ## Twitter Analytics
 
@@ -99,3 +97,11 @@ By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see
 Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what’s available to you to measure. Play around with what’s available, research what each number means, and decide which ones are important to track over time.
 
 Some strategies may require metrics that don’t exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
+
+## A/B Testing
+
+As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best. 
+
+For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that. 
+
+A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
