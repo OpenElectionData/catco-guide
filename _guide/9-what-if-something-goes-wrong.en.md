@@ -104,9 +104,9 @@ It happens to the best of us -- sometimes the crisis is something we cause ourse
 * **Take any necessary steps to address the problem.** Depending on the nature of the crisis, this might mean implementing a better proofreading system, hiring a staff member from an underrepresented group, or even firing the president of the organization. Take meaningful and appropriate action to ensure the crisis doesn’t happen again.
 * **Assume anything you write or say will be published.** Private emails get hacked, private conversations get recorded and leaked. Don’t write or say anything you wouldn’t feel comfortable being published or broadcast. Choose your words carefully and don’t casually insult your co-workers, coalition partners, or opponents. Don’t use offensive language, racist or misogynistic slurs, or anything else that could tarnish your reputation if it got out.
 
-{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report." class:"left" %} 
+{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." class:"left" %} 
 
-![](/assets/images/BERSIH_4-1.jpg)
+![On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report.](/assets/images/BERSIH_4-1.jpg "BERSIH 2.0 Photo")
 
 {% endfigure %}
 
