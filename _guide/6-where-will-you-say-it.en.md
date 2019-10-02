@@ -16,7 +16,7 @@ Depending on your goals and audiences, some tools and platforms are better than 
 
 Your organizational website is the place that interested people will come looking for information about your mission, work, activities, and how they can get involved to support your cause. Your website is often the way you present your organization to the digital world, and it should be designed and maintained with that in mind.
 
-People arriving at your website should have an immediate sense of both the work of the organization and its “personality”. Is the organization tech-focused? Focused on people? Serious or humorous? Experts or novices? All of these answers will be reflected in both the design and content of the site.
+People arriving at your website should have an immediate sense of both the work of the organization and its “personality." Is the organization tech-focused? Focused on people? Serious or humorous? Experts or novices? All of these answers will be reflected in both the design and content of the site.
 
 If you’re organization does not currently have a website, the following are initial steps and ideas to consider:
 
@@ -85,7 +85,7 @@ Common contact management platforms (sometimes called a CRM for customer relatio
 
 Social media’s biggest distinguishing factor is its ability for two-way communication. You aren’t just pushing things out in one direction as you are with broadcast media or a website, but people have the ability to engage with you and your content. This can be both an advantage and disadvantage, and you should weigh the risks of people responding to your content negatively against the benefits of positive reach, engagement, sharing, and collaboration.
 
-Because of the growing use and reach of social media among many audiences, you will likely find it worth it to have a presence on at least one platform. However, you should have a plan in place to combat trolls or bad actors who find and engage negatively with your content on social media. _(See Chapter IX on crisis communications for more information about planning for bad actors.)_ You should also take steps to secure all social media accounts to prevent hacking from potential adversaries. This includes requiring the use of two-factor authentication, enforcing use of strong passwords, limiting the number of account users with administrative privileges, and establishing a system for quickly removing account access for those who leave the organization.
+Because of the growing use and reach of social media among many audiences, you will likely find it worth it to have a presence on at least one platform. However, you should have a plan in place to combat trolls or bad actors who find and engage negatively with your content on social media. _(See Chapter 9 on crisis communications for more information about planning for bad actors.)_ You should also take steps to secure all social media accounts to prevent hacking from potential adversaries. This includes requiring the use of two-factor authentication, enforcing use of strong passwords, limiting the number of account users with administrative privileges, and establishing a system for quickly removing account access for those who leave the organization.
 
 ### _Facebook_
 
@@ -99,7 +99,9 @@ If you decide to create a Facebook page for your organization instead of or in a
 
 Facebook accommodates text, links, images, and video. It excels in particular at visual content -- pictures and photo albums, graphics and infographics, produced or live video. When planning your Facebook strategy be sure to include lots of visual content. If your group operates in a closing or closed political environment, however, make sure to use caution when posting videos and/or photos of people and whether it might expose them to security risks, such as intimidation, harassment, or retribution.
 
-{% figure caption:"_OPORA Infographic_" class:"left" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic") {% endfigure %}
+{% figure caption:"_OPORA Infographic_" class:"left" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic") 
+
+{% endfigure %}
 
 Pay attention to the types and messages of the content that gets the most engagement (likes, comments, and shares). Track it over time to see what content your audience responds to.
 
@@ -159,9 +161,13 @@ The goal is to build a relationship of respect and trust, so that the reporter k
 
 These same strategies can also be applied to members of nontraditional media. Your goals may require that you include bloggers, podcast hosts, YouTube stars, comedians, and/or social media influencers into your earned media strategy. Engaging such actors may also require sustained, trusted, one-on-one outreach. Members of the nontraditional media still want to provide popular, interesting, and relevant content to their audiences, and if they trust you to help them achieve their goals, they will amplify your message, content, and information accordingly.
 
-{% callout title="Build Relationships with Journalists" %} In Myanmar, Neichi Minn, the communications and advocacy officer of [PACE](https://www.pacemyanmar.org/), is always working to find out which journalists are tracking election news and keeping in touch with them. In addition to keeping in frequent contact with journalists one-on-one, she organizes a media briefing prior to each election. This private briefing explains PACE’s methodology, what PACE is tracking, what the findings will mean, and how the journalists can use those findings in their reporting. “It’s a useful strategy,” says Minn. “A lot of journalists are now reaching out and they ask specific questions, because they know what information they can ask from PACE.” {% figure caption: "_Photo: PACE_" class:"right" %} ![PACE Communications officer talking with journalists interested in elections](/assets/images/pace_5-1.jpg "PACE speaks with Media ")
+{% callout title="Build Relationships with Journalists" %} In Myanmar, Neichi Minn, the communications and advocacy officer of [PACE](https://www.pacemyanmar.org/), is always working to find out which journalists are tracking election news and keeping in touch with them. In addition to keeping in frequent contact with journalists one-on-one, she organizes a media briefing prior to each election. This private briefing explains PACE’s methodology, what PACE is tracking, what the findings will mean, and how the journalists can use those findings in their reporting. “It’s a useful strategy,” says Minn. “A lot of journalists are now reaching out and they ask specific questions, because they know what information they can ask from PACE.” 
 
-{% endfigure %}{% endcallout %}
+{% figure caption: "_Photo: PACE_" class:"right" %} ![PACE Communications officer talking with journalists interested in elections](/assets/images/pace_5-1.jpg "PACE speaks with Media ")
+
+{% endfigure %}
+
+{% endcallout %}
 
 ## Contact Management for Media
 
@@ -219,16 +225,16 @@ If these tools and platforms won’t reach the people with whom you’re trying 
 
 The group organizes town hall meetings for young people and lawmakers to have direct dialogue on ways to increase youth participation in politics and encourage lawmakers to be more accountable to their young constituents. YIAGA AFRICA invites radio and broadcast journalists, bloggers, and social media influencers to these town halls, and encourages the social media savvy young attendees to record, share, and tweet about the town hall, adding to the event’s reach and credibility.
 
-{% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ") {% endfigure %}
+{% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ") 
+
+{% endfigure %}
 
 One town hall held in December 2017 was amplified to the point where it was trending throughout social and traditional media. In addition to reaching more people and raising awareness about the issue, the strategy worked to encourage lawmakers in attendance to vote to lower the age limit for candidates running for office. {% endcallout %}
 
 ### Your Turn
 
-**Brainstorm a list of the various communications tools and platforms available to you. They might be some or all of what we listed above, or they might be unique tools and platforms to where you are, your resources, and your circumstances.**
-
-\**  
-Here are some questions to get you started:**
+**Brainstorm a list of the various communications tools and platforms available to you. They might be some or all of what we listed above, or they might be unique tools and platforms to where you are, your resources, and your circumstances.**  
+**Here are some questions to get you started:**
 
 * **What print publications are popular in your country and with whom?**
 * **What TV and radio stations or programs are popular in your country and with whom?**
@@ -249,7 +255,9 @@ Continuing our example, your communications plan might start to look like this:
 
 ## Got to People Where They Are
 
-{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE") {% endfigure %}
+{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE") 
+
+{% endfigure %}
 
 Remember to try to go to people where they already are. If your target audience is mostly on Facebook, don’t try to contact them via email. If your target audience gets most of their news in the daily paper, don’t play radio ads for them. If your target audience gets most of their news at the barber shop, you need to consider a barber outreach program.
 
