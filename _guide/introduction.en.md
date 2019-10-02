@@ -29,6 +29,12 @@ Communications strategies need to be updated to take into account the effects no
 
 It is also true that not all communications challenges come in the form of outside threats. Sometimes the challenges are internal -- leadership that doesn’t prioritize or understand the importance of effective communications, a lack of resources or funding to carry out certain strategies, insufficient staff to do the work, or a lack of expertise in how to plan or carry out effective communications. This guide seeks to build internal expertise and capacity as well as make the case for increased support, resources, and staff dedicated to communications.
 
+{% figure caption:"NDI Photo/Mikhail Velmakin" class:"right" %} 
+
+![NDI Photo/Mikhail Velmakin](/assets/images/NDI_moscow.jpg "NDI Photo/Mikhail Velmakin")
+
+{% endfigure %}
+
 This guide is primarily intended to help citizen election observation groups and other CSOs promoting electoral integrity to increase their impact with creative and artful communications. It focuses particularly on ways to break through in closing and closed political environments by developing sound communication strategies, leveraging new opportunities in information communication technologies, and communicating in ways that are more proactive, tailored to specific target audiences, frequent, compelling, and media savvy. While the guide is mainly focused on citizen election observation groups, the principles of good communications are applicable to any number of causes and contexts. CSOs that work on issues other than electoral integrity can use this guide to create impactful communications plans that spur action on the issues they care about. International practitioners can use this guide and the process it lays out to develop effective trainings and provide technical assistance to groups that want to strengthen their communications and outreach.
 
 ## How To Use This Guide
