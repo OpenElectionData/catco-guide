@@ -42,6 +42,7 @@ fields:
     label: Image Caption
 pages:
 - _guide/10-who-is-going-to-do-all-this-work.en.md
+- _guide/test-table-for-chapter-6.en.md
 - _guide/9-what-if-something-goes-wrong.en.md
 - _guide/8-is-it-working.en.md
 - _guide/6-where-will-you-say-it.en.md
