@@ -46,7 +46,7 @@ NDI brought together a diverse and representative group of LGBTI activists to be
 
 To better understand their target audiences, first the activists worked with NDI to design a nationwide study on attitudes toward LGBTI people. They wanted to identify how those audiences thought about their communities, how those attitudes came about, and what influenced them. The activists wanted a sense of what messages might work for straight audiences, instead of trying to guess or impose messages that resonated within the LGBTI communities but might not connect with those outside those communities.
 
-{% figure caption:"NDI Photo" class:"left" %}
+{% figure caption:"NDI Photo" %}
 
 ![Citizens marching in a parade.](/assets/images/NDI_lgbti-1.jpg "NDI Photo")
 
@@ -126,7 +126,7 @@ Ultimately the campaign contributed to a new CEC being appointed. In January of 
 
 ## Case Study: “Communications Is Everyone’s Business”
 
-{% figure caption:"YIAGA Africa Photo" %}
+{% figure caption:"YIAGA Africa Photo." %}
 
 ![YIAGA Africa Photo.](/assets/images/yiaga_8-1.jpg "YIAGA Africa Photo.")
 
