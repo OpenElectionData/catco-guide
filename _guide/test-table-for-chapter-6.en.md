@@ -6,7 +6,6 @@ subtitle: ''
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 | Goal | Topline Message| Target Audience| Target Audience | Target Message| Communication Tool |
