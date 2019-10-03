@@ -20,7 +20,7 @@ Continuing the example above, if your audience rejects your frame and instead be
 
 You may need to re-adjust your frame to match that of your audience so that they are receptive to what you are trying to convey. In places where a democracy frame won’t be understood or trusted, you may need to create a communications frame around values of fairness, national strength, unity, or some other value or outlook upon which you and your audience can agree and understand each other.
 
-### Your Turn: Develop a Communications Frame
+### YOUR TURN: Develop a Communications Frame
 
 **Brainstorm a list of basic values and assumptions that are at the core of your work and communications.**
 
@@ -52,7 +52,7 @@ You may need to re-adjust your frame to match that of your audience so that they
 
 {% textarea label="Value and Assumptions" id="4" size="large" button="false" %}
 
-**Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?**
+{% textarea label="**Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?**" id="comparison" size="large" %}
 
 Once you have settled on a clear frame, it’s important to ensure that all your communications fit within it. Share it with all the members of your team, spokespeople, leaders, board members, etc. Check all outgoing communications against the frame to ensure consistency. If you create communications that are inconsistent with your frame, your audiences will be confused and your messages will be muddled. People need to know what your underlying values are and what to expect from your organization.
 
@@ -103,7 +103,7 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 ## Different Messages Resonate with Different Audiences
 
-{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ") 
+{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
 
 {% endfigure %}
 
@@ -161,7 +161,7 @@ A more effective narrative would go something like this: _Yesterday, I ran erran
 
 Narrative is powerful. Stories create a deeper personal connection than facts or data. If you had just read that incidents of tailors ripping pants had increased 33 percent in the last two years, you might not change your behavior. But after you heard the story above, you may think twice about taking your pants to a tailor, and consider hemming your pants yourself to avoid the same fate.
 
-{% callout title="Using Compelling Narrative in Election Observation" %} 
+{% callout title="Using Compelling Narrative in Election Observation" %}
 
 {% figure caption:"_Photo: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg)
 
