@@ -56,6 +56,10 @@ If you have the design capability to include graphics or gifs in your email, do 
 
 Unlike the content you post to social media, email is not regulated by an algorithm. Everyone that you send an email to will receive it and have the opportunity to open and engage with it. This lack of gatekeeping is powerful, and organizations often rely on email if social media algorithms are keeping important content from their audiences. However, this strategy does rely on a strong email list. Think through how you plan to build your list, where those addresses will come from, how much money or time you can devote to paid list growth (if any), and how you will replenish your (inevitable) unsubscribers. When building your list, be intentional that those people on your list are from your target audiences and that your email strategy is in service to meeting your communications goals.
 
+{% figure caption:"_NDI Photo_" class:"left" %}
+![people gather around computer ](/assets/images/NDI_STOs-1.jpg "building mass email systems")
+{% endfigure %}
+
 There are a number of free or cheap mass email systems you can use that also give good data on open rates, click through rates, and unsubscribe rates, so you can learn from your email blasts and continue to improve your content and tone. Those mass email platforms will also allow you to personalize blast emails -- an effective tactic for higher open and engagement rates. By adding the person’s first name into the email text, or other custom fields like polling place, local legislator, or electoral district number, your email recipients will feel a personal connection to your organization and receive necessary information without extra steps.
 
 ### _Email Security_
