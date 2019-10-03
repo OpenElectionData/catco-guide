@@ -38,7 +38,7 @@ A well-written press release should read like a news article -- a news article w
   3. Finally, a **press release** is the longest of these three types of media documents. It should be written in the style of a news story and framed the way you want the media to frame your work, issue, or findings. See the section on _Additional Resources_ for sample press releases from YIAGA AFRICA in Nigeria and PACE in Myanmar.
 * Be sure to translate your press materials into English in order to make them easily available for international media.
 
-{% figure caption:" YIAGA Staff presenting at a press conference. _Photo: YIAGA Africa_" class:"center" %}
+{% figure caption:" YIAGA staff presenting at a press conference. _Photo: YIAGA Africa_" class:"center" %}
 
  ![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
 {% endfigure %}
@@ -124,7 +124,7 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Target Audience 1**
 
-{% textarea label="Who are they?" id="Audience 1" size="small" button="false" %}
+{% textarea label="Who is your audience?" id="Audience 1" size="small" button="false" %}
 
 {% textarea label="What message will you use?" id="Message 1" size="small" button="false" %}
 
@@ -132,7 +132,7 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Target Audience 2**
 
-{% textarea label="Who are they?" id="Audience 2" size="small" button="false" %}
+{% textarea label="Who is your audience?" id="Audience 2" size="small" button="false" %}
 
 {% textarea label="What message will you use?" id="Message 2" size="small" button="false" %}
 
@@ -140,7 +140,7 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Target Audience 3**
 
-{% textarea label="Who are they?" id="Audience 3" size="small" button="false" %}
+{% textarea label="Who is your audience?" id="Audience 3" size="small" button="false" %}
 
 {% textarea label="What message will you use?" id="Message 3" size="small" button="false" %}
 
@@ -148,7 +148,7 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Target Audience 4**
 
-{% textarea label="Who are they?" id="Audience 4" size="small" button="false" %}
+{% textarea label="Who is your audience?" id="Audience 4" size="small" button="false" %}
 
 {% textarea label="What message will you use?" id="Message 4" size="small" button="false" %}
 
