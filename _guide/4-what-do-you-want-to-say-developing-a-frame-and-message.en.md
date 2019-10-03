@@ -186,14 +186,14 @@ Putting a face and personal experience to the statistic has more emotional power
 
 Also, notice how the story of the working mother not being able to vote exists within our established frame and drives home our topline message. For her story to have emotional impact, we are assuming that democracy is good and that people should all have an opportunity to cast a vote for the party or person of their choice. This story illustrates our main message that the PVT helps independently check whether the official election results are accurate and that every vote should count. And it emotionally resonates with the audience in a way that they will learn and remember our overall message and findings.
 
-### Your Turn: Using Compelling Narrative
+### YOUR TURN: Using Compelling Narrative
 
 **Spend some time brainstorming the stories you know that illustrate and drive home your messages. Remember that the best stories have settings, characters, a narrative arc, and a moral/message.**
 
-{% textarea label="List the stories you will use to illustrate your message" id="1" size="large" button="false" %}
+{% textarea label="List the stories you will use to illustrate your message" id="1" size="large" %}
 
 **Now look at your messages and goals. Which stories do you wish you could tell to connect with target audiences? What stories do you need to be on the lookout for or spend some time researching and recording?**
 
-{% textarea label="Which stories do you wish you could tell to connect with target audiences?" id="1" size="large" button="false" %}
+{% textarea label="Which stories do you wish you could tell to connect with target audiences?" id="1" size="large" %}
 
 **Integrate the stories you already know about into your communications plan. Who will tell them, how, and to which audience(s)? For the kinds of stories you need to research or be on the lookout for, who will do this work? How will you convey what to look for or ask about? How will you collect these stories and disseminate them to the right people?**
