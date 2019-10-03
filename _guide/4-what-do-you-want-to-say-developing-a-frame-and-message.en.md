@@ -154,6 +154,10 @@ For example, in the 2015 pre-election period, the media frequently would ask abo
 
 Humans are hardwired to tell and connect to stories. Stories create an emotional and empathetic connection, and stay with people for longer than facts or statistics. Telling stories is how we teach people, connect with them, and gain their trust and friendship. Using stories to meet your communications goals and convey your messages can be a powerful and effective approach.
 
+{% figure caption:"_Photo: ISFED_" class:"center" %} ![](/assets/images/ISFED-1.jpg) 
+
+{% endfigure %}
+
 All stories have settings, characters, and plots. The best stories also have a narrative arc and a moral. A narrative arc means that the plot builds to a climax rather than just a plot where one thing happens after another without any sort of build up. After the climax, there is a resolution that should contain some sort of lesson or moral.
 
 For example, here is a story that just has a setting, character, and plot: _Yesterday, I ran errands around the city. I went to the tailor, then the supermarket, then the library. Then I went home._ The setting is the city, I am the character, and the plot is the series of actions. While technically a narrative, without a narrative arc or moral, it’s pretty boring! And you are unlikely to remember anything about it or learn anything from it.
