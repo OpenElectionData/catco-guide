@@ -6,6 +6,7 @@ subtitle: 'Identifying The Best Format '
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 The way you present your content can often have as big an impact as the content itself on how it is received and retained. A well-packaged message will stay with the audience far longer than a dull or unattractive one. It’s worth spending some time thinking about the best way to present your message and story, depending on both the type of information you’re trying to relay and the way your audience is primed to absorb it.
@@ -37,7 +38,9 @@ A well-written press release should read like a news article -- a news article w
   3. Finally, a **press release** is the longest of these three types of media documents. It should be written in the style of a news story and framed the way you want the media to frame your work, issue, or findings. See the section on _Additional Resources_ for sample press releases from YIAGA AFRICA in Nigeria and PACE in Myanmar.
 * Be sure to translate your press materials into English in order to make them easily available for international media.
 
-{% figure caption:"Image caption goes here" class:"center" %} ![](/assets/images/yiaga_1-2.jpg)
+{% figure caption:" YIAGA Staff presenting at a press conference. _Photo: YIAGA Africa_" class:"center" %}
+
+ ![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
 {% endfigure %}
 
 ## Best Practices for Writing Observation Statements and Other Reports
