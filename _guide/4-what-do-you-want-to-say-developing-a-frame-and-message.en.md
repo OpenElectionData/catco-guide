@@ -82,7 +82,7 @@ If the topline message were only “a PVT independently verifies that official e
 
 While the group was conducting a campaign to pressure the government to appoint new members to the Central Election Commission, its central message was that the commission had overstayed its term and needed to be updated as soon as possible. They drove the message in all their external communications until new commissioners were appointed. (See Case Studies section for more information on the campaign). {% endcallout %}
 
-### Your Turn: Create Your Topline Message
+### YOUR TURN: Create Your Topline Message
 
 **Start by brainstorming all of the possible things you might want to say. Don’t hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
 
