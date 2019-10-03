@@ -7,11 +7,12 @@ image:
   caption: ''
 permalink: "/introduction/"
 uses_forms: false
+published: false
 
 ---
 Nonpartisan citizen election observation groups and other civil society organizations (CSOs) work hard every day organizing citizens, collecting and analyzing data, and making the case for democratic reforms. In more closed environments, they also must push back against infringements by authoritarian power structures. Over the past three-plus decades, the citizen-based electoral integrity movement spread to more than 100 countries and involved more than four million activists. Working to defend and advance universal and equal suffrage through a free and informed choice simultaneously reinforces democratic norms and exposes the repression and political corruption of autocrats. That’s why frustrating citizen election observation is a goal for those who seek to close democratic space and why it is important to invigorate citizen election observation to meet the challenges of closing environments.
 
-{% figure caption:"NDI Photo." %}
+{% figure caption:"_NDI Photo_" %}
 
 ![NDI Photo](/assets/images/ndi_kyrgyz_debates-1.jpg "NDI Photo.")
 
@@ -29,7 +30,7 @@ Communications strategies need to be updated to take into account the effects no
 
 It is also true that not all communications challenges come in the form of outside threats. Sometimes the challenges are internal -- leadership that doesn’t prioritize or understand the importance of effective communications, a lack of resources or funding to carry out certain strategies, insufficient staff to do the work, or a lack of expertise in how to plan or carry out effective communications. This guide seeks to build internal expertise and capacity as well as make the case for increased support, resources, and staff dedicated to communications.
 
-{% figure caption:"NDI Photo/Mikhail Velmakin" class:"right" %} 
+{% figure caption:"NDI Photo/Mikhail Velmakin" class:"right" %}
 
 ![NDI Photo/Mikhail Velmakin](/assets/images/NDI_moscow.jpg "NDI Photo/Mikhail Velmakin")
 
