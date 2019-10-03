@@ -96,13 +96,15 @@ Groups can be open or closed, moderated or not. Think through what you’ll use 
 
 If you decide to create a Facebook page for your organization instead of or in addition to a group, you will be the sole publisher of that content. Facebook shows your content to a fraction of your followers based on its ever-changing algorithm, and it can be hard to deduce exactly what will have wide reach or strong engagement. For that reason, it’s important to be nimble and creative with your Facebook content, and responsive to what the data and analytics tell you (_see next_ [_section_](https://ndi-catco.netlify.com/8-is-it-working-en/)). The kind of content that succeeds on Facebook might not be what you’d expect or even what you would prefer. But keep trying n new ways of presenting your information until you find what works. Remember to stay on message even as you experiment with content -- if your content has wide reach and engagement but is off message, you haven’t actually helped your cause or your progress toward your goals.
 
-{% callout title="When to Create Multiple Facebook Pages" %} In Ukraine, [OPORA](https://www.oporaua.org/en) maintains one [main Facebook page](https://www.facebook.com/cn.opora/) that features content that is in line with the organization’s main message. When it launches different campaigns and initiatives with more specific goals, it also creates a separate Facebook page for each, so people can easily follow and access the more specific and narrow content about that particular initiative. {% endcallout %}
-
-Facebook accommodates text, links, images, and video. It excels in particular at visual content -- pictures and photo albums, graphics and infographics, produced or live video. When planning your Facebook strategy be sure to include lots of visual content. If your group operates in a closing or closed political environment, however, make sure to use caution when posting videos and/or photos of people and whether it might expose them to security risks, such as intimidation, harassment, or retribution.
+{% callout title="When to Create Multiple Facebook Pages" %} In Ukraine, [OPORA](https://www.oporaua.org/en) maintains one [main Facebook page](https://www.facebook.com/cn.opora/) that features content that is in line with the organization’s main message. When it launches different campaigns and initiatives with more specific goals, it also creates a separate Facebook page for each, so people can easily follow and access the more specific and narrow content about that particular initiative. 
 
 {% figure caption:"_OPORA Infographic_" class:"left" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
 
 {% endfigure %}
+
+{% endcallout %}
+
+Facebook accommodates text, links, images, and video. It excels in particular at visual content -- pictures and photo albums, graphics and infographics, produced or live video. When planning your Facebook strategy be sure to include lots of visual content. If your group operates in a closing or closed political environment, however, make sure to use caution when posting videos and/or photos of people and whether it might expose them to security risks, such as intimidation, harassment, or retribution.
 
 Pay attention to the types and messages of the content that gets the most engagement (likes, comments, and shares). Track it over time to see what content your audience responds to.
 
@@ -152,7 +154,9 @@ Earned media is any media coverage you get because of something you’ve done th
 
 You should pursue an earned media strategy only if you think you can receive fair or friendly coverage. For example, focusing on an earned media strategy may be futile or counterproductive for those working in closed spaces where the national media is controlled or tightly restricted by the state. In these contexts, you may not want to pursue earned media, or your focus on earned media may be very narrow and targeted to a few, more independent outlets. In addition, you may seek to develop strong relationships with international press covering your country, who may be more open to fair coverage and more likely to cover your work and issues. Regardless of whether you focus on earned media, you should have a crisis communications plan in place for how you’ll deal with unfriendly or negative press coverage (_see Crisis Communications section_).
 
-{% figure caption:"_Photo: NDI Peru_" class:"right" %} ![Media covers an event ](/assets/images/NDI_peru_3.jpg "NDI Peru ") {% endfigure %}
+{% figure caption:"_Photo: NDI Peru_" class:"right" %} ![Media covers an event ](/assets/images/NDI_peru_3.jpg "NDI Peru ") 
+
+{% endfigure %}
 
 If you do decide to pursue earned media, you can’t just hold a press conference and hope that people come and cover your event or findings favorably. Earned media depends in large part on relationship building with reporters, and that takes time.
 
@@ -202,7 +206,7 @@ Candidly, a good press conference can be hard to achieve if a lot of egos are in
 
 Depending on your resources, you may want to buy print, radio, television, web, or social media ads. While paying for ads costs money, the content has the benefit of being exactly how you want it, and it can be very persuasive when done well. Refer back to your target audiences and remind yourself of where they get most of their trusted information. Those will be the programs or platforms on which you want to spend your advertising budget.
 
-When deciding on the content of your ads, you want to promote your key message(s) through the most persuasive content matched to the specific media’s format and audience. Go to the data on what is performing best on social media, email, or your website (_see next chapter for details on data and analytics_). Look at what content, messaging, narratives, and messengers are the most popular, most engaging, and most persuasive with your audiences. That will help to form the basis for your paid advertising.
+When deciding on the content of your ads, you want to promote your key message(s) through the most persuasive content matched to the specific media’s format and audience. Go to the data on what is performing best on social media, email, or your website (_see next_ [_chapter_](https://ndi-catco.netlify.com/vii-can-we-try-something-different-creative-communications-strategies-en/) _for details on data and analytics_). Look at what content, messaging, narratives, and messengers are the most popular, most engaging, and most persuasive with your audiences. That will help to form the basis for your paid advertising.
 
 If you’re promoting posts on social media, you might want to simply boost a post that is performing well so that it reaches a wider audience. You can also create more specific and targeted ads with a narrower message and show them to a specific audience, or even advertise your page itself (instead of a particular post) to a new and wider audience. Facebook in particular (and, by extension, Instagram as they are the same company) allows you create very narrow and specific custom audiences.
 
@@ -234,7 +238,7 @@ The group organizes town hall meetings for young people and lawmakers to have di
 
 One town hall held in December 2017 was amplified to the point where it was trending throughout social and traditional media. In addition to reaching more people and raising awareness about the issue, the strategy worked to encourage lawmakers in attendance to vote to lower the age limit for candidates running for office. {% endcallout %}
 
-### Your Turn
+### YOUR TURN: Identifying the Best Platform
 
 **Brainstorm a list of the various communications tools and platforms available to you. They might be some or all of what we listed above, or they might be unique tools and platforms to where you are, your resources, and your circumstances.**  
 **Here are some questions to get you started:**
@@ -254,9 +258,9 @@ One town hall held in December 2017 was amplified to the point where it was tren
 
 Continuing our example, your communications plan might start to look like this:
 
-\[enter picture of table here\]
+**INSERT TABLE HERE**
 
-## Got to People Where They Are
+## Go to People Where They Are
 
 {% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
 
