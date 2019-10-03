@@ -6,6 +6,7 @@ subtitle: Setting Goals, Strategies, and Tactics
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 Once you’re deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it’s important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you’ll be working toward as a group.
@@ -16,18 +17,31 @@ You have likely already done some form of goal-setting for your organization as 
 
 You also want to be sure your goals are responding to the challenges your organization and your country are facing. If you have not already done a landscape analysis, organizational risk assessment, and SWOT (strengths, weaknesses, opportunities, and threats) analysis of the specific threats or challenges facing you and your political environment, it’s a good idea to do these before setting your goals. A risk assessment is especially important if you are operating in a closed or closing space. As you set your goals, be sure to consider what risks might be heightened as a result of your work (or your changing political environment) and take steps to mitigate, avoid, or accept those risks. Keep in mind that these risks can be very diverse in nature (physical, digital, emotional, legal, etc.), so be sure to think holistically as you consider them. A great resource to start thinking about your general digital risk is [Security Planner](https://securityplanner.org/) by Jigsaw. Those in higher risk organizations in closed or closing spaces should also [seek out guidance](https://securityplanner.org/#/tool/information-for-high-risk-users) from professional security trainers or auditors.
 
-### Your Turn: Setting Communications Goals
+{% figure caption:"_NDI Photo, Patjim Gashi_" class:"center" %} 
+
+![](/assets/images/NDI_kosovo_2.jpg)
+
+{% endfigure %}
+
+### YOUR TURN: Setting Communications Goals
 
 Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
 
-* What do we want to change or improve about the country’s democratic or electoral processes?
-* Do we want to raise awareness? If so, what does that look like?
-* Do we want to expand our network of volunteers? If so, for what purpose?
-* Do we want to enhance our credibility? Do we want to question the credibility of others?
-* Do we want people to change their behavior or perceptions?
-* Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?
-* Do we want to change laws or policies?
-* What do people need to understand or be educated about?
+{% textarea label="What do we want to change or improve about the country’s democratic or electoral processes?" id="1" size="large" %}
+
+{% textarea label="Do we want to raise awareness? If so, what does that look like?" id="2" size="large" %}
+
+{% textarea label="Do we want to expand our network of volunteers? If so, for what purpose?" id="3" size="large" %}
+
+{% textarea label="Do we want to enhance our credibility? Do we want to question the credibility of others?" id="4" size="large" %}
+
+{% textarea label="Do we want people to change their behavior or perceptions?" id="5" size="large" %}
+
+{% textarea label="Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?" id="6" size="large" %}
+
+{% textarea label="Do we want to change laws or policies?" id="7" size="large" %}
+
+{% textarea label="What do people need to understand or be educated about?" id="8 size="large" %}
 
 {% textarea label="List Your Goals Below" id="goals" size="large" %}
 
@@ -51,7 +65,7 @@ Vague goals are hard to work toward, or to know when you’ve achieved them. Avo
 
 By defining the time-specific aspect of your goals, you’ll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it’s important to be clear with your team and your leadership of what you’re hoping to accomplish when. You want to especially be sure you’re working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you’re making steady progress on it.
 
-### Your Turn: Setting SMART Goals
+### YOUR TURN: Setting SMART Goals
 
 Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
 
@@ -98,7 +112,7 @@ To illustrate this, let’s build out one of the example goals above with strate
 
 {: .table--cols-equal}
 
-### Your Turn: Identifying Strategies, Tactics, and Resources
+### YOUR TURN: Identifying Strategies, Tactics, and Resources
 
 Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That’s okay! Adjust your goals to reflect what you can realistically achieve.
 
