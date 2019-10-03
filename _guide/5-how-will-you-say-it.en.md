@@ -78,6 +78,10 @@ R2C’s social media content now focuses on authentic, clear content based on fa
 
 ## Audio and Video Content
 
+{% figure caption:"Photo: NDI Kosovo" class:"left" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
+
+{% endfigure %}
+
 Audio and video content can be great for capturing stories, conveying information in a short period of time, and connecting emotionally with your audience. Here are some tips for producing great video or audio content:
 
 * **Film quality:** There is no one single rule for the quality of a video, but the quality should reflect the larger message and point you’re trying to get across. A video from inside a polling station taken on a cell phone or in the middle of a protest may be shaky or grainy, but that conveys authenticity. However, an explainer video that’s meant to establish your professionalism and expertise should be well-shot and nicely edited to get that point across.
