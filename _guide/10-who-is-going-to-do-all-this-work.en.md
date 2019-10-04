@@ -18,6 +18,8 @@ Depending on how many people you have on staff and what work you need to accompl
 
 ## MOCHA
 
+\[_The MOCHA model is adapted from The Management Center_ [_http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf_](http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf "http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf")_\]_
+
 Regardless of how many people are on the communications team or on your organization’s staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
 
 * **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
