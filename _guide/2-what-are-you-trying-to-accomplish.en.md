@@ -6,7 +6,6 @@ subtitle: Setting Goals, Strategies, and Tactics
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 Once you’re deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it’s important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you’ll be working toward as a group.
@@ -107,7 +106,7 @@ To illustrate this, let’s build out one of the example goals above with strate
 | --- | --- | --- |
 | Strategy 1: Use digital advertising to generate web traffic and social reach. | Raise USD 10,000 for an ads budget.<br>Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences. <br>Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | $10,000 <br> 10 hours/week of dedicated staff time |
 | Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br> Reach out to that person and their team.<br> Provide them with content and instructions on how to help on an ongoing basis. | Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br> Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
-| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br> Create graphics and videos for social media that people will want to share.<br> Post once a day.<> |  |
+| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br> Create graphics and videos for social media that people will want to share.<br> Post once a day. |  |
 | Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |  |
 
 {: .table--cols-equal}
