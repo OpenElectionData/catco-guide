@@ -97,9 +97,9 @@ There are a number of ways to introduce humor into your communications, and each
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you’re funny and therefore successful.
 
-### YOUR TURN: Look back at your topline and related messages in your communications plan.
+### YOUR TURN: Topline Messages 
 
-**Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?**
+**Look back at your topline and related messages in your communications plan. Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?**
 
 **If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:**
 
