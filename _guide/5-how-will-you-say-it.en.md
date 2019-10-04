@@ -39,7 +39,7 @@ A well-written press release should read like a news article -- a news article w
 
 {% figure caption:" YIAGA staff presenting at a press conference. _Photo: YIAGA Africa_" class:"center" %}
 
- ![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
+![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
 {% endfigure %}
 
 ## Best Practices for Writing Observation Statements and Other Reports
@@ -77,7 +77,7 @@ R2C’s social media content now focuses on authentic, clear content based on fa
 
 ## Audio and Video Content
 
-{% figure caption:"Photo: NDI Kosovo" class:"left" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
+{% figure caption:"Photo: NDI Kosovo" class:"right" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
 
 {% endfigure %}
 
