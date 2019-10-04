@@ -6,6 +6,7 @@ subtitle: Setting Goals, Strategies, and Tactics
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 Once you’re deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it’s important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you’ll be working toward as a group.
@@ -26,23 +27,23 @@ You also want to be sure your goals are responding to the challenges your organi
 
 Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
 
-{% textarea label="What do we want to change or improve about the country’s democratic or electoral processes?" id="1" size="large" button="false" %}
+{% textarea label="What do we want to change or improve about the country’s democratic or electoral processes?" id="1" size="large" %}
 
-{% textarea label="Do we want to raise awareness? If so, what does that look like?" id="2" size="large" button="false" %}
+{% textarea label="Do we want to raise awareness? If so, what does that look like?" id="2" size="large" %}
 
-{% textarea label="Do we want to expand our network of volunteers? If so, for what purpose?" id="3" size="large" button="false" %}
+{% textarea label="Do we want to expand our network of volunteers? If so, for what purpose?" id="3" size="large" %}
 
-{% textarea label="Do we want to enhance our credibility? Do we want to question the credibility of others?" id="4" size="large" button="false" %}
+{% textarea label="Do we want to enhance our credibility? Do we want to question the credibility of others?" id="4" size="large"  %}
 
-{% textarea label="Do we want people to change their behavior or perceptions?" id="5" size="large" button="false" %}
+{% textarea label="Do we want people to change their behavior or perceptions?" id="5" size="large"  %}
 
-{% textarea label="Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?" id="6" size="large" button="false" %}
+{% textarea label="Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?" id="6" size="large"  %}
 
-{% textarea label="Do we want to change laws or policies?" id="7" size="large" button="false" %}
+{% textarea label="Do we want to change laws or policies?" id="7" size="large" %}
 
-{% textarea label="What do people need to understand or be educated about?" id="8 size="large" button="false" %}
+{% textarea label="What do people need to understand or be educated about?" id="8 size="large"  %}
 
-{% textarea label="List Your Goals Below" id="goals" size="large" button="false" %}
+{% textarea label="List Your Goals Below" id="goals" size="large"  %}
 
 You may have brainstormed a long list of things you hope to accomplish, but it’s important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn’t mean you have to give up on them forever - you can always turn your attention to them at a later date.
 
