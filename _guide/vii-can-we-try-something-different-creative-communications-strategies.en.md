@@ -129,9 +129,9 @@ You can achieve a similar outcome with videos, virtual reality, slide decks, onl
 
 For either of these approaches, it’s best to have immediate actions ready for someone to take, in order to channel their newfound knowledge and enthusiasm into useful action. This might mean something as simple as signing up for your email list for updates and alerts, or something more involved like protesting inaccessible polling places at the election commission -- but you want to be sure people take action based on what they’ve just experienced and learned.
 
-**YOUR TURN: Are there experiences that your audiences will have or should have that can teach valuable lessons about your work and mission?**
+### YOUR TURN: Audience Experiences
 
-**Brainstorm what those experiences could be:**
+**Are there experiences that your audiences will have or should have that can teach valuable lessons about your work and mission? Brainstorm what those experiences could be:**
 
 {% textarea label="1" id="experience1" size="small" button="false" %}
 
