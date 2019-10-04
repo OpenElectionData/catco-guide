@@ -103,7 +103,7 @@ Comedy works best when people like or trust the comedian. Choose your messenger 
 
 **If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:**
 
-{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size_="_small_" button="false" %}
+{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size="small" button="false" %}
 
 {% textarea label="Is there an absurd or ridiculous news event you can satorize in a way that reinforces your message?" id="humor2" size="small" button="false" %}
 
