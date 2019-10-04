@@ -94,7 +94,7 @@ One major challenge facing CRTA, the civic election observation group in Serbia,
 
 CRTA employed a number of strategies and a variety of channels and products to accomplish this goal, in order to reach their key audiences with messages that would resonate.
 
-{% figure caption:"CRTA Photo." %}  
+{% figure caption:"CRTA Photo." %}
 
 ![CSO representatives give a press conference for a room of journalists.](/assets/images/CRTA-2-1.jpg "CRTA Photo.")
 
