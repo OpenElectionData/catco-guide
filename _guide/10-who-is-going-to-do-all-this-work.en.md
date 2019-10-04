@@ -40,7 +40,7 @@ This model also allows for flexibility within and across teams. When there is a 
 
 The other benefit of assigning MOCHA roles to each project is it allows you to evaluate more clearly internal capacity of each staff member and if they realistically have time to accomplish their goals and assignments. If you MOCHA all five of your goals and one person is the Owner for all five, and there are no helpers assigned, then that person is almost certainly going to fail. If, however, you MOCHA each goal and no one feels like they’re overcommitted or signed up for too much when looking at everyone’s workload, then the work is likely to get done well and on time.
 
-### **YOUR TURN:**
+### YOUR TURN: MOCHA Roles, Responsibilities, and Deadlines
 
 **Go back through your communications plan and assign MOCHA roles to each goal, and any large strategies or standalone projects that have been identified within each goal.**
 
