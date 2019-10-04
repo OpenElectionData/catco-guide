@@ -26,7 +26,7 @@ You also want to be sure your goals are responding to the challenges your organi
 
 Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
 
-{% textarea label="What do we want to change or improve about the country’s democratic or electoral processes?" id="comm1" size="large" button="false" %}
+{% textarea label="What do we want to change or improve about the country’s democratic or electoral processes?" id="1" size="large" button="false" %}
 
 {% textarea label="Do we want to raise awareness? If so, what does that look like?" id="2" size="large" button="false" %}
 
