@@ -73,6 +73,8 @@ If you plan to communicate with fan communities, here are some practical tips to
 
 ## The Power of Comedy
 
+_\[This section largely based on the work and findings of Caty Borum Chattoo’s research and report_ [_The Laughter Effect_](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")_\]_
+
 Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren’t lighthearted or humorous.
 
 There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don’t want to be reminded that things are bad, and the path forward is arduous.

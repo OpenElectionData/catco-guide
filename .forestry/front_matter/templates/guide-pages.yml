@@ -41,6 +41,7 @@ fields:
     name: caption
     label: Image Caption
 pages:
+- _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
 - _guide/6-where-will-you-say-it.en.md
 - _guide/5-how-will-you-say-it.en.md
 - _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
@@ -52,4 +53,3 @@ pages:
 - _guide/12-additional-resources.en.md
 - _guide/9-what-if-something-goes-wrong.en.md
 - _guide/8-is-it-working.en.md
-- _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
