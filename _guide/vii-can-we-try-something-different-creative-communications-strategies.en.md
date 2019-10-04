@@ -32,9 +32,7 @@ There are a number of ways to integrate pop culture strategies into your communi
 
 As with your other strategies, any pop culture strategies and tactics you pursue should be in service to your larger goals. If you recruit a celebrity to be your spokesperson but that person is not popular with key audiences or isn’t willing to stay on message, then it’s not worth the effort. If, however, people are becoming increasingly cynical about democracy because the dominant television shows and movies all portray elections as rigged and politicians as corrupt, then you might want to work with artists and actors to create counter narratives that emphasize the benefits of participation and the importance of voting. Inviting the public to post or submit popular culture contributions to your campaigns can also help counter cynicism, while you will need to filter against trolls and other malign actors who may try to sabotage such efforts. This will reinforce your frame and lay a foundation that makes the rest of your work easier.
 
-### Your Turn: Brainstorming Popular Culture
-
-**Spend some time brainstorming the country’s most popular television shows, movies, books, music, and celebrities.**
+### Your Turn: Spend some time brainstorming the country’s most popular television shows, movies, books, music, and celebrities.
 
 **Looking at this list, ask yourself the following questions:**
 
