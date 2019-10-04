@@ -136,10 +136,9 @@ GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our websi
 
 Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren’t working.
 
-{% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo")
-{% endfigure %}
-
 Questions to keep in mind when you are setting up your metrics-collection process:
+
+{% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
 
 * Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)?
 * Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work?
