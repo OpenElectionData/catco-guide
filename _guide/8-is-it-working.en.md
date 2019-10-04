@@ -110,7 +110,7 @@ For example, you could send an email with a red call-to-action button at the ver
 
 A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
 
-### YOUR TURN
+### YOUR TURN: Review Your Goals
 
 **Review each of your goals. Brainstorm different indicators that will help you know if you’ve achieved them.**
 
