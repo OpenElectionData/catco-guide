@@ -1,7 +1,7 @@
 ---
 lang: en
 uses_forms: true
-title: 12. Additional Resources
+title: Additional Resources
 subtitle: ''
 image:
   url: ''
