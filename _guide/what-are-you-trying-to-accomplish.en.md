@@ -123,4 +123,4 @@ When you’re done, you should have a pretty detailed picture of your target aud
 
 {% textarea label="Target Audience 3" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="3b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 4" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="4b" size="Small" button="false" %}
+{% textarea label="Target Audience 4" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 4" id="4b" size="Small" button="false" %}

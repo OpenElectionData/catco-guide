@@ -41,6 +41,7 @@ fields:
     name: caption
     label: Image Caption
 pages:
+- _guide/what-are-you-trying-to-accomplish.en.md
 - _guide/10-who-is-going-to-do-all-this-work.en.md
 - _guide/9-what-if-something-goes-wrong.en.md
 - _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
@@ -51,5 +52,4 @@ pages:
 - _guide/5-how-will-you-say-it.en.md
 - _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
 - _guide/introduction.en.md
-- _guide/what-are-you-trying-to-accomplish.en.md
 - _guide/12-additional-resources.en.md
