@@ -50,10 +50,6 @@ As with your other strategies, any pop culture strategies and tactics you pursue
 
 **For the narratives that contradict or devalue your message and frame, think about how you can present counter narratives or rebuttals to what is harmful. Can you work directly with the creators to change how your issues are presented within the culture? Can you recruit the actors or artists involved to serve as spokespeople for your cause to debunk some of the harmful messages in their work? Can you parody or play with the original narrative to present your side or ideas instead?**
 
-{% callout title="Using Humor and the Arts to Convey a Message" %}
-In Malaysia, [BERSIH 2.0](http://www.bersih.org/) experimented with a number of arts and culture tactics to get the public interested and engaged on the topic of redistricting. They presented film screenings followed by discussion sessions. They organized a series of concerts to raise awareness of the issue. They also organized a standup comedy show and encouraged the comics to use material about BERSIH 2.0 and the issues - even if it meant poking fun at the issues and the organization - in an effort to teach through laughter. The comedy show proved to be so popular they extended its run - it ended up running for 10 days, and 300-400 people came to each show.
-{% endcallout %}
-
 ## _Tips for Collaborating with Artists and Fans_
 
 Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them:
@@ -63,6 +59,8 @@ Working in politics or for an NGO means you may have limited exposure to artists
 * **Collaborate, don’t dictate.** You’re each bringing different knowledge bases to the table. Form a collaborative partnership where you’re lifting up each other’s work, not trying to make it fit into your preconceived ideas.
 
 One example is when _Black Panther_ (a popular superhero movie which takes place in the mythical African nation of Wakanda) fans organized a “Wakanda The Vote” campaign to register people attending _Black Panther_ film screenings to vote. The idea was not just to watch a screening about a fictional country built on the power of black people, but to simultaneously build black power in the real world.
+
+{% callout title="Using Humor and the Arts to Convey a Message" %} In Malaysia, [BERSIH 2.0](http://www.bersih.org/) experimented with a number of arts and culture tactics to get the public interested and engaged on the topic of redistricting. They presented film screenings followed by discussion sessions. They organized a series of concerts to raise awareness of the issue. They also organized a standup comedy show and encouraged the comics to use material about BERSIH 2.0 and the issues - even if it meant poking fun at the issues and the organization - in an effort to teach through laughter. The comedy show proved to be so popular they extended its run - it ended up running for 10 days, and 300-400 people came to each show. {% endcallout %}
 
 If you plan to communicate with fan communities, here are some practical tips to keep in mind:
 
