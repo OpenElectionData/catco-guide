@@ -52,7 +52,7 @@ You may need to re-adjust your frame to match that of your audience so that they
 
 {% textarea label="Value and Assumptions" id="4" size="large" button="false" %}
 
-{% textarea label="Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?" id="comparison" size="large" %}
+{% textarea label="Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?" id="comparison" size="large" button="false" %}
 
 Once you have settled on a clear frame, it’s important to ensure that all your communications fit within it. Share it with all the members of your team, spokespeople, leaders, board members, etc. Check all outgoing communications against the frame to ensure consistency. If you create communications that are inconsistent with your frame, your audiences will be confused and your messages will be muddled. People need to know what your underlying values are and what to expect from your organization.
 
