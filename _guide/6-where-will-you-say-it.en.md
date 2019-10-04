@@ -99,11 +99,13 @@ Groups can be open or closed, moderated or not. Think through what you’ll use 
 
 If you decide to create a Facebook page for your organization instead of or in addition to a group, you will be the sole publisher of that content. Facebook shows your content to a fraction of your followers based on its ever-changing algorithm, and it can be hard to deduce exactly what will have wide reach or strong engagement. For that reason, it’s important to be nimble and creative with your Facebook content, and responsive to what the data and analytics tell you (_see next_ [_section_](https://ndi-catco.netlify.com/8-is-it-working-en/)). The kind of content that succeeds on Facebook might not be what you’d expect or even what you would prefer. But keep trying n new ways of presenting your information until you find what works. Remember to stay on message even as you experiment with content -- if your content has wide reach and engagement but is off message, you haven’t actually helped your cause or your progress toward your goals.
 
-{% callout title="When to Create Multiple Facebook Pages" %} In Ukraine, [OPORA](https://www.oporaua.org/en) maintains one [main Facebook page](https://www.facebook.com/cn.opora/) that features content that is in line with the organization’s main message. When it launches different campaigns and initiatives with more specific goals, it also creates a separate Facebook page for each, so people can easily follow and access the more specific and narrow content about that particular initiative. 
+{% callout title="When to Create Multiple Facebook Pages" %} 
 
-{% figure caption:"_OPORA Infographic_" class:"left" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
+{% figure caption:"_OPORA Infographic_" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
 
 {% endfigure %}
+
+In Ukraine, [OPORA](https://www.oporaua.org/en) maintains one [main Facebook page](https://www.facebook.com/cn.opora/) that features content that is in line with the organization’s main message. When it launches different campaigns and initiatives with more specific goals, it also creates a separate Facebook page for each, so people can easily follow and access the more specific and narrow content about that particular initiative.
 
 {% endcallout %}
 
@@ -157,7 +159,7 @@ Earned media is any media coverage you get because of something you’ve done th
 
 You should pursue an earned media strategy only if you think you can receive fair or friendly coverage. For example, focusing on an earned media strategy may be futile or counterproductive for those working in closed spaces where the national media is controlled or tightly restricted by the state. In these contexts, you may not want to pursue earned media, or your focus on earned media may be very narrow and targeted to a few, more independent outlets. In addition, you may seek to develop strong relationships with international press covering your country, who may be more open to fair coverage and more likely to cover your work and issues. Regardless of whether you focus on earned media, you should have a crisis communications plan in place for how you’ll deal with unfriendly or negative press coverage (_see Crisis Communications section_).
 
-{% figure caption:"_Photo: NDI Peru_" class:"right" %} ![Media covers an event ](/assets/images/NDI_peru_3.jpg "NDI Peru ") 
+{% figure caption:"_Photo: NDI Peru_" class:"right" %} ![Media covers an event ](/assets/images/NDI_peru_3.jpg "NDI Peru ")
 
 {% endfigure %}
 
