@@ -102,7 +102,7 @@ If your audiences are different from you, you may not know these answers off the
 * **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don’t argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
 * **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn’t to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
 
-### Your Turn: Creating Detailed Audience Profiles
+### YOUR TURN: Creating Detailed Audience Profiles
 
 **Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
 
