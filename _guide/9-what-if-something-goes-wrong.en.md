@@ -8,7 +8,11 @@ image:
   caption: ''
 
 ---
-_\[Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section.\]_
+#### _\[Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section.\]_
+
+##### _\[Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section.\]_
+
+###### _\[Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section.\]_
 
 By now you’ve created a strategic and thorough communications plan. You have a clear sense of what needs to happen when, how, and to whom. Now is also a good time to ensure that you’ve assessed your risks and adopted technical and operational best practices to mitigate them. In addition to consulting a trusted security trainer, you can also reference resources like the [Cybersecurity Campaign Playbook](https://www.ndi.org/publications/cybersecurity-campaign-playbook-global-edition), the [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/), the [Surveillance Self Defense Guide](https://ssd.eff.org/), and [others](https://www.frontlinedefenders.org/en/digital-security-resources) for basic guidance on how to limit your information and communication related risks. These resources won’t cover all of your organization’s needs perfectly, but they’re a great place to start to help build out your holistic communications plan.
 
