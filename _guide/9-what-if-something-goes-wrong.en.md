@@ -8,6 +8,8 @@ image:
   caption: ''
 
 ---
+_\[Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section.\]_
+
 By now you’ve created a strategic and thorough communications plan. You have a clear sense of what needs to happen when, how, and to whom. Now is also a good time to ensure that you’ve assessed your risks and adopted technical and operational best practices to mitigate them. In addition to consulting a trusted security trainer, you can also reference resources like the [Cybersecurity Campaign Playbook](https://www.ndi.org/publications/cybersecurity-campaign-playbook-global-edition), the [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/), the [Surveillance Self Defense Guide](https://ssd.eff.org/), and [others](https://www.frontlinedefenders.org/en/digital-security-resources) for basic guidance on how to limit your information and communication related risks. These resources won’t cover all of your organization’s needs perfectly, but they’re a great place to start to help build out your holistic communications plan.
 
 But what will you do when events deviate from the plan?
@@ -82,7 +84,7 @@ Signs that the account is actually a bot:
 {% endfigure %}
 
 * **The bio or profile picture are suspect.** Look at the bio of the account -- does it sound like a real person? Is there any personal information in it? Is the profile picture of a real person or a blank silhouette? If it’s a silhouette, that strongly increases the chances it’s a bot. If it’s a real person, do a reverse image search of the picture. If the picture appears frequently across the internet, it is probably a fake account.
-* **The account’s posting behavior is suspect.** Is the account posting more frequently an even an energetic person would likely be able to (for example, more than 50 times per day)? Is it retweeting what look to be other fake accounts with frequency? Is it posting political propaganda or fake news? Is it posting commercial or advertising messages frequently? Or retweeting messages in a number of different languages? These are all signs the account may be fake.
+* **The account’s posting behavior is suspect.** Is the account posting more frequently an even an energetic person would likely be able to (for example, more than 50 times per day)? _\[A widely applied benchmark, from the_ [_Oxford Internet Institute_](https://www.oii.ox.ac.uk/research/projects/computational-propaganda/)_’s Computational Propaganda initiative, is an average of more than 50 posts or tweets a day.\]_ Is it retweeting what look to be other fake accounts with frequency? Is it posting political propaganda or fake news? Is it posting commercial or advertising messages frequently? Or retweeting messages in a number of different languages? These are all signs the account may be fake.
 * **The accounts followers are suspect.** Does the account have a high percentage of followers with silhouette avatars or other signs that they are fake? Did the account receive a large number of followers in a very short period of time? Is the account following a huge amount of accounts but has almost no followers itself? These are signs that the account is likely to be a bot.
 * **Check** [**https://botcheck.me/**](https://botcheck.me/ "https://botcheck.me/") **or** [**https://botometer.iuni.iu.edu**](https://botometer.iuni.iu.edu "https://botometer.iuni.iu.edu")**.** If you don’t have the time or the inclination to analyze each account to determine if it’s a bot, run the profile through one of these bot detection tools to see if it’s likely to be a bot.
 
@@ -98,7 +100,7 @@ If the account is fake, report or flag it on the platform for violating the term
 
 It happens to the best of us -- sometimes the crisis is something we cause ourselves. Maybe the leadership got caught doing something wrong, maybe a tweet was offensive or insensitive, maybe the newsletter went out with inaccurate information. _These things will happen._ It’s how you handle them that people will remember.
 
-{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." %} 
+{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." %}
 
 ![On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report.](/assets/images/BERSIH_4-1.jpg "BERSIH 2.0 Photo")
 
