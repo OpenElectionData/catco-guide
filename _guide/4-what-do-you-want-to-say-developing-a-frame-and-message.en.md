@@ -6,6 +6,7 @@ subtitle: Developing a Frame and Message
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 ## Develop a Communications Frame
@@ -85,13 +86,21 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 **Start by brainstorming all of the possible things you might want to say. Don’t hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
 
-* **Someone asks you what your organization is all about. How do you answer?**
-* **What’s your favorite argument in favor of your cause or organization?**
-* **What inspired you to take action for this issue?**
-* **Who does your work help? How does it help them?**
-* **What values do you uphold in your work?**
-* **What will happen if your mission fails?**
-* **What keeps you advocating for this cause every day?**
+{% textarea label="**Someone asks you what your organization is all about. How do you answer?**" id="toplinemessage1" size="large" %}
+
+{% textarea label="**What’s your favorite argument in favor of your cause or organization?**" id="toplinemessage2="large" %}
+
+{% textarea label="**What inspired you to take action for this issue?**" id="toplinemessage3" size="large" %}
+
+{% textarea label="**What inspired you to take action for this issue?**" id="toplinemessage4" size="large" %}
+
+{% textarea label="**Who does your work help? How does it help them?**" id="toplinemessage5" size="large" %}
+
+{% textarea label="**What values do you uphold in your work?**" id="toplinemessage6" size="large" %}
+
+{% textarea label="**What will happen if your mission fails?**" id="toplinemessage7" size="large" %}
+
+{% textarea label="**What keeps you advocating for this cause every day?**" id="toplinemessage8" size="large" %}
 
 **Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
 
