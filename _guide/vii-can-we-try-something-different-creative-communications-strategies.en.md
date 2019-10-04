@@ -69,7 +69,7 @@ If you plan to communicate with fan communities, here are some practical tips to
 
 ## The Power of Comedy
 
-_\[This section largely based on the work and findings of Caty Borum Chattoo’s research and report_ [_The Laughter Effect_](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")_\]_
+#### _\[This section largely based on the work and findings of Caty Borum Chattoo’s research and report_ [_The Laughter Effect_](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")_\]_
 
 Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren’t lighthearted or humorous.
 
@@ -97,7 +97,7 @@ There are a number of ways to introduce humor into your communications, and each
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you’re funny and therefore successful.
 
-### YOUR TURN: Topline Messages 
+### YOUR TURN: Topline Messages
 
 **Look back at your topline and related messages in your communications plan. Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?**
 
