@@ -145,7 +145,7 @@ For either of these approaches, it’s best to have immediate actions ready for 
 
 **If they’ll experience it themselves, how will you encourage them to reflect and act from the experience? If they will not experience it for themselves, what are effective ways to simulate the experience and encourage them to reflect on it?**
 
-Sharing People’s Stories
+## Sharing People’s Stories
 
 As already discussed, using narrative is a powerful way to emotionally connect with your audience and relay the story of your work, organization, or findings. For the most part, the narrative approaches in Chapter IV are for stories that you created or sought out -- and thereby maintain careful control of the narrative.
 
