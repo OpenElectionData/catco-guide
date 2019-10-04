@@ -42,7 +42,7 @@ A crisis by definition is fast-moving and high-stress. It’s worth spending tim
 **Prepare international support.** It might be hard for your message to break through if social media or state media is being flooded by mis- or disinformation. In that case, you might want to rely on organized diaspora communities or international influencers to get your message through on social media or through other trusted, unofficial channels. Let them know ahead of time what kinds of attacks you expect, why they should be skeptical of them, and how they can help you fight back against mis- or disinformation and attacks. You want them to feel empowered to stand up for the truth or come to your defense if needed.
 
 {% callout title="Planning Ahead for Likely Threats" %}
-In Serbia, CRTA develops a crisis plan for a variety of different scenarios on election day -- violence, failure of communications channels, etc.
+In Serbia, [CRTA](https://crta.rs/en/) develops a crisis plan for a variety of different scenarios on election day -- violence, failure of communications channels, etc.
 
 This planning proved useful when one of their observers was physically attacked on election day. Because the group had a clear process for centralizing decision making and controlling information, they were able to release a measured message about the attack without causing a panic among other observers or the public. The group made clear that it would not allow other observers to be attacked, and that they had the backing of the public on their side -- a message that resonated with the public and was successful at stopping more violence against observers.
 
@@ -90,7 +90,7 @@ If the account is fake, report or flag it on the platform for violating the term
 
 {% callout title="Sticking to Your Standards" %}
 
-“The losers of the election are always going to accuse you of being an agent,” said Iryna Shvets, program manager for OPORA. “Always have to stick to the standards -- the standards for independent observations, and the values of your organization.” She advises making those standards and values open and available to the public, so anyone can easily find and understand your methods and purpose. This can help preempt or mitigate those accusations.
+“The losers of the election are always going to accuse you of being an agent,” said Iryna Shvets, program manager for [OPORA](https://www.oporaua.org/en). “Always have to stick to the standards -- the standards for independent observations, and the values of your organization.” She advises making those standards and values open and available to the public, so anyone can easily find and understand your methods and purpose. This can help preempt or mitigate those accusations.
 
 {% endcallout %}
 
