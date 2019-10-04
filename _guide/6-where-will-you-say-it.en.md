@@ -101,10 +101,6 @@ If you decide to create a Facebook page for your organization instead of or in a
 
 {% callout title="When to Create Multiple Facebook Pages" %} 
 
-{% figure caption:"_OPORA Infographic_" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
-
-{% endfigure %}
-
 In Ukraine, [OPORA](https://www.oporaua.org/en) maintains one [main Facebook page](https://www.facebook.com/cn.opora/) that features content that is in line with the organization’s main message. When it launches different campaigns and initiatives with more specific goals, it also creates a separate Facebook page for each, so people can easily follow and access the more specific and narrow content about that particular initiative.
 
 {% endcallout %}
@@ -114,6 +110,10 @@ Facebook accommodates text, links, images, and video. It excels in particular at
 Pay attention to the types and messages of the content that gets the most engagement (likes, comments, and shares). Track it over time to see what content your audience responds to.
 
 You can also try posting several versions or presentations of the same data. Because only a fraction of your followers will see a given post, you don’t risk them seeing the same thing many times, but you gain valuable insights about which graphic or type of presentation gets the most engagement and understanding from your audience, and you can model future content on what you learn.
+
+{% figure caption:"_OPORA Infographic_" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
+
+{% endfigure %}
 
 Facebook tends to prioritize content that spurs comments and dialogue, showing it to more people in their newsfeeds. To encourage people to comment and engage, reply to questions or engage with commenters -- when they are commenting in good faith. If you get the sense that commenters are fake, bots, or repeating talking points designed to harm your credibility, you may want to hide or block those accounts. Otherwise, if people come to your page with honest questions or misunderstandings, take the time to reply and engage them in dialogue. This will not only help to educate people about your work and mission, but people like to be heard and know that there is a real person behind the organizational presence.
 
