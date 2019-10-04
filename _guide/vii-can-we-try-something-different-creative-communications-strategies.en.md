@@ -48,7 +48,7 @@ As with your other strategies, any pop culture strategies and tactics you pursue
 
 **For the narratives that contradict or devalue your message and frame, think about how you can present counter narratives or rebuttals to what is harmful. Can you work directly with the creators to change how your issues are presented within the culture? Can you recruit the actors or artists involved to serve as spokespeople for your cause to debunk some of the harmful messages in their work? Can you parody or play with the original narrative to present your side or ideas instead?**
 
-## _Tips for Collaborating with Artists and Fans_
+## Tips for Collaborating with Artists and Fans
 
 Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them:
 
