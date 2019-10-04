@@ -191,8 +191,8 @@ Also, notice how the story of the working mother not being able to vote exists w
 
 ### YOUR TURN: Using Compelling Narrative
 
-{% textarea label="Spend some time brainstorming the stories you know that illustrate and drive home your messages. Remember that the best stories have settings, characters, a narrative arc, and a moral/message." id="narrative1" size="large" button="false" %}
-
 {% textarea label="Now look at your messages and goals. Which stories do you wish you could tell to connect with target audiences? What stories do you need to be on the lookout for or spend some time researching and recording?" id="narrative2" size="large" button="false" %}
 
 {% textarea label="Integrate the stories you already know about into your communications plan. Who will tell them, how, and to which audience(s)? For the kinds of stories you need to research or be on the lookout for, who will do this work? How will you convey what to look for or ask about? How will you collect these stories and disseminate them to the right people?" id="narrative3" size="large" button="false" %}
+
+{% textarea label="Spend some time brainstorming the stories you know that illustrate and drive home your messages. Remember that the best stories have settings, characters, a narrative arc, and a moral/message." id="narrative1" size="large" button="false" %}
