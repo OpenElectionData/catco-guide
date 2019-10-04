@@ -140,4 +140,6 @@ For additional crisis communication planning guidelines -- particularly in respo
 
 **Schedule time with your spokespeople and potential validators where you can practice crisis scenarios. Drill them with hard questions until they are confident staying on message and responding naturally.**
 
+     
+
 #### _\[Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section.\]_
