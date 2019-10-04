@@ -112,7 +112,7 @@ It happens to the best of us -- sometimes the crisis is something we cause ourse
 
 For additional crisis communication planning guidelines -- particularly in response to cyber incidents -- take a look at the Harvard Belfer Center’s [Election Cyber Incident Communications Plan Template](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). Although developed for a political party audience, the template is a great resource for any group looking to develop a structured crisis communications plan in response to cyber incidents, such as disinformation or hacked websites or social media accounts.
 
-**YOUR TURN:**
+### YOUR TURN: Threats and Crises
 
 **Make a list of the most likely threats or crises you are likely to face. These don’t have to be very specific, but general types of threats or lines of attack.**
 
