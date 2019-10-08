@@ -169,7 +169,7 @@ Use these regular check-ins to refine and update your strategies and tactics bas
       <td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
       <td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
       <td>Journalists who write about elections.</td>
-      <td>Row 1</td>
+      <td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
       <td>Row 1</td>
       <td>Row 1</td>
     </tr>
