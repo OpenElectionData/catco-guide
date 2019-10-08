@@ -172,7 +172,8 @@ Use these regular check-ins to refine and update your strategies and tactics bas
       <td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
       <td>- Email press releases & press conferences<br>- Materials on website<br>- One-on-one phone interviews & quarterly conference calls<br>- Twitter<br>- Whatsapp group
 </td>
-      <td>Row 1</td>
+      <td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br>- Page is visited 50 times per quarter<br>- Attendance of 12 journalists per call.<br>- At least one journalist DMs with us on Twitter regularly<br>- Journalist WhatsApp group membership is 100 or more
+</td>
     </tr>
     <tr>
       <td>Row 2</td>
