@@ -6,7 +6,6 @@ subtitle: Setting Goals, Strategies, and Tactics
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 Once you're deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it's important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you'll be working toward as a group.
