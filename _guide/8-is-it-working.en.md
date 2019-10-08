@@ -158,20 +158,28 @@ Use these regular check-ins to refine and update your strategies and tactics bas
 <table>
   <thead>
     <tr>
-      <th>Column 1</th>
-      <th>Column 2</th>
-      <th>Column 3</th>
+      <th>Goal</th>
+      <th>Topline Message</th>
+      <th>Target Audience</th>
+      <th>Target Message</th>
+      <th>Communication Tool</th>
+      <th>Metric</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td rowspan="2">This spans two rows</td>
+      <td>Row 1</td>
+      <td>Row 1</td>
+      <td>Row 1</td>
       <td>Row 1</td>
       <td>Row 1</td>
       <td>Row 1</td>
     </tr>
     <tr>
       <td rowspan="2">This spans two rows</td>
-      <td>Row 2</td>
+      <td rowspan="2">This spans two rows</td>
+	  <td>Row 2</td>
       <td>Row 2</td>
     </tr>
     <tr>
