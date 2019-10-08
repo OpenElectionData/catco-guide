@@ -1,6 +1,6 @@
 ---
 lang: en
-uses_forms: true
+uses_forms: false
 title: 11. What Have Others Tried?
 subtitle: Case Studies
 image:
