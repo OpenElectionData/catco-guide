@@ -166,9 +166,9 @@ Use these regular check-ins to refine and update your strategies and tactics bas
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">This spans two rows</td>
-      <td rowspan="2">This spans two rows</td>
-      <td>Row 1</td>
+      <td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
+      <td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
+      <td>Journalists who write about elections.</td>
       <td>Row 1</td>
       <td>Row 1</td>
       <td>Row 1</td>
@@ -179,24 +179,7 @@ Use these regular check-ins to refine and update your strategies and tactics bas
       <td>Row 2</td>
       <td>Row 2</td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Goal</th>
-      <th>Topline Message</th>
-      <th>Target Audience</th>
-      <th>Target Message</th>
-      <th>Communication Tool</th>
-      <th>Metric</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">This spans two rows</td>
-      <td rowspan="2">This spans two rows</td>
+      <tr>
       <td>Row 1</td>
       <td>Row 1</td>
       <td>Row 1</td>
