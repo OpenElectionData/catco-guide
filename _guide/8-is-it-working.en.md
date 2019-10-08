@@ -169,22 +169,17 @@ Use these regular check-ins to refine and update your strategies and tactics bas
   <tbody>
     <tr>
       <td rowspan="2">This spans two rows</td>
-      <td>Row 1</td>
-      <td>Row 1</td>
+      <td rowspan="2">This spans two rows</td>
       <td>Row 1</td>
       <td>Row 1</td>
       <td>Row 1</td>
       <td>Row 1</td>
     </tr>
     <tr>
-      <td rowspan="2">This spans two rows</td>
-      <td rowspan="2">This spans two rows</td>
-	  <td>Row 2</td>
       <td>Row 2</td>
-    </tr>
-    <tr>
-      <td>Row 3</td>
-      <td>Row 3</td>
+      <td>Row 2</td>
+      <td>Row 2</td>
+      <td>Row 2</td>
     </tr>
   </tbody>
 </table>
