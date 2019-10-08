@@ -153,7 +153,34 @@ Once you have a system in place, schedule regular meetings with any team members
 
 Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
 
-**_INSERT TABLES HERE_**
+<table>
+  <thead>
+    <tr>
+      <th>Goal</th>
+      <th>Topline Message</th>
+      <th>Target Audience</th>
+      <th>Target Message</th>
+      <th>Communication Tool</th>
+      <th>Metric</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">This spans two rows</td>
+      <td rowspan="2">This spans two rows</td>
+      <td>Row 1</td>
+      <td>Row 1</td>
+      <td>Row 1</td>
+      <td>Row 1</td>
+    </tr>
+    <tr>
+      <td>Row 2</td>
+      <td>Row 2</td>
+      <td>Row 2</td>
+      <td>Row 2</td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <thead>
