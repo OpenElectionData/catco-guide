@@ -41,9 +41,9 @@ fields:
     name: caption
     label: Image Caption
 pages:
+- _guide/8-is-it-working.en.md
 - _guide/what-are-you-trying-to-accomplish.en.md
 - _guide/2-what-are-you-trying-to-accomplish.en.md
-- _guide/8-is-it-working.en.md
 - _guide/5-how-will-you-say-it.en.md
 - _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
 - _guide/introduction.en.md
