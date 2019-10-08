@@ -63,7 +63,7 @@ For example, let's say you've gotten this far but none of your strategies involv
 
 {% callout title="Reaching Your Audience Without Mainstream Media" %} In Serbia, the [Center for Research, Transparency and Accountability (CRTA)](https://crta.rs/en/) targets representatives of the election commission, the independent media, political parties, other civil society organizations, and the international community in order to get its message out about the election observation process and findings. The group also communicates broadly with the public and especially with those members of the public they believe will be active in defending democracy and volunteer or otherwise support CRTA and its work.
 
-However, they have to come up with direct contact and outreach strategies for each audience, because they are blacklisted by the pro-government mainstream media, and therefore can’t rely on major media outlets to disseminate their messages for them. Instead, they create a different product (videos, infographics, high-level briefings) and customized message for each target audience. They begin by creating content for a broad, public audience, since that is the largest audience. Then, they transform and repurpose those general educational materials for the public with specialized messages and formats to reach their other targeted audiences, like holding private briefings with higher-level information for the international community.
+However, they have to come up with direct contact and outreach strategies for each audience, because they are blacklisted by the pro-government mainstream media, and therefore can't rely on major media outlets to disseminate their messages for them. Instead, they create a different product (videos, infographics, high-level briefings) and customized message for each target audience. They begin by creating content for a broad, public audience, since that is the largest audience. Then, they transform and repurpose those general educational materials for the public with specialized messages and formats to reach their other targeted audiences, like holding private briefings with higher-level information for the international community.
 
 ![Press Liason from CRTA stands next to a podium at a CRTA Press Conference](/assets/images/A_DSC1721.jpg "Photo from CRTA, Zoran Drekalovic")  
 {% endcallout %}
@@ -82,9 +82,9 @@ This is particularly important if your group is operating in a repressive enviro
 
 By now, you should have a list of audiences you plan to reach. To reach them effectively, you should spend some time getting to know them.
 
-Here are three questions you’ll want to research about all your target audiences. The answers to these questions will help you determine effective messages, messengers, and platforms later on.
+Here are three questions you'll want to research about all your target audiences. The answers to these questions will help you determine effective messages, messengers, and platforms later on.
 
-**1. Where are they?** This refers to where they are both geographically and online. If your influencers are all in the capital, it doesn’t make sense to buy ads in newspapers outside of the capital. If you’re trying to reach young men ages 16-26 and they are all on Facebook but not many on Twitter, don’t invest time and resources into Twitter.
+**1. Where are they?** This refers to where they are both geographically and online. If your influencers are all in the capital, it doesn't make sense to buy ads in newspapers outside of the capital. If you're trying to reach young men ages 16-26 and they are all on Facebook but not many on Twitter, don't invest time and resources into Twitter.
 
 **2. What are the main ways they consume information?** Do they get it online? In print? On the radio? Are there specific websites, platforms, services, publications, TV shows, or people they trust? If your key audience listens to the same radio program at 3pm every day, you may want to buy an ad during that program. You also may not want to schedule your own event for that time.
 
@@ -92,15 +92,15 @@ Here are three questions you’ll want to research about all your target audienc
 
 ## A Note About Influencers
 
-In some cases, in order to reach a very broad audience, you might consider reaching out to a very narrow one. Those “influentials” at the top of the above audience map already have extensive networks and audiences of their own. Be sure you’re not trying to replicate someone else’s audience from scratch if you can reach out to them directly and tap into their audience instead. For example, if you are trying to affect change in one particular community, you may be able to identify the religious or political figure who has the most influence in that community and reach out to that one person directly, rather than trying to reach out to the entire community yourself.
+In some cases, in order to reach a very broad audience, you might consider reaching out to a very narrow one. Those “influentials” at the top of the above audience map already have extensive networks and audiences of their own. Be sure you're not trying to replicate someone else's audience from scratch if you can reach out to them directly and tap into their audience instead. For example, if you are trying to affect change in one particular community, you may be able to identify the religious or political figure who has the most influence in that community and reach out to that one person directly, rather than trying to reach out to the entire community yourself.
 
 ## What If You Don't Know the Answers to These Questions?
 
-If your audiences are different from you, you may not know these answers off the top of your head. Don’t make assumptions or guesses! Try to research these audiences to get a strong and complete picture of them. Here are some ways you can research your target audiences. _(Note: it is probably most practical to combine audience research with messaging research; see next section.)_
+If your audiences are different from you, you may not know these answers off the top of your head. Don't make assumptions or guesses! Try to research these audiences to get a strong and complete picture of them. Here are some ways you can research your target audiences. _(Note: it is probably most practical to combine audience research with messaging research; see next section.)_
 
-* **Find data that exists.** Depending on where you’re located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it’s available, use it to determine what your audience is seeing and how they are seeing it.
-* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don’t argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
-* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn’t to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
+* **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
+* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
+* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
 
 ### YOUR TURN: Creating Detailed Audience Profiles
 
@@ -108,11 +108,11 @@ If your audiences are different from you, you may not know these answers off the
 
 With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
 
-When you’re done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
+When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
 
 | Target Audience | Strategy |
 | --- | --- |
-| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there’s something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
+| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
 | Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
 | Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
 

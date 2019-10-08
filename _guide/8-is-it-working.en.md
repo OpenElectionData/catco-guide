@@ -8,11 +8,11 @@ image:
   caption: ''
 
 ---
-Having clear criteria to measure your success will allow you to know if your communications plan is working and achieving your goals -- or if it’s not performing as you had hoped, and you need to revisit and adjust your strategies and tactics. You’ll need to know what you’re measuring and ideally you’ll be collecting data frequently enough to see problems early and adjust before it’s too late or too hard.
+Having clear criteria to measure your success will allow you to know if your communications plan is working and achieving your goals -- or if it's not performing as you had hoped, and you need to revisit and adjust your strategies and tactics. You'll need to know what you're measuring and ideally you'll be collecting data frequently enough to see problems early and adjust before it's too late or too hard.
 
-You’re not starting totally from scratch, as the “M” in your SMART goals is “measurable.” If you’ve written your goals with measurability in mind, then you’ll have some idea of what metrics you need to collect and use as benchmarks on your way to your goal.
+You're not starting totally from scratch, as the “M” in your SMART goals is “measurable.” If you've written your goals with measurability in mind, then you'll have some idea of what metrics you need to collect and use as benchmarks on your way to your goal.
 
-During your planning process, think about what metrics are meaningful and matter to your work. You don’t want to be in a position where you are tracking the metrics that are easiest to track but aren’t a real measure of the success of your program. It can also be difficult or impossible in some cases to gather data from the past, so you want to have a clear understanding of what is relevant before you begin.
+During your planning process, think about what metrics are meaningful and matter to your work. You don't want to be in a position where you are tracking the metrics that are easiest to track but aren't a real measure of the success of your program. It can also be difficult or impossible in some cases to gather data from the past, so you want to have a clear understanding of what is relevant before you begin.
 
 ## Reach vs Engagement
 
@@ -42,23 +42,23 @@ Any mass emailer you use should provide you with basic analytic data you can use
 
 * Open rate: This is the rate at which people open your email. A healthy and active email list will have around a 20 percent open rate for any given email sent.
 * Click-through rate: This is the rate at which people click on whatever links you put in your emails. For emails with a clear call to action, you should expect a click-through rate of 20 percent. Most mass emailers will also show you which links were clicked on the most, so you can learn whether placing your call to action at the top or bottom of your email is more effective, or whether there is one link people were more interested in than others, for example.
-* Unsubscribe rate: This is the rate at which people unsubscribe from any given email. A normal unsubscribe rate is less than 1 percent per send. If you see a sudden spike in unsubscribes, you should figure out whether you’re emailing too often or if your language, tone, or content are alienating your audience.
+* Unsubscribe rate: This is the rate at which people unsubscribe from any given email. A normal unsubscribe rate is less than 1 percent per send. If you see a sudden spike in unsubscribes, you should figure out whether you're emailing too often or if your language, tone, or content are alienating your audience.
 
 ## Google Analytics
 
-Google Analytics tracks all your web traffic and the behavior of the people who visit your website. Once you have a Gmail address, you can use it to open an account at [analytics.google.com](https://analytics.google.com/). There you can get a small bit of code that you place into your website (follow Google’s instructions for how to do this), and after that you will be able to track all your web traffic in real time and over time. Be sure to install Google Analytics on your websites from the very beginning -- the analytics cannot collect data on your site from a time before it was installed.
+Google Analytics tracks all your web traffic and the behavior of the people who visit your website. Once you have a Gmail address, you can use it to open an account at [analytics.google.com](https://analytics.google.com/). There you can get a small bit of code that you place into your website (follow Google's instructions for how to do this), and after that you will be able to track all your web traffic in real time and over time. Be sure to install Google Analytics on your websites from the very beginning -- the analytics cannot collect data on your site from a time before it was installed.
 
 {% callout title="Using Analytics to Spur Engagement" %}
 
 In Serbia, the [CRTA](https://crta.rs/en/) team measure their social media impact by tracking Facebook insights, Twitter analytics, Google analytics, and Youtube analytics. They employ a media monitoring agency that tracks stories published about them and their work.
 
-But they don’t just want to measure reach, they want to measure engagement, and so they tracked new engagement metrics in 2018. The group is calling people to action three times in the lead up to elections, as a way not just to collect and publish data, but to get members of the public engaged in their democracy. They asked people to submit information to help with CRTA’s research and to join the election observation mission by volunteering to be an observer (and pass the training to become an observer).
+But they don't just want to measure reach, they want to measure engagement, and so they tracked new engagement metrics in 2018. The group is calling people to action three times in the lead up to elections, as a way not just to collect and publish data, but to get members of the public engaged in their democracy. They asked people to submit information to help with CRTA's research and to join the election observation mission by volunteering to be an observer (and pass the training to become an observer).
 
 CRTA will be tracking these higher-level commitments over time to see if people are willing to participate, in an effort to grow their base of supporters over time.
 
 {% endcallout %}
 
-There is a lot of information available to you in analytics, and you should spend some time exploring it to see what’s available. Most of it was designed to help business websites maximize their customers’ experience, but there is still a lot of useful information for civic groups.
+There is a lot of information available to you in analytics, and you should spend some time exploring it to see what's available. Most of it was designed to help business websites maximize their customers' experience, but there is still a lot of useful information for civic groups.
 
 * **Audience:** You can learn about the visitors to your website through the audience features. How many unique visitors did you get and how often do they come back? How long do they stay on the site and how many pages do they view in a visit? What are the demographics of your audience and what are their interests? If you were hoping for deep engagement on your website from young men ages 16-26, but your analytics reveal that your primary audience is older women ages 60-75 and they are only staying on the site for an average of 8 seconds, then you may need re-evaluate either the content of your website or the ways that you are promoting it (or both).
 * **Devices and browsers:** Part of the audience information includes what browsers and devices they are using to access your site. Be sure that your site is optimized to look its best on the most popular devices and browsers your audience is using.
@@ -69,9 +69,9 @@ There is a lot of information available to you in analytics, and you should spen
 
 ## Facebook Insights
 
-Facebook offers free analytics (called Insights) for your page, and also works with your website if you are tracking users’ behavior from Facebook through to your website. There is a lot of useful information collected here, too, and you should explore it to see what’s available and relevant to you. But ultimately you should decide on which metrics matter the most to your success and focus on them.
+Facebook offers free analytics (called Insights) for your page, and also works with your website if you are tracking users' behavior from Facebook through to your website. There is a lot of useful information collected here, too, and you should explore it to see what's available and relevant to you. But ultimately you should decide on which metrics matter the most to your success and focus on them.
 
-* **Demographics:** You can learn about your audiences’ demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
+* **Demographics:** You can learn about your audiences' demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
 * **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
 * **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
 * **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
@@ -94,9 +94,9 @@ By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see
 
 ## Other Metrics
 
-Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what’s available to you to measure. Play around with what’s available, research what each number means, and decide which ones are important to track over time.
+Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what's available to you to measure. Play around with what's available, research what each number means, and decide which ones are important to track over time.
 
-Some strategies may require metrics that don’t exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
+Some strategies may require metrics that don't exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
 
 ## A/B Testing
 
@@ -112,7 +112,7 @@ A/B testing can help you refine the effectiveness of your message, appeals, subj
 
 ### YOUR TURN: Review Your Goals
 
-**Review each of your goals. Brainstorm different indicators that will help you know if you’ve achieved them.**
+**Review each of your goals. Brainstorm different indicators that will help you know if you've achieved them.**
 
 {% textarea label="Goal 1" id="goal1" size="small" button="false" %}
 
@@ -134,7 +134,7 @@ GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our websi
 
 ## Put a System In Place
 
-Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren’t working.
+Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren't working.
 
 Questions to keep in mind when you are setting up your metrics-collection process:
 
@@ -149,7 +149,7 @@ Questions to keep in mind when you are setting up your metrics-collection proces
 * Is the data being displayed in a way that is easy to read and draw conclusions from?
 * Who needs access to the data? Do they have it?
 
-Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn’t working.
+Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn't working.
 
 Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
 

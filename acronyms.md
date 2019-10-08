@@ -35,7 +35,7 @@ list:
   - acronym: OPORA
     full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
   - acronym: PACE
-    full_name: People’s Alliance for Credible Elections
+    full_name: People's Alliance for Credible Elections
   - acronym: PII
     full_name: personally identifiable information
   - acronym: PVT

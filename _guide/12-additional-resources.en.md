@@ -76,7 +76,7 @@ Data Smart Cities Solutions Search: [https://datasmart.ash.harvard.edu/civic-ana
 
 The Laughter Effect, Center for Media & Social Impact, American University School of Communication: [http://cmsimpact.org/program/comedy/](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")
 
-Race in the Writer’s Room: How Hollywood Whitewashes the Stories that Shape America, Darnell Hunt: [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
+Race in the Writer's Room: How Hollywood Whitewashes the Stories that Shape America, Darnell Hunt: [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
 
 \#IfIwasTheMayor: [https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf](https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf "https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf")
 

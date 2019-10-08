@@ -39,7 +39,7 @@ Lorem quaeque euismod vis in. Numquam delicatissimi eu mei, qui ea pertinax adol
 {% figure caption:"Caption goes here" class:"left" %}
 ![alt text](https://placekitten.com/700/400 "Logo Title Text 1")
 {% endfigure %}
-Don’t forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country’s democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
+Don't forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country's democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
 {% endcallout %}
 
 Id vix invidunt suscipiantur, mundi laoreet verterem in usu. Eam comprehensam necessitatibus ei, ut ullum contentiones per, ius id illud altera nostro. Sit ea dicit nusquam, quodsi suscipiantur sit ne. In qui quodsi quaeque, mei at iisque dissentias. Te vix dicta cetero molestie.
