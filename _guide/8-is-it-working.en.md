@@ -182,10 +182,10 @@ Use these regular check-ins to refine and update your strategies and tactics bas
       <td>-2 meetings per quarter<br>- Once a week placements<br>- Click through rate to call to action is 40 percent</td>
     </tr>
       <tr>
-      <td>Row 3</td>
-      <td>Row 3</td>
-      <td>Row 3</td>
-      <td>Row 3</td>
+      <td>Members of the opposition party</td>
+      <td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
+      <td>- One-on-one outreach to the party leadership<br>- Ads in the Opposition Weekly<br>- Blast emails</td>
+      <td>- 2 meetings per quarter<br>- Weekly placements<br>- List is 250 people with an open rate of 25 percent</td>
     </tr>
     <tr>
       <td>Row 4</td>
