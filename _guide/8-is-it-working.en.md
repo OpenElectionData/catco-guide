@@ -176,22 +176,22 @@ Use these regular check-ins to refine and update your strategies and tactics bas
 </td>
     </tr>
     <tr>
-      <td>Row 2</td>
-      <td>Row 2</td>
-      <td>Row 2</td>
-      <td>Row 2</td>
+      <td>Members of the party in power</td>
+      <td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
+      <td>- One-on-one outreach to party leadership<br>- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br>- Facebook ads</td>
+      <td>-2 meetings per quarter<br>- Once a week placements<br>- Click through rate to call to action is 40 percent</td>
     </tr>
       <tr>
-      <td>Row 1</td>
-      <td>Row 1</td>
-      <td>Row 1</td>
-      <td>Row 1</td>
+      <td>Row 3</td>
+      <td>Row 3</td>
+      <td>Row 3</td>
+      <td>Row 3</td>
     </tr>
     <tr>
-      <td>Row 2</td>
-      <td>Row 2</td>
-      <td>Row 2</td>
-      <td>Row 2</td>
+      <td>Row 4</td>
+      <td>Row 4</td>
+      <td>Row 4</td>
+      <td>Row 4</td>
     </tr>
   </tbody>
 </table>
