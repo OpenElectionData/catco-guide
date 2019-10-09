@@ -85,21 +85,21 @@ While the group was conducting a campaign to pressure the government to appoint 
 
 **Start by brainstorming all of the possible things you might want to say. Don't hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
 
-{% textarea label="Someone asks you what your organization is all about. How do you answer?" id="brainstorming 1" size="large" %}
+{% textarea label="Someone asks you what your organization is all about. How do you answer?" id="brainstorming 1" size="large" button="false" %}
 
-{% textarea label="What's your favorite argument in favor of your cause or organization?" id=" brainstorming 2="large" %}
+{% textarea label="What's your favorite argument in favor of your cause or organization?" id=" brainstorming 2="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brainstorimg 3" size="large" %}
+{% textarea label="What inspired you to take action for this issue?" id="brainstorimg 3" size="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brain storming 4" size="large" %}
+{% textarea label="What inspired you to take action for this issue?" id="brain storming 4" size="large" button="false" %}
 
-{% textarea label="Who does your work help? How does it help them?" id="brain storming 5" size="large" %}
+{% textarea label="Who does your work help? How does it help them?" id="brain storming 5" size="large" button="false" %}
 
-{% textarea label="What values do you uphold in your work?" id="brain storming 6" size="large" %}
+{% textarea label="What values do you uphold in your work?" id="brain storming 6" size="large" button="false" %}
 
-{% textarea label="What will happen if your mission fails?" id="brain storming 7" size="large" %}
+{% textarea label="What will happen if your mission fails?" id="brain storming 7" size="large" button="false" %}
 
-{% textarea label="What keeps you advocating for this cause every day?" id="brainstorming" size="large" %}
+{% textarea label="What keeps you advocating for this cause every day?" id="brainstorming" size="large" button="false" %}
 
 **Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
 
