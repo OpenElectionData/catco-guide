@@ -188,10 +188,10 @@ Use these regular check-ins to refine and update your strategies and tactics bas
       <td>- 2 meetings per quarter<br>- Weekly placements<br>- List is 250 people with an open rate of 25 percent</td>
     </tr>
     <tr>
-      <td>Row 4</td>
-      <td>Row 4</td>
-      <td>Row 4</td>
-      <td>Row 4</td>
+      <td>Young men ages 16-26</td>
+      <td>A PVT is a way of verifying that your voice is heard in these elections.</td>
+      <td>- Facebook posts and videos<br>- Paid Facebook promotion</td>
+      <td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br>- 25,000 reach from these ads and 5 percent conversion to page likes</td>
     </tr>
   </tbody>
 </table>
