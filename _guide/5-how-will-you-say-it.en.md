@@ -123,7 +123,7 @@ Facebook, Twitter, Instagram, YouTube, and some regional social networks now all
 
 **Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences.**
 
-{% textarea label="What is your topline Message" id="Topline Message" size="large" button="false" %}
+{% textarea label="What is your topline message" id="Topline Message" size="large" button="false" %}
 
 **Target Audience 1**
 
