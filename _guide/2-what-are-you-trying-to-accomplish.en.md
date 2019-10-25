@@ -4,10 +4,10 @@ uses_forms: true
 title: 2. What Are You Trying to Accomplish?
 subtitle: Setting Goals, Strategies, and Tactics
 image:
-  url: ''
-  caption: ''
-
+  url: ""
+  caption: ""
 ---
+
 Once you're deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it's important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you'll be working toward as a group.
 
 By setting clear, well-defined goals, you'll be better able to prioritize the tasks that help you reach them, while ignoring those that get in the way. Without clear goals from the start, you won't know if you've succeeded by the end, or if you need to change course mid-stream.
@@ -40,7 +40,7 @@ Brainstorm communications goals by yourself or with your team by thinking about 
 
 {% textarea label="Do we want to change laws or policies?" id="7" size="large" button="false" %}
 
-{% textarea label="What do people need to understand or be educated about?" id="8 size="large" button="false"  %}
+{% textarea label="What do people need to understand or be educated about?" id="8" size="large" button="false"  %}
 
 {% textarea label="List Your Goals Below" id="goals" size="large" button="false"  %}
 
@@ -56,11 +56,11 @@ You may have brainstormed a long list of things you hope to accomplish, but it's
 
 Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
 
-| Vague Goals | SMART Goals |
-| --- | --- |
-| Build our credibility | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
-| Raise awareness | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election. |
-| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms. |
+| Vague Goals             | SMART Goals                                                                                                                                                                                                          |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Build our credibility   | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
+| Raise awareness         | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election.                                   |
+| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms.                                                                                                       |
 
 By defining the time-specific aspect of your goals, you'll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it's important to be clear with your team and your leadership of what you're hoping to accomplish when. You want to especially be sure you're working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you're making steady progress on it.
 
@@ -102,11 +102,11 @@ To illustrate this, let's build out one of the example goals above with strategi
 
 **SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
 
-| Strategies | Tactics | Resources Needed |
-| --- | --- | --- |
-| Strategy 1: Use digital advertising to generate web traffic and social reach. | - Raise USD 10,000 for an ads budget.<br>- Research and test relevant search terms. <br>- A/B test (split test) ads to increase their relevance and success among audiences. <br>- Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | - $10,000 <br>- 10 hours/week of dedicated staff time |
-| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | - Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br>- Reach out to that person and their team.<br>- Provide them with content and instructions on how to help on an ongoing basis. | - Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br>- Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
-| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | - Write blog posts twice a week and share them on social media.<br>- Create graphics and videos for social media that people will want to share. Post once a day.<br>- Email social content to our list and ask them to share the posts with their networks. | - Two hours/day of staff time to create content and email our list. |
+| Strategies                                                                                                                   | Tactics                                                                                                                                                                                                                                                                                                                                            | Resources Needed                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Strategy 1: Use digital advertising to generate web traffic and social reach.                                                | - Raise USD 10,000 for an ads budget.<br>- Research and test relevant search terms. <br>- A/B test (split test) ads to increase their relevance and success among audiences. <br>- Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | - \$10,000 <br>- 10 hours/week of dedicated staff time                                                                                                                                                                |
+| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | - Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br>- Reach out to that person and their team.<br>- Provide them with content and instructions on how to help on an ongoing basis.                                                           | - Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br>- Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
+| Strategy 3: Use our email list to encourage peer-to-peer social sharing.                                                     | - Write blog posts twice a week and share them on social media.<br>- Create graphics and videos for social media that people will want to share. Post once a day.<br>- Email social content to our list and ask them to share the posts with their networks.                                                                                       | - Two hours/day of staff time to create content and email our list.                                                                                                                                                   |
 
 {: .table--cols-equal}
 
@@ -116,10 +116,10 @@ Take the SMART goals you identified and use the below table (following the above
 
 **Goal 1:**
 
-{% textarea label="List your tactics and resources for Strategy 1" id="1" size="large" button="false" %}
+{% textarea label="List your tactics and resources for Strategy 1" id="tactics1" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 2" id="2" size="large" button="false" %}
+{% textarea label="List your tactics and resources for Strategy 2" id="tactics2" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 3" id="3" size="large" button="false" %}
+{% textarea label="List your tactics and resources for Strategy 3" id="tactics3" size="large" button="false" %}
 
 Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them – from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group's communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.

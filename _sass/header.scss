@@ -45,6 +45,7 @@
 
     @include mq(lg) {
       display: flex;
+      align-items: center;
     }
 
     &::after {
