@@ -18,11 +18,15 @@
     display: flex;
     grid-area: logo;
     align-items: center;
-    padding: $sp-4;
+    padding: $sp-4 100px $sp-4 $sp-4;
     color: $white;
     font-family: $font__montserrat;
     font-weight: 700;
     background-color: $blue;
+
+    @include mq(md) {
+      padding-right: $sp-4;
+    }
 
     &::after {
       content: "";
