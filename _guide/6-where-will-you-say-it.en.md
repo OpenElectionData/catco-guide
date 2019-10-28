@@ -248,20 +248,55 @@ One town hall held in December 2017 was amplified to the point where it was tren
 **Brainstorm a list of the various communications tools and platforms available to you. They might be some or all of what we listed above, or they might be unique tools and platforms to where you are, your resources, and your circumstances.**  
 **Here are some questions to get you started:**
 
-* **What print publications are popular in your country and with whom?**
-* **What TV and radio stations or programs are popular in your country and with whom?**
-* **Are there blogs or websites focused on politics and elections that are widely read?**
-* **What are the political leanings (if any) of the print, broadcast, or internet outlets you've listed?**
-* **What social networks are popular and with whom?**
-* **What messaging platforms are most popular and with whom?**
-* **How do you get your information?**
-* **How do your parents get their information?**
-* **How do your grandparents get their information?**
-* **How do your children get their information?**
+{% textarea label="**What print publications are popular in your country and with whom?**" id="print publications" size="small" button="false" %}
+
+{% textarea label="**What TV and radio stations or programs are popular in your country and with whom?** " id="tv and radio" size="small" button="false" %}
+
+{% textarea label="**Are there blogs or websites focused on politics and elections that are widely read?**" id="blogs or websites" size="small" button="false" %}
+
+{% textarea label="**What are the political leanings (if any) of the print, broadcast, or internet outlets you've listed?"** id="political learning" size="small" button="false" %}
+
+{% textarea label="**What social networks are popular and with whom?"** id="social network" size="small" button="false" %}
+
+{% textarea label="**What messaging platforms are most popular and with whom?"** id="messaging platforms" size="small" button="false" %}
+
+{% textarea label="**How do you get your information?"** id="gather information" size="small" button="false" %}
+
+{% textarea label="**How do your parents get their information?"** id=" parents gather information" size="small" button="false" %}
+
+{% textarea label="**How do your grandparents get their information?"** id=" grandparents gather information" size="small" button="false" %}
+
+{% textarea label="**How do your grandparents get their information?"** id=" children gather information" size="small" button="false" %}
 
 **Now start matching up the different communications channels to your target audiences. Rely on your audience research here, if possible, rather than guessing.**
 
 Continuing our example, your communications plan might start to look like this:
+
+<table>
+  <thead>
+    <tr>
+      <th>Column 1</th>
+      <th>Column 2</th>
+      <th>Column 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1</td>
+      <td>Row 1</td>
+      <td>Row 1</td>
+    </tr>
+    <tr>
+      <td colspan="2">This spans two columns</td>
+      <td>Row 2</td>
+    </tr>
+    <tr>
+      <td>Row 3</td>
+      <td>Row 3</td>
+      <td>Row 3</td>
+    </tr>
+  </tbody>
+</table>
 
 **INSERT TABLE HERE**
 
