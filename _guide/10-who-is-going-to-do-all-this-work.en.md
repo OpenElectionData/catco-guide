@@ -6,6 +6,7 @@ subtitle: Staffing & Resources
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 {% figure caption:"PACE staff working on developing topline messages. PACE Photo." class:"left" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}
@@ -32,7 +33,7 @@ The MOCHA model gives your team a clear but flexible structure for every project
 
 This model also allows for flexibility within and across teams. When there is a small communications team (or just one person handling communications), that person(s) might feel overwhelmed and unsure who they can ask for help. By clearly identifying who else in the organization is assigned to be helpers, consultants, managers, or approvers, teams can expand to meet the workload that needs to get done as it needs to get done.
 
-{% figure caption:"NDI Photo." class:"right" %}
+{% figure caption:"NDI Photo." class:"center" %}
 
 ![](/assets/images/NDI_smallgroup-1.jpg)
 
