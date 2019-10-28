@@ -54,7 +54,7 @@ The other benefit of assigning MOCHA roles to each project is it allows you to e
 
 {% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA4" size="large" button="false" %}
 
-## _Staff Accountability and Prioritization_
+## Staff Accountability and Prioritization
 
 However you ultimately end up organizing your team and assigning roles, it's important that each person has a clear understanding of what they are responsible for completing, how that fits into the overall communications plan, and knows to whom and when to ask for help if they do not believe they'll be able to meet their goals in time.
 
