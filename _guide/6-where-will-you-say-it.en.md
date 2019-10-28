@@ -273,32 +273,37 @@ One town hall held in December 2017 was amplified to the point where it was tren
 Continuing our example, your communications plan might start to look like this:
 
 <table>
-  <thead>
-    <tr>
-      <th>Column 1</th>
-      <th>Column 2</th>
-      <th>Column 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Row 1</td>
-      <td>Row 1</td>
-      <td>Row 1</td>
-    </tr>
-    <tr>
-      <td colspan="2">This spans two columns</td>
-      <td>Row 2</td>
-    </tr>
-    <tr>
-      <td>Row 3</td>
-      <td>Row 3</td>
-      <td>Row 3</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Goal</th>
+<th>Topline Message</th>
+<th>Target Audience</th>
+<th>Target Message</th>
+<th>Communication Tool</th>
+<th>Metric</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
+<td rowspan="3">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
+<td>Journalists who write about elections.</td>
+<td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
+<td>- Email press releases & press conferences<br>- Materials on website<br>- One-on-one phone interviews & quarterly conference calls<br>- Twitter<br>- Whatsapp group<br>- YouTube
+</td>
+</tr>
+<tr>
+<td>Members of the party in power</td>
+<td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
+<td>- One-on-one outreach to party leadership<br>- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br>- Facebook ads</td>
+</tr>
+<tr>
+<td>Members of the opposition party</td>
+<td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
+<td>- Facebook ads<br>- One-on-one outreach to the party leadership<br>- Ads in the Opposition Weekly<br>- Blast emails</td>
+</tr>
+</tbody>
 </table>
-
-**INSERT TABLE HERE**
 
 ## Go to People Where They Are
 
