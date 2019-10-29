@@ -83,4 +83,6 @@ Lorem quaeque euismod vis in. Numquam delicatissimi eu mei, qui ea pertinax adol
 3. List item
 4. List item
 
-Lorem quaeque euismod vis in. Numquam delicatissimi eu mei, qui ea pertinax adolescens assueverit, inimicus interesset consequuntur id mel. Ex eum simul reformidans, mei at vero facilisi. In suas vide vis, vidit accumsan et his. Sit an noster indoctum comprehensam, vis ut veri justo.
+Lorem quaeque euismod vis in. Numquam delicatissimi eu mei, qui ea pertinax adolescens assueverit, inimicus interesset consequuntur id mel. Ex eum simul reformidans, mei at vero facilisi. <i class="fas fa-camera"></i> In suas vide vis, vidit accumsan et his. Sit an noster indoctum comprehensam, vis ut veri justo.
+
+<i class="fas fa-camera"></i> Numquam delicatissimi eu mei, qui ea pertinax adolescens assueverit, inimicus interesset consequuntur id mel. Ex eum simul reformidans, <i class="fab fa-acquisitions-incorporated"></i> mei at vero facilisi. In suas vide vis, vidit accumsan et his. Sit an noster indoctum comprehensam, vis ut veri justo.
