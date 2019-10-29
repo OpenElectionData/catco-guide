@@ -6,7 +6,6 @@ subtitle: Case Studies
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 ## Case Study: YouTube Stars Interview President Obama
@@ -37,7 +36,7 @@ The interviews were watched more than 5 million times by a predominantly millenn
 
 Watch the interviews: [https://youtu.be/GbR6iQ62v9k](https://youtu.be/GbR6iQ62v9k "https://youtu.be/GbR6iQ62v9k")
 
-You can also see great examples of Barack Obama using non-traditional platforms and outlets to reach young audiences on [Marc Maron's podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama), [Funny or Die](https://www.youtube.com/watch?v=UnW3xkHxIEQ), Buzzfeed, and Vine.
+You can also see great examples of Barack Obama using non-traditional platforms and outlets to reach young audiences on [Marc Maron's podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama), [Funny or Die](https://www.youtube.com/watch?v=UnW3xkHxIEQ), [Buzzfeed](https://www.facebook.com/watch/?v=1631492713658271), and [Vine](https://www.youtube.com/watch?v=XQCFdOOUDtM).
 
 ## Case Study: Telling Stories in Support of LGBTI Rights
 
