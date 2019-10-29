@@ -6,6 +6,7 @@ image:
   url: ''
   caption: ''
 uses_forms: true
+published: false
 
 ---
 Politics and elections are serious business. Pushing for democratic progress often involves facing great risks, threats, and even dangers for your organization and -- in some cases -- your own personal safety. But just because the topics and consequences of your work are serious doesn't mean they should be dense or dull.
@@ -96,6 +97,8 @@ There are a number of ways to introduce humor into your communications, and each
 * **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you're funny and therefore successful.
+
+![](/assets/images/catco image.png)
 
 ### YOUR TURN: Topline Messages
 
