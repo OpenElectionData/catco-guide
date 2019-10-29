@@ -6,6 +6,7 @@ subtitle: ''
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 ## Narrative & Storytelling
@@ -90,7 +91,7 @@ Election Cyber Incident Communications Plan Template for Political Parties and C
 
 Botcheck.me: [https://botcheck.me/](https://botcheck.me/ "https://botcheck.me/")
 
-Botometer: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
+Botometer: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")
 
 ## Digital Security
 
