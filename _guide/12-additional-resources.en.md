@@ -6,6 +6,7 @@ subtitle: ''
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 ## Narrative & Storytelling
@@ -30,7 +31,7 @@ Top Ten Tips for Great Focus Groups, The Experience Business: [http://www.theexp
 
 Tips for Facilitating Focus Groups, Center for the Promotion of Health in the New England Workplace: [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
 
-Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
+Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore)
 
 ## Platforms
 
