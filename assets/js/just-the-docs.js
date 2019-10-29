@@ -264,7 +264,7 @@ function printPDF() {
           var pageHeight = pageSize.height
             ? pageSize.height
             : pageSize.getHeight();
-          doc.text("https://raiseavoice.org", 10, pageHeight - 10);
+          doc.text("https://raiseavoice.net", 10, pageHeight - 10);
         }
       });
 
