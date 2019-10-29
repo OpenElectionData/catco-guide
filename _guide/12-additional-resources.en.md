@@ -6,7 +6,6 @@ subtitle: ''
 image:
   url: ''
   caption: ''
-published: false
 
 ---
 ## Narrative & Storytelling
