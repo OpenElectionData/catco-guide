@@ -30,7 +30,7 @@ Top Ten Tips for Great Focus Groups, The Experience Business: [http://www.theexp
 
 Tips for Facilitating Focus Groups, Center for the Promotion of Health in the New England Workplace: [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
 
-Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore)
+Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
 
 ## Platforms
 
@@ -90,7 +90,7 @@ Election Cyber Incident Communications Plan Template for Political Parties and C
 
 Botcheck.me: [https://botcheck.me/](https://botcheck.me/ "https://botcheck.me/")
 
-Botometer: [https://botometer.iuni.iu.edu/](https://botometer.iuni.iu.edu/ "https://botometer.iuni.iu.edu/")
+Botometer: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
 
 ## Digital Security
 
@@ -100,7 +100,9 @@ Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/
 
 “Digital Security Resources,” Front Line Defenders: [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
 
-The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: 
+
+[https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
 
 ## Citizen Election Observation
 
