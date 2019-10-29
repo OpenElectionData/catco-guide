@@ -6,6 +6,7 @@ subtitle: 'Identifying the Best Platform '
 image:
   url: "/assets/images/NDI_Honduras.jpg"
   caption: 'Photo: NDI Honduras '
+published: false
 
 ---
 There are dozens of ways of communicating with people, and all have their own pros and cons. Print media reaches a large audience, but the message cannot be tailored to specific audiences. It also tends to skew toward an older and literate audience. Radio is a great option for reaching people with low literacy, but the audience must fall within broadcasting range. Broadcast media (TV) reaches large audiences, but it may be difficult to get coverage, advertisements may be expensive, or the gatekeepers might be hostile to your cause. Social media allows for one-on-one interactions and wider discussions, but skews younger and for those with internet access or smartphones. Door-to-door contact can be individually targeted and highly persuasive, but it is time consuming and may be viewed with suspicion in some neighborhoods or contexts.
@@ -248,25 +249,25 @@ One town hall held in December 2017 was amplified to the point where it was tren
 **Brainstorm a list of the various communications tools and platforms available to you. They might be some or all of what we listed above, or they might be unique tools and platforms to where you are, your resources, and your circumstances.**  
 **Here are some questions to get you started:**
 
-{% textarea label="**What print publications are popular in your country and with whom?**" id="print publications" size="small" button="false" %}
+{% textarea label="What print publications are popular in your country and with whom?" id="print publications" size="small" button="false" %}
 
-{% textarea label="**What TV and radio stations or programs are popular in your country and with whom?** " id="tv and radio" size="small" button="false" %}
+{% textarea label="What TV and radio stations or programs are popular in your country and with whom?" id="tv and radio" size="small" button="false" %}
 
-{% textarea label="**Are there blogs or websites focused on politics and elections that are widely read?**" id="blogs or websites" size="small" button="false" %}
+{% textarea label="Are there blogs or websites focused on politics and elections that are widely read?" id="blogs or websites" size="small" button="false" %}
 
-{% textarea label="**What are the political leanings (if any) of the print, broadcast, or internet outlets you've listed?"** id="political learning" size="small" button="false" %}
+{% textarea label="What are the political leanings (if any) of the print, broadcast, or internet outlets you've listed?" id="political learning" size="small" button="false" %}
 
-{% textarea label="**What social networks are popular and with whom?"** id="social network" size="small" button="false" %}
+{% textarea label="What social networks are popular and with whom?" id="social network" size="small" button="false" %}
 
-{% textarea label="**What messaging platforms are most popular and with whom?"** id="messaging platforms" size="small" button="false" %}
+{% textarea label="What messaging platforms are most popular and with whom?" id="messaging platforms" size="small" button="false" %}
 
-{% textarea label="**How do you get your information?"** id="gather information" size="small" button="false" %}
+{% textarea label="How do you get your information?" id="gather information" size="small" button="false" %}
 
-{% textarea label="**How do your parents get their information?"** id=" parents gather information" size="small" button="false" %}
+{% textarea label="How do your parents get their information?" id="parents gather information" size="small" button="false" %}
 
-{% textarea label="**How do your grandparents get their information?"** id=" grandparents gather information" size="small" button="false" %}
+{% textarea label="How do your grandparents get their information?" id="grandparents gather information" size="small" button="false" %}
 
-{% textarea label="**How do your grandparents get their information?"** id=" children gather information" size="small" button="false" %}
+{% textarea label="How do your grandparents get their information?" id="children gather information" size="small" button="false" %}
 
 **Now start matching up the different communications channels to your target audiences. Rely on your audience research here, if possible, rather than guessing.**
 
