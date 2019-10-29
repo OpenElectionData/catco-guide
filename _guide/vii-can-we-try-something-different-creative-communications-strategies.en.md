@@ -69,7 +69,7 @@ If you plan to communicate with fan communities, here are some practical tips to
 
 ## The Power of Comedy
 
-#### _\[This section largely based on the work and findings of Caty Borum Chattoo's research and report_ [_The Laughter Effect_](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")_\]_
+#### _This section is largely based on the work and findings of Caty Borum Chattoo's research and report_ [_The Laughter Effect_](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")_._
 
 Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren't lighthearted or humorous.
 
@@ -84,8 +84,6 @@ Research shows that people take seriously the information they learn through com
 
 There are, of course, times when a light-hearted or humorous approach is inappropriate. But this approach is overlooked often and is so effective that it should at least be considered and integrated when appropriate.
 
-**_INSERT "HOW COMEDY WORKS GRAPHIC"_**
-
 ## The Format of Your Comedy Matters
 
 There are a number of ways to introduce humor into your communications, and each serves a different purpose and conveys different cues about your message. It's not enough to decide you want to integrate humor into your messaging -- think carefully about what kind of humor is appropriate for the context and best serves your purposes.
@@ -97,7 +95,11 @@ There are a number of ways to introduce humor into your communications, and each
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you're funny and therefore successful.
 
-![](/assets/images/catco image.png)
+## How Comedy Works
+
+There are five main ways comedy works to influence your audience:
+
+![](/assets/images/catco image-2.png)
 
 ### YOUR TURN: Topline Messages
 
