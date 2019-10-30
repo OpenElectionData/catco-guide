@@ -6,6 +6,7 @@ subtitle: 'Identifying the Best Platform '
 image:
   url: "/assets/images/NDI_Honduras.jpg"
   caption: 'Photo: NDI Honduras '
+published: false
 
 ---
 There are dozens of ways of communicating with people, and all have their own pros and cons. Print media reaches a large audience, but the message cannot be tailored to specific audiences. It also tends to skew toward an older and literate audience. Radio is a great option for reaching people with low literacy, but the audience must fall within broadcasting range. Broadcast media (TV) reaches large audiences, but it may be difficult to get coverage, advertisements may be expensive, or the gatekeepers might be hostile to your cause. Social media allows for one-on-one interactions and wider discussions, but skews younger and for those with internet access or smartphones. Door-to-door contact can be individually targeted and highly persuasive, but it is time consuming and may be viewed with suspicion in some neighborhoods or contexts.
@@ -111,7 +112,7 @@ Pay attention to the types and messages of the content that gets the most engage
 
 You can also try posting several versions or presentations of the same data. Because only a fraction of your followers will see a given post, you don't risk them seeing the same thing many times, but you gain valuable insights about which graphic or type of presentation gets the most engagement and understanding from your audience, and you can model future content on what you learn.
 
-{% figure caption:"_OPORA Infographic_" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
+{% figure caption:"OPORA onfographic encouraging people to vote." class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
 
 {% endfigure %}
 
@@ -304,7 +305,7 @@ Continuing our example, your communications plan might start to look like this:
 </tbody>
 </table>
 
-## Go to People Where They Are
+## Go To People Where They Are
 
 {% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
 
