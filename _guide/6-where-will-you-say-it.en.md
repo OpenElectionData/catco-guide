@@ -235,7 +235,7 @@ If these tools and platforms won't reach the people with whom you're trying to c
 
 {% callout title="Reaching Out Beyond the Web" %} In Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) has developed an effective mix of in-person interactions with social and traditional media amplification of those events.
 
-{% figure caption:"_Photo: YIAGA Africa_" class:"right" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ")
+{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ")
 
 {% endfigure %}
 
