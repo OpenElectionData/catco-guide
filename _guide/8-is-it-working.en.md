@@ -6,6 +6,7 @@ subtitle: Evaluation and Analysis
 image:
   url: ''
   caption: ''
+published: false
 
 ---
 Having clear criteria to measure your success will allow you to know if your communications plan is working and achieving your goals -- or if it's not performing as you had hoped, and you need to revisit and adjust your strategies and tactics. You'll need to know what you're measuring and ideally you'll be collecting data frequently enough to see problems early and adjust before it's too late or too hard.
@@ -166,13 +167,13 @@ Use these regular check-ins to refine and update your strategies and tactics bas
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
-      <td rowspan="3">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
+      <td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
+      <td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
       <td>Journalists who write about elections.</td>
       <td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
-      <td>- Email press releases & press conferences<br><br>-- Materials on website<br><br>-- One-on-one phone interviews & quarterly conference calls<br><br>-- Twitter<br><br>-- Whatsapp group
+      <td>- Email press releases & press conferences<br><br>- Materials on website<br><br>- One-on-one phone interviews & quarterly conference calls<br><br>- Twitter<br><br>- Whatsapp group
 </td>
-      <td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br><br>-- Page is visited 50 times per quarter<br><br>-- Attendance of 12 journalists per call.<br><br>-- At least one journalist DMs with us on Twitter regularly<br><br>-- Journalist WhatsApp group membership is 100 or more
+      <td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br><br>- Page is visited 50 times per quarter<br><br>- Attendance of 12 journalists per call.<br><br>- At least one journalist DMs with us on Twitter regularly<br><br>- Journalist WhatsApp group membership is 100 or more
 </td>
     </tr>
     <tr>
@@ -184,14 +185,14 @@ Use these regular check-ins to refine and update your strategies and tactics bas
       <tr>
       <td>Members of the opposition party</td>
       <td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
-      <td>- One-on-one outreach to the party leadership<br><br>-- Ads in the Opposition Weekly<br><br>-- Blast emails</td>
-      <td>- 2 meetings per quarter<br><br>-- Weekly placements<br><br>-- List is 250 people with an open rate of 25 percent</td>
+      <td>- One-on-one outreach to the party leadership<br><br>- Ads in the Opposition Weekly<br><br>- Blast emails</td>
+      <td>- 2 meetings per quarter<br><br>- Weekly placements<br><br>- List is 250 people with an open rate of 25 percent</td>
     </tr>
     <tr>
       <td>Young men ages 16-26</td>
       <td>A PVT is a way of verifying that your voice is heard in these elections.</td>
-      <td>- Facebook posts and videos<br><br>-- Paid Facebook promotion</td>
-      <td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br><br>-- 25,000 reach from these ads and 5 percent conversion to page likes</td>
+      <td>- Facebook posts and videos<br><br>- Paid Facebook promotion</td>
+      <td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br><br>- 25,000 reach from these ads and 5 percent conversion to page likes</td>
     </tr>
   </tbody>
 </table>
