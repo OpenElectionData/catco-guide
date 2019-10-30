@@ -6,6 +6,7 @@ subtitle: 'Identifying the Best Platform '
 image:
   url: "/assets/images/NDI_Honduras.jpg"
   caption: 'Photo: NDI Honduras '
+published: false
 
 ---
 There are dozens of ways of communicating with people, and all have their own pros and cons. Print media reaches a large audience, but the message cannot be tailored to specific audiences. It also tends to skew toward an older and literate audience. Radio is a great option for reaching people with low literacy, but the audience must fall within broadcasting range. Broadcast media (TV) reaches large audiences, but it may be difficult to get coverage, advertisements may be expensive, or the gatekeepers might be hostile to your cause. Social media allows for one-on-one interactions and wider discussions, but skews younger and for those with internet access or smartphones. Door-to-door contact can be individually targeted and highly persuasive, but it is time consuming and may be viewed with suspicion in some neighborhoods or contexts.
@@ -151,6 +152,10 @@ When mapping out your upcoming content on your editorial calendar, plan out the 
 
 Once you know in advance what content and products you'll be creating and posting, you can start working on them right away. Sometimes you may need to leave some parts blank until right before the content is scheduled to run so that it can include timely data, but you can still work on the layouts, templates, and outlines of much of your content in advance. When it's ready, you can also load and schedule content to publish in advance on most platforms. Facebook allows you to schedule page and group posts, and you can also schedule tweets to publish through apps like TweetDeck or HootSuite. You can also schedule blast emails to send at a specified time through most CRM or blast email programs. Scheduling content to post can also be useful if your analytics show that your audiences tend to be online at times when you are not -- late at night or on weekends, for example.
 
+{% figure caption:"_Photo: NDI Peru_" class:"left" %} ![Media covers an event ](/assets/images/NDI_peru_3.jpg "NDI Peru ")
+
+{% endfigure %}
+
 Be sure to build in some flexibility in case there is breaking news to which you need to respond. While an editorial calendar is a useful tool for planning ahead, it can be reworked if circumstances change. If the election gets moved up or your organization is under attack, you'll need to change your editorial calendar -- not continue as though nothing has changed. Be careful with scheduled content. If you have a lot of content pre-loaded to publish, you can risk looking out of touch if circumstances change and your content auto-publishes anyway.
 
 ## Earned Media and Press Conferences
@@ -158,10 +163,6 @@ Be sure to build in some flexibility in case there is breaking news to which you
 Earned media is any media coverage you get because of something you've done that is newsworthy. (The opposite of earned media is paid media.) One big benefit of earned media is that it's free. The downside is you can't control the content.
 
 You should pursue an earned media strategy only if you think you can receive fair or friendly coverage. For example, focusing on an earned media strategy may be futile or counterproductive for those working in closed spaces where the national media is controlled or tightly restricted by the state. In these contexts, you may not want to pursue earned media, or your focus on earned media may be very narrow and targeted to a few, more independent outlets. In addition, you may seek to develop strong relationships with international press covering your country, who may be more open to fair coverage and more likely to cover your work and issues. Regardless of whether you focus on earned media, you should have a crisis communications plan in place for how you'll deal with unfriendly or negative press coverage (_see Crisis Communications section_).
-
-{% figure caption:"_Photo: NDI Peru_" class:"right" %} ![Media covers an event ](/assets/images/NDI_peru_3.jpg "NDI Peru ")
-
-{% endfigure %}
 
 If you do decide to pursue earned media, you can't just hold a press conference and hope that people come and cover your event or findings favorably. Earned media depends in large part on relationship building with reporters, and that takes time.
 
@@ -203,9 +204,9 @@ The leaders/spokespeople of your press conference should be well-rehearsed with 
 
 You should also give some thought to the venue and visual look of your press conference. Television and photojournalists will be looking for good visuals, and a well-staged press conference can add to its newsworthiness. For example, if your group found that registered voters were not permitted to vote in a high percentage of polling stations -- assuming that it would be safe and journalists would travel -- you could hold the press conference outside a venue where many voters were denied their right to vote rather than in a hotel conference room. Could several of the people who were unable to vote stand behind the speakers while they talk, perhaps holding signs? Are there other visuals you could set up or project to add to the visual interest of the press conference even if at a standard location, such as projecting slides with relevant infographics, charts, and/or photos while the spokesperson(s) is/are speaking? Would a photo of your press conference show the image of your organization that you want to project and/or tell the story you want to convey?
 
-{% figure caption:"_Photo: PACE_" class:"right" %} ![PACE representative gives press statement.](/assets/images/Preliminary finding press conference of 2017 By-Elections  (1).JPG "PACE") {% endfigure %}
-
 Candidly, a good press conference can be hard to achieve if a lot of egos are involved. If your leaders/spokespeople insist on making long speeches, focusing on their own personal opinions rather than the organization's findings and talking points, or repeating what the others have said without adding anything new or interesting, you may want to consider other strategies to pursue earned media, like one-on-one interviews with leaders or sending small scoops to different, friendly reporters. If your press conference isn't interesting enough to earn press coverage, then it is a waste of your time and the reporters' time. Even worse, if your press conference presents differing viewpoints or goes off message, it can harm your cause and your credibility.
+
+{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representative gives press statement.](/assets/images/Preliminary finding press conference of 2017 By-Elections  (1).JPG "PACE") {% endfigure %}
 
 ## Paid Media
 
