@@ -38,8 +38,6 @@ A crisis by definition is fast-moving and high-stress. It's worth spending time 
 * **Appoint and prepare your spokespeople.** Have a clear plan and internal understanding of who can speak on behalf of the organization in a crisis situation. Do all staff have the authority to speak directly to reporters or post on social media? Or do they need to refer all inquiries to an organizational spokesperson? If the spokesperson is unavailable (out of the country, in jail, etc.), who is next in line to serve as spokesperson? Once this plan is clearly laid out to your staff, spend some time training and preparing those who have been designated as spokespeople. Practice your messaging and responses with them so the responses sound natural. Try asking them hard questions and “gotcha” questions so they get comfortable responding in hostile situations.
 * **Line up your validators.** If you believe there is a realistic chance that you, your leadership, or your organization will be attacked for being un-credible, corrupt, foreign agents, or otherwise untrustworthy, your own denials or responses may not be enough. In that case you'll need to line up and prepare any third-party validators and influencers that you believe will be willing to speak up on your behalf and vouch for your good values and intentions. Approach these people early on and see if they will be willing to join a “rapid response” list, then give them materials and briefings on what to do and what to say if they are needed.
 * **Secure your communications.** If you think your mobile or internet access will be restricted or blocked at a crucial time, or if you think your emails or digital communications are in danger of being hacked, take the necessary digital safety precautions. Train your staff on best practices for keeping safe online. Have a plan for getting your message and content out when the internet or mobile networks are disabled.
-
-
 * **Prepare international support.** It might be hard for your message to break through if social media or state media is being flooded by mis- or disinformation. In that case, you might want to rely on organized diaspora communities or international influencers to get your message through on social media or through other trusted, unofficial channels. Let them know ahead of time what kinds of attacks you expect, why they should be skeptical of them, and how they can help you fight back against mis- or disinformation and attacks. You want them to feel empowered to stand up for the truth or come to your defense if needed.
 
 {% callout title="Planning Ahead for Likely Threats" %}
@@ -64,6 +62,12 @@ There is some debate over whether repeating a particular lie or piece of disinfo
 
 This doesn't mean you should ignore attacks or lies, however. You should be intentional and conscientious of how you're responding. If you need to debunk something, begin by stating the truth and your own messaging, making clear what you are responding to.
 
+{% figure caption:"NDI Kosovo Photo." class:"right" %}
+
+![Two women interviewed in a television studio.](/assets/images/kosovo-2.jpg "NDI Kosovo Photo")
+
+{% endfigure %}
+
 Another effective tactic is to ignore the lie, but focus on the liars who are perpetuating it. If you discredit the source of the information, it can be more effective than trying to debunk the lie itself. It can also weaken the cause of the threat, rather than having to respond to each new lie every time. If the source remains trusted and in good standing, you'll have a new crisis every time they attack you. If you can work to make them a less trusted messenger, their future attacks will have less power.
 
 You can also try to have the content or accounts removed or deactivated if they are on social media platforms. Get the contact information for a representative of Twitter, Facebook, and other social platforms operating in your country if they have an office there. Establish a relationship with them at the outset of your campaign, and get clear guidance from them on what to do if you see false or abusive information about yourself or your cause online. Review the terms of service of the major platforms so you know on what grounds you can recommend content or a user be removed from a platform. Get a commitment from your contact at the company that they will help you take down or flag harmful or slanderous information. (You can also use these relationships to get tips on how to better optimize your own social content.) This may be easier to secure if you are able to buy ads on the platform (tech companies are for-profit, at the end of the day), but you should reach out to them and establish these relationships even if you don't have the resources to buy ads.
@@ -75,12 +79,6 @@ You can also try to have the content or accounts removed or deactivated if they 
 Fake, automated social media accounts, aka bots, are becoming an increasingly popular tool for attacking organizations, spreading disinformation, and generally being annoying and wasting your time.
 
 Signs that the account is actually a bot:
-
-{% figure caption:"NDI Kosovo Photo." class:"right" %}
-
-![Two women interviewed in a television studio.](/assets/images/kosovo-2.jpg "NDI Kosovo Photo")
-
-{% endfigure %}
 
 * **The bio or profile picture are suspect.** Look at the bio of the account -- does it sound like a real person? Is there any personal information in it? Is the profile picture of a real person or a blank silhouette? If it's a silhouette, that strongly increases the chances it's a bot. If it's a real person, do a reverse image search of the picture. If the picture appears frequently across the internet, it is probably a fake account.
 * **The account's posting behavior is suspect.** Is the account posting more frequently an even an energetic person would likely be able to (for example, more than 50 times per day)? _\[A widely applied benchmark, from the_ [_Oxford Internet Institute_](https://www.oii.ox.ac.uk/research/projects/computational-propaganda/)_'s Computational Propaganda initiative, is an average of more than 50 posts or tweets a day.\]_ Is it retweeting what look to be other fake accounts with frequency? Is it posting political propaganda or fake news? Is it posting commercial or advertising messages frequently? Or retweeting messages in a number of different languages? These are all signs the account may be fake.
@@ -141,6 +139,4 @@ For additional crisis communication planning guidelines -- particularly in respo
 
 **Schedule time with your spokespeople and potential validators where you can practice crisis scenarios. Drill them with hard questions until they are confident staying on message and responding naturally.**
 
-***
-
-#### _\[Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section.\]_
+#### _Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section._
