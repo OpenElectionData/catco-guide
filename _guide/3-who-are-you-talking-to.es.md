@@ -38,26 +38,26 @@ Al escoger estos públicos estamos esperando elevar la conciencia y comprensión
 | Público objetivo | Estrategias |
 | :--- | :--- |
 | - Periodistas que escriben sobre las elecciones<br>- Miembros del partido en el poder<br>- Miembros del (de los) partido(s) de oposición | Estrategia 1: use la publicidad digital para generar tráfico en la web y alcance social. |
-| - Varones jóvenes de 16-26 años  | Estrategia 2: haga que con una celebridad o persona influyente que sea popular entre los varones jóvenes comparta nuestro contenido en las redes sociales y dirija gente a la página web. |
+| - Varones jóvenes de 16-26 años | Estrategia 2: haga que con una celebridad o persona influyente que sea popular entre los varones jóvenes comparta nuestro contenido en las redes sociales y dirija gente a la página web. |
 | - Miembros existentes (esto es, nuestros “amigos”) y sus redes sociales | Estrategia 3: usar nuestra lista de correo electrónico para alentar el compartir social <i>peer-to-peer</i>. |
 
-### Your Turn: Identify Your Audience
+### Su turno: Identifica a su público
 
-Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why? You may need to change or refine your tactics as you get a clearer picture of who your audience is.
+Mire sus metas, estrategias y tácticas del ejercicio anterior. Ahora considere a qué públicos objetivos necesita llegar para tener éxito y por qué. Por último, considere qué estrategias y tácticas son las que mejor coinciden con cada público. Tal vez necesite cambiar o refinar sus estrategias o tácticas cuando tenga una imagen más clara de quién es su público.
 
-### Target Audiences
+### Público objetivo
 
-{% textarea label="Who are the groups of people you want to reach out to?" id="Target Audience" size="small" button="false" %}
+{% textarea label="¿Quiénes son los grupos de personas con quienes desea comunicarse?" id="Target Audience" size="small" button="false" %}
 
-### Strategies
+### Estrategia
 
-{% textarea label="What strategy will you use to reach out to each target audience?  " id="Strategies" size="small" button="false" %}
+{% textarea label="¿Qué estrategia usarás para llegar a cada público objetivo?" id="Strategies" size="small" button="false" %}
 
-### Tactics
+### Táctica
 
-{% textarea label="What are the individual actions you might take to enact each strategy listed?" id="Tactics" size="small" button="false" %}
+{% textarea label="¿Cuáles son las acciones individuales que podría tomar para implementar cada estrategia en la lista?" id="Tactics" size="small" button="false" %}
 
-_Who's Missing?_
+_¿Quién falta?_
 
 Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.
 
