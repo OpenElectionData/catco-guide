@@ -112,11 +112,11 @@ Con su comprensión clara y actualizada de sus públicos, examine una vez más s
 
 Cuando haya terminado tendrá un cuadro bastante detallado de su público objetivo. Siguiendo con nuestro ejemplo anterior:
 
-| Target Audience | Strategy |
+| Público objetivo | Estrategia |
 | --- | --- |
-| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
-| Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
-| Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
+| Periodistas que escriben sobre las elecciones | Estos periodistas prefieren recibir información a través de notas de prensa enviadas por correo electrónico. Sin embargo, los periodistas X e Y están interesados en recibir exclusivas y reciben llamadas telefónicas cuando se trata de algo grande. Todos están en Facebook pero consumen la mayor parte de su información en Twitter. El periodista A, en particular, tiene gran cantidad de seguidores en Twitter y responde rápidamente a mensajes directos (DM) en esta plataforma. |
+| Miembros del partido en el poder | Se ven más influenciados por el jefe del partido. Tienden a leer <i>The Daily Journal</i> y <i>The Weekly Magazine</i>, y escuchan <i>The Radio Newshour</i>. Muy pocos están en Twitter pero casi todos están en Facebook. Recelan en particular del periodista B y consideran casi todo lo que reporta como una mentira, lo sea o no. |
+| Varones jóvenes de 16-26 años | Todos adoran a la estrella de cine A y al cantante pop B, pero son escépticos de todos los políticos. No consumen nada de información por vía impresa o radial y pasan la mayor parte de su tiempo en Facebook, Snapchat y Twitch. También les gustan las páginas web X, Y y Z, y confían en estos escritores. Consideran a sus pares como mensajeros confiables y confían en las historias y mensajes que otros varones jóvenes de su edad les cuentan. |
 
 {% textarea label="Público objetivo 1" id="1a" size="Small" button="false" %}  
 {% textarea label="Perfil detallado 1" id="1b" size="Small" button="false" %}
