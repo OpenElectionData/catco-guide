@@ -7,7 +7,6 @@ image:
   caption: ''
 uses_forms: true
 permalink: "/3-who-are-you-talking-to/"
-published: false
 
 ---
 En general, si mapeó al público al inicio de la campaña de comunicaciones, este se verá así:
