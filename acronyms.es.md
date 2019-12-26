@@ -35,7 +35,7 @@ list:
   full_name: AdMinistrador, PrOpietario, Consultor, ayudante, Aprobador (Manager,
     Owner, Consultant, Helper, Approver)
 - acronym: NDI
-  full_name: National Democratic Institute
+  full_name: Instituto Nacional Demócrata (National Democratic Institute)
 - acronym: NGO
   full_name: non-governmental organization
 - acronym: OPORA
