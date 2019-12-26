@@ -2,13 +2,31 @@
 label: Menus
 hide_body: true
 fields:
-- type: list
-  name: sidebar
+- name: sidebar
+  type: field_group
+  config: {}
+  fields:
+  - name: en
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: pages
+        section: guide-english
+    label: English
+    description: English Sidebar
+  - name: es
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: pages
+        section: guide-spanish
+    label: Spanish
   label: sidebar
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: guide-english
 pages:
 - _data/menus.yml
