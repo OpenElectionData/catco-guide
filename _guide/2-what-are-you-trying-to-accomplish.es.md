@@ -13,36 +13,36 @@ Es probable que una vez que esté bien adentro de un periodo electoral, usted se
 
 Al fijar metas claras y bien definidas podrá priorizar mejor las tareas que le ayudarán a alcanzarlas, ignorando al mismo tiempo las que estorban. Sin metas claras desde el principio no podrá saber si tuvo éxito al final, o si necesita cambiar de curso a mitad de camino.
 
-You have likely already done some form of goal-setting for your organization as a whole. Communications goals can be a part of a larger organizational goal, or they can stand alone as their own goal. For example, your larger organizational goal may be to conduct a verification of the voter list and use the findings to advocate for reforms in voter registration processes. To achieve that goal, you would need a communications goal of raising awareness of the findings of the voter list verification with the media, activists, and the public to mobilize support for influencing decision makers. Your communications goals should always help you advance and achieve your organizational goals.
+Probablemente se ha efectuado alguna forma de establecimiento de metas para su organización en general. Las metas de comunicación pueden formar parte de una meta organizativa más amplia, o pueden estar solas como metas en sí mismas. Por ejemplo, su meta organizativa más importante podría ser efectuar una verificación del padrón electoral y usar los resultados para promover reformas en los procesos de inscripción de los votantes. Para alcanzar dicho objetivo necesitará una meta de comunicación de elevar la conciencia de los hallazgos alcanzados por la verificación del padrón electoral en los medios, los activistas y el público, para así movilizar el apoyo necesario para influir en los que deciden sobre el tema. Sus metas de comunicación debieran siempre ayudarle a avanzar hacia, y a alcanzar, sus metas de organización.
 
-You also want to be sure your goals are responding to the challenges your organization and your country are facing. If you have not already done a landscape analysis, organizational risk assessment, and SWOT (strengths, weaknesses, opportunities, and threats) analysis of the specific threats or challenges facing you and your political environment, it's a good idea to do these before setting your goals. A risk assessment is especially important if you are operating in a closed or closing space. As you set your goals, be sure to consider what risks might be heightened as a result of your work (or your changing political environment) and take steps to mitigate, avoid, or accept those risks. Keep in mind that these risks can be very diverse in nature (physical, digital, emotional, legal, etc.), so be sure to think holistically as you consider them. A great resource to start thinking about your general digital risk is [Security Planner](https://securityplanner.org/) by Jigsaw. Those in higher risk organizations in closed or closing spaces should also [seek out guidance](https://securityplanner.org/#/tool/information-for-high-risk-users) from professional security trainers or auditors.
+También querrá asegurarse de que sus metas respondan a los retos que su organización y país enfrentan. Si aún no ha efectuado un análisis del panorama político, una evaluación de riesgo organizativo y un análisis FODA (fortalezas, oportunidades, debilidades y amenazas) de las amenazas o retos específicos que usted y su entorno político enfrentan, sería buena idea que los lleve a cabo antes de fijar sus metas. La evaluación de riesgo es de especial importancia si está operando en un espacio cerrado o que viene cerrándose. Cuando fije sus metas asegúrese de considerar qué riegos podrían intensificarse debido a su trabajo (o su cambiante entorno político) y tome medidas para mitigar, evitar y aceptar dichos riesgos. Tenga en mente que dichos riesgos pueden ser de naturaleza muy diversa (física, digital, emocional, legal, etc.), así que asegúrese de pensar holísticamente para incluirlos. Un gran recurso con el cual comenzar a reflexionar acerca de su riesgo digital general es [Security Planner](https://securityplanner.org/), de Jigsaw. Quienes se encuentran en organizaciones de mayor riesgo, en espacios cerrados o que están cerrándose, debieran también [buscar la guía](https://securityplanner.org/#/tool/information-for-high-risk-users) de capacitadores o auditores en seguridad profesional.
 
-### Your Turn: Setting Communications Goals
+### Su Turno: Establecer objetivos de comunicación
 
-Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
+Lleve a cabo una lluvia de ideas de las metas en comunicación, solo o con su equipo, pensando cómo sería el éxito. Aquí tiene algunas preguntas para comenzar:
 
-* What do we want to change or improve about the country's democratic or electoral processes?
-* Do we want to raise awareness? If so, what does that look like?
-* Do we want to expand our network of volunteers? If so, for what purpose?
-* Do we want to enhance our credibility?
-* Do we want to question the credibility of others?
-* Do we want people to change their behavior or perceptions?
-* Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?
-* Do we want to change laws or policies?
-* What do people need to understand or be educated about?
+* ¿Qué deseamos cambiar o mejorar en los procesos democráticos o electorales del país?
+* ¿Queremos elevar la conciencia? De ser así, ¿cómo es eso?
+* ¿Queremos ampliar nuestra red de voluntarios? De ser así, ¿para qué?
+* ¿Queremos mejorar nuestra credibilidad?
+* ¿Queremos cuestionar la credibilidad de otros?
+* ¿Queremos que la gente cambie su comportamiento o sus percepciones?
+* ¿Queremos que la gente tome una acción específica como reportar irregularidades, se registre para votar o vote?
+* ¿Queremos cambiar leyes o políticas?
+* ¿Qué debe entender la gente, o qué se le debe enseñar?
 
-{% textarea label="List your Goals below" id="goals" size="large" %}
+{% textarea label="Anotar tus objetivos a continuación" id="goals" size="large" %}
 
-You may have brainstormed a long list of things you hope to accomplish, but it's important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn't mean you have to give up on them forever - you can always turn your attention to them at a later date.
+Ha efectuado una lluvia de ideas y tiene una lista larga de cosas que desea alcanzar, pero es importante ser pragmático con respecto a lo que siendo realista puede lograr en el marco temporal con el que cuenta. Intente reducir sus metas a entre una y cinco, considerando el tiempo y la capacidad con los que cuenta. Que algunas de las cosas que esperaba lograr ya no estén en la lista no significa que deba renunciar a ellas definitivamente; siempre puede volver a prestarles atención en fecha posterior.
 
-{% callout title="Setting Organizational Goals" %}
-Don't forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country's democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
+{% callout title="Fijando las metas de la organización" %}
+No olvide incluir entre sus metas a las de desarrollo organizativo. En Nigeria, el grupo de observación electoral [YIAGA AFRICA](https://www.yiaga.org/) fija metas sobre cómo desean que las instituciones democráticas nacionales mejoren mediante la inclusión de los jóvenes, comicios transparentes y fiables, la lucha contra la corrupción y una mayor rendición de cuentas de partes de los funcionarios electos. Pero también fijan metas para asegurarse de que YIAGA AFRICA sea bien conocida por los nigerianos, la prensa internacional y los donantes. Esto asegura la longevidad y salud de la organización misma, de modo que pueda proseguir con su trabajo en el largo plazo.
 
 ![](/assets/images/yiaga_3-1.jpg)
 
 {% endcallout %}
 
-## Smart Goals
+## Metas SMART
 
 Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
 
