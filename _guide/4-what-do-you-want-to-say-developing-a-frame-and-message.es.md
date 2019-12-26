@@ -1,12 +1,13 @@
 ---
-lang: en
+lang: es
 uses_forms: true
 title: '4. What Do You Want To Say?'
 subtitle: Developing a Frame and Message
 image:
   url: ''
   caption: ''
-permalink: /4-what-do-you-want-to-say/
+permalink: /4-what-do-you-want-to-say/ 
+published: false
 
 ---
 ## Develop a Communications Frame

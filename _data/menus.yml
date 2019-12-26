@@ -1,25 +1,45 @@
 ---
 sidebar:
-- _guide/introduction.en.md
-- _guide/2-what-are-you-trying-to-accomplish.en.md
-- _guide/what-are-you-trying-to-accomplish.en.md
-- _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
-- _guide/5-how-will-you-say-it.en.md
-- _guide/6-where-will-you-say-it.en.md
-- _guide/vii-can-we-try-something-different-creative-communications-strategies.en.md
-- _guide/8-is-it-working.en.md
-- _guide/9-what-if-something-goes-wrong.en.md
-- _guide/10-who-is-going-to-do-all-this-work.en.md
-- _guide/11-what-have-others-tried.en.md
-- _guide/12-additional-resources.en.md
-- acronyms.md
-- acknowledgements.md
+  en:
+    - _guide/1-introduction.en.md
+    - _guide/2-what-are-you-trying-to-accomplish.en.md
+    - _guide/3-who-are-you-talking-to.en.md
+    - _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
+    - _guide/5-how-will-you-say-it.en.md
+    - _guide/6-where-will-you-say-it.en.md
+    - _guide/7-can-we-try-something-different-creative-communications-strategies.en.md
+    - _guide/8-is-it-working.en.md
+    - _guide/9-what-if-something-goes-wrong.en.md
+    - _guide/10-who-is-going-to-do-all-this-work.en.md
+    - _guide/11-what-have-others-tried.en.md
+    - _guide/12-additional-resources.en.md
+    - acronyms.md
+    - acknowledgements.md
+  es:
+    - _guide/1-introduction.es.md
+    - _guide/2-what-are-you-trying-to-accomplish.es.md
+    - _guide/3-who-are-you-talking-to.es.md
+    - _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.es.md
+    - _guide/5-how-will-you-say-it.es.md
+    - _guide/6-where-will-you-say-it.es.md
+    - _guide/7-can-we-try-something-different-creative-communications-strategies.es.md
+    - _guide/8-is-it-working.es.md
+    - _guide/9-what-if-something-goes-wrong.es.md
+    - _guide/10-who-is-going-to-do-all-this-work.es.md
+    - _guide/11-what-have-others-tried.es.md
+    - _guide/12-additional-resources.es.md
+    - acronyms.es.md
+    - acknowledgements.es.md
 header:
-- id: download
-  title: Download Guide
-  class: btn btn-download
+  - id: download
+    title: Download Guide
+    class: btn btn-download
 languages:
-- identifier: en
-  title: English
-  url: "/"
-  weight: 1
+  - identifier: en
+    title: English
+    url: "/"
+    weight: 1
+  - identifier: es
+    title: Español
+    url: "/es"
+    weight: 2

@@ -1,11 +1,13 @@
 ---
-lang: en
+lang: es
 title: 3. Who Are You Talking To?
 subtitle: Identifying Your Audience
 image:
   url: ''
   caption: ''
 uses_forms: true
+permalink: /3-who-are-you-talking-to/
+published: false
 
 ---
 In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.

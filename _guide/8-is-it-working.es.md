@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: es
 uses_forms: true
 title: 8. Is It Working?
 subtitle: Evaluation and Analysis
@@ -7,6 +7,7 @@ image:
   url: ''
   caption: ''
 permalink: /8-is-it-working/
+published: false
 
 ---
 Having clear criteria to measure your success will allow you to know if your communications plan is working and achieving your goals -- or if it's not performing as you had hoped, and you need to revisit and adjust your strategies and tactics. You'll need to know what you're measuring and ideally you'll be collecting data frequently enough to see problems early and adjust before it's too late or too hard.

@@ -2,7 +2,7 @@
 
 <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
-    {% for node in site.data.menus.sidebar %}
+    {% for node in site.data.menus.sidebar[site.active_lang] %}
       {%- assign item = pages | where: "path", node | first -%}
       <li class="navigation-list-item{% if page.url == item.url %} active{% endif %}">
         <a href="{{ item.url | relative_url }}" class="navigation-list-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>

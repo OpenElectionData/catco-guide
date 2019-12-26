@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: es
 uses_forms: true
 title: 5. How Will You Say It?
 subtitle: 'Identifying The Best Format '
@@ -7,6 +7,7 @@ image:
   url: ''
   caption: ''
 permalink: /5-how-will-you-say-it/
+published: false
 
 ---
 The way you present your content can often have as big an impact as the content itself on how it is received and retained. A well-packaged message will stay with the audience far longer than a dull or unattractive one. It's worth spending some time thinking about the best way to present your message and story, depending on both the type of information you're trying to relay and the way your audience is primed to absorb it.

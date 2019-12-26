@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: es
 uses_forms: true
 title: Additional Resources
 subtitle: ''
@@ -7,6 +7,7 @@ image:
   url: ''
   caption: ''
 permalink: /12-additional-resources/
+published: false
 
 ---
 ## Narrative & Storytelling

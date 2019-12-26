@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: es
 uses_forms: false
 title: 11. What Have Others Tried?
 subtitle: Case Studies
@@ -7,6 +7,7 @@ image:
   url: ''
   caption: ''
 permalink: /11-what-have-others-tried/
+published: false
 
 ---
 ## Case Study: YouTube Stars Interview President Obama

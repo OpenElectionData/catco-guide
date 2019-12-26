@@ -1,12 +1,13 @@
 ---
 title: 2. What Are You Trying To Accomplish?
 subtitle: Setting Goals, Strategies, and Tactics
-lang: en
+lang: es
 image:
   url: "/assets/images/NDI_moscow.jpg"
   caption: 'Photo: NDI, Mikhail Velmakin'
-permalink: "/what-to-accomplish/"
+permalink: "/2-what-are-you-trying-to-accomplish/"
 uses_forms: true
+published: false
 
 ---
 Once you're deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it's important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you'll be working toward as a group.
