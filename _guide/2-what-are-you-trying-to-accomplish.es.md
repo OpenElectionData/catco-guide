@@ -7,7 +7,6 @@ image:
   caption: 'Photo: NDI, Mikhail Velmakin'
 permalink: "/2-what-are-you-trying-to-accomplish/"
 uses_forms: true
-published: false
 
 ---
 Es probable que una vez que esté bien adentro de un periodo electoral, usted se hallará extremadamente ocupado. Para evitar quedar abrumado y priorizar en qué invertir su tiempo, es importante fijar metas claras con mucha anticipación. Pase algún tiempo creando metas concretas al inicio mismo de la planificación de sus comunicaciones o de su campaña, antes de iniciarse un proceso o campaña electoral, y consiga la aprobación y el acuerdo de su equipo y dirigencia en que estas son las metas para las cuales estarán trabajando como grupo.
