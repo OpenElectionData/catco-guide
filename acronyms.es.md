@@ -26,8 +26,9 @@ list:
   full_name: Reglamento general de protección de datos de la UE (European Union General
     Data Protection Regulations)
 - acronym: ISFED
-  full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (International
-    Society for Fair Elections and Democracy)
+  full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (Sociedad
+    Internacional para Elecciones Justas y la Democracia [International Society for
+    Fair Elections and Democracy])
 - acronym: LGBTI
   full_name: lesbian, gay, bisexual, trans, intersex
 - acronym: MOCHA
