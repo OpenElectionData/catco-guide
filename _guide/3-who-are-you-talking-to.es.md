@@ -35,11 +35,11 @@ Continuemos con nuestro ejemplo para ver cómo funciona esto:
 
 Al escoger estos públicos estamos esperando elevar la conciencia y comprensión de la PVT con los _influencers_ que necesitarán entender, aceptar y compartir sus resultados, y con las personas que es más probable recurran a violencia relacionada con las elecciones. Queremos también empoderar a la gente que ya comprende la PVT y tiene la capacidad de hablar y compartir esta información con sus propios amigos y parientes, puesto que ellos serán vistos en sus propias redes como mensajeros confiables. Estos son los públicos a los que creemos que necesitamos llegar para alcanzar nuestra meta de elevar la conciencia mediante el tráfico en la web y las redes sociales.
 
-| Target Audiences | Strategies |
+| Público objetivo | Estrategias |
 | :--- | :--- |
-| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties | Strategy 1: Use digital advertising to generate web trafiic and social reach. |
-| - Young men ages 16-26 | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
-| - Exisiting members (aka our "friends") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing. |
+| - Periodistas que escriben sobre las elecciones<br>- Miembros del partido en el poder<br>- Miembros del (de los) partido(s) de oposición | Estrategia 1: use la publicidad digital para generar tráfico en la web y alcance social. |
+| - Varones jóvenes de 16-26 años  | Estrategia 2: haga que con una celebridad o persona influyente que sea popular entre los varones jóvenes comparta nuestro contenido en las redes sociales y dirija gente a la página web. |
+| - Miembros existentes (esto es, nuestros “amigos”) y sus redes sociales | Estrategia 3: usar nuestra lista de correo electrónico para alentar el compartir social <i>peer-to-peer</i>. |
 
 ### Your Turn: Identify Your Audience
 
