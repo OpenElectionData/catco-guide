@@ -38,9 +38,10 @@ list:
 - acronym: NGO
   full_name: organización no gubernamental
 - acronym: OPORA
-  full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
+  full_name: Громадянська мережа ОПОРА (Red Civil OPORA)
 - acronym: PACE
-  full_name: People's Alliance for Credible Elections
+  full_name: Alianza Popular para Elecciones Creíbles (People's Alliance for Credible
+    Elections)
 - acronym: PII
   full_name: personally identifiable information
 - acronym: PVT
