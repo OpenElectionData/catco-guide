@@ -5,7 +5,8 @@ lang: es
 permalink: "/acronyms/"
 list:
 - acronym: BERSIH 2.0
-  full_name: Gabungan Pilihanraya Bersih dan Adil (Coalition for Clean and Fair Elections)
+  full_name: Gabungan Pilihanraya Bersih dan Adil (Coalición para Elecciones Limpias
+    y Justas [Coalition for Clean and Fair Elections])
 - acronym: CEC
   full_name: Central Election Commission of Ukraine
 - acronym: CODEO
