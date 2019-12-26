@@ -21,7 +21,7 @@ list:
     Investigación, la Transparencia y la Rendición de Cuentas [Center for Research,
     Transparency and Accountability])
 - acronym: CSOs
-  full_name: organizaciones de la sociedad civil (civil society organizations)
+  full_name: organizaciones de la sociedad civil
 - acronym: GDPR
   full_name: Reglamento general de protección de datos de la UE (European Union General
     Data Protection Regulations)
