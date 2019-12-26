@@ -23,7 +23,8 @@ list:
 - acronym: CSOs
   full_name: organizaciones de la sociedad civil (civil society organizations)
 - acronym: GDPR
-  full_name: European Union General Data Protection Regulations
+  full_name: Reglamento general de protección de datos de la UE (European Union General
+    Data Protection Regulations)
 - acronym: ISFED
   full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (International
     Society for Fair Elections and Democracy)
