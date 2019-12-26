@@ -52,7 +52,7 @@ list:
   full_name: específico, mensurable, alcanzable, relevante y sensible al tiempo (Specific,
     Measurable, Attainable, Relevant, Time-sensitive)
 - acronym: SMS
-  full_name: short message service (text messages)
+  full_name: mensajes de texto
 - acronym: YIAGA AFRICA
   full_name: Youth Initiative for Advocacy, Growth & Advancement
 
