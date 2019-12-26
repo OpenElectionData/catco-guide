@@ -37,7 +37,7 @@ list:
 - acronym: NDI
   full_name: Instituto Nacional Demócrata (National Democratic Institute)
 - acronym: NGO
-  full_name: non-governmental organization
+  full_name: organización no gubernamental
 - acronym: OPORA
   full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
 - acronym: PACE
