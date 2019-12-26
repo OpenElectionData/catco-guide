@@ -11,7 +11,8 @@ list:
   full_name: Comisión Electoral Central de Ucrania (Central Election Commission of
     Ukraine)
 - acronym: CODEO
-  full_name: Coalition of Domestic Election Observers
+  full_name: Coalición de Observadores Electorales Domésticos (Coalition of Domestic
+    Election Observers)
 - acronym: CRM
   full_name: customer relationship manager
 - acronym: CRTA
