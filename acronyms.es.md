@@ -43,7 +43,7 @@ list:
   full_name: Alianza Popular para Elecciones Creíbles (People's Alliance for Credible
     Elections)
 - acronym: PII
-  full_name: personally identifiable information
+  full_name: información personal identificable
 - acronym: PVT
   full_name: parallel vote tabulation
 - acronym: R2C
