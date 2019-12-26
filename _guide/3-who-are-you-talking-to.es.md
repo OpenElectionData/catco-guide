@@ -80,37 +80,37 @@ Limitar la influencia de sus enemigos podría ser su propia meta, con estrategia
 
 Esto resulta particularmente importante cuando su grupo opera en un entorno represivo y/o en un país con un espacio político que está cerrándose. En estos contextos necesitará dedicar significativamente más tiempo y recursos a la cuestión de enfrentar y/o mitigar el daño que los enemigos pueden hacer a su capacidad de comunicarse efectivamente con sus públicos objetivos. Los regímenes autoritarios emplean una cantidad tremenda de recursos para suprimir, desacreditar o silenciar la información creíble acerca de las elecciones y los hallazgos realizados por grupos de observadores con credibilidad. Estos regímenes tienen una fuerte influencia en, y en muchos casos un control directo o indirecto de, los medios tradicionales. Los medios en línea, las redes sociales inclusive, podrían quedar restringidos o bloqueados en momentos cruciales alrededor de las elecciones. Algunos gobiernos y actores políticos usan cada vez más herramientas tales como bots y troles, con que inundar a la ciudadanía con desinformación _\[La desinformación es cuando se comparte información falsa con miras a causar daño.\]_ y propaganda. Esto incluye el hacer falsas acusaciones de que los grupos de observadores electorales son instrumentos de gobiernos extranjeros, creando y resaltando organizaciones no gubernamentales organizadas por el gobierno (GONGO) y usando observadores “zombis” para producir informes que sostienen que las elecciones defectuosas son de confiar. _\[Los observadores “zombis” son observadores utilizados por gobiernos, organizaciones y partidos anti-democráticos para minar la observación y el análisis genuino de las elecciones. Por lo general solo ofrecen evaluaciones electorales positivas.\]_ Para mas detalles sobre la planificación para crisis y ataques de sus contrincantes véase la sección 8.
 
-## Get to Know Your Target Audiences
+## Conozca sus públicos objetivos
 
-By now, you should have a list of audiences you plan to reach. To reach them effectively, you should spend some time getting to know them.
+Por este momento debiera contar con una lista de los grupos a los que planea alcanzar. Para llegar a ellos con eficacia debiera pasar algo de tiempo conociéndoles.
 
-Here are three questions you'll want to research about all your target audiences. The answers to these questions will help you determine effective messages, messengers, and platforms later on.
+Aquí tenemos tres preguntas que usted querrá estudiar con respecto a todos sus públicos objetivos. Las respuestas a estas preguntas ayudarán posteriormente a establecer mensajes efectivos, mensajeros y plataformas.
 
-**1. Where are they?** This refers to where they are both geographically and online. If your influencers are all in the capital, it doesn't make sense to buy ads in newspapers outside of the capital. If you're trying to reach young men ages 16-26 and they are all on Facebook but not many on Twitter, don't invest time and resources into Twitter.
+**1. ¿Dónde están?** Esto se refiere en dónde se encuentran tanto geográficamente como en línea. Si sus _influencers_ están todos en la capital, no tendrá sentido comprar avisos en los periódicos fuera de ella. Si está intentando llegar a los varones jóvenes de 16-26 años y están todos en Facebook pero no muchos en Twitter, no invierta tiempo y recursos en Twitter.
 
-**2. What are the main ways they consume information?** Do they get it online? In print? On the radio? Are there specific websites, platforms, services, publications, TV shows, or people they trust? If your key audience listens to the same radio program at 3pm every day, you may want to buy an ad during that program. You also may not want to schedule your own event for that time.
+**2. ¿Cuáles son las principales formas en que consumen información?** ¿La obtienen en línea? ¿En medios impresos? ¿En la radio? ¿Hay páginas web, plataformas, servicios, publicaciones, programas de TV o personas específicos en los que confían? Si su público clave escucha el mismo programa radial a las 3 p.m. todos los días, podría comprar un comercial en él. También no debería programar su propio evento a esa hora.
 
-**3.** **Who influences them?** Who are the trusted messengers for your audiences? This could be a politician, celebrity, academic, journalist, or a member of their family or peer group. By identifying people who are already reaching your target audience, you may avoid having to build that audience from scratch. Think expansively and creatively here. The person that influences your target audience may not be well known to you.
+**3.** **¿Quién influye en ellos?** ¿Quiénes son los mensajeros confiables para sus públicos? ¿Estos podrían ser políticos, celebridades, académicos, periodistas o miembros de su familia o grupo de compañeros. Podría evitar tener que construir a su público objetivo desde cero identificando a personas que ya están llegando a este. Aquí piense expansiva y creativamente. La persona que influye en su público objetivo podría no serle bien conocida a usted.
 
-## A Note About Influencers
+## Una nota sobre los _influencers_
 
-In some cases, in order to reach a very broad audience, you might consider reaching out to a very narrow one. Those “influentials” at the top of the above audience map already have extensive networks and audiences of their own. Be sure you're not trying to replicate someone else's audience from scratch if you can reach out to them directly and tap into their audience instead. For example, if you are trying to affect change in one particular community, you may be able to identify the religious or political figure who has the most influence in that community and reach out to that one person directly, rather than trying to reach out to the entire community yourself.
+En algunos casos, para llegar a un público muy amplio podría considerar dirigirse a uno muy restringido. Esos “influyentes” en la parte superior del cuadro anterior ya cuentan con sus propias y extensas redes y público. Asegúrese de no estar intentando replicar el público de alguien más desde cero, si es que más bien puede dirigirse a ellos directamente y aprovecharlo. Por ejemplo, si está intentando efectuar un cambio en una comunidad particular, podría identificar a la figura religiosa o política que tiene mayor influencia en ella y dirigirse directamente a dicha persona, en lugar de más bien llegar por cuenta propia a toda la comunidad.
 
-## What If You Don't Know the Answers to These Questions?
+## ¿Qué pasa si no conoce las respuestas a estas preguntas?
 
-If your audiences are different from you, you may not know these answers off the top of your head. Don't make assumptions or guesses! Try to research these audiences to get a strong and complete picture of them. Here are some ways you can research your target audiences. _(Note: it is probably most practical to combine audience research with messaging research; see next section.)_
+Si sus públicos son distintos de usted, es posible que no sepa las respuestas a estas preguntas. ¡No haga suposiciones ni adivine! Intente estudiar estos públicos para así tener un cuadro fuerte y completo de ellos. He aquí algunas formas en que puede estudiar a sus públicos objetivos. _(Nota: probablemente sea más práctico combinar la investigación del público con el de la mensajería; véase la siguiente sección.)_
 
-* **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
-* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
-* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
+* **Encuentre datos ya existentes.** Dependiendo de dónde esté, es posible que ya haya datos del público en distintas páginas web, canales de redes sociales, diarios o programas televisivos. De estar disponibles, úselos para establecer qué ve su público y cómo lo hace.
+* **Haga grupos focales.** Reúna entre cuatro y ocho miembros de su público objetivo en una habitación y hágales las preguntas de la sección “Conozca a su público”. Escuche sus respuestas y no discuta con ellos. El objetivo no es convencerles de que consuman información en la forma en que usted espera difundirla, sino más bien conseguir una imagen más clara de cuál es la mejor forma de difundírsela a ellos.
+* **Entrevistas individuales.** Una entrevista profunda e individual con miembros de su público le permitirá explorar sus pensamientos y hacer preguntas de seguimiento. Su meta nuevamente no es convencerles de su forma de hacer las cosas, sino cambiar cómo es que usted las hace para adaptarse mejor a lo que su público ya viene haciendo.
 
-### YOUR TURN: Creating Detailed Audience Profiles
+### SU TURNO: Creando perfiles del público detallados
 
-**Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
+**Usando lo que ya sabe de ellos a partir de todos los datos disponibles, grupos focales y/o entrevistas disponibles, cree perfiles detallados de sus públicos objetivos en el cuadro que aparece a continuación.**
 
-With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
+Con su comprensión clara y actualizada de sus públicos, examine una vez más sus metas, estrategias y tácticas. ¿Aún tienen sentido sabiendo lo que sabe de sus públicos objetivos? ¿Está llegando a ellos en las mejores formas posibles? ¿Siguen siendo los públicos correctos en que focalizarse para alcanzar sus metas? Adapte sus metas, estrategias, tácticas y públicos en conformidad con ello.
 
-When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
+Cuando haya terminado tendrá un cuadro bastante detallado de su público objetivo. Siguiendo con nuestro ejemplo anterior:
 
 | Target Audience | Strategy |
 | --- | --- |
@@ -118,11 +118,11 @@ When you're done, you should have a pretty detailed picture of your target audie
 | Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
 | Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
 
-{% textarea label="Target Audience 1" id="1a" size="Small" button="false" %}  
-{% textarea label="Detailed Profile 1" id="1b" size="Small" button="false" %}
+{% textarea label="Público objetivo 1" id="1a" size="Small" button="false" %}  
+{% textarea label="Perfil detallado 1" id="1b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 2" id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile 2" id="2b" size="Small" button="false" %}
+{% textarea label="Público objetivo 2" id="2a" size="Small" button="false" %} {% textarea label="Perfil detallado 2" id="2b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 3" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="3b" size="Small" button="false" %}
+{% textarea label="Público objetivo 3" id="3a" size="Small" button="false" %} {% textarea label="Perfil detallado 3" id="3b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 4" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 4" id="4b" size="Small" button="false" %}
+{% textarea label="Público objetivo 4" id="4a" size="Small" button="false" %} {% textarea label="Perfil detallado 4" id="4b" size="Small" button="false" %}
