@@ -19,7 +19,7 @@ list:
   full_name: Centar za istraživanje, transparentnost i odgovornost (Centro para la
     Investigación, la Transparencia y la Rendición de Cuentas [Center for Research,
     Transparency and Accountability])
-- acronym: CSOs
+- acronym: OSC o CSOs
   full_name: organizaciones de la sociedad civil
 - acronym: GDPR
   full_name: Reglamento general de protección de datos de la UE (European Union General
