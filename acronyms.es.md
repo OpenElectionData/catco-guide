@@ -54,6 +54,7 @@ list:
 - acronym: SMS
   full_name: mensajes de texto
 - acronym: YIAGA AFRICA
-  full_name: Youth Initiative for Advocacy, Growth & Advancement
+  full_name: Iniciativa Juvenil para la Promoción, el Crecimiento y el Progreso (Youth
+    Initiative for Advocacy, Growth & Advancement)
 
 ---
