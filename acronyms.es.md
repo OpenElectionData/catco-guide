@@ -14,7 +14,8 @@ list:
   full_name: Coalición de Observadores Electorales Domésticos (Coalition of Domestic
     Election Observers)
 - acronym: CRM
-  full_name: customer relationship manager
+  full_name: software para la administración de la relación con los clientes (customer
+    relationship manager)
 - acronym: CRTA
   full_name: Centar za istraživanje, transparentnost i odgovornost (Center for Research,
     Transparency and Accountability)
