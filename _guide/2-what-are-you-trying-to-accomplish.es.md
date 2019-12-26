@@ -88,7 +88,7 @@ No olvide considerar los riesgos, en especial cuando esté identificando táctic
 
 Para ilustrar esto construyamos uno de los ejemplos anteriores de metas con estrategias, tácticas y recursos.
 
-**SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
+**EJEMPLO DE META**: forme conciencia de qué es una tabulación paralela de la votación (PVT)  haciendo que 10,000 personas visiten nuestra página web, y alcanzando un promedio de 100,000 personas en nuestros canales en las redes sociales durante las tres semanas anteriores a la elección.
 
 | Strategies | Tactics | Resources Needed |
 | --- | --- | --- |
