@@ -33,7 +33,7 @@ Para ayudarle a decidir qué segmentos del público en general priorizar, podrí
 
 Continuemos con nuestro ejemplo para ver cómo funciona esto:
 
-By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.
+Al escoger estos públicos estamos esperando elevar la conciencia y comprensión de la PVT con los _influencers_ que necesitarán entender, aceptar y compartir sus resultados, y con las personas que es más probable recurran a violencia relacionada con las elecciones. Queremos también empoderar a la gente que ya comprende la PVT y tiene la capacidad de hablar y compartir esta información con sus propios amigos y parientes, puesto que ellos serán vistos en sus propias redes como mensajeros confiables. Estos son los públicos a los que creemos que necesitamos llegar para alcanzar nuestra meta de elevar la conciencia mediante el tráfico en la web y las redes sociales.
 
 | Target Audiences | Strategies |
 | :--- | :--- |
