@@ -1,18 +1,18 @@
 ---
 lang: es
-title: 3. Who Are You Talking To?
-subtitle: Identifying Your Audience
+title: 3. ¿A quién le está hablando?
+subtitle: Identificando a su público
 image:
   url: ''
   caption: ''
 uses_forms: true
-permalink: /3-who-are-you-talking-to/
+permalink: "/3-who-are-you-talking-to/"
 published: false
 
 ---
-In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.
+En general, si mapeó al público al inicio de la campaña de comunicaciones, este se verá así:
 
-{% figure caption:"Chart adapted from Ed Grefe's lectures as an adjunct professor at George Washington University." class:"center" %} ![](/assets/images/bell_chart_eng.png)
+{% figure caption:"Gráfico adaptado de las lecciones de Ed Grefe como profesor adjunto en la Universidad George Washington" class:"center" %} ![](/assets/images/bell_chart_eng.png)
 {% endfigure %}
 
 Your "friends" are the 5-10 percent of the public that already support your cause, believe you are a credible organization, will show up when asked, will share your message, etc. You do not need to convince them of the importance of your cause.
