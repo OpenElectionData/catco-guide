@@ -44,17 +44,17 @@ No olvide incluir entre sus metas a las de desarrollo organizativo. En Nigeria, 
 
 ## Metas SMART
 
-Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
+Es difícil trabajar para alcanzar metas ambiguas, o para saber cuándo las ha alcanzado. Evite las metas que son ambiguas o demasiado amplias haciendo que sean específicas, mensurables, alcanzables, relevantes y sensibles al tiempo (SMART son la siglas en inglés). Definir metas concretas y específicas le mantendrá concentrado e impedirá que se sienta abrumado.
 
-| Vague Goals | SMART Goals |
+| Metas vagas | Metas SMART |
 | :--- | :--- |
-| Build our credibility | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
-| Raise awareness | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election. |
-| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms. |
+| Construir nuestra credibilidad | Seremos vistos como expertos en observación electoral siendo incluidos en 25 notas en los medios acerca de las elecciones en los días antes de los comicios, y teniendo al menos una fuente creíble que señale nuestros resultados como definitivos. |
+| Formando conciencia | Formar conciencia consiguiendo que 10,000 personas visiten nuestra página web, y llegar en promedio a las 100,000 personas en nuestros canales de medios durante las tres semanas antes de las elecciones. |
+| Exigir mejores elecciones | Los voceros de la organización o designados son citados 10 veces en los medios sociales, exigiendo reformas electorales específicas. |
 
 {: .table--cols-equal}
 
-By defining the time-specific aspect of your goals, you'll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it's important to be clear with your team and your leadership of what you're hoping to accomplish when. You want to especially be sure you're working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you're making steady progress on it.
+Al definir el aspecto temporal específico de sus metas tendrá una mejor idea de cuáles son de largo y cuáles de corto plazo. Todo plan de comunicaciones con el que cuente tendrá ambos tipos de metas, y es importante ser claro con su equipo y sus dirigentes con respecto a qué espera cumplir y cuándo. Deberá asegurarse en particular de estar avanzando hacia sus metas de largo plazo, incluso cuando trabaja para alcanzar las de corto plazo. Tal vez deba desagregar una meta de largo plazo en una serie de metas de corto plazo, para así asegurarse de que está avanzando constantemente hacia ella.
 
 ### Your Turn: Setting SMART Goals
 
