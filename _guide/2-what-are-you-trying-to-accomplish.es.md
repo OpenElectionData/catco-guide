@@ -1,18 +1,17 @@
 ---
-title: 2. What Are You Trying To Accomplish?
-subtitle: Setting Goals, Strategies, and Tactics
+title: 2. ¿Qué está intentando lograr?
+subtitle: Fijando las metas, estrategias y tácticas
 lang: es
 image:
   url: "/assets/images/NDI_moscow.jpg"
   caption: 'Photo: NDI, Mikhail Velmakin'
 permalink: "/2-what-are-you-trying-to-accomplish/"
 uses_forms: true
-published: false
 
 ---
-Once you're deep into an election period, you will likely be extremely busy. To avoid getting overwhelmed and to prioritize what to spend your time on, it's important to set clear goals well in advance. Spend some time creating concrete goals at the very beginning of your communications or campaign planning before an electoral or campaign process begins, and get approval and agreement from your team and leadership that these are the goals you'll be working toward as a group.
+Es probable que una vez que esté bien adentro de un periodo electoral, usted se hallará extremadamente ocupado. Para evitar quedar abrumado y priorizar en qué invertir su tiempo, es importante fijar metas claras con mucha anticipación. Pase algún tiempo creando metas concretas al inicio mismo de la planificación de sus comunicaciones o de su campaña, antes de iniciarse un proceso o campaña electoral, y consiga la aprobación y el acuerdo de su equipo y dirigencia en que estas son las metas para las cuales estarán trabajando como grupo.
 
-By setting clear, well-defined goals, you'll be better able to prioritize the tasks that help you reach them, while ignoring those that get in the way. Without clear goals from the start, you won't know if you've succeeded by the end, or if you need to change course mid-stream.
+Al fijar metas claras y bien definidas podrá priorizar mejor las tareas que le ayudarán a alcanzarlas, ignorando al mismo tiempo las que estorban. Sin metas claras desde el principio no podrá saber si tuvo éxito al final, o si necesita cambiar de curso a mitad de camino.
 
 You have likely already done some form of goal-setting for your organization as a whole. Communications goals can be a part of a larger organizational goal, or they can stand alone as their own goal. For example, your larger organizational goal may be to conduct a verification of the voter list and use the findings to advocate for reforms in voter registration processes. To achieve that goal, you would need a communications goal of raising awareness of the findings of the voter list verification with the media, activists, and the public to mobilize support for influencing decision makers. Your communications goals should always help you advance and achieve your organizational goals.
 
