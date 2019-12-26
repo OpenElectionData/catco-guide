@@ -30,7 +30,7 @@ list:
     Internacional para Elecciones Justas y la Democracia [International Society for
     Fair Elections and Democracy])
 - acronym: LGBTI
-  full_name: lesbian, gay, bisexual, trans, intersex
+  full_name: lesbiana, gay, bisexual, trans, intersex
 - acronym: MOCHA
   full_name: Manager, Owner, Consultant, Helper, Approver
 - acronym: NDI
