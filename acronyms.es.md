@@ -17,10 +17,11 @@ list:
   full_name: software para la administración de la relación con los clientes (customer
     relationship manager)
 - acronym: CRTA
-  full_name: Centar za istraživanje, transparentnost i odgovornost (Center for Research,
-    Transparency and Accountability)
+  full_name: Centar za istraživanje, transparentnost i odgovornost (Centro para la
+    Investigación, la Transparencia y la Rendición de Cuentas [Center for Research,
+    Transparency and Accountability])
 - acronym: CSOs
-  full_name: civil society organizations
+  full_name: organizaciones de la sociedad civil (civil society organizations)
 - acronym: GDPR
   full_name: European Union General Data Protection Regulations
 - acronym: ISFED
