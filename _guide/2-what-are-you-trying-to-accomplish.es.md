@@ -89,24 +89,24 @@ Para ilustrar esto construyamos uno de los ejemplos anteriores de metas con estr
 
 **EJEMPLO DE META**: forme conciencia de qué es una tabulación paralela de la votación (PVT)  haciendo que 10,000 personas visiten nuestra página web, y alcanzando un promedio de 100,000 personas en nuestros canales en las redes sociales durante las tres semanas anteriores a la elección.
 
-| Strategies | Tactics | Resources Needed |
+| Estrategias | Tácticas | Recursos necesarios |
 | --- | --- | --- |
-| Strategy 1: Use digital advertising to generate web traffic and social reach. | Raise USD 10,000 for an ads budget.<br /><br />Research and test relevant search terms. A/B test (split test) ads to increase their relevance and success among audiences.<br /><br />Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | $10,000<br /><br />10 hours/week of dedicated staff time |
-| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach.<br /><br />Reach out to that person and their team.<br /><br />Provide them with content and instructions on how to help on an ongoing basis. | Two weeks of staff time to identify the right celebrity or other person and how to reach them.<br /><br />Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
-| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | Write blog posts twice a week and share them on social media.<br /><br />Create graphics and videos for social media that people will want to share.<br /><br />Post once a day.<br /><br />Email social content to our list and ask them to share the posts with their networks. | Two hours/day of staff time to create content and email our list. |
+| Estrategia 1: usar publicidad digital para generar tráfico a la página y alcance social. | Recabe USD 10,000 para un presupuesto de anuncios.<br /><br />Investigue y ponga a prueba los términos de búsqueda relevantes. Anuncios de prueba A/B (dividir y probar o split test) para incrementar su relevancia y éxito entre los públicos.<br /><br />Contacte proactivamente los equipos de publicidad y servicio al cliente de Facebook, Google y /o Twitter, y pídales ayuda para refinar su campaña de publicidad y hacerla más eficaz. | $10,000<br /><br />10 horas/semana de tiempo de personal dedicado |
+| Estrategia 2: haga que una celebridad u otra persona influyente comparta nuestro contenido en las redes sociales y dirija la gente a la página web. | Identifique a la celebridad u otro <i>influencer</i> que creemos podría estar interesado en trabajar con nosotros y es popular con los públicos a los que tenemos que llegar.<br /><br />Contáctese con dicha persona y su equipo.<br /><br />Dele contenido e instrucciones sobre cómo ayudar con regularidad. | Dos semanas de tiempo de personal para identificar a la celebridad adecuada u otra persona y cómo contactarlas.<br /><br />Tres horas/semana del tiempo del personal para manejar dicha relación y seguir proporcionándole contenido actualizado que compartir. |
+| Estrategia 3: usar nuestra lista de correo electrónico para alentar el compartir social <i>peer-a-peer</i>. | Escribir notas en el blog dos veces por semana y compartirlas en las redes sociales.<br /><br />Crear gráficos y videos para las redes sociales que la gente quiera compartir.<br /><br />Publique una vez al día.<br /><br />Enviar contenido social por correo electrónico a nuestra lista, y pedirles que compartan las publicaciones con sus redes. | Dos horas/día de tiempo del personal para crear contenido y enviar a nuestra lista por correo electrónico. |
 
 {: .table--cols-equal}
 
-### Your Turn: Identifying Strategies, Tactics, and Resources
+### Su turno: Identificar estrategias, tácticas y recursos
 
-Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That's okay! Adjust your goals to reflect what you can realistically achieve.
+Tome las metas SMART que identificó y use el cuadro que aparece a continuación (siguiendo el ejemplo anterior) para llenarlo con las estrategias, tácticas y recursos que necesitaría para alcanzar sus metas. Tal vez encuentre que deberá reevaluar algunas de ellas en caso sus estrategias, tácticas o recursos no sean realistas. ¡Está bien! Adapte sus metas para que reflejen lo que pueda alcanzar siendo realista.
 
-**Goal 1:**
+**Meta 1:**
 
-{% textarea label="List your tactics and resources for Strategy 1" id="1" size="large" %}
+{% textarea label="Enumere sus tácticas y recursos para la Estrategia 1" id="1" size="large" %}
 
-{% textarea label="List your tactics and resources for Strategy 2" id="2" size="large" %}
+{% textarea label="Enumere sus tácticas y recursos para la Estrategia 2" id="2" size="large" %}
 
-{% textarea label="List your tactics and resources for Strategy 3" id="3" size="large" %}
+{% textarea label="Enumere sus tácticas y recursos para la Estrategia 3" id="3" size="large" %}
 
-Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them -- from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group's communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
+Una vez haya definido claramente metas, estrategias y tácticas, asegúrese de contar con una amplia comprensión y acuerdo de la organización con respecto a ellas, tanto de la dirigencia como del personal. Como la Junta o el Comité Directivo de la organización podrían no estar tan involucrados en las operaciones cotidianas, frecuentemente sucederá que tendrán una comprensión o prioridad distinta de las metas comunicativas del grupo. Esto podría crear un gran problema para el personal de comunicaciones, el cual se ve entonces presionado en diferentes direcciones y está obligado a cumplir con múltiples prioridades al mismo tiempo, lo que hace que su trabajo en conjunto sea menos eficaz. Asegúrese de revisar y examinar metas, estrategias y tácticas con todo aquel que vaya a estar llevando a cabo, supervisando o asignando tareas, para que así todos tengan una comprensión común de qué debe suceder y por qué.
