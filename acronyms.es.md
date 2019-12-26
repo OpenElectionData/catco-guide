@@ -32,7 +32,8 @@ list:
 - acronym: LGBTI
   full_name: lesbiana, gay, bisexual, trans, intersex
 - acronym: MOCHA
-  full_name: Manager, Owner, Consultant, Helper, Approver
+  full_name: AdMinistrador, PrOpietario, Consultor, ayudante, Aprobador (Manager,
+    Owner, Consultant, Helper, Approver)
 - acronym: NDI
   full_name: National Democratic Institute
 - acronym: NGO
