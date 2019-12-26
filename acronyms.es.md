@@ -45,7 +45,7 @@ list:
 - acronym: PII
   full_name: información personal identificable
 - acronym: PVT
-  full_name: parallel vote tabulation
+  full_name: tabulación paralela de voto (parallel vote tabulation)
 - acronym: R2C
   full_name: Derecho a Elegir (Right To Choose)
 - acronym: SMART
