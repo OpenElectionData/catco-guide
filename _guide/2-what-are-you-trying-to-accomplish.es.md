@@ -18,7 +18,7 @@ Probablemente se ha efectuado alguna forma de establecimiento de metas para su o
 
 También querrá asegurarse de que sus metas respondan a los retos que su organización y país enfrentan. Si aún no ha efectuado un análisis del panorama político, una evaluación de riesgo organizativo y un análisis FODA (fortalezas, oportunidades, debilidades y amenazas) de las amenazas o retos específicos que usted y su entorno político enfrentan, sería buena idea que los lleve a cabo antes de fijar sus metas. La evaluación de riesgo es de especial importancia si está operando en un espacio cerrado o que viene cerrándose. Cuando fije sus metas asegúrese de considerar qué riegos podrían intensificarse debido a su trabajo (o su cambiante entorno político) y tome medidas para mitigar, evitar y aceptar dichos riesgos. Tenga en mente que dichos riesgos pueden ser de naturaleza muy diversa (física, digital, emocional, legal, etc.), así que asegúrese de pensar holísticamente para incluirlos. Un gran recurso con el cual comenzar a reflexionar acerca de su riesgo digital general es [Security Planner](https://securityplanner.org/), de Jigsaw. Quienes se encuentran en organizaciones de mayor riesgo, en espacios cerrados o que están cerrándose, debieran también [buscar la guía](https://securityplanner.org/#/tool/information-for-high-risk-users) de capacitadores o auditores en seguridad profesional.
 
-### Su Turno: Establecer objetivos de comunicación
+### Su turno: Establecer objetivos de comunicación
 
 Lleve a cabo una lluvia de ideas de las metas en comunicación, solo o con su equipo, pensando cómo sería el éxito. Aquí tiene algunas preguntas para comenzar:
 
@@ -57,9 +57,9 @@ Es difícil trabajar para alcanzar metas ambiguas, o para saber cuándo las ha a
 
 Al definir el aspecto temporal específico de sus metas tendrá una mejor idea de cuáles son de largo y cuáles de corto plazo. Todo plan de comunicaciones con el que cuente tendrá ambos tipos de metas, y es importante ser claro con su equipo y sus dirigentes con respecto a qué espera cumplir y cuándo. Deberá asegurarse en particular de estar avanzando hacia sus metas de largo plazo, incluso cuando trabaja para alcanzar las de corto plazo. Tal vez deba desagregar una meta de largo plazo en una serie de metas de corto plazo, para así asegurarse de que está avanzando constantemente hacia ella.
 
-### Your Turn: Setting SMART Goals
+### Su turno: Establecer Metas SMART
 
-Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
+Examine su lluvia de ideas de cómo sería el éxito. Reduzca sus metas a entre una y cinco y luego aplíqueles el SMART haciendo que sean específicas, mensurables, alcanzables, relevantes y sensibles al tiempo.
 
 {% textarea label="1" id="goals1" size="small" %}
 {% textarea label="2" id="goals2" size="small" %}
@@ -67,27 +67,26 @@ Take a look at your brainstorm of what success would look like. Narrow your goal
 {% textarea label="4" id="goals4" size="small" %}
 {% textarea label="5" id="goals5" size="small" %}
 
-Your communications strategies and tactics will flow directly from your goals. _Try not to get distracted by tasks that do not ultimately help you achieve your goals._
+Sus estrategias y tácticas de comunicación fluirán directamente de sus metas. _Intente no distraerse con tareas que al final no le ayudarán a alcanzarlas._
 
-{% callout title="Working Together Toward Common Goals " %}
-In Malaysia, the [BERSIH 2.0](http://www.bersih.org/) group gathers at the start of each year to set its goals, prioritize them, and plan their activities around them. At the beginning of 2018 - an election year - they knew they'd be devoting a lot of time and resources to getting out the vote. But they were also pursuing a long-term, four-year campaign with the goal of having election districts redrawn to make them fair. The group also needed to be sure there was time and flexibility for at least one unexpected campaign, in case authorities did something that would require organizing protests, which can take up to three to four months. As a team, they identified these three goals as priorities and adjusted their work accordingly. When competing priorities came up during day-to-day work, staff was able to check them against their yearly planning to choose what to pursue.
+{% callout title="Trabajando juntos hacia metas comunes" %} En Malasia, el grupo [BERSIH 2.0](http://www.bersih.org/) se reúne al iniciar cada año para fijar sus metas, priorizarlas y planear sus actividades en torno a ellas. Al comenzar 2018 — un año electoral — sabían que estarían dedicando bastante tiempo y recursos consiguiendo que se votara. Pero también querían una campaña de largo plazo de cuatro años, con la meta de lograr que los distritos electorales fueran redistribuidos para que sean más justos. Los grupos también necesitaban estar seguros de contar con el tiempo y la flexibilidad necesarios para efectuar al menos una campaña inesperada en caso las autoridades hicieran algo que necesitara organizar protestas. Como equipo identificaron estas tres metas como prioridades y adaptaron su trabajo en conformidad con ello. Cuando surgían prioridades rivales durante su trabajo cotidiano, el personal podía cotejarlas contra estas metas para elegir qué hacer.
 
-"To be able to build a movement, your leadership really needs to be strong," said Maria Chin Abdullah, former Chairperson of BERSIH 2.0. "People will have differences of opinions, but at the end of the day, the leadership needs to be working together toward common goals."
+"Para lograr construir un movimiento, su dirigencia realmente necesita ser fuerte”, dice Maria Chin Abdullah, expresidente de BERSIH 2.0. “La gente tiene diferencias de opinión, pero a fin de cuentas los líderes necesitan trabajar juntos para alcanzar metas comunes”.
 
 ![BERSIH 2.0 members encouraging people to vote ](/assets/images/BERSIH_3.jpg "Photo from BERSIH 2.0")
 {% endcallout %}
 
-## Strategies and Tactics to Achieve Your Goals
+## Estrategias y tácticas para lograr sus objetivos 
 
-A strategy is an approach you can take to achieve your goals. Tactics are the individual actions you take to enact your strategy.
+Una estrategia es un enfoque al que puede tomar para alcanzar sus metas. Las tácticas son las acciones individuales que se toman para implementar su estrategia.
 
-Have a look at your goals, and think about how you can achieve them. There will likely be multiple ways you could achieve your goals: some might take a lot of time, others might take a lot of money, some might be difficult or high-risk in your political environment, while others still might depend on a little luck or another event happening first. Choose the strategies that are the most likely to get you to your goal while being realistic about your constraints, such as time, money, number of staff, media environment, digital and physical risks, and political constraints.
+Examine sus metas y piense cómo podría alcanzarlas. Probablemente habrán múltiples formas en las que podría alcanzarlas: algunas tal vez tomen mucho tiempo, otras podrían requerir de bastante dinero, otras podrían resultar difíciles o de alto riesgo en su entorno político, en tanto que otras más podrían depender de tener un poco de suerte o de que algún otro acontecimiento tenga lugar primero. Elija las estrategias que más probable le permitan alcanzar su meta, siendo al mismo tiempo realista con respecto a sus restricciones como el tiempo, el dinero, la cantidad de personal, el entorno de los medios, los riesgos digitales y físicos, y las limitaciones políticas.
 
-For example, if your goal is to raise awareness by getting 10,000 visitors to your website, one way to achieve that is to create a digital advertising campaign. But if you don't have money to pay for digital ads, this is not a realistic strategy to choose. Instead, you might choose the strategy of increasing organic traffic to the website by writing daily blog posts and asking your social media followers to share them. However, this approach requires a lot more staff time and a more engaged social media following than the digital ad campaign. If you think the digital ads are the best way achieve this goal but don't have the money, then one of your tactics will need to be raising the money in order to run the ad campaign.
+Por ejemplo, si su meta es formar conciencia consiguiendo que 10,000 personas visiten su página web, una forma de lograrlo sería creando una campaña de publicidad digital. Pero si no cuenta con el dinero necesario para pagar los avisos digitales, esta no será una estrategia realista que elegir. Podría más bien escoger la estrategia de incrementar el tráfico orgánico a la página web publicando notas diarias en el blog, y pidiendo a sus seguidores en las redes sociales que las compartan. Sin embargo, este enfoque requiere de mucho más tiempo del personal y unos seguidores en redes sociales más comprometidos que en la campaña de publicidad digital. De parecerle que los avisos digitales son la mejor forma de alcanzar esta meta pero no tiene el dinero, entonces una de sus tácticas deberá ser recaudarlo a fin de poder efectuar la campaña publicitaria.
 
-Don't forget to consider risks, especially when identifying tactics or resources. For instance, if your goals and tactics rely on a functioning website, but it's highly likely someone may disrupt or take down your website, then alternative tactics may need to be identified or sufficient personnel, time, and money should be allocated to ensure the website is secured.
+No olvide considerar los riesgos, en especial cuando esté identificando tácticas o formulando supuestos acerca de sus recursos. Por ejemplo, si sus metas y tácticas dependen de una página web operativa pero es sumamente probable que alguien la interrumpa o elimine, entonces deberá o bien identificar tácticas alternativas, o sino asignar suficiente personal, tiempo y dinero para asegurarse de que el sitio web este seguro.
 
-To illustrate this, let's build out one of the example goals above with strategies, tactics, and resources.
+Para ilustrar esto construyamos uno de los ejemplos anteriores de metas con estrategias, tácticas y recursos.
 
 **SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
 
