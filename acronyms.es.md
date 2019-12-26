@@ -47,7 +47,7 @@ list:
 - acronym: PVT
   full_name: parallel vote tabulation
 - acronym: R2C
-  full_name: Right To Choose
+  full_name: Derecho a Elegir (Right To Choose)
 - acronym: SMART
   full_name: Specific, Measurable, Attainable, Relevant, Time-sensitive
 - acronym: SMS
