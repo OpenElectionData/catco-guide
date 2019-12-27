@@ -24,7 +24,7 @@ Podría tener que readaptar su marco para que calce con su público, de modo tal
 
 ### Su turno: Diseñe un marco de comunicaciones
 
-**Brainstorm a list of basic values and assumptions that are at the core of your work and communications.**
+**Haga una lluvia de ideas de los valores y supuestos básicos que se encuentran al centro de su trabajo y sus comunicaciones.**
 
 {% textarea label="1" id="value and assumption1" size="small" button="false" %}
 
@@ -34,27 +34,27 @@ Podría tener que readaptar su marco para que calce con su público, de modo tal
 
 {% textarea label="4" id="value and assumption4" size="small" button="false" %}
 
-**Refine these until you have a clear list of assumptions and values that will be reflected throughout your communications.**
+**Refínelos hasta que cuente con una lista clara de supuestos y valores, los cuales se reflejarán a lo largo y ancho de sus comunicaciones.**
 
-**Now list the values and assumptions of your key target audiences to assess whether this frame truly matches the values and assumptions of each of your key audiences.**
+**Ahora en el cuadro que aparece a continuación enumere los valores y supuestos de sus públicos objetivos claves, para evaluar si ese marco realmente coincide con los valores y supuestos de cada uno de ellos.**
 
-{% textarea label="Target Audience 1" id="target1" size="small" button="false" %}
+{% textarea label="Público objetivo 1" id="target1" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value1" size="large" button="false" %}
+{% textarea label="Valores y supuestos" id="value1" size="large" button="false" %}
 
-{% textarea label="Target Audience 2" id="target2" size="small" button="false" %}
+{% textarea label="Público objetivo 2" id="target2" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value2" size="large" button="false" %}
+{% textarea label="Valores y supuestos" id="value2" size="large" button="false" %}
 
-{% textarea label="Target Audience 3" id="target3" size="small" button="false" %}
+{% textarea label="Público objetivo 3" id="target3" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value3" size="large" button="false" %}
+{% textarea label="Valores y supuestos" id="value3" size="large" button="false" %}
 
-{% textarea label="Target Audience 4" id="target4" size="small" button="false" %}
+{% textarea label="Público objetivo 4" id="target4" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value4" size="large" button="false" %}
+{% textarea label="Valores y supuestos" id="value4" size="large" button="false" %}
 
-{% textarea label="Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?" id="comparison" size="large" button="false" %}
+{% textarea label="Compare los valores y supuestos al centro de su trabajo con los de su público. ¿Son similares? De no ser así, ¿cómo podría adaptar su marco para que le entiendan sin que abandone sus valores y principios?" id="comparison" size="large" button="false" %}
 
 Once you have settled on a clear frame, it's important to ensure that all your communications fit within it. Share it with all the members of your team, spokespeople, leaders, board members, etc. Check all outgoing communications against the frame to ensure consistency. If you create communications that are inconsistent with your frame, your audiences will be confused and your messages will be muddled. People need to know what your underlying values are and what to expect from your organization.
 
