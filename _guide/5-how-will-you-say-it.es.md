@@ -1,30 +1,30 @@
 ---
 lang: es
 uses_forms: true
-title: 5. How Will You Say It?
-subtitle: 'Identifying The Best Format '
+title: '5. ¿Cómo lo dirá? '
+subtitle: Identificando el mejor formato
 image:
   url: ''
   caption: ''
-permalink: /5-how-will-you-say-it/
+permalink: "/5-how-will-you-say-it/"
 published: false
 
 ---
-The way you present your content can often have as big an impact as the content itself on how it is received and retained. A well-packaged message will stay with the audience far longer than a dull or unattractive one. It's worth spending some time thinking about the best way to present your message and story, depending on both the type of information you're trying to relay and the way your audience is primed to absorb it.
+La forma en que presente su contenido puede a menudo tener un impacto igual de grande como el contenido mismo en la manera cómo se le recibe y conserva. Un mensaje bien empaquetado se quedará con su público mucho más tiempo que uno aburrido o nada atractivo. Vale la pena pasar cierto tiempo pensando acerca de la mejor forma de presentar su mensaje e historia, dependiendo tanto del tipo de información que está intentando transmitir, y de la forma en que su público es preparado para absorberlo.
 
-## Written Content
+## Contenido escrito
 
-Text is often the preferred way of relaying information. It offers the writer tight control over the final product and ensures that the message is clear and prominent.
+El texto frecuentemente es la forma preferida de transmitir información. Le ofrece al autor un mayor control sobre el producto final y asegura que el mensaje sea claro y prominente.
 
-Press releases, written reports, emails, and blog posts are all common ways of writing and relaying findings and observations. The biggest pitfalls with these forms of communications are that they can be too long and unengaging. A dry, 30-page written report of election findings doesn't do much good if no one reads past page one. Some tips to keep in mind for your written communications:
+Las notas de prensa, los informes escritos, correos electrónicos, y publicaciones en blogs son formas comunes de escribir y transmitir resultados y observaciones. El mayor defecto de estas formas de comunicación es que pueden ser demasiado largas y nada interesantes. Un soso informe escrito de 30 páginas de hallazgos electorales no servirá de mucho si nadie pasa de la primera página. Algunos consejos a tener en cuenta para sus comunicaciones escritas:
 
-* With all written materials, be sure that the most important information is conveyed close to the beginning. Ask yourself, if someone only spent one minute reading this, would they have learned the most important information? With longer reports, include a short executive summary to start with that outlines your main findings.
-* Use illustrative stories and the narrative structure covered previously whenever you can. People are more likely to stay engaged and keep reading past the one minute mark if they are personally or emotionally drawn to what you are writing. Instead of leading with facts and statistics, focus on values and personal stakes or outcomes.
-* Use illustrative stories and the narrative structure covered previously whenever you can. People are more likely to stay engaged and keep reading past the one minute mark if they are personally or emotionally drawn to what you are writing. Instead of leading with facts and statistics, focus on values and personal stakes or outcomes.
+* Asegúrese de que en todos los materiales escritos, la información más importante se transmita cerca del inicio del informe. Pregúntese: ¿si alguien dedica solo un minuto a leer esto, habrá aprendido la información más importante? En los informes más largos incluya al principio un breve resumen ejecutivo que esboce sus principales resultados.
+* Cada vez que pueda use historias ilustrativas y la estructura narrativa ya examinada. Es más probable que la gente mantenga la atención y siga leyendo más allá de un minuto si se ven atraídos personal o emocionalmente a lo que escribió. En lugar de comenzar con hechos y estadísticas, concéntrese en valores e intereses o resultados personales.
+* Intente adaptar el tono, vocabulario y mensaje de la información escrita a su público. El producto final debiera reflejar el lenguaje y tono que su público emplea y está acostumbrado a ver. Si es una nota de prensa, esta debiera estar escrita como si fuera una nota periodística. Si aparece en un blog como invitado, debiera hacerse eco del tono y el sentir de las otras publicaciones del mismo. Si es un informe dirigido hacia la comunidad internacional, deberá colocar su información y resultados dentro de un contexto internacional.
 
-## Best Practices for Writing a Press Release
+## Las mejores prácticas para redactar una nota de prensa
 
-A well-written press release should read like a news article -- a news article written to reflect exactly the story and angle that you want. In addition to the general tips above regarding all written content, press releases should also reflect the following:
+Una nota de prensa bien escrita debiera leerse como una nota periodística: un artículo escrito para que refleje exactamente la historia y el ángulo que desea. Además de los consejos generales previos acerca del contenido escrito, las notas de prensa debieran también reflejar lo siguiente:
 
 * The headline should be short, concise, and a clear reflection of your story or findings, framed exactly how you would like it to be framed. If a reporter or member of the public read the headline, they should learn the most important information without having to read further. For example, _Election Observation Group Conducts PVT_ is not a good headline for a press release. _Major Irregularities Found in Pre-Election Period Cast Doubt on Credibility of Elections, Group Finds,_ on the other hand, is much better. It conveys the most important information of the findings in a clear manner, rather than asking the audience to continue reading down to get the important information. (The headline doesn't have to be bad news to be newsworthy. _Election Results Credible, Observer Group Finds_ is still newsworthy and informative while relaying good news.)
 * Keep your sentences and paragraphs short. This is how good reporters tend to write, and if they want to model their story off of your press release, that is ideal.
