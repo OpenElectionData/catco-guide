@@ -12,15 +12,15 @@ published: false
 ---
 ## Diseñe un marco de comunicaciones
 
-A communications frame is the set of values and assumptions that all of your communications take for granted. Having a clear communications frame from the outset will ensure consistency across your communications, but it will also ensure that your audiences understand where you are coming from and what you are trying to communicate to them.
+Un marco de comunicaciones es el conjunto de valores y supuestos que todas sus comunicaciones dan por sentado. Tener este marco claro desde el principio asegurará la consistencia de sus comunicaciones, pero también que sus públicos entiendan de dónde viene y qué está intentando transmitirles.
 
-For example, your frame might be that democracy is preferable to other forms of government. Other assumptions of that frame might include the ideas that citizens should be able to participate freely in the democratic process, a peaceful transfer of power is preferable to one-party rule, elections should be credible, and democratic governance should improve people's lives.
+Por ejemplo, su marco podría ser que la democracia es preferible a otras formas de gobierno. Otros supuestos en dicho marco podrían incluir la idea de que los ciudadanos debieran poder participar libremente en el proceso democrático, que una transferencia pacífica del poder es preferible al gobierno unipartidario, que las elecciones debieran ser confiables, y que la gobernanza democrática debiera mejorar la vida de las personas.
 
-If your audience does not share the values and assumptions of your frame, they will have a hard time understanding what you are trying to communicate to them.
+Si su público no comparte los valores y supuestos de su marco, tendrán problemas para comprender lo que usted está intentando comunicarles.
 
-Continuing the example above, if your audience rejects your frame and instead believes that one-party rule is preferable to democracy, then they will not be receptive to any narratives or messages about supporting competitive election processes. You won't be listened to or understood.
+Continuando con el ejemplo anterior, si su público rechaza su marco y cree, más bien, que el gobierno unipartidario es preferible a la democracia, no serán receptivos a ninguna narrativa o mensajes acerca de seguir apoyando los procesos electorales competitivos. No se le escuchará o entenderá.
 
-You may need to re-adjust your frame to match that of your audience so that they are receptive to what you are trying to convey. In places where a democracy frame won't be understood or trusted, you may need to create a communications frame around values of fairness, national strength, unity, or some other value or outlook upon which you and your audience can agree and understand each other.
+Podría tener que readaptar su marco para que calce con su público, de modo tal que este sea receptivo a lo que está intentando transmitir. Allí donde no se entienda ni confíe en un marco democrático, tal vez sea necesario crear un marco de comunicaciones en torno a los valores de justicia, fortaleza nacional, unidad o algún otro valor o perspectiva en torno al cual usted y su público puedan coincidir y entenderse mutuamente.
 
 ### YOUR TURN: Develop a Communications Frame
 
