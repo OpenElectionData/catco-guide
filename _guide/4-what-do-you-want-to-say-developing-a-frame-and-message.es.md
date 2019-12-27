@@ -56,9 +56,9 @@ Podría tener que readaptar su marco para que calce con su público, de modo tal
 
 {% textarea label="Compare los valores y supuestos al centro de su trabajo con los de su público. ¿Son similares? De no ser así, ¿cómo podría adaptar su marco para que le entiendan sin que abandone sus valores y principios?" id="comparison" size="large" button="false" %}
 
-Once you have settled on a clear frame, it's important to ensure that all your communications fit within it. Share it with all the members of your team, spokespeople, leaders, board members, etc. Check all outgoing communications against the frame to ensure consistency. If you create communications that are inconsistent with your frame, your audiences will be confused and your messages will be muddled. People need to know what your underlying values are and what to expect from your organization.
+Es importante que, una vez haya decidido un marco claro, todas sus comunicaciones encajen dentro de este. Compártalo con todos los integrantes de su equipo, voceros, dirigentes, miembros del comité, etc. Coteje todas las comunicaciones salientes contra dicho marco para asegurar su consistencia. Si crea comunicaciones inconsistentes con su marco confundirá a sus públicos y sus mensajes serán confusos. La gente necesita saber cuáles son sus valores subyacentes y qué esperar de su organización.
 
-For example, if your frame is that democracy is preferable to all other forms of government, elections should be competitive, and that the will of the people must be respected, but you issue a press release implying that a certain candidate should pull out of the race, your audience will become confused, you will lose credibility, and your subsequent messaging will be inconsistent or contradictory.
+Por ejemplo, si su marco sostiene que la democracia es preferible a todas las restantes formas de gobierno, que las elecciones debieran ser competitivas y que la voluntad del pueblo debe respetarse, pero emite al mismo tiempo una nota de prensa implicando que cierto candidato debiera abandonar la contienda, su público quedará confundido, perderá credibilidad y sus mensajes subsiguientes serán inconsistentes o contradictorios.
 
 ## Develop Your Topline Message
 
