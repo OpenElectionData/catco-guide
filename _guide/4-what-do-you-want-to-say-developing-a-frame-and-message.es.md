@@ -79,49 +79,47 @@ El mensaje del ejemplo anterior es:
 
 Si el mensaje central únicamente fuera que “una PVT verifica de modo independiente que los resultados electorales oficiales sean precisos, lo que disuade la comisión de fraudes”, esto le enseñaría al público lo que es, pero carecería de una forma emocional para que el público se conecte. Si el mensaje solo fuera que “debemos asegurarnos de que cada voto se cuente”, esto podría resonar emocionalmente con el público, pero no cumpliría con la meta de formar conciencia de qué es una PVT o para qué sirve.
 
-{% callout title="Focusing on One Message" %} [Civil Network OPORA](https://www.oporaua.org/en) is a citizen group in Ukraine that has been observing elections and calling for stronger democratic institutions for more than a decade. One thing they've learned in that time is to choose one message and stick to it for the duration of a campaign. “If you present dozens of issues or messages at a time, you're not going to get people to focus,” said Iryna Shvets, OPORA's program manager. Instead, OPORA will choose one focused message and push it out exclusively for at least two months, or until the group feels like it has broken through with their audience.
+{% callout title="Focalizándose en un mensaje" %} La [Red Civil OPORA](https://www.oporaua.org/en) es un grupo ciudadano en Ucrania que ha estado observando las elecciones y pidiendo instituciones democráticas más fuertes por más de una década. Una cosa que aprendieron en dicho lapso es a elegir un mensaje y conservarlo durante toda la campaña. “Si presentas docenas de cuestiones o mensajes a la vez, no conseguirás que la gente se concentre”, dijo Iryna Shvets, su director de programa. OPORA más bien elige un mensaje focalizado y lo promueve exclusivamente durante al menos dos meses, o hasta que el grupo siente que ha llegado a su público.
 
-While the group was conducting a campaign to pressure the government to appoint new members to the Central Election Commission, its central message was that the commission had overstayed its term and needed to be updated as soon as possible. They drove the message in all their external communications until new commissioners were appointed. (See Case Studies section for more information on the campaign). {% endcallout %}
+Aunque el grupo estaba llevando a cabo una campaña para presionar al gobierno para que nombrara nuevos miembros de la Comisión Electoral Central, su mensaje central era que esta había superado su mandato y que debía renovársela lo antes posible. Impulsaron el mensaje en todas sus comunicaciones externas hasta que se nombraron nuevos comisionados. (Para más información sobre la campaña véase la sección de estudios de caso.) {% endcallout %}
 
-### YOUR TURN: Create Your Topline Message
+### Su turno: Cree su mensaje central
 
-**Start by brainstorming all of the possible things you might want to say. Don't hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
+**Comience con una lluvia de ideas de todas las cosas posibles que podría querer decir. ¡No se contenga! Algunas podrían ser oraciones, otras apenas palabras. He aquí algunas preguntas para ayudarle a comenzar su lluvia de ideas:**
 
-{% textarea label="Someone asks you what your organization is all about. How do you answer?" id="brainstorming1" size="large" button="false" %}
+{% textarea label="Alguien le pregunta para qué es su organización. ¿Cómo respondería?" id="brainstorming1" size="large" button="false" %}
 
-{% textarea label="What's your favorite argument in favor of your cause or organization?" id="brainstorming2" size="large" button="false" %}
+{% textarea label="¿Cuál es su argumento favorito a favor de su causa u organización?" id="brainstorming2" size="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brainstorimg3" size="large" button="false" %}
+{% textarea label="¿Qué le movió a tomar acción a favor de esto?" id="brainstorimg3" size="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brainstorming4" size="large" button="false" %}
+{% textarea label="¿A quién ayuda su trabajo? ¿Cómo les ayuda?" id="brainstorming4" size="large" button="false" %}
 
-{% textarea label="Who does your work help? How does it help them?" id="brainstorming5" size="large" button="false" %}
+{% textarea label="¿Qué valores defiende con su trabajo?" id="brainstorming5" size="large" button="false" %}
 
-{% textarea label="What values do you uphold in your work?" id="brainstorming6" size="large" button="false" %}
+{% textarea label="¿Qué sucederá si su misión fracasa?" id="brainstorming6" size="large" button="false" %}
 
-{% textarea label="What will happen if your mission fails?" id="brainstorming7" size="large" button="false" %}
+{% textarea label="¿Qué le hace promover esta causa todos los días?" id="brainstorming7" size="large" button="false" %}
 
-{% textarea label="What keeps you advocating for this cause every day?" id="brainstorming" size="large" button="false" %}
+**Ahora probablemente esté viendo un gran enredo de palabras. Comience a ordenar las palabras y frases en grupos similares en tema o tono, reescribiéndolas con lapiceros de distinto color o colocándolas en distintas hojas de papel.**
 
-**Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
+**Continúe reduciendo y afinando cada grupo. ¿Qué palabras o temas van repitiéndose? ¿Cuáles son los más persuasivos? ¿Los que más inspiran? ¿Los más emocionales?**
 
-**Keep narrowing down and honing each group. Which words or themes keep coming up? Which ones are the most persuasive? The most inspiring? The most emotional?**
+**Tome las frases y palabras más persuasivas y ármelas en una o dos oraciones. Ese es su mensaje central.**
 
-**Take the most persuasive phrases and words and craft them into one or two sentences. That's your topline message.**
+**Vuelva a mirar sus metas: asegúrese de que este mensaje apoya sus metas globales.**
 
-**Go back and look at your goals -- make sure this message supports your overall goals.**
+## Distintos mensajes resuenan en distintos públicos
 
-## Different Messages Resonate with Different Audiences
-
-{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
+{% figure caption:"_Foto: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
 
 {% endfigure %}
 
-Your topline message should be clear, concise, persuasive, and support your goals and frame. However, different people may respond differently to your message, and you may need to adapt or adjust it depending on who you are communicating with.
+Su mensaje central debe ser claro, conciso, persuasivo y apoyar sus metas y marco. Sin embargo, distintas personas podrían responder de diferentes modos y tal vez deba adaptarlo o ajustarlo, dependiendo de con quién esté comunicándose.
 
-This can mean changing the tone or vocabulary you use, or it can mean reshaping the main message to emphasize the values or emotions that will connect with a particular audience. The resulting messages shouldn't contradict your frame or topline message, but they should resonate with the different subsets of audiences you identified so you are more easily able to connect and communicate with them.
+Esto puede significar cambiar el tono o el vocabulario que usa, o bien reconfigurar el mensaje principal para enfatizar los valores o emociones que lo conecten con un público específico. Los mensajes resultantes no debieran contradecir su marco o mensaje central, pero sí debieran resonar con los distintos subgrupos de públicos a los que ha identificado, para que pueda conectarse y comunicarse con ellos con mayor facilidad.
 
-Example:
+Ejemplo:
 
 | Goal | Top Line Message | Target Audience | Target Message |
 | --- | --- | --- | --- |
