@@ -169,13 +169,13 @@ Todo relato tiene un escenario, personajes y tramas. Los mejores relatos cuentan
 
 Por ejemplo, he aquí una historia que tiene escenario, personaje y trama: _Ayer hice recados por la ciudad. Fui al sastre, luego al supermercado y después a la biblioteca. Luego fui a casa._ El escenario es la ciudad, yo soy el personaje y la trama es una serie de acciones. Aunque técnicamente es una narrativa, ¡resulta aburrida por no tener arco narrativo o moraleja! Y no es probable que recuerde nada o aprenda algo de ella.
 
-A more effective narrative would go something like this: _Yesterday, I ran errands around the city. I went to the tailor, but the tailor had ripped my pants! I demanded my money back, but instead he kept the pants and threw me out of the shop. On my way home I bought a sewing machine so that I can hem my own pants from now on._ That story builds to a climax (I got thrown out of the shop), and you learned a lesson that it's a good idea to hem your pants yourself.
+Una narrativa más eficaz sería algo así: _Ayer hice recados por la ciudad. Fui al sastre, ¡pero este había roto mis pantalones! Pedí que me devolviera mi dinero, pero en lugar de ello se quedó con los pantalones y me botó de la tienda. En el camino a casa compré una máquina de coser, para que de ahora en adelante pueda hacerle la basta a mis pantalones._ Este relato avanza hacia un clímax (me botaron de la tienda) y se aprende la lección que es una buena idea que uno mismo le haga la basta a sus pantalones.
 
-Narrative is powerful. Stories create a deeper personal connection than facts or data. If you had just read that incidents of tailors ripping pants had increased 33 percent in the last two years, you might not change your behavior. But after you heard the story above, you may think twice about taking your pants to a tailor, and consider hemming your pants yourself to avoid the same fate.
+Una narrativa es poderosa. Los relatos crean una conexión personal más profunda que los hechos o datos. Su comportamiento tal vez no cambiaría si solo hubiese leído que los incidentes de sastres que rasgan pantalones se incrementaron 33 por ciento en los últimos dos años. Pero después de escuchar el relato anterior pensará dos veces antes de llevar pantalones a un sastre, y considerará usted mismo hacerles la basta para evitar tener igual suerte.
 
-{% callout title="Using Compelling Narrative in Election Observation" %}
+{% callout title="Usando una narrativa convincente en la observación electoral" %}
 
-{% figure caption:"_Photo: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg)
+{% figure caption:"_Foto: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg)
 
 {% endfigure %}
 
