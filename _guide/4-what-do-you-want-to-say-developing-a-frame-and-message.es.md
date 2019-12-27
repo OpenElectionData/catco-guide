@@ -161,13 +161,13 @@ Por ejemplo, en el periodo preelectoral de 2015, los medios frecuentemente hací
 
 Los humanos están programados para contar historias y conectarse con ellas. Las historias crean una conexión emocional y empática, y se quedan con la gente más tiempo que los hechos o las estadísticas. Es contando historias como enseñamos a la gente, nos conectamos con ellas y ganamos su confianza y amistad. Usar relatos para cumplir con sus metas de comunicación y transmitir sus mensajes podría ser un enfoque poderoso y eficaz.
 
-{% figure caption:"_Photo: ISFED_" class:"center" %} ![](/assets/images/ISFED-1.jpg)
+{% figure caption:"_Foto: ISFED_" class:"center" %} ![](/assets/images/ISFED-1.jpg)
 
 {% endfigure %}
 
-All stories have settings, characters, and plots. The best stories also have a narrative arc and a moral. A narrative arc means that the plot builds to a climax rather than just a plot where one thing happens after another without any sort of build up. After the climax, there is a resolution that should contain some sort of lesson or moral.
+Todo relato tiene un escenario, personajes y tramas. Los mejores relatos cuentan también con un arco narrativo y una moraleja. Un arco narrativo significa que la trama avanza hacia un clímax, en lugar de ser una sucesión de cosas que suceden una tras otra sin desarrollo alguno. Luego del clímax hay una resolución que debiera contener algún tipo de lección o moraleja.
 
-For example, here is a story that just has a setting, character, and plot: _Yesterday, I ran errands around the city. I went to the tailor, then the supermarket, then the library. Then I went home._ The setting is the city, I am the character, and the plot is the series of actions. While technically a narrative, without a narrative arc or moral, it's pretty boring! And you are unlikely to remember anything about it or learn anything from it.
+Por ejemplo, he aquí una historia que tiene escenario, personaje y trama: _Ayer hice recados por la ciudad. Fui al sastre, luego al supermercado y después a la biblioteca. Luego fui a casa._ El escenario es la ciudad, yo soy el personaje y la trama es una serie de acciones. Aunque técnicamente es una narrativa, ¡resulta aburrida por no tener arco narrativo o moraleja! Y no es probable que recuerde nada o aprenda algo de ella.
 
 A more effective narrative would go something like this: _Yesterday, I ran errands around the city. I went to the tailor, but the tailor had ripped my pants! I demanded my money back, but instead he kept the pants and threw me out of the shop. On my way home I bought a sewing machine so that I can hem my own pants from now on._ That story builds to a climax (I got thrown out of the shop), and you learned a lesson that it's a good idea to hem your pants yourself.
 
