@@ -60,24 +60,24 @@ Es importante que, una vez haya decidido un marco claro, todas sus comunicacione
 
 Por ejemplo, si su marco sostiene que la democracia es preferible a todas las restantes formas de gobierno, que las elecciones debieran ser competitivas y que la voluntad del pueblo debe respetarse, pero emite al mismo tiempo una nota de prensa implicando que cierto candidato debiera abandonar la contienda, su público quedará confundido, perderá credibilidad y sus mensajes subsiguientes serán inconsistentes o contradictorios.
 
-## Develop Your Topline Message
+## Diseñe su mensaje central
 
-Now that you're clear on your frame, it's time to start developing your topline message. This is the distillation of the key point(s) you want to get across in all your communications. Whereas a frame is a place of common understanding between you and your audience, your topline message is what you want your audience to learn and have reinforced every time they hear from you.
+Ahora que ya tiene claro su marco, es hora de comenzar a diseñar su mensaje central. Este es una síntesis del (de los) punto(s) clave(s) que desea transmitir en todas sus comunicaciones. Mientras que un marco es un lugar de comprensión común entre usted y su público, su mensaje central es lo que desea que este aprenda y que se refuerza cada vez que tienen noticias suyas.
 
-Continuing with our example, if your goal is to raise awareness of your PVT and your frame is that democracy is preferable to all other forms of government, you topline message might be:
+Continuando con nuestro ejemplo, si su meta es formar conciencia con respecto a su PVT, y su marco es que la democracia es preferible a todas las demás formas de gobierno, entonces su mensaje central podría ser:
 
-**A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.**
+**Una PVT verifica independientemente que los resultados electorales son precisos, porque todo voto debiera contarse y cada voz debiera ser escuchada.**
 
-## What Makes for a Good Topline Message?
+## ¿En qué consiste un buen mensaje central?
 
-The message in the example above is:
+El mensaje del ejemplo anterior es:
 
-* Short
-* Clear
-* Teaches the audience something it might not know
-* Embedded with values and emotion meant to connect with the audience
+* breve;
+* claro;
+* le enseña al público algo que podría no saber; e
+* incluye valores y emociones que buscan conectar con el público.
 
-If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
+Si el mensaje central únicamente fuera que “una PVT verifica de modo independiente que los resultados electorales oficiales sean precisos, lo que disuade la comisión de fraudes”, esto le enseñaría al público lo que es, pero carecería de una forma emocional para que el público se conecte. Si el mensaje solo fuera que “debemos asegurarnos de que cada voto se cuente”, esto podría resonar emocionalmente con el público, pero no cumpliría con la meta de formar conciencia de qué es una PVT o para qué sirve.
 
 {% callout title="Focusing on One Message" %} [Civil Network OPORA](https://www.oporaua.org/en) is a citizen group in Ukraine that has been observing elections and calling for stronger democratic institutions for more than a decade. One thing they've learned in that time is to choose one message and stick to it for the duration of a campaign. “If you present dozens of issues or messages at a time, you're not going to get people to focus,” said Iryna Shvets, OPORA's program manager. Instead, OPORA will choose one focused message and push it out exclusively for at least two months, or until the group feels like it has broken through with their audience.
 
