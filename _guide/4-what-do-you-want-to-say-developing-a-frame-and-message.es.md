@@ -1,16 +1,16 @@
 ---
 lang: es
 uses_forms: true
-title: '4. What Do You Want To Say?'
-subtitle: Developing a Frame and Message
+title: 4. ¿Qué es lo que desea decir?
+subtitle: Diseñando un marco y un mensaje
 image:
   url: ''
   caption: ''
-permalink: /4-what-do-you-want-to-say/ 
+permalink: "/4-what-do-you-want-to-say/"
 published: false
 
 ---
-## Develop a Communications Frame
+## Diseñe un marco de comunicaciones
 
 A communications frame is the set of values and assumptions that all of your communications take for granted. Having a clear communications frame from the outset will ensure consistency across your communications, but it will also ensure that your audiences understand where you are coming from and what you are trying to communicate to them.
 
@@ -72,10 +72,10 @@ Continuing with our example, if your goal is to raise awareness of your PVT and 
 
 The message in the example above is:
 
-- Short
-- Clear
-- Teaches the audience something it might not know
-- Embedded with values and emotion meant to connect with the audience
+* Short
+* Clear
+* Teaches the audience something it might not know
+* Embedded with values and emotion meant to connect with the audience
 
 If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
 
@@ -123,8 +123,8 @@ This can mean changing the tone or vocabulary you use, or it can mean reshaping 
 
 Example:
 
-| Goal                                                                                                                                                                                              | Top Line Message                                                                                                                                   | Target Audience                                                                                                                                                 | Target Message                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Goal | Top Line Message | Target Audience | Target Message |
+| --- | --- | --- | --- |
 | Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections <br> <br> <br> <br> <br> <br> <br> <br> Members of the party in power <br> <br> <br> <br> <br> Members of the opposition party | A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results. <br> <br> A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. <br> <br> A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
 
 In the examples above, the topline message has been slightly modified in each of the target messages to appeal more strongly to the emotions of each target audience. For journalists, the PVT will make their reporting easier and more accurate. For members of the party in power, respecting the PVT results will bolster their historical reputation as great leaders who respect the will of the people. For members of the opposition party, the PVT will deter fraud and the chance that the election will be stolen from them.
