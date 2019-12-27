@@ -22,7 +22,7 @@ Continuando con el ejemplo anterior, si su público rechaza su marco y cree, má
 
 Podría tener que readaptar su marco para que calce con su público, de modo tal que este sea receptivo a lo que está intentando transmitir. Allí donde no se entienda ni confíe en un marco democrático, tal vez sea necesario crear un marco de comunicaciones en torno a los valores de justicia, fortaleza nacional, unidad o algún otro valor o perspectiva en torno al cual usted y su público puedan coincidir y entenderse mutuamente.
 
-### YOUR TURN: Develop a Communications Frame
+### Su turno: Diseñe un marco de comunicaciones
 
 **Brainstorm a list of basic values and assumptions that are at the core of your work and communications.**
 
