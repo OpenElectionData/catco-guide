@@ -45,7 +45,7 @@ Una nota de prensa bien escrita debiera leerse como una nota periodística: un a
 ![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
 {% endfigure %}
 
-## Best Practices for Writing Observation Statements and Other Reports
+## Las mejores prácticas para escribir declaraciones de observación y otros reportes
 
 An **observation statement or report** is a longer document (that may be summarized in a press release and/or press statement) to convey the findings and recommendations from your organization's observation effort to the public. Most election observation organizations will release periodic statements on the pre-election environment as well as a statement or statements on the conduct of election day processes and a final report that provides comprehensive analysis of all aspects of the election observed. These documents serve as an important written record of the electoral integrity issues that emerged during the course of a given election cycle. They also present your group's findings about major successes and gaps in the electoral process, thereby enabling election stakeholders to set benchmarks for future elections and establish clear agendas for electoral reform. In addition to the general tips provided above regarding all written content, observation statements or reports should reflect the following:
 
