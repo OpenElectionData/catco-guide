@@ -7,7 +7,6 @@ image:
   url: ''
   caption: ''
 permalink: "/5-how-will-you-say-it/"
-published: false
 
 ---
 La forma en que presente su contenido puede a menudo tener un impacto igual de grande como el contenido mismo en la manera cómo se le recibe y conserva. Un mensaje bien empaquetado se quedará con su público mucho más tiempo que uno aburrido o nada atractivo. Vale la pena pasar cierto tiempo pensando acerca de la mejor forma de presentar su mensaje e historia, dependiendo tanto del tipo de información que está intentando transmitir, y de la forma en que su público es preparado para absorberlo.
@@ -126,36 +125,36 @@ Facebook, Twitter, Instagram, YouTube y algunas redes sociales regionales ahora 
 
 **Sea creativo con respecto a los productos de comunicaciones que desea producir, y cómo podría reutilizarlos para comunicarse con múltiples públicos.**
 
-{% textarea label="What is your topline message" id="Topline Message" size="large" button="false" %}
+{% textarea label="¿Cual es su mensaje central?" id="Topline Message" size="large" button="false" %}
 
 **Target Audience 1**
 
-{% textarea label="Who is your audience?" id="Audience 1" size="small" button="false" %}
+{% textarea label="¿Quien es su público objetivo?" id="Audience 1" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 1" size="small" button="false" %}
+{% textarea label="¿Qué mensaje objetivo usarás?" id="Message 1" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" button="false" %}
+{% textarea label="Enumere los productos de comunicación que usará para atraerlos" id="communication products 1" size="large" button="false" %}
 
 **Target Audience 2**
 
-{% textarea label="Who is your audience?" id="Audience 2" size="small" button="false" %}
+{% textarea label="¿Quien es su público objetivo?" id="Audience 2" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 2" size="small" button="false" %}
+{% textarea label="¿Qué mensaje objetivo usarás?" id="Message 2" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" button="false" %}
+{% textarea label="Enumere los productos de comunicación que usará para atraerlos" id="communication products 2" size="large" button="false" %}
 
 **Target Audience 3**
 
-{% textarea label="Who is your audience?" id="Audience 3" size="small" button="false" %}
+{% textarea label="¿Quien es su público objetivo?" id="Audience 3" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 3" size="small" button="false" %}
+{% textarea label="¿Qué mensaje objetivo usarás?" id="Message 3" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" button="false" %}
+{% textarea label="Enumere los productos de comunicación que usará para atraerlos" id="communication products 3" size="large" button="false" %}
 
 **Target Audience 4**
 
-{% textarea label="Who is your audience?" id="Audience 4" size="small" button="false" %}
+{% textarea label="¿Quien es su público objetivo?" id="Audience 4" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 4" size="small" button="false" %}
+{% textarea label="¿Qué mensaje objetivo usarás?" id="Message 4" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" button="false" %}
+{% textarea label="Enumere los productos de comunicación que usará para atraerlos" id="communication products 4" size="large" button="false" %}
