@@ -7,7 +7,6 @@ image:
   url: "/assets/images/NDI_Honduras.jpg"
   caption: 'Photo: NDI Honduras'
 permalink: "/6-where-will-you-say-it/"
-published: false
 
 ---
 Hay docenas de formas de comunicarse con la gente y todas tienen sus propias ventajas y desventajas. Los medios impresos llegan a un gran público, pero el mensaje no puede ser adaptado a públicos específicos. También tienden a sesgarse hacia un público mayor y más letrado. La radio es una gran opción para personas con baja capacidad lectora, pero el público debe caer dentro del rango de la emisión. Las emisoras (TV) llegan a un gran público pero podría ser difícil conseguir cobertura, la publicidad podría ser demasiado costosa, o bien los filtros podrían ser hostiles a su causa. Las redes sociales permiten interactuar y tener discusiones más amplias individualmente, pero se sesga hacia los más jóvenes y a quienes tienen acceso a Internet o teléfonos inteligentes. El contacto de puerta en puerta puede focalizarse individualmente y ser sumamente persuasivo, pero consume tiempo y podría ser visto con recelo en algunos barrios o contextos.
