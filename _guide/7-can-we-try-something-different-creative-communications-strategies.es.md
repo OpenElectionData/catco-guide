@@ -1,28 +1,28 @@
 ---
 lang: es
-title: 7. Can We Try Something Different?
-subtitle: Creative Communications Strategies
+title: 7. ¿Podemos intentar algo distinto?
+subtitle: Estrategias de comunicación creativas
 image:
   url: ''
   caption: ''
 uses_forms: true
-permalink: /7-can-we-try-something-different/
+permalink: "/7-can-we-try-something-different/"
 published: false
 
 ---
-Politics and elections are serious business. Pushing for democratic progress often involves facing great risks, threats, and even dangers for your organization and -- in some cases -- your own personal safety. But just because the topics and consequences of your work are serious doesn't mean they should be dense or dull.
+La política y las elecciones son algo serio. Buscar el progreso democrático frecuentemente involucrará grandes riesgos, amenazas y hasta peligros para su organización y — en algunos casos — para su propia seguridad personal. Pero que los temas y consecuencias de su trabajo sean serios no significa que deban ser densos o aburridos.
 
-Generally speaking, people don't like to be lectured or reminded of how bad things are. People prefer to laugh and have fun. If you can use humor, entertainment, popular culture, or first-person experience as a way to deliver important and serious information, you'll have a better chance of being listened to, and your audiences will be more likely to retain the information you are trying to impart.
+En general, a la gente no le gusta ser sermoneada o que se le recuerde lo mal que están las cosas. Prefieren reírse y divertirse. Si puede usar el humor, el entretenimiento, la cultura popular o la experiencia en primera persona como una forma de entregar información importante y seria, tendrá una mejor oportunidad de que se le escuche y será más probable que sus públicos retengan la información que está intentando impartir.
 
-## Harness the Power of Art and Popular Culture
+## Aproveche el poder del arte y la cultura popular
 
-Popular culture is constantly teaching us what our society values and what our role in it is. Sometimes popular culture explicitly addresses politics, and sometimes it is more subtly commenting on the politics, ethics, and values we share or aspire to. But in addition to its ability to teach us, the real power of popular culture lies in the popular part. By definition, mass audiences are consuming it. If you can tap into pop culture narratives -- and even better, if you can help shape them -- then you will be communicating relevantly with broad audiences.
+La cultura popular constantemente nos enseña qué valora nuestra sociedad y cuál es nuestro papel en ella. A veces esta cultura se ocupa explícitamente de la política y a veces es más sutil a la hora de comentarla, así como a la ética y los valores que compartimos o a los que aspiramos. Pero además de su capacidad de enseñarnos, el poder real de la cultura popular radica en la parte popular. Por definición, los públicos masivos la están consumiendo. Si logra aprovechar las narrativas de la cultura popular — y aún mejor si puede ayudar a configurarlas — estará comunicándose de modo relevante con públicos más amplios.
 
-It's really hard to inspire people to work for change when they can't imagine what that change can look like or result in. Especially in closed societies and places where democracy is new, transitional, fragile, or a democratic tradition is new, people might not be able to adequately picture how their lives might change if their government were more accountable. Integrating popular culture strategies into your communications campaigns can be an effective way to show and teach your values in action or push back against common narratives that might harm or weaken your cause. Images, lyrics, and dialogues should be crafted to present improved circumstances that change could bring and not just concentrate on exposing present ills.
+Es realmente difícil inspirar a la gente a que trabaje a favor del cambio cuando no puede imaginar cómo sería ese cambio o cuál su resultado. La gente tal vez no imagine adecuadamente cómo podría cambiar su vida si su gobierno rindiera más cuentas, especialmente en sociedades cerradas y allí donde la democracia es nueva, transicional, frágil, o la tradición democrática es nueva. Integrar estrategias de cultura popular a sus campañas de comunicación podría ser una forma eficaz de mostrar y enseñar sus valores en acción, o de responder a las narrativas comunes que podrían dañar o debilitar su causa. Las imágenes, letras de canciones y diálogos debieran armarse para que presenten las mejores condiciones que el cambio podría traer, y no solo concentrarse en presentar los males actuales.
 
-## What is a Culture Campaign?
+## ¿Qué es una campaña cultural?
 
-There are a number of ways to integrate pop culture strategies into your communications plan. Remember that popular culture in many instances is transnational, and you might be able to enlist figures outside your borders to assist your efforts, which is particularly important in closed societies.
+Hay varias formas de integrar estrategias de la cultura pop a su plan de comunicaciones. Recuerde que en muchos casos la cultura popular es transnacional y podría reclutar figuras fuera de sus fronteras para que le asistan en sus esfuerzos, lo que es particularmente importante en sociedades cerradas.
 
 * Praise or amplify positive narratives or trends you see in the arts or pop culture that reflect your messages.
 * Correct or push back against negative or harmful narratives or trends in the arts or pop culture that undermine potentials for democratic progress.
