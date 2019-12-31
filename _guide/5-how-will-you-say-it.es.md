@@ -80,7 +80,7 @@ En lugar de reciclar memes irrelevantes, el contenido de las redes sociales de R
 
 ## Contenidos de audio y video
 
-{% figure caption:"Foto: NDI Kosovo" class:"right" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
+{% figure caption:"_Foto: NDI Kosovo_" class:"right" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
 
 {% endfigure %}
 
@@ -92,9 +92,9 @@ El contenido de audio y video puede ser genial para captar historias, transmitir
   * De tomar clips de video o de audio con su celular, sea consciente de que el micrófono estará más cerca de usted que de su sujeto. Debido a la cercanía es más probable que el micrófono capte sus instrucciones o su lado de la conversación. Evite hablar encima de su sujeto, para así hacer que posteriormente sea más fácil de arreglar o editar. Permita que su sujeto diga todo lo que tiene que decir sin interrupciones, y luego hágale la siguiente pregunta o dele la siguiente instrucción cuando haya terminado de hablar.
 * **Subtítulos**: si planea publicar su video en las redes sociales asegúrese de que esté subtitulado. La mayoría de las personas que revisan Facebook o Instagram no tienen el volumen activado. Además, si en el video hablan la lengua local podría considerar incluir subtítulos en inglés, en especial si su público es la comunidad internacional.
 
-{% callout title="Using Video to Convey Key Information to the Public" %}
+{% callout title="Usando el video para transmitir información clave al público" %}
 
-{% figure caption:"_Photo: ISFED_" class:"right" %}
+{% figure caption:"_Foto: ISFED_" class:"right" %}
 
 ![Image shows a person utilizing SMS services to collect information.](/assets/images/ISFED-2.jpg 'ISFED produced an "About Us" video')
 
