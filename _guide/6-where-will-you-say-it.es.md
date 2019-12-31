@@ -273,50 +273,20 @@ Una reunión municipal celebrada en diciembre de 2017 fue difundida ampliamente 
 
 Prosiguiendo con nuestro ejemplo, su plan de comunicaciones podría comenzar a verse así:
 
-<table>
-<thead>
-<tr>
-<th>Goal</th>
-<th>Topline Message</th>
-<th>Target Audience</th>
-<th>Target Message</th>
-<th>Communication Tool</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="3">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
-<td rowspan="3">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
-<td>Journalists who write about elections.</td>
-<td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
-<td>- Email press releases & press conferences<br>- Materials on website<br>- One-on-one phone interviews & quarterly conference calls<br>- Twitter<br>- Whatsapp group<br>- YouTube
-</td>
-</tr>
-<tr>
-<td>Members of the party in power</td>
-<td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
-<td>- One-on-one outreach to party leadership<br>- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br>- Facebook ads</td>
-</tr>
-<tr>
-<td>Members of the opposition party</td>
-<td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
-<td>- Facebook ads<br>- One-on-one outreach to the party leadership<br>- Ads in the Opposition Weekly<br>- Blast emails</td>
-</tr>
-</tbody>
-</table>
+<table> <thead> <tr> <th>Meta</th> <th>Mensaje central</th> <th>Público objetivo</th> <th>Mensaje objetivo</th> <th>Herramienta de comunicación</th> </tr> </thead> <tbody> <tr> <td rowspan="3">Formar conciencia de qué es una PVT haciendo que 10,000 personas visiten nuestra página web, y alcanzando a un promedio de 100,000 personas en nuestros canales en redes sociales durante las tres semanas antes de la elección.</td> <td rowspan="3">Una PVT verifica independientemente si los resultados oficiales de una elección oficial son precisos, porque todo voto debiera contarse y cada voz escucharse.</td> <td>Periodistas que escriben sobre las elecciones</td> <td>Una PVT es una práctica estándar estadísticamente rigurosa, aceptada internacionalmente, con la cual medir la exactitud o el grado de fraude en una elección. Sus resultados ayudarán a contar la historia de la elección venidera, brindando otro conjunto de datos contra el cual verificar los resultados oficiales de los comicios.</td> <td>- Envíe las notas y rueda de prensa por correo electrónico<br>- Materiales en la página web<br>- Entrevistas telefónicas individuales y conferencias telefónicas trimestrales<br>- Twitter<br>- Grupo en Whatsapp<br>- YouTube </td> </tr> <tr> <td>Miembros del partido en el poder</td> <td>Una PVT verifica que los resultados electorales anunciados sean justos y precisos. Ganen o pierdan, los grandes líderes respetan la voluntad del pueblo cuando cada voto se ha contado y se ha escuchado a todas las voces.</td> <td>- Contacto individual a la dirigencia del partido<br>- Avisos y artículos de opinión en _The Daily Journal, The Weekly Magazine_ y _The Radio Newshour_<br>- Avisos en Facebook</td> </tr> <tr> <td>Miembros del partido de oposición</td> <td>Una PVT verifica que se conocen los resultados auténticos y disuade el fraude, porque cada voto debiera contarse y toda voz debiera escucharse.</td> <td>- Avisos en Facebook<br>- Contacto individual a la dirigencia del partido<br>- Avisos en _Opposition Weekly_<br>- Correos electrónicos masivos</td> </tr> </tbody> </table>
 
-## Go To People Where They Are
+## Vaya a la gente donde quiera que esté
 
-{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
+{% figure caption:"_Foto: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
 
 {% endfigure %}
 
-Remember to try to go to people where they already are. If your target audience is mostly on Facebook, don't try to contact them via email. If your target audience gets most of their news in the daily paper, don't play radio ads for them. If your target audience gets most of their news at the barber shop, you need to consider a barber outreach program.
+Recuerde intentar buscar a la gente donde ya está. Si su público objetivo está sobre todo en Facebook, no intente contactarle por correo electrónico; si obtiene la mayor parte de sus noticias en la prensa diaria no les coloque avisos radiales; si obtiene la mayor parte de sus noticias en una peluquería necesitará considerar un programa de contacto con los peluqueros.
 
-Since you may not belong to the demographics you're reaching out to, you may not be fluent in the ways people are communicating with each other on these different channels.
+Es posible que no maneje con fluidez las formas en que las personas se comunican en estos distintos canales, puesto que usted no forma parte del grupo demográfico al cual desea contactar.
 
-In this case, spend as much time as you can researching and exploring the different online and offline channels before diving in. If your audience is on Facebook and you are not a member, join. See how people interact with each other and like different pages. Assess what kinds of content spark the most conversation or comments, the tone with which people speak to each other, what slang or abbreviations might be popular on the site, how often people post, and so on. Try to get familiar with how to use the platform before you increase your organization's use of it.
+En este caso pase tanto tiempo como pueda investigando y explorando los distintos canales en y fuera de línea antes de lanzarse. Si no está en Facebook y su público sí, abra una cuenta. Vea como las personas interactúan, dan me gusta a distintas páginas y qué tipos de contenido despiertan la mayor parte de las conversaciones o comentarios, el tono en el que se comunican, qué jergas o abreviaciones son populares en ese sitio, cuán frecuentemente publican y así sucesivamente. Inténtese familiarizarse con cómo usar la plataforma antes de incrementar el uso que su organización hace de ella.
 
-If your audience listens to a certain radio program during which you want to buy advertising, listen to that program for a couple of weeks and take note of the advertising. What type and tone of advertising is already there? What does the radio program's content say about the likes and interests of your audience? If you are targeting a specific blogger, read that person's blog, post comments to the blog, and strike up a relationship with the blogger to the extent possible through available channels.
+Si su público escucha cierto programa radial en el cual quiere comprar publicidad, escúchelo durante un par de semanas y tome nota de los anuncios publicitarios. ¿Qué tipo y tono de publicidad ya hay allí? ¿Qué dice el contenido de la programación radial acerca de los gustos e intereses de su público? Si ha puesto la mira en un bloguero específico, publique comentarios en su blog y establezca una relación con él en la medida que sea posible a través de los canales disponibles.
 
-Do not try to lure people away from the networks they're already a part of just because you are uncomfortable or unaware of those networks. If you have an active and interesting Twitter feed but all of your potential supporters are on Facebook, you are wasting your time.
+No intente alejar a la gente de las redes de las cuales ya forma parte, solo porque usted se siente incómodo en ellas o no las conoce. Estará perdiendo su tiempo si tiene una cuenta activa e interesante en Twitter, pero todos sus posibles seguidores están en Facebook.
