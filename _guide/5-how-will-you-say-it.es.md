@@ -120,11 +120,11 @@ Facebook, Twitter, Instagram, YouTube y algunas redes sociales regionales ahora 
 * **Haga un plan**: Una transmisión en vivo no es una excusa para una hora de improvisación. Piense en quien se presentará en la transmisión y prepárele lo más posible: qué información está seguro que desea transmitir, qué mensajes debieran enfatizarse, qué preguntas le hará, etc.
 * **Herramientas**: software como la [plataforma OBS](https://obsproject.com/) permite producir transmisiones en vivo bastante sofisticadas gratuitamente o de modo barato. Puede hacer _streaming_ a múltiples plataformas, insertar subtítulos, tercios inferiores u otros gráficos, y añadir comentarios a otra transmisión en vivo mientras se está dando, y más.
 
-### YOUR TURN: Communications Products
+### Su turno: Productos de comunicaciones
 
-**Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you're targeting and advance your goals.**
+**Vea a sus metas, públicos y mensajes. Haga una lluvia de ideas con las distintas formas de empaquetar cada mensaje que mejor promoverán sus metas y resonarán con los públicos que tiene como objetivo.**
 
-**Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences.**
+**Sea creativo con respecto a los productos de comunicaciones que desea producir, y cómo podría reutilizarlos para comunicarse con múltiples públicos.**
 
 {% textarea label="What is your topline message" id="Topline Message" size="large" button="false" %}
 
