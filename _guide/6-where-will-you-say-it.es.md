@@ -1,12 +1,12 @@
 ---
 lang: es
 uses_forms: false
-title: 6. Where Will You Say It?
-subtitle: 'Identifying the Best Platform '
+title: 6. ¿Dónde lo dirá?
+subtitle: Identificando la mejor plataforma
 image:
   url: "/assets/images/NDI_Honduras.jpg"
   caption: 'Photo: NDI Honduras'
-permalink: /6-where-will-you-say-it/
+permalink: "/6-where-will-you-say-it/"
 published: false
 
 ---
