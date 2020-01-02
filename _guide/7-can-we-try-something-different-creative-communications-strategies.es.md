@@ -7,7 +7,6 @@ image:
   caption: ''
 uses_forms: true
 permalink: "/7-can-we-try-something-different/"
-published: false
 
 ---
 La política y las elecciones son algo serio. Buscar el progreso democrático frecuentemente involucrará grandes riesgos, amenazas y hasta peligros para su organización y — en algunos casos — para su propia seguridad personal. Pero que los temas y consecuencias de su trabajo sean serios no significa que deban ser densos o aburridos.
