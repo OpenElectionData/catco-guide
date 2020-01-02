@@ -1,12 +1,12 @@
 ---
 lang: es
 uses_forms: true
-title: 9. What If Something Goes Wrong?
-subtitle: Crisis Communications
+title: 9. ¿Y si algo sale mal?
+subtitle: Comunicaciones de crisis
 image:
   url: ''
   caption: ''
-permalink: /9-what-if-something-goes-wrong/
+permalink: "/9-what-if-something-goes-wrong/"
 published: false
 
 ---
