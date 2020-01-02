@@ -26,15 +26,15 @@ Hay varias formas de integrar estrategias de la cultura pop a su plan de comunic
 
 * Alabe o difunda ampliamente toda narrativa o tendencia positiva que vea en las artes o la cultura pop, que reflejen sus mensajes.
 * Corrija o responda a toda narrativa o tendencia nociva o negativa en las artes o la cultura pop, que mine el potencial para el avance democrático.
-* Work directly with artists, writers, actors, or other creators to help shape narratives that reinforce your frame and narrative during the production phase.
-* Engage with your audience by drawing real-world connections to the art or culture they're fans of or giving them ways to channel their passion into real-world action.
-* Ask musicians to write songs for your campaign, filmmakers to produce short videos, actors to star in an ad or video, artists to create posters or grafiti, etc., for your campaign.
-* Have celebrities join your campaign as spokespeople or trusted messengers, enlist them to amplify your messages through their performances and social media presence.
-* Invite the public to post or submit popular culture contributions to your efforts.
+* Trabaje directamente con artistas, escritores, actores y otros creadores para que ayuden a configurar narrativas que refuercen su marco y narrativa durante la fase de producción.
+* Comprometa a su público trazando conexiones de la vida real con el arte o la cultura que les gusta, o dándoles formas de canalizar su pasión a una acción en el mundo real.
+* Pida a los músicos que escriban canciones para su campaña, a los cineastas que hagan videos breves, a los actores que actúen en un aviso o video, a los artistas que creen afiches o grafiti, etc.
+* Haga que celebridades se unan a su campaña como voceros o mensajeros confiables, y reclútelos para que amplifiquen su mensaje mediante sus actuaciones y presencia en las redes sociales.
+* Invite al público a que publique o le envíe contribuciones de la cultura popular que se sumen a sus esfuerzos.
 
-As with your other strategies, any pop culture strategies and tactics you pursue should be in service to your larger goals. If you recruit a celebrity to be your spokesperson but that person is not popular with key audiences or isn't willing to stay on message, then it's not worth the effort. If, however, people are becoming increasingly cynical about democracy because the dominant television shows and movies all portray elections as rigged and politicians as corrupt, then you might want to work with artists and actors to create counter narratives that emphasize the benefits of participation and the importance of voting. Inviting the public to post or submit popular culture contributions to your campaigns can also help counter cynicism, while you will need to filter against trolls and other malign actors who may try to sabotage such efforts. This will reinforce your frame and lay a foundation that makes the rest of your work easier.
+Al igual que en el caso de sus demás estrategias, toda estrategia y táctica de cultura pop que siga debiera estar al servicio de sus metas más grandes. Si recluta a una celebridad para que sea su vocero pero esta no es popular con los públicos claves o no está dispuesta a atenerse al mensaje, entonces no valdrá la pena. Sin embargo, si la gente se hace cada vez más cínica con respecto a la democracia porque las películas y los programas televisivos dominantes muestran todos elecciones arregladas y a los políticos como corruptos, entonces podría valer la pena que trabaje con artistas y actores para crear contranarrativas que enfaticen los beneficios de la participación y la importancia de votar. Invitar al público a que publique o le envíen contribuciones de la cultura popular a sus campañas podría también ayudar a contrarrestar el cinismo, pero tendrá que filtrar los troles y otros actores malignos que podrían intentar sabotear tales esfuerzos. Esto reforzará su marco y sentará unas bases que harán que el resto de su trabajo sea más fácil.
 
-### Your Turn: Politics and Popular Culture
+### Su turno: La politica y la cultura popular
 
 **Spend some time brainstorming the country's most popular television shows, movies, books, music, and celebrities. Looking at this list, ask yourself the following questions:**
 
