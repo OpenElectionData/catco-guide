@@ -1,12 +1,12 @@
 ---
 lang: es
 uses_forms: true
-title: 8. Is It Working?
-subtitle: Evaluation and Analysis
+title: 8. ¿Está funcionando?
+subtitle: Evaluación y análisis
 image:
   url: ''
   caption: ''
-permalink: /8-is-it-working/
+permalink: "/8-is-it-working/"
 published: false
 
 ---
