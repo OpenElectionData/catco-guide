@@ -7,7 +7,6 @@ image:
   url: ''
   caption: ''
 permalink: "/9-what-if-something-goes-wrong/"
-published: false
 
 ---
 Para este momento ya ha creado un plan de comunicaciones estratégico y exhaustivo. Tiene una buena idea de qué debe suceder, cuándo y a quién. Es también un buen momento para asegurarse de que haya evaluado sus riesgos y adoptado las mejores prácticas en técnicas y operativas con qué mitigarlos. Además de consultar a un confiable instructor en seguridad, también puede consultar recursos tales como el [Cybersecurity Campaign Playbook](https://www.ndi.org/publications/cybersecurity-campaign-playbook-global-edition), el [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/), el [Surveillance Self Defense Guide](https://ssd.eff.org/) y [otros más](https://www.frontlinedefenders.org/en/digital-security-resources), para así tener una guía básica sobre cómo limitar sus riesgos relacionados con la información y las comunicaciones. Estos recursos no cubrirán perfectamente todas las necesidades de su organización, pero sí son un gran lugar donde comenzar a construir su plan de comunicaciones holista.
