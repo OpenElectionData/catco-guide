@@ -102,29 +102,29 @@ Hay cinco formas principales en que la comedia influye en su público:
 
 ![](/assets/images/catco image-2.png)
 
-### YOUR TURN: Topline Messages
+### Su turno: Mensajes centrales
 
-**Look back at your topline and related messages in your communications plan. Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?**
+**Vea su mensaje central y los mensajes afines en su plan de comunicaciones. ¿Hay algún mensaje o concepto difícil de explicar, demasiado complicado, aburrido o sumamente funesto y sin esperanza?**
 
-**If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:**
+**De ser así, haga una lluvia de ideas de las formas en que el humor podría ayudarle a transmitirlos mejor. Aquí tiene algunas preguntas con las cuales comenzar:**
 
-{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size="small" button="false" %}
+{% textarea label="¿Hay experiencias comunes a las cuales se pueda parodiar o satirizar?" id="humor1" size="small" button="false" %}
 
-{% textarea label="Is there an absurd or ridiculous news event you can satorize in a way that reinforces your message?" id="humor2" size="small" button="false" %}
+{% textarea label="¿Hay una noticia absurda o ridícula a la cual satirizar en forma tal que refuerce su mensaje?" id="humor2" size="small" button="false" %}
 
-{% textarea label="Is there a well-known expression or idiom that can be changed for your purposes?" id="humor3" size="small" button="false" %}
+{% textarea label="¿Hay una expresión o modismo bien conocido que pueda ser cambiado para sus fines?" id="humor3" size="small" button="false" %}
 
-{% textarea label="What issue or aspect of your work do you often have the hardest time explaining? Is there a funny way to approach it or a funny outcome you could use to better explain it?" id="humor4" size="small" button="false" %}
+{% textarea label="¿Qué cuestión o aspecto de su trabajo frecuentemente le resulta más difícil explicar? ¿Hay una forma chistosa de enfocarlo, o un resultado divertido que podría usar para explicarlo mejor?" id="humor4" size="small" button="false" %}
 
-{% textarea label="Are there any comedians or comedic actors you can work with?" id="humor5" size="small" button="false" %}
+{% textarea label="¿Hay algún comediante o actor cómico con quien pueda trabajar?" id="humor5" size="small" button="false" %}
 
-## Experiential Learning and Communications
+## Aprendizaje vivencial y comunicaciones
 
-Experiential learning is the process of experiencing something new and then reflecting on that experience to come to new knowledge or larger lessons. It is commonly used in the classroom or in job training programs, and used creatively, the same principles can be applied to a communications campaign.
+El aprendizaje vivencial es el proceso de experimentar algo nuevo y luego reflexionar en dicha experiencia para llegar a un conocimiento nuevo o lecciones mayores. Se le usa comúnmente en el aula o en programas de capacitación laboral, y cuando se le emplea creativamente es posible aplicar los mismos principios a una campaña de comunicaciones.
 
-In some cases, your audience will undergo a new experience themselves, and you can help enrich the reflection stage of the experience so they learn new lessons. For example, if people are showing up at the polls and there is only one candidate on the ballot (or only one viable candidate), they may vote for that one candidate (the experience) and not think much of it because there's only ever been one candidate on the ballot (no reflection). Instead, you can aim your communications to interact with that voter shortly before or after their experience voting to add context and encourage reflection on their experience. Why was there only one candidate on the ballot? Can you have a credible election without choice? How would the country be different with a real choice at the ballot?
+En algunos casos su público vivirá él mismo una nueva experiencia, y usted puede ayudarle a enriquecer la etapa de reflexión de la misma para que aprenda nuevas lecciones. Por ejemplo, si la gente se presenta a votar y solo hay un candidato en la cédula de votación (o un solo candidato viable), tal vez vote por este (la experiencia) y no pensarlo mucho porque siempre ha habido un solo candidato (ninguna reflexión). Podría, más bien, dirigir sus comunicaciones a interactuar con dicho votante poco antes o después de su experiencia de votación para sumarle contexto y alentar la reflexión en torno a ella. ¿Por qué solo había un candidato? ¿Puede celebrarse una elección creíble sin opciones? ¿Cuán distinto sería el país si hubiese opciones reales en la votación?
 
-This type of communication can occur on any of the platforms or formats already discussed. For example, you might host a Facebook Live shortly after the election in which you pose questions to the audience aimed at causing reflection and ask them to contribute their thoughts and reactions about their experience in registering to vote. You could run newspaper or digital ads aimed at provoking reflections on common experiences that the audiences had while voting. You could hold community forums or go canvassing door-to-door to hold in-depth conversations in which people share their experience over the course of the election period and, through guided discussion, reflect on that experience to learn larger lessons about democracy, credible elections or accountability in government.
+Este tipo de comunicación puede tener lugar en cualquiera de las plataformas o formatos ya examinados. Por ejemplo, podría celebrar un Facebook en vivo poco después de las elecciones, en el cual formule preguntas dirigidas al público que busquen hacer que reflexione, y pedirles que ofrezcan sus ideas y reacciones con respecto a su experiencia al inscribirse para votar. Podría colocar avisos en periódicos o medios digitales que busquen provocar reflexiones acerca de las experiencias comunes que los públicos tuvieron mientras votaban. Podría realizar foros comunales o ir de puerta en puerta para tener conversaciones a profundidad en las cuales la gente comparta sus experiencias en el transcurso del periodo electoral y, mediante una discusión guiada, reflexione acerca de dicha experiencia para así aprender lecciones más grandes acerca de la democracia, unas elecciones confiables o la rendición de cuentas en el gobierno.
 
 In other cases, your audience may not undergo the experience themselves, and so you'll want to simulate it for them or otherwise create some kind of empathic connection to the experience. For example, you could create a simple first person, role-playing game that puts the user in the position of having to vote with a physical disability. At each barrier in the process, the player would have to decide what to do or how to handle it. If there are stairs to the entrance of the polling place, players would have the option of asking others to carry them up the stairs or not voting that day and going home instead. By forcing able-bodied players to make choices from the point of view of a disabled voter, the player will reflect on the importance of accessible polling places, something they may not have given much thought to in the past.
 
