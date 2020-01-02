@@ -92,23 +92,23 @@ La transmisión en vivo fue vista por más de 300,000 personas el día de las el
 
 ## Estudio de caso: tácticas creativas y continuas para una mayor participación
 
-One major challenge facing CRTA, the civic election observation group in Serbia, was the declining rates of voter participation among Serbians. Participation in voting had been declining since 2008, and by 2016 CRTA felt it was important to re-engage the public and educate them on how important it was to participate in elections and how to protect their own rights while doing so.
+Un desafío importante que enfrentaba el CRTA, el grupo cívico de observación electoral en Serbia, eran las tasas decrecientes de participación electoral entre los serbios. La participación venía cayendo desde 2008, y para 2016 el CRTA sentía que era importante volver a involucrar al público y enseñarle cuán importante era participar en las elecciones y cómo proteger al mismo tiempo sus propios derechos.
 
-CRTA employed a number of strategies and a variety of channels and products to accomplish this goal, in order to reach their key audiences with messages that would resonate.
+Para alcanzar esta meta, el CRTA empleó una serie de estrategias y diversos canales y productos, para así llegar a sus públicos claves con mensajes que resonaran.
 
-{% figure caption:"CRTA Photo." %}
+{% figure caption:"_Foto: CRTA_." %}
 
 ![CSO representatives give a press conference for a room of journalists.](/assets/images/CRTA-2-1.jpg "CRTA Photo.")
 
 {% endfigure %}
 
-The group worked to make its messaging simple and relatable, employing common metaphors that people could relate to to make the electoral process and principles more interesting to regular people. They worked to frame statistics on why elections are important within a human context, showing how each statistic related to real people, and making infographics and short Q&As to emphasize this point.
+El grupo trabajó para hacer que su mensaje fuera simple y algo con lo que se pudieran relacionar, empleando metáforas comunes con las cuales pudieran conectarse y así hacer que los procesos y principios electorales fueran más interesantes para la gente común. Trabajaron para centrar las estadísticas en por qué las elecciones son importantes dentro de un contexto humano, mostrando cómo era que cada una de ellas se relacionaba con la gente real, y preparando infografías y breves listas de preguntas y respuestas para enfatizar esto.
 
-To raise awareness of people's rights and responsibilities in the voting booth, CRTA created a series of videos with actors simulating common scenarios encountered at polling stations to show people what behaviors were violations of their rights. They re-enacted common ways that bad actors might try to control voting behavior and how to voters could protect themselves and their rights.
+Para elevar la conciencia de los derechos y responsabilidades de las personas en la cabina de votación, el CRTA creó una serie de videos con actores que simulaban escenarios comunes con los que uno se encuentra en los centros de votación, para así mostrarle a la gente qué comportamientos violan sus derechos. Escenificaron las formas comunes en que malos actores podrían intentar controlar el comportamiento electoral, y cómo los votantes podían protegerse a sí mismos y a sus derechos.
 
-They also used social media to bring transparency to previously-secretive processes. They live tweeted from inside local electoral commission sessions, meetings that had previously been closed to the public, with a live report of what was being said and done. CRTA observers' live tweets from within the sessions were the public's first glimpse into the recklessness and lack of professionalism of the commissions. The live tweeting built the group's following and credibility, along with bringing increased transparency to the process. CRTA also deployed observers to the locations where ballots were printed to tweet and live stream that process, to bring light to that process and get people engaged in the elections before election day.
+También usaron redes sociales para llevar transparencia a procesos antes secretos. Hacían tweets en vivo desde dentro de las sesiones de la comisión electoral local, reuniones que antes fueron cerradas al público, y ahora había un informe en vivo de lo que se estaba diciendo y haciendo. Los tweets en vivo de los observadores de la CRTA desde dentro de las sesiones, fueron el primer vistazo que el público tuvo de la insensatez y la falta de profesionalismo de las comisiones. Twittear en vivo construyó los seguidores y la credibilidad del grupo, además de llevar una mayor transparencia al proceso. El CRTA también colocó observadores en los lugares donde se imprimían las cédulas de votación para enviar tweets y transmitir ese proceso en vivo, atraer atención sobre este proceso y hacer que la gente se involucrara en las elecciones antes del día de la votación.
 
-“You have to have content about the elections continuously,” said Jovana Djurbabic, the communications manager of CRTA. “Not just when the campaign starts, but a continuous effort on how to find ways to interest people.” By deploying different strategies and types of communications all year-round, CRTA has increased interest and engagement in the electoral process in Serbia.
+“Debes tener contenido sobre las elecciones continuamente”, dice Jovana Djurbabic, gerente de comunicaciones del CRTA. “No solo cuando la campaña se inicia, sino un esfuerzo continuo de encontrar formas de interesar a la gente”. Al aplicar distintas estrategias y tipos de comunicaciones todo el año, CRTA ha incrementado el interés y la participación en el proceso electoral en Serbia.
 
 ## Case Study: Poking Fun at the Aging Central Election Commission
 
