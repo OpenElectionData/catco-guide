@@ -106,13 +106,13 @@ Le sucede a todos: a veces la crisis es algo que nosotros mismos provocamos. Tal
 * **Escuche a quien le informó del error**. Tal vez dijo o publicó algo sin advertir que heriría los sentimientos u ofendería a una persona o grupo. En lugar de ignorar sus quejas escuche a lo que dicen. Eso no quiere decir que tenga que aceptar su crítica, pero sí debiera tomarla en serio y, si inadvertidamente cometió un error, admítalo y corríjalo.
 * **Discúlpese sinceramente**. Si usted o su organización hizo algo malo, admítalo y discúlpese. No se disculpe “si alguien se sintió ofendido”. Si publicó algo ofensivo, reconózcalo y explique en su disculpa que ha aprendido y que va a asegurarse de que no vuelva a suceder. Es más probable que su trabajo y organización conserven el favor de la gente si le creen y si usted está genuinamente decidido a aprender de sus errores.
 * **Tome toda medida necesaria para ocuparse del problema**. Dependiendo de la naturaleza de la crisis, esto podría significar un mejor sistema de corrección de pruebas, contratar a un miembro del personal en un grupo subrepresentado, o incluso despedir al presidente de la organización. Tome medidas significativas y apropiadas para asegurarse de que la crisis no volverá a suceder.
-* **Asuma que todo lo que escriba o diga será publicado**. Los correos electrónicos privados son hackeados, las conversaciones privadas grabadas y filtradas. No escriba o diga nada con cuya publicación o emisión no se sentiría cómodo. Elija sus palabras cuidadosamente y no insulte informalmente a sus compañeros de trabajo, socios de la coalición u opositores. No emplee un lenguaje ofensivo, insultos racistas o misóginos, o cualquier otra cosa que podría dañar su reputación en caso de filtrarse.
+* **Asuma que todo lo que escriba o diga será publicado**﻿. Los correos electrónicos privados son hackeados, las conversaciones privadas grabadas y filtradas. No escriba o diga nada con cuya publicación o emisión no se sentiría cómodo. Elija sus palabras cuidadosamente y no insulte informalmente a sus compañeros de trabajo, socios de la coalición u opositores. No emplee un lenguaje ofensivo, insultos racistas o misóginos, o cualquier otra cosa que podría dañar su reputación en caso de filtrarse.
 
-For additional crisis communication planning guidelines -- particularly in response to cyber incidents -- take a look at the Harvard Belfer Center's [Election Cyber Incident Communications Plan Template](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). Although developed for a political party audience, the template is a great resource for any group looking to develop a structured crisis communications plan in response to cyber incidents, such as disinformation or hacked websites or social media accounts.
+Para lineamientos adicionales de planificación para comunicaciones de crisis, especialmente en respuesta a ciberincidentes, examine el [Election Cyber Incident Communications Plan Template](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf) del Belfer Center de Harvard. Aunque fue diseñado para el público de un partido político, esta plantilla es un gran recurso para todo grupo que busque diseñar un plan estructurado para comunicaciones de crisis, en respuesta a ciberincidentes tales como desinformación o páginas web o cuentas de redes sociales hackeadas.
 
-### YOUR TURN: Threats and Crises
+### Su turno: Las amenazas y las crisis
 
-**Make a list of the most likely threats or crises you are likely to face. These don't have to be very specific, but general types of threats or lines of attack.**
+**Haga una lista de las amenazas o crisis más probables que habrá de enfrentar. No tiene que ser muy específico, sino solo los tipos generales de amenazas o de líneas de ataque.**
 
 {% textarea label="1" id="threat1" size="small" button="false" %}
 
@@ -122,9 +122,9 @@ For additional crisis communication planning guidelines -- particularly in respo
 
 {% textarea label="4" id="threat4" size="small" button="false" %}
 
-**For each type of crisis you might face, make a list of messages and materials you would need in a rapid-response situation and assign a person to prepare them by a deadline.**
+**Para cada tipo de crisis al que podría enfrentar, haga una lista de los mensajes y materiales que necesitaría en una situación de respuestas rápida, y asigne una persona para que las prepare para una fecha límite.**
 
-**Make a list of staff spokespeople and third-party validators you will need to help you in times of crisis.**
+**Haga una lista de los voceros del personal y validadores de terceras partes que necesitará le ayuden en épocas de crisis.**
 
 {% textarea label="1" id="validator1" size="small" button="false" %}
 
@@ -136,6 +136,6 @@ For additional crisis communication planning guidelines -- particularly in respo
 
 {% textarea label="5" id="validator5" size="small" button="false" %}
 
-**Schedule time with your spokespeople and potential validators where you can practice crisis scenarios. Drill them with hard questions until they are confident staying on message and responding naturally.**
+**Programe un tiempo con sus voceros y posibles validadores, en los cuales pueda practicar escenarios de crisis. Entréneles con preguntas difíciles hasta que tenga confianza en que se atendrán al mensaje y responderán con naturalidad.**
 
-#### _Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section._
+#### _Agradecemos a Melissa Ryan de Ctrl Alt-Right Delete por sus conocimientos, a los que se usó en esta sección._
