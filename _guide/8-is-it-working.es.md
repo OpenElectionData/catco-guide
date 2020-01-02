@@ -128,16 +128,16 @@ Continuando con nuestro ejemplo, este se vería algo así:
 META 1: formar conciencia de qué es una PVT haciendo que 10,000 personas visiten nuestra página web, y llegando en promedio a 100,000 personas en nuestros canales en las redes sociales durante las tres semanas antes de la elección.
 
 * 10,000 visitantes individuales a nuestra página web que se quedaron en ella por más de 5 segundos (_Google Analytics_).
-* Alcanzar 100,000 por semana en los canales de redes sociales con al menos una tasa de participación de 5 por ciento. Nuestro grupo demográfico objetivo de jóvenes mujeres de 16-26 años debiera comprender al 50 por ciento de nuestro público de alcance. (Facebook & YouTube analytics)
-* Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
-* Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
-* Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
+* Alcanzar 100,000 por semana en los canales de redes sociales con al menos una tasa de participación de 5 por ciento. Nuestro grupo demográfico objetivo de jóvenes mujeres de 16-26 años debiera comprender al 50 por ciento de nuestro público de alcance. (_Facebook & YouTube Analytics_)
+* Los correos electrónicos a periodistas tienen una tasa de apertura de 30 por ciento, y de 10 por ciento de hacer clic en los enlaces (_MailChimp analytics_).
+* Las llamadas trimestrales a periodistas son atendidas por al menos 12 de ellos por llamada (conteo interno).
+* Los contendores políticos están abriendo nuestros correo electrónicos a una tasa de 20 por ciento, y respondiéndolos al menos una vez por semana (_MailChimp analytics_ y conteo interno).
 
-## Put a System In Place
+## Instale un sistema
 
-Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren't working.
+Tendrá que instalar un sistema con que recoger datos con regularidad, una vez haya decidido qué métrica necesita seguir para alcanzar sus metas. Su sistema de monitoreo debiera recoger los datos que necesita seguir, pero sin ser tan trabajoso que tome demasiado tiempo o esfuerzo. Debiera asimismo ser monitoreado o presentado de tal modo que usted pueda ver fácilmente su avance hacia sus metas, o identificar rápidamente los problemas o estrategias que no estén funcionando.
 
-Questions to keep in mind when you are setting up your metrics-collection process:
+Preguntas a tener en cuenta cuando esté instalando su proceso de recolección de métrica:
 
 {% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
 
