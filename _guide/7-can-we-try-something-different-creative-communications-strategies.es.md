@@ -24,8 +24,8 @@ Es realmente difícil inspirar a la gente a que trabaje a favor del cambio cuand
 
 Hay varias formas de integrar estrategias de la cultura pop a su plan de comunicaciones. Recuerde que en muchos casos la cultura popular es transnacional y podría reclutar figuras fuera de sus fronteras para que le asistan en sus esfuerzos, lo que es particularmente importante en sociedades cerradas.
 
-* Praise or amplify positive narratives or trends you see in the arts or pop culture that reflect your messages.
-* Correct or push back against negative or harmful narratives or trends in the arts or pop culture that undermine potentials for democratic progress.
+* Alabe o difunda ampliamente toda narrativa o tendencia positiva que vea en las artes o la cultura pop, que reflejen sus mensajes.
+* Corrija o responda a toda narrativa o tendencia nociva o negativa en las artes o la cultura pop, que mine el potencial para el avance democrático.
 * Work directly with artists, writers, actors, or other creators to help shape narratives that reinforce your frame and narrative during the production phase.
 * Engage with your audience by drawing real-world connections to the art or culture they're fans of or giving them ways to channel their passion into real-world action.
 * Ask musicians to write songs for your campaign, filmmakers to produce short videos, actors to star in an ad or video, artists to create posters or grafiti, etc., for your campaign.
