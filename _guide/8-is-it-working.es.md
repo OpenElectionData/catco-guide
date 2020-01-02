@@ -10,37 +10,36 @@ permalink: "/8-is-it-working/"
 published: false
 
 ---
-Having clear criteria to measure your success will allow you to know if your communications plan is working and achieving your goals -- or if it's not performing as you had hoped, and you need to revisit and adjust your strategies and tactics. You'll need to know what you're measuring and ideally you'll be collecting data frequently enough to see problems early and adjust before it's too late or too hard.
+Tener criterios claros con que medir su éxito le permitirá saber si su plan de comunicaciones está funcionando y alcanzando sus metas, o si no se está cumpliendo como esperaba y que deberá volver a examinar y ajustar sus estrategias y tácticas. Deberá saber qué está midiendo, e idealmente estará recogiendo datos con la suficiente frecuencia como para ver los problemas tempranamente y adaptarse antes que sea demasiado tarde o demasiado difícil.
 
-You're not starting totally from scratch, as the “M” in your SMART goals is “measurable.” If you've written your goals with measurability in mind, then you'll have some idea of what metrics you need to collect and use as benchmarks on your way to your goal.
+No está partiendo del todo de cero, puesto que la “M” en sus metas SMART es “mensurable”. Si preparó sus metas con la mensurabilidad en mente, tendrá alguna idea de qué métrica necesita recoger y usar como puntos de referencia en el camino hacia su meta.
 
-During your planning process, think about what metrics are meaningful and matter to your work. You don't want to be in a position where you are tracking the metrics that are easiest to track but aren't a real measure of the success of your program. It can also be difficult or impossible in some cases to gather data from the past, so you want to have a clear understanding of what is relevant before you begin.
+Durante su proceso de planificación piense en qué mediciones son significativas e importantes para su trabajo. No querrá encontrar que está tomando las medidas más fáciles de seguir, pero que no son una medida real del éxito de su programa. En algunos casos podría asimismo ser difícil o imposible recoger datos del pasado, de modo que querrá tener una clara comprensión de qué es relevante antes de comenzar.
 
-## Reach vs Engagement
+## Alcance vs participación
 
-There are two broad ways to measure your communications: reach and engagement.
+Hay dos formas de medir sus comunicaciones: el alcance y la participación.
 
-Reach looks at how many people saw your content. It does not distinguish between active and passive consumption -- if a person sees your TV ad, receives your email, or scrolls past your content in their newsfeed, it will count toward your reach. Reach can be a useful metric if you are trying to saturate a market, strengthen your brand, or raise awareness of an issue -- just creating a constant presence with a certain audience, even if they are passively consuming your information, can sometimes be an effective strategy.
+El alcance examina cuántas personas vieron su contenido. No distingue entre el consumo activo y el pasivo; si una persona ve su aviso en TV, recibe sus correo electrónico s o pasa por su contenido en su _newsfeed_, todo contará. Su alcance puede ser una medida útil si está intentando saturar un mercado, fortalecer su marca o elevar la conciencia en torno a una cuestión: a veces tan solo crear una presencia constante con cierto público puede llegar a ser una estrategia eficaz, incluso si se consume pasivamente su información.
 
-Engagement measures whether someone took action with your content in some way. On social media, this might include leaving a comment, sharing your post, or clicking through to join your email list or sign up to volunteer. In an email, it might include opening the email, clicking through your call to action, forwarding the email to a friend, or replying to your email. With a text message, it might mean they reply or show up to the protest you are informing them about.
+La participación mide si alguien tomó acción de algún modo con su contenido. En las redes sociales esto podría incluir dejar un comentario, compartir su publicación o hacer clic para unirse a su lista de correo electrónico o inscribirse para ofrecerse de voluntario. En un correo electrónico esto incluye el abrirlo, hacer clic en su llamada a la acción, reenviarlo a un amigo o responderle. Con un mensaje de texto podría significar responder o acudir a la protesta de la cual estaba informando.
 
-Engagement numbers will be lower than reach, but the interactions will be deeper and the audience more heavily invested in your mission and its success. Think carefully about whether you need a smaller-but-active or a larger-but-passive audience to achieve your goals before deciding whether you will emphasize reach or engagement.
+Los números de la participación serán más bajos que los del alcance, pero las interacciones serán más profundas y el público estará más comprometido con su misión y su éxito. Antes de decidir si habrá de enfatizar el alcance o la participación, piense cuidadosamente si para alcanzar sus metas necesita un público más pequeño pero más activo, o de uno más grande pero pasivo.
 
-You can also measure both -- and indeed, they are not necessarily disconnected. To achieve the engagement numbers you want, you may need to reach more people. But you should be clear about what metrics are relevant to achieving your goals and prioritize those.
+También puede medir ambos, y a decir verdad no necesariamente están desconectados. Para conseguir las cifras de participación que desee tal vez tenga que alcanzar a muchas más personas. Pero debe tener claro qué medida es relevante para alcanzar sus metas y priorizarlas.
 
-{% callout title="Changing Your Measurements of Success" %}
-In Nicaragua, the election observation coalition [Panorama Electoral](https://www.panoramaelectoral.org/) was measuring success purely in reach, rather than the discussion and debate being generated.
+{% callout title="Cambiando sus medidas del éxito" %} En Nicaragua, la coalición de observación electoral [Panorama Electoral](https://www.panoramaelectoral.org/) medía el éxito puramente con el alcance y no con la discusión y debate que estaban siendo generados.
 
-However, in order to achieve their goals of fostering dialogue and increasing participation, the group shifted to collecting metrics on engagement and interaction, prompting them to see the need for a community manager to moderate the dialogue on their social media feeds.
+Sin embargo, para alcanzar sus metas de fomentar el diálogo e incrementar la participación, el grupo pasó a recabar mediciones de la participación y la interacción, lo que les hizo ver la necesidad de contar con un administrador de redes sociales para que moderara el diálogo en ellas.
 {% endcallout %}
 
-## Common Analytics and Metrics Available
+## Analítica y mediciones comunes disponibles
 
-A number of digital platforms have built-in analytics that you can access for free (or included in the price) that are very powerful when used well.
+Varias plataformas digitales cuentan con análisis incorporados a los que puede acceder gratuitamente (o están incluidos en el precio), las que son muy poderosas cuando se las usa bien.
 
-## Email Analytics
+## Analíticas del correo electrónico
 
-Any mass emailer you use should provide you with basic analytic data you can use to refine your email strategy.
+Todo programa de envío masivo de emails que use debiera proporcionarle datos de analítica básicos que pueda usar para refinar su programa de correo electrónico.
 
 * Open rate: This is the rate at which people open your email. A healthy and active email list will have around a 20 percent open rate for any given email sent.
 * Click-through rate: This is the rate at which people click on whatever links you put in your emails. For emails with a clear call to action, you should expect a click-through rate of 20 percent. Most mass emailers will also show you which links were clicked on the most, so you can learn whether placing your call to action at the top or bottom of your email is more effective, or whether there is one link people were more interested in than others, for example.
@@ -156,44 +155,44 @@ Once you have a system in place, schedule regular meetings with any team members
 Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
 
 <table>
-  <thead>
-    <tr>
-      <th>Goal</th>
-      <th>Topline Message</th>
-      <th>Target Audience</th>
-      <th>Target Message</th>
-      <th>Communication Tool</th>
-      <th>Metric</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
-      <td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
-      <td>Journalists who write about elections.</td>
-      <td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
-      <td>- Email press releases & press conferences<br><br>- Materials on website<br><br>- One-on-one phone interviews & quarterly conference calls<br><br>- Twitter<br><br>- Whatsapp group
+<thead>
+<tr>
+<th>Goal</th>
+<th>Topline Message</th>
+<th>Target Audience</th>
+<th>Target Message</th>
+<th>Communication Tool</th>
+<th>Metric</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
+<td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
+<td>Journalists who write about elections.</td>
+<td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
+<td>- Email press releases & press conferences<br><br>- Materials on website<br><br>- One-on-one phone interviews & quarterly conference calls<br><br>- Twitter<br><br>- Whatsapp group
 </td>
-      <td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br><br>- Page is visited 50 times per quarter<br><br>- Attendance of 12 journalists per call.<br><br>- At least one journalist DMs with us on Twitter regularly<br><br>- Journalist WhatsApp group membership is 100 or more
+<td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br><br>- Page is visited 50 times per quarter<br><br>- Attendance of 12 journalists per call.<br><br>- At least one journalist DMs with us on Twitter regularly<br><br>- Journalist WhatsApp group membership is 100 or more
 </td>
-    </tr>
-    <tr>
-      <td>Members of the party in power</td>
-      <td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
-      <td>- One-on-one outreach to party leadership<br><br>-- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br><br>-- Facebook ads</td>
-      <td>-2 meetings per quarter<br><br>-- Once a week placements<br><br>-- Click through rate to call to action is 40 percent</td>
-    </tr>
-      <tr>
-      <td>Members of the opposition party</td>
-      <td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
-      <td>- One-on-one outreach to the party leadership<br><br>- Ads in the Opposition Weekly<br><br>- Blast emails</td>
-      <td>- 2 meetings per quarter<br><br>- Weekly placements<br><br>- List is 250 people with an open rate of 25 percent</td>
-    </tr>
-    <tr>
-      <td>Young men ages 16-26</td>
-      <td>A PVT is a way of verifying that your voice is heard in these elections.</td>
-      <td>- Facebook posts and videos<br><br>- Paid Facebook promotion</td>
-      <td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br><br>- 25,000 reach from these ads and 5 percent conversion to page likes</td>
-    </tr>
-  </tbody>
+</tr>
+<tr>
+<td>Members of the party in power</td>
+<td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
+<td>- One-on-one outreach to party leadership<br><br>-- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br><br>-- Facebook ads</td>
+<td>-2 meetings per quarter<br><br>-- Once a week placements<br><br>-- Click through rate to call to action is 40 percent</td>
+</tr>
+<tr>
+<td>Members of the opposition party</td>
+<td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
+<td>- One-on-one outreach to the party leadership<br><br>- Ads in the Opposition Weekly<br><br>- Blast emails</td>
+<td>- 2 meetings per quarter<br><br>- Weekly placements<br><br>- List is 250 people with an open rate of 25 percent</td>
+</tr>
+<tr>
+<td>Young men ages 16-26</td>
+<td>A PVT is a way of verifying that your voice is heard in these elections.</td>
+<td>- Facebook posts and videos<br><br>- Paid Facebook promotion</td>
+<td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br><br>- 25,000 reach from these ads and 5 percent conversion to page likes</td>
+</tr>
+</tbody>
 </table>
