@@ -98,7 +98,7 @@ La comedia opera mejor cuando a la gente le gusta el comediante o confía en él
 
 ## Cómo funciona la comedia
 
-There are five main ways comedy works to influence your audience:
+Hay cinco formas principales en que la comedia influye en su público:
 
 ![](/assets/images/catco image-2.png)
 
