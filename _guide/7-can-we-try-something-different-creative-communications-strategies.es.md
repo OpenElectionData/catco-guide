@@ -36,21 +36,21 @@ Al igual que en el caso de sus demás estrategias, toda estrategia y táctica de
 
 ### Su turno: La politica y la cultura popular
 
-**Spend some time brainstorming the country's most popular television shows, movies, books, music, and celebrities. Looking at this list, ask yourself the following questions:**
+**Dedique algún tiempo a una lluvia de ideas con los programas televisivos, las películas, libros, música y celebridades más populares del país. Viendo esta lista hágase las siguientes preguntas:**
 
-{% textarea label="Do any of these explicitly deal with politics? If so, what are they saying about it?" id="culture1" size="large" button="false" %}
+{% textarea label="¿Alguno de ellos se ocupa explícitamente de la política? De ser así, ¿qué dicen de ella?" id="culture1" size="large" button="false" %}
 
-{% textarea label="For those that aren't dealing with politics, what are the dominant narratives? What values or morals do they impart? What ideas do they take for granted or reinforce? What frame are they operating within?" id="culture2" size="large" button="false" % }
+{% textarea label="En el caso de quienes no se ocupan de la política, ¿cuáles son las narrativas dominantes? ¿Qué valores o morales imparten? ¿A qué ideas toman por sentadas o las refuerzan? ¿Dentro de qué marco están operando?" id="culture2" size="large" button="false" % }
 
-{% textarea label="Of the narratives and values you identified, which reinforce your frame and message, and which contradict or undermine it?" id="culture3" size="large" button="false" %}
+{% textarea label="De las narrativas y valores que ha identificado, ¿cuáles refuerzan su marco y mensaje y cuáles lo contradicen o dañan?" id="culture3" size="large" button="false" %}
 
-{% textarea label="Is there anything or anyone on the list of pop culture that is particularly appealing to your target audiences?" id="culture4" size="large" button="false" %}
+{% textarea label="¿Hay algo o alguien en la lista de cultura pop que sea particularmente atractivo para su público objetivo?" id="culture4" size="large" button="false" %}
 
-**For the narratives that reinforce your message and frame -- especially the ones popular with your target audiences -- how can you amplify and engage with those parts of pop culture? Can you tie your work and message to the pop culture modalities? Can you engage authentically with fans about the real-world counterparts or impact? Can you recruit the stars or spokespeople to join your campaign or collaborate with you in some way?**
+**En el caso de las narrativas que refuerzan su mensaje y marco — en especial las que son populares con sus públicos objetivos —, ¿cómo podría amplificar y vincularse con aquellas partes de la cultura pop? ¿Podría ligar su trabajo y mensaje con las modalidades de esta cultura? ¿Podría relacionarse auténticamente con los fans acerca de las contrapartes o su impacto en el mundo real? ¿Podría reclutar a las estrellas o voceros para que se unan a su campaña o colaboren de algún modo?**
 
-**For the narratives that contradict or devalue your message and frame, think about how you can present counter narratives or rebuttals to what is harmful. Can you work directly with the creators to change how your issues are presented within the culture? Can you recruit the actors or artists involved to serve as spokespeople for your cause to debunk some of the harmful messages in their work? Can you parody or play with the original narrative to present your side or ideas instead?**
+**Con respecto a las narrativas que contradicen o devalúan su mensaje y marco, piense cómo podría presentar contranarrativas o refutaciones a lo que sea dañino. ¿Puede trabajar directamente con los creadores para cambiar cómo es que sus cuestiones son presentadas dentro de la cultura? ¿Puede reclutar a los actores o artistas involucrados para que sean voceros de su causa, y así desmentir algunos de los mensajes dañinos de su obra? ¿Puede parodiar o jugar con las narrativas originales para presentar más bien su lado o sus ideas?**
 
-## Tips for Collaborating with Artists and Fans
+## Consejos para colaborar con artistas y fans
 
 Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them:
 
