@@ -143,16 +143,16 @@ Preguntas a tener en cuenta cuando esté instalando su proceso de recolección d
 
 * ¿Quién estará recogiendo y compilando los datos, incluso aquellos que deben recogerse manualmente (como el número de reuniones celebradas)?
 * ¿Hay una persona o más que los monitorean? ¿Cuánto tiempo pasan en esta tarea, teniendo en cuenta sus demás labores?
-* How long does the collection process take and is it overly arduous?
-* Can the process or part of the process be automated?
-* How often does the data need to be collected?
-* Are all the necessary data points being collected?
-* Is the data being displayed in a way that is easy to read and draw conclusions from?
-* Who needs access to the data? Do they have it?
+* ¿Cuánto tiempo toma el proceso de recolección, y si acaso es demasiado trabajoso?
+* ¿Puede todo o parte del proceso ser automatizado?
+* ¿Con cuánta frecuencia deben recogerse los datos?
+* ¿Se están recogiendo todos los puntos de datos necesarios?
+* ¿Los datos se están mostrando en forma fácil de leer y de extraer conclusiones?
+* ¿Quién necesita acceder a los datos? ¿Los tienen?
 
-Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn't working.
+Una vez tenga instalado su sistema, programe reuniones regulares con todo miembro del equipo o la dirigencia que haya ayudado a crear las metas y/o a llevar a cabo las estrategias del plan. Discuta cómo va cada estrategia según su métrica. ¿Está en vías de cumplir con sus metas? ¿Algunas estrategias están funcionando mejor que otras? ¿Algunas no están funcionando? Sea honesto con usted mismo y su equipo acerca de su avance y qué no está funcionando.
 
-Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
+Use estas reuniones regulares de verificación para refinar y actualizar sus estrategias y tácticas basadas en datos reales. Este debiera ser un proceso repetido y en desarrollo.
 
 <table>
 <thead>
