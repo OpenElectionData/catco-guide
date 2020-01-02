@@ -89,46 +89,46 @@ En Malasia, BERSIH 2.0 monitorea todas las analíticas sociales relevantes en la
 
 Al ir a [analytics.twitter.com](https://analytics.twitter.com/), usted podrá ver la analítica gratuita asociada a su cuenta de Twitter, independientemente de si está pagando por avisos o no. Algunas de las métricas que puede recabar son:
 
-* How individual tweets perform, in terms of reach and engagement.
-* How your native videos perform, including how long people watch your videos for.
-* Who your audience is, including income, occupation, interests, gender, education, and income.
+* Cómo se desempeñan tweets individuales en función al alcance y participación.
+* Cómo se desempeñan los videos nativos, incluyendo cuánto tiempo se les ve.
+* Cuál es su público, lo que incluye la ocupación, los intereses, el género, la educación y el ingreso.
 
-## Other Metrics
+## Otras métricas
 
-Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what's available to you to measure. Play around with what's available, research what each number means, and decide which ones are important to track over time.
+La mayoría de las plataformas de redes sociales tienen algún tipo de analítica gratuita incorporada. Usted puede examinar otras opciones y ver qué está disponible para ser medido. Juegue con lo que esté disponible, estudie qué significa cada número y decida cuáles será importante seguir a lo largo del tiempo.
 
-Some strategies may require metrics that don't exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
+Algunas estrategias podrían requerir de una métrica que no existe fácilmente en una plataforma pero que es una buena medida del éxito: el número de veces que se le cita en los medios, el número de asistentes a un evento, el número de reuniones extraoficiales con reporteros, el número de veces que un donante respondió a un correo electrónico con comentarios, las tendencias en la opinión pública, etc. Todas ellas podrían ser la más auténtica medida de su éxito y no su alcance en Facebook. Piense críticamente qué es una medida significativa de su meta y monitoréela aun si no es la más fácil medida con la que cuenta.
 
-## A/B Testing
+## Test A/B
 
-As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best.
+Como está usando métrica para aprender qué funciona y qué es más eficaz para el cumplimiento de sus metas, tal vez desee integrar un plan de test A/B en algunas o todas sus comunicaciones. Este test significa probar dos líneas distintas de temas, contenido, gráficos, tonos, mensajes, etc. a subconjuntos aleatorios de públicos similares, para así ver a qué responden mejor.
 
-{% figure caption:"NDI Photo." class:"left" %}
+{% figure caption:"_Foto: NDI_." class:"left" %}
 
 ![Woman does work on computer.](/assets/images/kosovo-1.jpg "NDI Photo."){% endfigure %}
 
-For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that.
+Podría, por ejemplo, enviar un correo electrónico con un botón rojo de llamada a la acción en la parte superior del mensaje a una mitad de su lista, y otro sin este a la otra mitad. Después de uno o dos días compare las tasas de quienes hicieron clic: ¿era más probable que quienes recibieron el correo electrónico con el botón hicieran clic? De ser así, tal vez quiera incluir un botón rojo de llamada a la acción en todos sus correos electrónicos s, como una mejor práctica con que incrementar la participación en estos mensajes. O tal vez en su siguiente correo electrónico desee probar dicho botón contra otro azul y aprender cual es el más eficaz.
 
-A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
+Aplicar el test A/B podría ayudarle a refinar la efectividad de su mensaje, pedidos, líneas de temas, tono y diseño a lo largo del tiempo en correo electrónico, página web y redes sociales. Para su máximo impacto requiere de un cuidadoso monitoreo de los resultados y de integrar las lecciones aprendidas y las nuevas mejores prácticas a sus futuras comunicaciones.
 
-### YOUR TURN: Review Your Goals
+### Su turno: Revise sus metas
 
-**Review each of your goals. Brainstorm different indicators that will help you know if you've achieved them.**
+**Revise cada una de sus metas. Haga una lluvia de ideas con distintos indicadores que le ayuden a saber si las ha alcanzado.**
 
-{% textarea label="Goal 1" id="goal1" size="small" button="false" %}
+{% textarea label="Meta 1" id="goal1" size="small" button="false" %}
 
 * {% textarea label="A" id="goala" size="small" button="false" %}
 * {% textarea label="B" id="goalb" size="small" button="false" %}
 * {% textarea label="C" id="goalc" size="small" button="false" %}
 
-**Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
+**Ahora asigne un método concreto (como _Google Analytics_, _Facebook Insights_, etc.) que usará para medir y monitorear cada uno de estos indicadores.**
 
-Continuing our example, it might look something like this:
+Continuando con nuestro ejemplo, este se vería algo así:
 
-GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
+META 1: formar conciencia de qué es una PVT haciendo que 10,000 personas visiten nuestra página web, y llegando en promedio a 100,000 personas en nuestros canales en las redes sociales durante las tres semanas antes de la elección.
 
-* 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
-* 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
+* 10,000 visitantes individuales a nuestra página web que se quedaron en ella por más de 5 segundos (_Google Analytics_).
+* Alcanzar 100,000 por semana en los canales de redes sociales con al menos una tasa de participación de 5 por ciento. Nuestro grupo demográfico objetivo de jóvenes mujeres de 16-26 años debiera comprender al 50 por ciento de nuestro público de alcance. (Facebook & YouTube analytics)
 * Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
 * Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
 * Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
