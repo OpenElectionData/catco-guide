@@ -139,10 +139,10 @@ Tendrá que instalar un sistema con que recoger datos con regularidad, una vez h
 
 Preguntas a tener en cuenta cuando esté instalando su proceso de recolección de métrica:
 
-{% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
+{% figure caption:"Foto: NDI" class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
 
-* Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)?
-* Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work?
+* ¿Quién estará recogiendo y compilando los datos, incluso aquellos que deben recogerse manualmente (como el número de reuniones celebradas)?
+* ¿Hay una persona o más que los monitorean? ¿Cuánto tiempo pasan en esta tarea, teniendo en cuenta sus demás labores?
 * How long does the collection process take and is it overly arduous?
 * Can the process or part of the process be automated?
 * How often does the data need to be collected?
