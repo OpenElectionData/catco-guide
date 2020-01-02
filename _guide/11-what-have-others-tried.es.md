@@ -1,12 +1,12 @@
 ---
 lang: es
 uses_forms: false
-title: 11. What Have Others Tried?
-subtitle: Case Studies
+title: '11. ¿Qué han intentado otros? '
+subtitle: Estudios de caso
 image:
   url: ''
   caption: ''
-permalink: /11-what-have-others-tried/
+permalink: "/11-what-have-others-tried/"
 published: false
 
 ---
