@@ -1,12 +1,12 @@
 ---
 lang: es
 uses_forms: true
-title: Additional Resources
+title: Recursos adicionales
 subtitle: ''
 image:
   url: ''
   caption: ''
-permalink: /12-additional-resources/
+permalink: "/12-additional-resources/"
 published: false
 
 ---
