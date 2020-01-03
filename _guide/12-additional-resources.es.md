@@ -10,61 +10,61 @@ permalink: "/12-additional-resources/"
 published: false
 
 ---
-## Narrative & Storytelling
+## La narrativa y contar historias
 
-Case Studies, Tips & Examples, The Opportunity Agenda: [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
+Case Studies, Tips & Examples (Estudios de caso, consejos y ejemplos), The Opportunity Agenda: [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
 
-It Gets Better Project: [https://itgetsbetter.org/stories/](https://itgetsbetter.org/stories/ "https://itgetsbetter.org/stories/")
+Proyecto It Gets Better: [https://itgetsbetter.org/stories/](https://itgetsbetter.org/stories/ "https://itgetsbetter.org/stories/")
 
 En La Viña del Señor: [http://xn--enlaviadelseor-vnbg.com/](http://xn--enlaviadelseor-vnbg.com/ "http://xn--enlaviadelseor-vnbg.com/")
 
-Framing for Activists, George Lakoff: [https://georgelakoff.com/framingforactivists/](https://georgelakoff.com/framingforactivists/ "https://georgelakoff.com/framingforactivists/")
+Framing for Activists (Enmarcar para activistas), George Lakoff: [https://georgelakoff.com/framingforactivists/](https://georgelakoff.com/framingforactivists/ "https://georgelakoff.com/framingforactivists/")
 
-“How the American Cancer Society Learned to Touch Hearts to Boost Donations,” Carmine Gallo, Forbes: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
+“How the American Cancer Society Learned to Touch Hearts to Boost Donations” (Como la Sociedad Americana del Cáncer aprendió a tocar corazones para aumentar donaciones), Carmine Gallo, Forbes: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
 
-## Audience & Messaging
+## El público y los mensajes
 
-How To Run Focus Groups, Citizens Advice: [https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf "https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf")
+How To Run Focus Groups (Como ejecutar grupos focales), Citizens Advice: [https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf "https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf")
 
-A Guide for Planning, Organizing, and Managing Focus Groups, the Puget Sound Consortium for Manufacturing Excellence: [https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf](https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf "https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf")
+A Guide for Planning, Organizing, and Managing Focus Groups (Guía para la planificación, organización y gestión de grupos focales), the Puget Sound Consortium for Manufacturing Excellence: [https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf](https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf "https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf")
 
-Top Ten Tips for Great Focus Groups, The Experience Business: [http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf](http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf "http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf")
+Top Ten Tips for Great Focus Groups (Los 10 mejores consejos para grupos focales excelentes), The Experience Business: [http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf](http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf "http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf")
 
-Tips for Facilitating Focus Groups, Center for the Promotion of Health in the New England Workplace: [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
+Tips for Facilitating Focus Groups (Consejos para facilitar grupos focales), Center for the Promotion of Health in the New England Workplace: [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
 
 Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
 
-## Platforms
+## Las plataformas
 
-“Google Thinks the Future of the Web Is...Email,” Mark Wilson, Fast Company: [https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email](https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email "https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email")
+“Google Thinks the Future of the Web Is...Email” (Google cree que el futuro de la web es…el correo electrónico), Mark Wilson, Fast Company: [https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email](https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email "https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email")
 
 Care2: [https://www.care2.com/](https://www.care2.com/ "https://www.care2.com/")
 
 Change.org: [https://www.change.org/](https://www.change.org/ "https://www.change.org/")
 
-“29 Simple Ways to Grow Your Email List,” Andy Pitre, HubSpot: [https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx")
+“29 Simple Ways to Grow Your Email List” (29 maneras simples para crecer tu lista de correos electrónicos), Andy Pitre, HubSpot: [https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx")
 
 Beautiful Trouble: [https://beautifultrouble.org/](https://beautifultrouble.org/ "https://beautifultrouble.org/")
 
-Hustle texting platform: [https://hustle.com/](https://hustle.com/ "https://hustle.com/")
+Plataforma de mensajes de texto Hustle: [https://hustle.com/](https://hustle.com/ "https://hustle.com/")
 
-WhatsApp Uses for Campaigns: [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
+WhatsApp Uses for Campaigns (Uso de WhatsApp para campañas): [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
 
-## Video
+## El video
 
 OBS Studio, Open Broadcaster Software: [https://obsproject.com/](https://obsproject.com/ "https://obsproject.com/")
 
-YouTube Creator Academy: [https://creatoracademy.youtube.com/page/education](https://creatoracademy.youtube.com/page/education "https://creatoracademy.youtube.com/page/education")
+YouTube Creator Academy (Academia de creadores de YouTube): [https://creatoracademy.youtube.com/page/education](https://creatoracademy.youtube.com/page/education "https://creatoracademy.youtube.com/page/education")
 
-“12 Tips For Crafting Compelling Video Content That Draws More Views”: [https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762](https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762 "https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762")
+“12 Tips For Crafting Compelling Video Content That Draws More Views” (12 consejos para crear contenido de video cautivador que atraiga más visitas): [https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762](https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762 "https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762")
 
-“What Video Editing Software Do YouTubers Use”: [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
+“What Video Editing Software Do YouTubers Use” (Los programas de edición de video que utilizan los YouTubers): [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
 
-## Data Visualization
+## La visualización de datos
 
-Storytelling with Data: [http://www.storytellingwithdata.com/](http://www.storytellingwithdata.com/ "http://www.storytellingwithdata.com/")
+Storytelling with Data (La narración con datos): [http://www.storytellingwithdata.com/](http://www.storytellingwithdata.com/ "http://www.storytellingwithdata.com/")
 
-“How To Tell a Powerful Story with Data Visualization,” Brian Bimschleger, Telepathy: [https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization](https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization "https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization")
+“How To Tell a Powerful Story with Data Visualization" (Como contar una historia poderosa con visualizaciones de datos), Brian Bimschleger, Telepathy: [https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization](https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization "https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization")
 
 “How To Properly Tell a Story with Data-- and Common Pitfalls to Avoid,” Outlier AI, Towards Data Science: [https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9](https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9 "https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9")
 
