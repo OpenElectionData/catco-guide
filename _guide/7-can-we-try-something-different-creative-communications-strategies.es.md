@@ -99,7 +99,7 @@ La comedia opera mejor cuando a la gente le gusta el comediante o confía en él
 
 Hay cinco formas principales en que la comedia influye en su público:
 
-![](/assets/images/catco image-2.png)
+![](/assets/images/funciona-la-comedia150.png)
 
 ### Su turno: Mensajes centrales
 
