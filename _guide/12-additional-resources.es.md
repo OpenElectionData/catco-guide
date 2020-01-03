@@ -66,58 +66,56 @@ Storytelling with Data (La narración con datos): [http://www.storytellingwithda
 
 “How To Tell a Powerful Story with Data Visualization" (Como contar una historia poderosa con visualizaciones de datos), Brian Bimschleger, Telepathy: [https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization](https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization "https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization")
 
-“How To Properly Tell a Story with Data-- and Common Pitfalls to Avoid,” Outlier AI, Towards Data Science: [https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9](https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9 "https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9")
+“How To Properly Tell a Story with Data-- and Common Pitfalls to Avoid” (Como contar una historia con datos – y obstáculos comunes para evitar), Outlier AI, Towards Data Science: [https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9](https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9 "https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9")
 
-Data Smart Cities Solutions Search: [https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search "https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search")
+Data Smart Cities Solutions Search (Búsqueda de datos de soluciones de ciudades inteligentes): [https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search "https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search")
 
-“2018 Report: Engaging Your Audience with Visual Content,” The Content Strategist: [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
+“2018 Report: Engaging Your Audience with Visual Content” (Reporte 2018: Cautivar a su audiencia con contenido visual), The Content Strategist: [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
 
-## Creative Strategies
+## Las estrategias creativas
 
-“#PopJustice: Social Justice and the Promise of Pop Culture Strategies” reports, Liz Mann Strategy: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
+“#PopJustice: Social Justice and the Promise of Pop Culture Strategies” reports (La justicia social y la promesa de las estrategias de la cultura popular), Liz Mann Strategy: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
 
-The Laughter Effect, Center for Media & Social Impact, American University School of Communication: [http://cmsimpact.org/program/comedy/](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")
+The Laughter Effect (El efecto de la risa), Center for Media & Social Impact, American University School of Communication: [http://cmsimpact.org/program/comedy/](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")
 
-Race in the Writer's Room: How Hollywood Whitewashes the Stories that Shape America, Darnell Hunt: [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
+Race in the Writer's Room: How Hollywood Whitewashes the Stories that Shape America (La raza en la sala del escritor: Como Hollywood blanquea las historias que forman America), Darnell Hunt: [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
 
-\#IfIwasTheMayor: [https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf](https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf "https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf")
+\#IfIwasTheMayor (#SiYoFueraElAlcade): [https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf](https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf "https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf")
 
-The Voter Suppression Trail, Chris Baker, Brian Moore and Mike Lacher, The New York Times: [https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html "https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html")
+The Voter Suppression Trail (El camino de la supresión del votante), Chris Baker, Brian Moore and Mike Lacher, The New York Times: [https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html "https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html")
 
-“The Back-of-the-Envelope Guide to Communications Strategy,” Ann Christiano and Annie Neimand, Stanford Social Innovation Review: [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
+“The Back-of-the-Envelope Guide to Communications Strategy” (Una guía rápida a la estrategia de comunicaciones), Ann Christiano and Annie Neimand, Stanford Social Innovation Review: [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
 
-## Crisis Communications
+## Las communicaciones de crisis
 
-Election Cyber Incident Communications Plan Template for Political Parties and Campaigns, International Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
+Election Cyber Incident Communications Plan Template for Political Parties and Campaigns, International Edition (Plantilla de plan de comunicaciones de incidentes cibernéticos de elecciones para partidos políticos y campañas, Edición internacional), Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
 
 Botcheck.me: [https://botcheck.me/](https://botcheck.me/ "https://botcheck.me/")
 
 Botometer: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
 
-## Digital Security
+## La seguridad digital
 
-Digital First Aid Kit, Digital Defenders Partnership: [https://www.digitaldefenders.org/digitalfirstaid/](https://www.digitaldefenders.org/digitalfirstaid/ "https://www.digitaldefenders.org/digitalfirstaid/")
+Digital First Aid Kit (Botiquín de primeros auxilios digitales), Digital Defenders Partnership: [https://www.digitaldefenders.org/digitalfirstaid/](https://www.digitaldefenders.org/digitalfirstaid/ "https://www.digitaldefenders.org/digitalfirstaid/")
 
-Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/](https://ssd.eff.org/ "https://ssd.eff.org/")
+Surveillance Self-Defense (Autodefensa de vigilancia), Electronic Frontier Foundation: [https://ssd.eff.org/](https://ssd.eff.org/ "https://ssd.eff.org/")
 
-“Digital Security Resources,” Front Line Defenders: [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
+“Digital Security Resources” (Recursos de seguridad digital), Front Line Defenders: [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
 
-The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs:
+The Cybersecurity Campaign Playbook, European Edition (El libro de jugadas de ciberseguridad para campañas, Edición europea), Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
 
-[https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+## La observación electoral ciudadana
 
-## Citizen Election Observation
+La Red Global de Monitores Electorales Nacionales (GNDEM): [https://gndem.org](https://gndem.org "https://gndem.org")
 
-Global Network of Domestic Election Monitors (GNDEM): [https://gndem.org](https://gndem.org "https://gndem.org")
+Declaración de Principios Globales para la Observación y Monitoreo No Partidario de Elecciones Realizado por Organizaciones Ciudadanas (DoGP): [https://gndem.org/declaration-of-global-principles/](https://gndem.org/declaration-of-global-principles/ "https://gndem.org/declaration-of-global-principles/")
 
-Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations (DoGP): [https://gndem.org/declaration-of-global-principles/](https://gndem.org/declaration-of-global-principles/ "https://gndem.org/declaration-of-global-principles/")
+Manual para la Observación Nacional de Elecciones: Guía de la A a la Z, National Democratic Institute (NDI): [https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide](https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide "https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide")
 
-How Domestic Organizations Monitor Elections: an A to Z Guide, National Democratic Institute (NDI): [https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide](https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide "https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide")
+Systematic Methods for Advancing Election Observation (Métodos sistemáticos para avanzar la observación electoral), West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf")
 
-Systematic Methods for Advancing Election Observation, West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf")
+Outreach and External Communication (Alcance y comunicación externa), West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf")
 
-Outreach and External Communication, West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf")
+Iniciativa de datos electorales abiertos: [https://www.openelectiondata.net/en/](https://www.openelectiondata.net/en/ "https://www.openelectiondata.net/en/")
 
-Open Election Data Initiative: [https://www.openelectiondata.net/en/](https://www.openelectiondata.net/en/ "https://www.openelectiondata.net/en/")
-
-“Parallel Vote Tabulations,” National Democratic Institute (NDI): [https://www.ndi.org/pvt](https://www.ndi.org/pvt "https://www.ndi.org/pvt")
+“Parallel Vote Tabulations” (Tabulación paralela del voto), National Democratic Institute (NDI): [https://www.ndi.org/pvt](https://www.ndi.org/pvt "https://www.ndi.org/pvt")
