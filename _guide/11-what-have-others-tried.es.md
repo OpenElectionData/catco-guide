@@ -7,7 +7,6 @@ image:
   url: ''
   caption: ''
 permalink: "/11-what-have-others-tried/"
-published: false
 
 ---
 ## Estudio de caso: Estrellas de YouTube entrevistan al presidente Obama
