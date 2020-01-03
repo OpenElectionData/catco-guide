@@ -7,7 +7,6 @@ image:
   url: ''
   caption: ''
 permalink: "/12-additional-resources/"
-published: false
 
 ---
 ## La narrativa y contar historias
