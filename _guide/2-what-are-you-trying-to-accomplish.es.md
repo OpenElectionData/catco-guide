@@ -72,7 +72,7 @@ Sus estrategias y tácticas de comunicación fluirán directamente de sus metas.
 
 "Para lograr construir un movimiento, su dirigencia realmente necesita ser fuerte”, dice Maria Chin Abdullah, expresidente de BERSIH 2.0. “La gente tiene diferencias de opinión, pero a fin de cuentas los líderes necesitan trabajar juntos para alcanzar metas comunes”.
 
-![BERSIH 2.0 members encouraging people to vote ](/assets/images/BERSIH_3.jpg "Photo from BERSIH 2.0")
+![Miembros de BERSIH 2.0 alientan a las personas a votar](/assets/images/BERSIH_3.jpg "Foto: BERSIH 2.0")
 {% endcallout %}
 
 ## Estrategias y tácticas para lograr sus objetivos
