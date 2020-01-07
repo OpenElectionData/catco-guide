@@ -160,7 +160,7 @@ Por ejemplo, en el periodo preelectoral de 2015, los medios frecuentemente hací
 
 Los humanos están programados para contar historias y conectarse con ellas. Las historias crean una conexión emocional y empática, y se quedan con la gente más tiempo que los hechos o las estadísticas. Es contando historias como enseñamos a la gente, nos conectamos con ellas y ganamos su confianza y amistad. Usar relatos para cumplir con sus metas de comunicación y transmitir sus mensajes podría ser un enfoque poderoso y eficaz.
 
-{% figure caption:"_Foto: ISFED_" class:"center" %} ![](/assets/images/ISFED-1.jpg)
+{% figure caption:"_Foto: ISFED_" class:"center" %} ![Foto: ISFED](/assets/images/ISFED-1.jpg "ISFED")
 
 {% endfigure %}
 
@@ -174,7 +174,7 @@ Una narrativa es poderosa. Los relatos crean una conexión personal más profund
 
 {% callout title="Usando una narrativa convincente en la observación electoral" %}
 
-{% figure caption:"_Foto: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg)
+{% figure caption:"_Foto: CODEO_" class:"right" %} ![Observador de las elecciones nacionales de CODEO comparte las partes clave de una PVT en un video.](/assets/images/CDD-video.jpg "CODEO")
 
 {% endfigure %}
 
