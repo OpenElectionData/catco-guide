@@ -11,7 +11,7 @@ permalink: "/3-who-are-you-talking-to/"
 ---
 En general, si mapeó al público al inicio de la campaña de comunicaciones, este se verá así:
 
-{% figure caption:"Cuadro adaptado de las conferencias dadas por Ed Grefe como profesor adjunto en la Universidad George Washington" class:"center" %} ![](/assets/images/bell_chart_span.png){% endfigure %}
+{% figure caption:"Cuadro adaptado de las conferencias dadas por Ed Grefe como profesor adjunto en la Universidad George Washington" class:"center" %} ![Cuadro adaptado de las conferencias dadas por Ed Grefe como profesor adjunto en la Universidad George Washington](/assets/images/bell_chart_span.png "Foto: NDI"){% endfigure %}
 
 Sus “amigos” son el 5-10 por ciento del público que ya apoya su causa, cree que son una organización creíble, se presentarán cuando se les pida, compartirán su mensaje, etc. No necesita convencerlos de la importancia de su causa.
 
@@ -65,7 +65,7 @@ Por ejemplo, digamos que ha llegado hasta acá, pero ninguna de sus estrategias 
 
 Tienen, sin embargo, que diseñar estrategias de alcance para cada público, puesto que los principales medios de comunicación favorables al gobierno los han puesto en la lista negra, y no pueden depender de que dichos medios difundan su mensaje. Más bien crean un producto distinto (videos, infografías, sesiones informativas de alto nivel) y mensajes personalizados para cada público objetivo. Comienzan creando contenido para una audiencia pública amplia puesto que este es el público más grande. Luego transforman y reutilizan esos materiales educativos generales para el público con mensajes y formatos especializados para así llegar a sus otros públicos objetivos, como organizar sesiones de información privadas con información de mayor nivel para la comunidad internacional.
 
-![Press Liason from CRTA stands next to a podium at a CRTA Press Conference](/assets/images/A_DSC1721.jpg "Photo from CRTA, Zoran Drekalovic")  
+![Un enlace de comunicaciones de CRTA se encuentra al lado de un podio en una conferencia de prensa de CRTA.](/assets/images/A_DSC1721.jpg "Foto: CRTA, Zoran Drekalovic")  
 {% endcallout %}
 
 ## Acerca de sus enemigos
