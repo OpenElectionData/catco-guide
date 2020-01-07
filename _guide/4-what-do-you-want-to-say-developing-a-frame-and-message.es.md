@@ -110,7 +110,7 @@ Aunque el grupo estaba llevando a cabo una campaña para presionar al gobierno p
 
 ## Distintos mensajes resuenan en distintos públicos
 
-{% figure caption:"_Foto: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
+{% figure caption:"_Foto: YIAGA Africa_" class:"left" %} ![Representante de YIAGA Africa entrevista a una mujer en el mercado.](/assets/images/yiaga_2.jpg "Mensaje central")
 
 {% endfigure %}
 
