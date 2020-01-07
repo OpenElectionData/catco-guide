@@ -38,7 +38,7 @@ Ha efectuado una lluvia de ideas y tiene una lista larga de cosas que desea alca
 {% callout title="Fijando las metas de la organización" %}
 No olvide incluir entre sus metas a las de desarrollo organizativo. En Nigeria, el grupo de observación electoral [YIAGA AFRICA](https://www.yiaga.org/) fija metas sobre cómo desean que las instituciones democráticas nacionales mejoren mediante la inclusión de los jóvenes, comicios transparentes y fiables, la lucha contra la corrupción y una mayor rendición de cuentas de partes de los funcionarios electos. Pero también fijan metas para asegurarse de que YIAGA AFRICA sea bien conocida por los nigerianos, la prensa internacional y los donantes. Esto asegura la longevidad y salud de la organización misma, de modo que pueda proseguir con su trabajo en el largo plazo.
 
-![Photo: YIAGA Africa](/assets/images/yiaga_3-1.jpg)
+![Foto: YIAGA Africa](/assets/images/yiaga_3-1.jpg "YIAGA")
 
 {% endcallout %}
 
