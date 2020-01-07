@@ -11,9 +11,9 @@ uses_forms: false
 ---
 Los grupos ciudadanos no partidarios de observación electoral y otras organizaciones de la sociedad civil (OSC) trabajan diligentemente todos los días organizando ciudadanos, recogiendo y analizando datos y argumentando a favor de las reformas democráticas. En poco más de las últimas tres décadas, el movimiento de integridad electoral de base ciudadana se ha propagado a más de 100 países y han involucrado a más de cuatro millones de activistas. Trabajar para defender y promover el sufragio universal e igualitario mediante una elección libre e informada refuerza simultáneamente las normas democráticas y expone la represión y la corrupción política de los autócratas.
 
-{% figure caption:"_Foto de NDI_" %} 
+{% figure caption:"_Foto: NDI_" %}
 
-![NDI Photo](/assets/images/ndi_kyrgyz_debates-1.jpg "NDI Photo.")
+![Foto: NDI](/assets/images/ndi_kyrgyz_debates-1.jpg "Foto: NDI")
 
 {% endfigure %}
 
@@ -29,9 +29,9 @@ Sus estrategias de comunicación necesitan actualizarse para que tengan en cuent
 
 Es también cierto que no todos los retos de comunicación toman la forma de amenazas externas. A veces los retos son internos: un liderazgo que no prioriza o comprende la importancia que tiene que contar con una comunicación eficaz, la falta de recursos o de financiamiento con que llevar a cabo ciertas estrategias, la falta de suficiente personal con que trabajar, o la carencia del conocimiento con que planear o efectuar una comunicación eficaz. Esta guía ayudará a construir las pericias y capacidades internas, así como a argumentar a favor de mayor apoyo, recursos y personal dedicado a las comunicaciones.
 
-{% figure caption:"_Foto de NDI/Mikhail Velmakin_" class:"right" %}
+{% figure caption:"_Foto: NDI/Mikhail Velmakin_" class:"right" %}
 
-![NDI Photo/Mikhail Velmakin](/assets/images/NDI_moscow.jpg "NDI Photo/Mikhail Velmakin")
+![Foto: NDI/Mikhail Velmakin](/assets/images/NDI_moscow.jpg "Foto: NDI/Mikhail Velmakin")
 
 {% endfigure %}
 
