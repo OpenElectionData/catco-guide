@@ -79,7 +79,7 @@ En lugar de reciclar memes irrelevantes, el contenido de las redes sociales de R
 
 ## Contenidos de audio y video
 
-{% figure caption:"_Foto: NDI Kosovo_" class:"right" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
+{% figure caption:"_Foto: NDI Kosovo_" class:"right" %} ![Cámara grabando a una mujer hablar](/assets/images/NDI_kosovo_1-1.jpg "Contenidos de audio y video")
 
 {% endfigure %}
 
@@ -95,13 +95,13 @@ El contenido de audio y video puede ser genial para captar historias, transmitir
 
 {% figure caption:"_Foto: ISFED_" class:"right" %}
 
-![Image shows a person utilizing SMS services to collect information.](/assets/images/ISFED-2.jpg 'ISFED produced an "About Us" video')
+![La imagen muestra a una persona que utiliza servicios de SMS para recopilar información.](/assets/images/ISFED-2.jpg 'ISFED produjo un video "Acerca de nosotros"')
 
 {% endfigure %}
 
 Para ampliar su alcance externo en forma más visual, la [Sociedad Internacional para Elecciones Justas y la Democracia (ISFED)](https://isfed.ge/eng) produjo un video [“About Us”](https://www.youtube.com/watch?v=JV_dcsCmasU) (“Sobre nosotros”), explicando la historia de la organización, su trabajo en la observación electoral, las metodologías empleadas y la tecnología y herramientas de alcance utilizadas. El video incluye a varias personalidades claves del personal de ISFED que presentan distintas partes de su historia como organización, y también incluye subtítulos en inglés (cuando alguien habla en georgiano) y georgiano (cuando alguien lo hace en inglés), ampliando así el alcance de quiénes pueden ver el video y entenderlo.
 
-{% figure caption:"_Infografía de YIAGA_" class:"left" %} ![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
+{% figure caption:"_Infografía de YIAGA_" class:"left" %} ![Captura de pantalla del video de YIAGA que destaca el papel de los partidos políticos en la observación electoral](/assets/images/yiaga_video.png "Infografía que muestra datos recopilados de PVT anteriores")
 
 {% endfigure %}
 
