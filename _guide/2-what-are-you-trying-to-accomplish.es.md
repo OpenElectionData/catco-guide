@@ -17,7 +17,7 @@ Probablemente se ha efectuado alguna forma de establecimiento de metas para su o
 
 También querrá asegurarse de que sus metas respondan a los retos que su organización y país enfrentan. Si aún no ha efectuado un análisis del panorama político, una evaluación de riesgo organizativo y un análisis FODA (fortalezas, oportunidades, debilidades y amenazas) de las amenazas o retos específicos que usted y su entorno político enfrentan, sería buena idea que los lleve a cabo antes de fijar sus metas. La evaluación de riesgo es de especial importancia si está operando en un espacio cerrado o que viene cerrándose. Cuando fije sus metas asegúrese de considerar qué riegos podrían intensificarse debido a su trabajo (o su cambiante entorno político) y tome medidas para mitigar, evitar y aceptar dichos riesgos. Tenga en mente que dichos riesgos pueden ser de naturaleza muy diversa (física, digital, emocional, legal, etc.), así que asegúrese de pensar holísticamente para incluirlos. Un gran recurso con el cual comenzar a reflexionar acerca de su riesgo digital general es [Security Planner](https://securityplanner.org/), de Jigsaw. Quienes se encuentran en organizaciones de mayor riesgo, en espacios cerrados o que están cerrándose, debieran también [buscar la guía](https://securityplanner.org/#/tool/information-for-high-risk-users) de capacitadores o auditores en seguridad profesional.
 
-{% figure caption:"Foto: NDI, Patjim Gashi" class:"center" %}
+{% figure caption:"_Foto: NDI, Patjim Gashi_" class:"center" %}
 
 ![Foto: NDI, Patjim Gashi](/assets/images/NDI_kosovo_2.jpg "Foto: NDI, Patjim Gashi")
 
