@@ -11,7 +11,7 @@ permalink: "/3-who-are-you-talking-to/"
 ---
 En general, si mapeó al público al inicio de la campaña de comunicaciones, este se verá así:
 
-{% figure caption:"Cuadro adaptado de las conferencias dadas por Ed Grefe como profesor adjunto en la Universidad George Washington" class:"center" %} ![Cuadro adaptado de las conferencias dadas por Ed Grefe como profesor adjunto en la Universidad George Washington](/assets/images/bell_chart_span.png "Foto: NDI"){% endfigure %}
+{% figure caption:"_Cuadro adaptado de las conferencias dadas por Ed Grefe como profesor adjunto en la Universidad George Washington_" class:"center" %} ![Cuadro adaptado de las conferencias dadas por Ed Grefe como profesor adjunto en la Universidad George Washington](/assets/images/bell_chart_span.png "Foto: NDI"){% endfigure %}
 
 Sus “amigos” son el 5-10 por ciento del público que ya apoya su causa, cree que son una organización creíble, se presentarán cuando se les pida, compartirán su mensaje, etc. No necesita convencerlos de la importancia de su causa.
 
