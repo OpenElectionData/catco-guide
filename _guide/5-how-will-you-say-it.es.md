@@ -39,9 +39,9 @@ Una nota de prensa bien escrita debiera leerse como una nota periodística: un a
   3. Por último, una **nota de prensa** es el más largo de estos tres tipos de documentos para los medios. Debe escribirse en el estilo de un artículo periodístico y enmarcarse en la forma en que desee que los medios enmarquen su trabajo, cuestión o hallazgos. Véanse los Estudio de caso XIII. para ejemplos de notas de prensa de YIAGA AFRICA en Nigeria y PACE en Myanmar.
 * Asegúrese de traducir sus materiales de prensa al inglés, para hacer que estén más fácilmente al alcance de los medios internacionales.
 
-{% figure caption: "Personal de YIAGA presenta durante una rueda de prensa. _Foto: YIAGA Africa_" class:"center" %}
+{% figure caption: "_Personal de YIAGA presenta durante una rueda de prensa. Foto: YIAGA Africa_" class:"center" %}
 
-![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
+![Foto: YIAGA Africa](/assets/images/yiaga_1-2.jpg "Personal de YIAGA presenta durante una rueda de prensa. ")
 {% endfigure %}
 
 ## Las mejores prácticas para escribir declaraciones de observación y otros reportes
