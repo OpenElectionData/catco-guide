@@ -5,7 +5,7 @@ title: 6. ¿Dónde lo dirá?
 subtitle: Identificando la mejor plataforma
 image:
   url: "/assets/images/NDI_Honduras.jpg"
-  caption: 'Photo: NDI Honduras'
+  caption: 'Foto: NDI Honduras'
 permalink: "/6-where-will-you-say-it/"
 
 ---
@@ -56,8 +56,8 @@ Si tiene capacidad de diseño para incluir gráficos o gifs en su correo electr�
 
 A diferencia del contenido que publica en las redes sociales, el correo electrónico no está regulado por un algoritmo. Todo aquel a quien se lo envíe lo recibirá y tendrá la oportunidad de abrirlo e involucrarse con él. Esta falta de filtro es poderosa, y las organizaciones a menudo confían en el correo electrónico cuando los algoritmos de las redes sociales impiden que contenidos importantes lleguen a sus públicos. Sin embargo, esta estrategia depende de que se cuente con una fuerte lista de correo. Piense detenidamente cómo planea construir su lista, de dónde vendrán las direcciones, cuanto tiempo o dinero puede dedicar a un crecimiento pagado de la lista (si es que puede) y cómo reabastecerá a quienes (inevitablemente) cancelen su suscripción. Cuando construya su lista, haga deliberadamente que quienes estén en ella provengan de sus públicos objetivos, y que su estrategia de correo electrónico esté al servicio de cumplir con sus metas de comunicación.
 
-{% figure caption:"_Foto de NDI_" class:"left" %}
-![people gather around computer ](/assets/images/NDI_STOs-1.jpg "building mass email systems")
+{% figure caption:"_Foto: NDI_" class:"left" %}
+![Personas reunidas alrededor de una computadora.](/assets/images/NDI_STOs-1.jpg "Construyendo sistemas masivos de correo electrónico")
 {% endfigure %}
 
 Hay varios sistemas gratuitos o baratos de correo electrónico masivos a los que puede usar, los cuales además brindan buenos datos sobre las tasas de apertura, de navegación a los enlaces y de eliminar la suscripción, de modo tal que puede aprender a partir de sus envíos masivos y continuar mejorando su contenido y tono. Esas plataformas de correos electrónicos masivos le permitirán también personalizar dichos envíos: una táctica efectiva para conseguir tasas más altas de apertura y participación. Al agregar el nombre de la persona al texto del correo electrónico u otros campos personalizables como centro de votación, legislador local o el número del distrito electoral, quienes reciban sus mensajes sentirán una conexión personal con su organización y recibirán así la información necesaria sin necesidad de tomar otras medidas.
@@ -112,7 +112,7 @@ Preste atención a los tipos de contenido y de mensajes que más participación 
 
 Podría también intentar publicar varias versiones o presentaciones de los mismos datos. Dado que solo una facción de sus seguidores verá una publicación dada, no corre el riesgo de que todos vean la misma cosa varias veces, pero usted sí ganará valiosa información acerca de qué gráfico o qué tipo de presentación consigue la mayor participación y comprensión de parte de su público, y podrá luego modelar el contenido futuro a partir de lo que aprenda.
 
-{% figure caption:"_Infografía de OPORA animando a los ciudadanos a votar._" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
+{% figure caption:"_Infografía de OPORA animando a los ciudadanos a votar._" class:"right" %} ![Infografía de OPORA](/assets/images/opora_1.jpg "Infografía de OPORA")
 
 {% endfigure %}
 
@@ -152,7 +152,7 @@ Al mapear su contenido venidero en su calendario editorial, planee la frecuencia
 
 Una vez que sepa por adelantado qué contenido y productos creará y publicará, podrá ponerse a trabajar en ellos de inmediato. Tal vez necesite a veces dejar algunas partes en blanco hasta el momento inmediatamente antes que se publique para que se incluya datos oportunos, pero siempre podrá trabajar el formato, las plantillas y los esquemas de gran parte de su contenido por adelantado. Una vez están listos, la mayoría de las plataformas también le permiten subir y programar por adelantado el contenido a publicar. Facebook le permite programar las publicaciones de páginas y grupos, y puede asimismo programar los tweets a publicar con apps como TweetDeck o HootSuite. CRM o los programas de correos electrónico masivos también le permiten programar su envío masivo en un momento específico. La programación del contenido a publicar puede asimismo ser útil si su analítica muestra que sus públicos tienden a estar en línea en momentos en que usted no lo está: tarde en la noche o durante los fines de semana, por ejemplo.
 
-{% figure caption:"_Foto: NDI Peru_" class:"left" %} ![Media covers an event ](/assets/images/NDI_peru_3.jpg "NDI Peru ")
+{% figure caption:"_Foto: NDI Peru_" class:"left" %} ![Los medios cubren un evento.](/assets/images/NDI_peru_3.jpg "NDI Peru ")
 
 {% endfigure %}
 
@@ -174,7 +174,7 @@ Estas mismas estrategias valen para los miembros de los medios no tradicionales.
 
 {% callout title="Construya relaciones con los periodistas" %}
 
-{% figure caption: "_Foto: PACE_" class:"right" %} ![PACE Communications officer talking with journalists interested in elections](/assets/images/pace_5-1.jpg "PACE speaks with Media ")
+{% figure caption: "_Foto: PACE_" class:"right" %} ![Oficial de comunicaciones de PACE hablando con periodistas interesados en las elecciones.](/assets/images/pace_5-1.jpg "PACE habla con los medios.")
 
 {% endfigure %}
 
@@ -206,7 +206,7 @@ También debiera dedicar algo de tiempo al local y los elementos visuales de la 
 
 Es sinceramente difícil efectuar una buena rueda de prensa si un montón de egos están involucrados. Si sus dirigentes/voceros insisten en hacer largos discursos, concentrándose en sus propias opiniones antes que en los hallazgos y puntos centrales de su organización, o en repetir lo que otros han dicho sin añadir nada nuevo o interesante, podría tal vez querer considerar otras estrategias con las cuales conseguir medios ganados, como entrevistas individuales con dirigentes, o enviar pequeñas primicias a distintos reporteros amigos. Si su rueda de prensa no es lo suficientemente interesante como para conseguir cobertura de prensa, ella será una pérdida de su tiempo y de los reporteros. Aún peor, su rueda de prensa podría dañar su causa y su credibilidad si presenta distintos puntos de vista o se desvía.
 
-{% figure caption:"_Foto: PACE_" class:"center" %} ![PACE representative gives press statement.](/assets/images/Preliminary finding press conference of 2017 By-Elections  (1).JPG "PACE") {% endfigure %}
+{% figure caption:"_Foto: PACE_" class:"center" %} ![El representante de PACE da un comunicado de prensa.](/assets/images/Preliminary finding press conference of 2017 By-Elections  (1).JPG "PACE") {% endfigure %}
 
 ## Medios pagados
 
@@ -236,7 +236,7 @@ Si estas herramientas y plataformas no llegan a la gente a la que está intentan
 
 {% callout title="Extendiéndose más allá de la Web" %} En Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) ha desarrollado una mezcla eficaz de interacciones en persona con difusión amplia en los medios tradicionales y en las redes sociales.
 
-{% figure caption:"_Foto: YIAGA Africa_" class:"left" %} ![Youth attend a local town hall](/assets/images/yiaga_1-1.jpg "YIAGA Africa works to increase youth participation ")
+{% figure caption:"_Foto: YIAGA Africa_" class:"left" %} ![Jóvenes asisten a un evento en el ayuntamiento local.](/assets/images/yiaga_1-1.jpg "YIAGA África trabaja para aumentar la participación juvenil.")
 
 {% endfigure %}
 
@@ -276,7 +276,7 @@ Prosiguiendo con nuestro ejemplo, su plan de comunicaciones podría comenzar a v
 
 ## Vaya a la gente donde quiera que esté
 
-{% figure caption:"_Foto: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
+{% figure caption:"_Foto: PACE_" class:"center" %} ![Los representantes de PACE realizan actividades de divulgación pública.](/assets/images/pace_2.jpg "PACE")
 
 {% endfigure %}
 
