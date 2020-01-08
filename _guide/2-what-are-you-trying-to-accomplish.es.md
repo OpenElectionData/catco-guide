@@ -4,7 +4,7 @@ subtitle: Fijando las metas, estrategias y tácticas
 lang: es
 image:
   url: "/assets/images/NDI_moscow.jpg"
-  caption: 'Photo: NDI, Mikhail Velmakin'
+  caption: 'Foto: NDI, Mikhail Velmakin'
 permalink: "/2-what-are-you-trying-to-accomplish/"
 uses_forms: true
 
