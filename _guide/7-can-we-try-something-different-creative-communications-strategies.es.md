@@ -37,7 +37,7 @@ Al igual que en el caso de sus demás estrategias, toda estrategia y táctica de
 
 **Dedique algún tiempo a una lluvia de ideas con los programas televisivos, las películas, libros, música y celebridades más populares del país. Viendo esta lista hágase las siguientes preguntas:**
 
-{% textarea label="¿Alguno de ellos se ocupa explícitamente de la política? De ser así, ¿qué dicen de ella?" id="culture1" size="large" button="false" %}
+{% textarea label="Alguno de ellos se ocupa explícitamente de la política? De ser así, qué dicen de ella?" id="culture1" size="large" button="false" %}
 
 {% textarea label="En el caso de quienes no se ocupan de la política, ¿cuáles son las narrativas dominantes? ¿Qué valores o morales imparten? ¿A qué ideas toman por sentadas o las refuerzan? ¿Dentro de qué marco están operando?" id="culture2" size="large" button="false" % }
 
