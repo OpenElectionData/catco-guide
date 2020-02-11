@@ -1,10 +1,10 @@
 ---
-title: 2. ¿Qué está intentando lograr?
+title: "2. ¿Qué está intentando lograr?"
 subtitle: Fijando las metas, estrategias y tácticas
 lang: es
 image:
-url: "/assets/images/NDI_moscow.jpg"
-caption: "Foto: NDI, Mikhail Velmakin"
+  url: "/assets/images/NDI_moscow.jpg"
+  caption: "Foto: NDI, Mikhail Velmakin"
 permalink: "/2-what-are-you-trying-to-accomplish/"
 uses_forms: true
 ---
