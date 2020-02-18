@@ -3,7 +3,7 @@ module Jekyll
 
     def initialize(tag_name, text, tokens)
        super
-       @id = (text.match(/(id=\")([[:alnum:]|\s]*)(")/i) || [])[2]
+       @id = (text.match(/(id=\")([^"]*)(")/i) || [])[2]
      end
 
     def render(context)

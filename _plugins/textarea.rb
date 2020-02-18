@@ -3,10 +3,10 @@ module Jekyll
 
     def initialize(tag_name, text, tokens)
        super
-       @label = (text.match(/(label=\")([[:alnum:]|\s|(?!.,\-;:\')]*)(")/i) || [])[2]
-       @id = (text.match(/(id=\")([[:alnum:]|\s]*)(")/i) || [])[2]
-       @size = (text.match(/(size=\")([[:alnum:]|\s]*)(")/i) || [])[2]
-       @button = (text.match(/(button=\")([[:alnum:]|\s]*)(")/i) || [])[2]
+       @label = (text.match(/(label=\")([^"]*)(")/i) || [])[2]
+       @id = (text.match(/(id=\")([^"]*)(")/i) || [])[2]
+       @size = (text.match(/(size=\")([^"]*)(")/i) || [])[2]
+       @button = (text.match(/(button=\")([^"]*)(")/i) || [])[2]
 
        @rows = 5
        case @size
