@@ -29,11 +29,11 @@ sections:
 - type: heading
   label: Translations
 - type: document
-  path: _data/en/strings.yml
+  path: _data/en/strings.yaml
   label: English
   match: "**/*"
 - type: document
-  path: _data/es/strings.yml
+  path: _data/es/strings.yaml
   label: Spanish
   match: "**/*"
 upload_dir: assets/images
