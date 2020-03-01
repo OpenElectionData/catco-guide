@@ -43,11 +43,13 @@
         <ul class="list-style-none">
           {% for link in site.data.menus.header %}
           {% assign url = link.url %}
+          {% assign title = link.title %}
           {% if link.id == 'download' %}
-          {% assign url = site.pdf_url | append: site.active_lang | append: '.pdf' | absolute_url %}
+          {% assign title = site.data.strings.download_guide %}
+          {% assign url = site.data.strings.guide_pdf %}
           {% endif %}
           <li class="d-inline-block my-0{% unless forloop.last %} mr-2{% endunless %}"><a href="{{ url }}"
-              class="{{ link.class }}">{{ link.title }}</a></li>
+              class="{{ link.class }}">{{ title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}

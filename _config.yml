@@ -3,9 +3,7 @@ title_full: Raising Voices in Closing Spaces
 title_full_br: Raising Voices in <br />Closing Spaces
 subtitle: Strategic Communications Planning for Nonpartisan Citizen Election Observer Groups
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This guide offers a step-by-step approach to strategic communications planning and programming in closing political spaces. It offers strategies, tactics and case studies for civil society groups operating in repressive environments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raiseavoice.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,7 +16,6 @@ instagram: ndidemocracy
 # Theme Settings
 search_enabled: true
 permalink: pretty
-pdf_url: "/assets/images/Raising_Voices_"
 
 # Collections
 collections:
