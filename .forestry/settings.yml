@@ -26,6 +26,16 @@ sections:
 - type: jekyll-pages
   label: Other Pages
   create: documents
+- type: heading
+  label: Translations
+- type: document
+  path: _data/en/strings.yml
+  label: English
+  match: "**/*"
+- type: document
+  path: _data/es/strings.yml
+  label: Spanish
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
