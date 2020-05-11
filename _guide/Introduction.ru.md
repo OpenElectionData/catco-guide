@@ -1,7 +1,7 @@
 ---
-lang: en
+lang: ru
 uses_forms: true
-title: ''
+title: 1. Introduction
 subtitle: ''
 image:
   url: ''
