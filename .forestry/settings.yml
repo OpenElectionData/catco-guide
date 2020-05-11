@@ -50,6 +50,12 @@ sections:
   - type: document
     path: _data/es/strings.yml
     label: Spanish
+  - type: document
+    path: _data/ru/strings.yml
+    label: Russian
+  - type: document
+    path: _data/ar/strings.yml
+    label: Arabic
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ""
