@@ -12,6 +12,8 @@
     @include mq(lg) {
       position: sticky;
       top: calc(#{$header-height} + #{$sp-9});
+      height: calc(100vh - #{$header-height} - #{$sp-10} - #{$sp-2});
+      overflow-y: scroll;
     }
   }
 }
