@@ -1,7 +1,7 @@
 ---
 lang: ru
 uses_forms: true
-title: 1. Introduction
+title: 1. Предисловие
 subtitle: ''
 image:
   url: ''
