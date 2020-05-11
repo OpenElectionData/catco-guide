@@ -34,7 +34,7 @@ defaults:
       permalink: "/:slug/"
 
 # Translation Settings
-languages: ["en", "es"]
+languages: ["en", "es", "ru"]
 default_lang: "en"
 exclude_from_localization: ["assets"]
 parallel_localization: true

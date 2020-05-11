@@ -2,31 +2,51 @@
 label: Menus
 hide_body: true
 fields:
-- name: sidebar
-  type: field_group
-  config: {}
-  fields:
-  - name: en
-    type: list
-    config:
-      use_select: true
-      min: 
-      max: 
-      source:
-        type: pages
-        section: guide-english
-    label: English
-    description: English Sidebar
-  - name: es
-    type: list
-    config:
-      use_select: true
-      min: 
-      max: 
-      source:
-        type: pages
-        section: guide-spanish
-    label: Spanish
-  label: sidebar
+  - name: sidebar
+    type: field_group
+    config: {}
+    fields:
+      - name: en
+        type: list
+        config:
+          use_select: true
+          min:
+          max:
+          source:
+            type: pages
+            section: guide-english
+        label: English
+        description: English Sidebar
+      - name: es
+        type: list
+        config:
+          use_select: true
+          min:
+          max:
+          source:
+            type: pages
+            section: guide-spanish
+        label: Spanish
+      - name: ru
+        type: list
+        config:
+          use_select: true
+          min:
+          max:
+          source:
+            type: pages
+            section: guide-russian
+        label: Russian
+      - name: ar
+        type: list
+        config:
+          use_select: true
+          min:
+          max:
+          source:
+            type: pages
+            section: guide-arabic
+        label: Arabic
+    label: sidebar
 pages:
-- _data/menus.yml
+  - _data/menus.yml

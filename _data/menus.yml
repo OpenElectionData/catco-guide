@@ -30,6 +30,21 @@ sidebar:
     - _guide/12-additional-resources.es.md
     - acronyms.es.md
     - acknowledgements.es.md
+  ru:
+    - _guide/1-introduction.ru.md
+    - _guide/2-what-are-you-trying-to-accomplish.ru.md
+    - _guide/3-who-are-you-talking-to.ru.md
+    - _guide/4-what-do-you-want-to-say-developing-a-frame-and-message.ru.md
+    - _guide/5-how-will-you-say-it.ru.md
+    - _guide/6-where-will-you-say-it.ru.md
+    - _guide/7-can-we-try-something-different-creative-communications-strategies.ru.md
+    - _guide/8-is-it-working.ru.md
+    - _guide/9-what-if-something-goes-wrong.ru.md
+    - _guide/10-who-is-going-to-do-all-this-work.ru.md
+    - _guide/11-what-have-others-tried.ru.md
+    - _guide/12-additional-resources.ru.md
+    - acronyms.ru.md
+    - acknowledgements.ru.md
 header:
   - id: download
     title: Download Guide
@@ -43,3 +58,7 @@ languages:
     title: Español
     url: "/es"
     weight: 2
+  - identifier: ru
+    title: Русский
+    url: "/ru"
+    weight: 3

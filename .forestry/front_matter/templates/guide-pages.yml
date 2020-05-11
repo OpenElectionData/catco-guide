@@ -16,6 +16,8 @@ fields:
     options:
     - en
     - es
+    - ru
+    - ar
     source:
       type: simple
       section: 
