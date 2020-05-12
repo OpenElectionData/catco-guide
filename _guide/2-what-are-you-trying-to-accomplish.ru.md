@@ -1,8 +1,8 @@
 ---
 lang: ru
 uses_forms: true
-title: 2. What are you trying to accomplish?
-subtitle: ''
+title: 2. Чего вы хотите достигнуть?
+subtitle: Определение целей, стратегий и тактик
 image:
   url: ''
   caption: ''
