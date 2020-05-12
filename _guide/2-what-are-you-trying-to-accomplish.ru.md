@@ -25,9 +25,9 @@ published: false
 
 {% endfigure %}
 
-### YOUR TURN: Setting Communications Goals
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Определение коммуникационных целей
 
-Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
+Проведите в команде или самостоятельно «мозговой штурм», чтобы выявить, какие коммуникационные цели вам необходимы и подумайте, какой успешный результат вы хотели бы видеть. Ниже приведены некоторые вопросы, которые помогут вам начать обсуждение:
 
 {% textarea label="What do we want to change or improve about the country's democratic or electoral processes?" id="1" size="large" button="false" %}
 
