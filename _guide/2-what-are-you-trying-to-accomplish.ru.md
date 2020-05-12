@@ -29,19 +29,19 @@ published: false
 
 Проведите в команде или самостоятельно «мозговой штурм», чтобы выявить, какие коммуникационные цели вам необходимы и подумайте, какой успешный результат вы хотели бы видеть. Ниже приведены некоторые вопросы, которые помогут вам начать обсуждение:
 
-{% textarea label="What do we want to change or improve about the country's democratic or electoral processes?" id="1" size="large" button="false" %}
+{% textarea label="Что мы хотим изменить или улучшить в демократических или избирательных процессах в стране?" id="1" size="large" button="false" %}
 
-{% textarea label="Do we want to raise awareness? If so, what does that look like?" id="2" size="large" button="false" %}
+{% textarea label="Хотим ли мы повысить осведомленность? Если да, то как?" id="2" size="large" button="false" %}
 
-{% textarea label="Do we want to expand our network of volunteers? If so, for what purpose?" id="3" size="large" button="false" %}
+{% textarea label="Хотим ли мы расширить волонтерскую сеть? Если да, то с какой целью?" id="3" size="large" button="false" %}
 
-{% textarea label="Do we want to enhance our credibility? Do we want to question the credibility of others?" id="4" size="large" button="false"  %}
+{% textarea label="Хотим ли мы повысить свой авторитет? Хотим ли мы поставить под вопрос достоверность других источников?" id="4" size="large" button="false"  %}
 
-{% textarea label="Do we want people to change their behavior or perceptions?" id="5" size="large" button="false"  %}
+{% textarea label="Хотим ли мы изменить поведение людей или их восприятие?" id="5" size="large" button="false"  %}
 
-{% textarea label="Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?" id="6" size="large" button="false"  %}
+{% textarea label="Хотим ли мы, чтобы люди предпринимали какие-то конкретные действия, например, сообщали о нарушениях, регистрировались на избирательных участках или принимали участие в выборах?" id="6" size="large" button="false"  %}
 
-{% textarea label="Do we want to change laws or policies?" id="7" size="large" button="false" %}
+{% textarea label="Хотим ли мы изменить законы или правила?" id="7" size="large" button="false" %}
 
 {% textarea label="What do people need to understand or be educated about?" id="8" size="large" button="false"  %}
 
