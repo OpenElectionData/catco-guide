@@ -1,6 +1,6 @@
 ---
 lang: ru
-uses_forms: true
+uses_forms: false
 title: 1. Предисловие
 subtitle: и краткое содержание
 image:
