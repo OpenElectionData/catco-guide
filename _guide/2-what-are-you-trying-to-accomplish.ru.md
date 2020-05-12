@@ -57,7 +57,7 @@ published: false
 
 ## SMART цели
 
-Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
+Если цели сформулированы нечетко, их будет трудно выполнять. Кроме того, это будет сложно понять. Старайтесь избегать нечетких или слишком обобщенных целей. Ставить перед собой умные (SMART) цели, находящиеся в их конкретная, измеримыми, достижимыми, релевантными и определенными во времени. Определяя для себя конкретные и четкие цели, вы сможете сфокусировать усилия на их достижениях, и у вас не будет возникать возможных проблем.
 
 | Vague Goals | SMART Goals |
 | --- | --- |
@@ -65,7 +65,7 @@ Vague goals are hard to work toward, or to know when you've achieved them. Avoid
 | Raise awareness | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election. |
 | Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms. |
 
-By defining the time-specific aspect of your goals, you'll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it's important to be clear with your team and your leadership of what you're hoping to accomplish when. You want to especially be sure you're working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you're making steady progress on it.
+Определяя временные рамки для достижения целей, вы получите более полное представление о том, какие цели будут для вас долгосрочными, а какие краткосрочными. Любой коммуникационный план включает в себя как долгосрочные, так и краткосрочные цели, и вам очень важно дать понять как вашей команде, так и руководству, чего вы хотите достичь и когда. Очень важно убедиться, что достигая краткосрочные цели, вы также приближаетесь к достижению долгосрочных. Возможно, вам нужно будет разбить долгосрочную цель на ряд краткосрочных, чтобы достижение первой было поступательным процессом.
 
 ### YOUR TURN: Setting SMART Goals
 
