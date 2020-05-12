@@ -49,14 +49,13 @@ published: false
 
 Возможно, в результате «мозгового штурма» вы сформулируете длинный список задач, которые нужно осуществить, но очень важно быть прагматичными в том, чего вы реально можете достичь за то время, которое у вас есть. Постарайтесь сократить количество ваших целей до одной-пяти, принимая во внимание имеющиеся у вас время и ресурсы. Даже если некоторые из задач будут исключены из списка, это не означает, что нужно от них навсегда отказаться. Вы всегда можете вернуться к ним в дальнейшем.
 
-{% callout title="Setting Organizational Goals" %}
-Don't forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country's democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
+{% callout title="Определение целей организации" %} Не забудьте включить в ваши цели организационное развитие. В Нигерии, группа наблюдателей за выборами [YIAGA AFRICA](https://www.yiaga.org/) своей целью ставит улучшение деятельности демократических институтов страны посредством вовлечения молодежи в демократические процессы, обеспечения прозрачных и честных выборов, борьбы с коррупцией, а также совершенствования механизмов подотчетности избранных должностных лиц. Но они также включают в свои цели распространение информации о YIAGA AFRICA среди разных групп населения, что помогает обеспечить долгосрочную работу организации.
 
 ![YIAGA](/assets/images/yiaga_3-1.jpg "YIAGA")
 
 {% endcallout %}
 
-## Smart Goals
+## SMART цели
 
 Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
 
