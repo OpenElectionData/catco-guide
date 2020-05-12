@@ -43,11 +43,11 @@ published: false
 
 {% textarea label="Хотим ли мы изменить законы или правила?" id="7" size="large" button="false" %}
 
-{% textarea label="What do people need to understand or be educated about?" id="8" size="large" button="false"  %}
+{% textarea label="Что людям нужно понимать или в чем им нужно быть более осведомленными?" id="8" size="large" button="false"  %}
 
-{% textarea label="List Your Goals Below" id="goals" size="large" button="false"  %}
+{% textarea label="Перечислите свои цели ниже" id="goals" size="large" button="false"  %}
 
-You may have brainstormed a long list of things you hope to accomplish, but it's important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn't mean you have to give up on them forever - you can always turn your attention to them at a later date.
+Возможно, в результате «мозгового штурма» вы сформулируете длинный список задач, которые нужно осуществить, но очень важно быть прагматичными в том, чего вы реально можете достичь за то время, которое у вас есть. Постарайтесь сократить количество ваших целей до одной-пяти, принимая во внимание имеющиеся у вас время и ресурсы. Даже если некоторые из задач будут исключены из списка, это не означает, что нужно от них навсегда отказаться. Вы всегда можете вернуться к ним в дальнейшем.
 
 {% callout title="Setting Organizational Goals" %}
 Don't forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country's democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
