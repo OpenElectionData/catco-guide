@@ -48,9 +48,10 @@ list:
 - acronym: SMART
   full_name: конкретные, измеримые, достижимые, релевантные и определенные во времени
 - acronym: SMS
-  full_name: short message service (text messages)
+  full_name: текстовые сообщения
 - acronym: YIAGA AFRICA
-  full_name: Youth Initiative for Advocacy, Growth & Advancement
+  full_name: Youth Initiative for Advocacy, Growth & Advancement (Молодежная инициатива
+    за защиту прав, рост и продвижение)
 published: false
 
 ---
