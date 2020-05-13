@@ -27,7 +27,9 @@ list:
 - acronym: ЛГБТИ
   full_name: лесбиянки, геи, бисексуалы, трансгендеры и интерсексуалы
 - acronym: MOCHA
-  full_name: Manager, Owner, Consultant, Helper, Approver
+  full_name: Модель для распределения обязанностей внутри организации (заглавные буквы
+    слов «manager» – менеджер, «owner» – владелец, «consultant» – консультант, «helper»
+    – помощнкик, «approver» – утверждающее лицо)
 - acronym: NDI
   full_name: National Democratic Institute
 - acronym: NGO
