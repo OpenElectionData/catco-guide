@@ -32,8 +32,8 @@ list:
     – помощнкик, «approver» – утверждающее лицо)
 - acronym: НДИ
   full_name: National Democratic Institute (Национальный демократический институт)
-- acronym: NGO
-  full_name: non-governmental organization
+- acronym: НГО
+  full_name: негосударственные организации
 - acronym: OPORA
   full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
 - acronym: PACE
