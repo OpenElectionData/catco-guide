@@ -24,8 +24,8 @@ list:
 - acronym: ISFED
   full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (Международное
     общество за справедливые выборы и демократию в Грузии)
-- acronym: LGBTI
-  full_name: lesbian, gay, bisexual, trans, intersex
+- acronym: ЛГБТИ
+  full_name: лесбиянки, геи, бисексуалы, трансгендеры и интерсексуалы
 - acronym: MOCHA
   full_name: Manager, Owner, Consultant, Helper, Approver
 - acronym: NDI
