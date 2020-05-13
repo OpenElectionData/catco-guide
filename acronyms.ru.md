@@ -46,7 +46,7 @@ list:
 - acronym: R2C
   full_name: Right To Choose (Право выбора)
 - acronym: SMART
-  full_name: Specific, Measurable, Attainable, Relevant, Time-sensitive
+  full_name: конкретные, измеримые, достижимые, релевантные и определенные во времени
 - acronym: SMS
   full_name: short message service (text messages)
 - acronym: YIAGA AFRICA
