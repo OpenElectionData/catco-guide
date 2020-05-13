@@ -7,6 +7,7 @@ image:
   url: ""
   caption: ""
 permalink: /11-what-have-others-tried/
+published: false
 ---
 
 ## Case Study: YouTube Stars Interview President Obama

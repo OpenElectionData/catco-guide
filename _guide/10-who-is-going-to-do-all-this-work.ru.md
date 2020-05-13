@@ -7,6 +7,7 @@ image:
   url: ""
   caption: ""
 permalink: /10-who-is-going-to-do-all-this-work/
+published: false
 ---
 
 {% figure caption:"PACE staff working on developing topline messages. PACE Photo." class:"left" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}

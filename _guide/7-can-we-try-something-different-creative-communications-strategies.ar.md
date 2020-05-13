@@ -7,6 +7,7 @@ image:
   caption: ""
 uses_forms: true
 permalink: /7-can-we-try-something-different/
+published: false
 ---
 
 Politics and elections are serious business. Pushing for democratic progress often involves facing great risks, threats, and even dangers for your organization and -- in some cases -- your own personal safety. But just because the topics and consequences of your work are serious doesn't mean they should be dense or dull.
