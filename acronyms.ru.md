@@ -10,7 +10,8 @@ list:
 - acronym: ЦИК
   full_name: Центральная избирательная комиссия Украины
 - acronym: CODEO
-  full_name: Coalition of Domestic Election Observers
+  full_name: Coalition of Domestic Election Observers (Коалиция национальных наблюдателей
+    за выборами в Гане)
 - acronym: CRM
   full_name: customer relationship manager
 - acronym: CRTA
