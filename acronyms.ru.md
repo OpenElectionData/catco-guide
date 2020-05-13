@@ -41,10 +41,10 @@ list:
     выборы в Мьянме)
 - acronym: ПИИ
   full_name: персональная идентифицирующая информация
-- acronym: PVT
-  full_name: parallel vote tabulation
+- acronym: ППГ
+  full_name: Параллельный подсчет голосов
 - acronym: R2C
-  full_name: Right To Choose
+  full_name: Right To Choose (Право выбора)
 - acronym: SMART
   full_name: Specific, Measurable, Attainable, Relevant, Time-sensitive
 - acronym: SMS
