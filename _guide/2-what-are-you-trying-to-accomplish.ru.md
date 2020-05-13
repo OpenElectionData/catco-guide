@@ -104,7 +104,7 @@ published: false
 
 Для того, чтобы проиллюстрировать это, давайте проанализируем одну из вышеперечисленных целей и распишем для нее стратегии, тактики и ресурсы.
 
-**SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
+**ПРИМЕР ЦЕЛИ**: Повысить осведомленность населения о том, что представляет из себя параллельный подсчет голосов (ППГ) путем привлечения 10 000 посетителей на наш веб-сайт, и за три недели до выборов уже иметь в среднем по 100 000 посещений на каждой из наших платформ в социальных сетях.
 
 | Strategies | Tactics | Resources Needed |
 | --- | --- | --- |
@@ -114,11 +114,11 @@ published: false
 
 {: .table--cols-equal}
 
-### YOUR TURN: Identifying Strategies, Tactics, and Resources
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Определение стратегий, тактик и ресурсов
 
-Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That's okay! Adjust your goals to reflect what you can realistically achieve.
+Теперь возьмите SMART цели, которые вы для себя определили, и используя таблицу ниже (по примеру выше), в колонках пропишите стратегии, тактики и ресурсы, которые вам понадобятся для достижения этих целей. Возможно, вы обнаружите, что ваши стратегии, тактики или ресурсные затраты нереалистичны и некоторые из целей нужно пересмотреть. Ничего страшного! Просто подкорректируйте свои цели, чтобы они отражали то, что вы реально можете достичь.
 
-**Goal 1:**
+**ЦЕЛЬ 1:**
 
 {% textarea label="List your tactics and resources for Strategy 1" id="tactics1" size="large" button="false" %}
 
@@ -126,4 +126,4 @@ Take the SMART goals you identified and use the below table (following the above
 
 {% textarea label="List your tactics and resources for Strategy 3" id="tactics3" size="large" button="false" %}
 
-Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them – from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group's communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
+Как только вы четко определитесь со своими целями, стратегиями и тактиками, убедитесь, что эти цели понятны и с ними согласны как персонал, так и руководство организации. Поскольку совет директоров или координационный комитет организации могут быть меньшей мерой вовлечены в повседневную деятельность организации, зачастую у них может сложиться отличное от вашего видение коммуникативных целей вашей группы или их приоритетности. Это может создать большие проблемы для работников коммуникационного звена, от которых будут требовать выполнения нескольких приоритетных задач одновременно, что негативно сказывается на эффективности работы. Приложите все усилия, чтобы рассмотреть и обсудить цели, стратегии и тактики со всеми, кто будет их выполнять, курировать или распределять по ним работу для того, чтобы у каждого было единое понимание того, какие действия будут предприниматься и почему.
