@@ -106,9 +106,10 @@ published: false
 
 **ПРИМЕР ЦЕЛИ**: Повысить осведомленность населения о том, что представляет из себя параллельный подсчет голосов (ППГ) путем привлечения 10 000 посетителей на наш веб-сайт, и за три недели до выборов уже иметь в среднем по 100 000 посещений на каждой из наших платформ в социальных сетях.
 
-| Strategies | Tactics | Resources Needed |
+| Стратегии | Тактики | Необходимые ресурсы |
 | --- | --- | --- |
-| Strategy 1: Use digital advertising to generate web traffic and social reach. | - Raise USD 10,000 for an ads budget.<br>- Research and test relevant search terms. <br>- A/B test (split test) ads to increase their relevance and success among audiences. <br>- Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | - $10,000 <br>- 10 hours/week of dedicated staff time |
+| Стратегия 1: Использовать Интернет-рекламу для привлечения трафика на веб-сайт и увеличения охвата в социальных сетях. | - Собрать 10 000 долларов в бюджет рекламы.
+ <br>- Найти и протестировать релевантные ключевые слова. <br>- Провести A/B-тест (сплит-тест) рекламы, чтобы увеличить ее эффективность и успешность среди аудиторий. <br>- Активно сотрудничать с отделами рекламы и обслуживания клиентов Facebook, Google и/или Twitter и обращаться к ним за помощью по вопросам внесения корректив в рекламную кампанию для того, чтобы повысить ее эффективность. | - 10 000 долларов США <br>- Работа персонала 10 часов в неделю |
 | Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | - Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br>- Reach out to that person and their team.<br>- Provide them with content and instructions on how to help on an ongoing basis. | - Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br>- Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
 | Strategy 3: Use our email list to encourage peer-to-peer social sharing. | - Write blog posts twice a week and share them on social media.<br>- Create graphics and videos for social media that people will want to share. Post once a day.<br>- Email social content to our list and ask them to share the posts with their networks. | - Two hours/day of staff time to create content and email our list. |
 
