@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acknowledgements
+title: Acknowledgements (Russian)
 permalink: "/acknowledgements/"
 lang: ru
 menu:

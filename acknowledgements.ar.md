@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acknowledgements
+title: Acknowledgements (Arabic)
 permalink: "/acknowledgements/"
 lang: ar
 menu:

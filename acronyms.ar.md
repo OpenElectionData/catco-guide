@@ -1,6 +1,6 @@
 ---
 layout: acronyms
-title: Acronyms
+title: Acronyms (Arabic)
 lang: ar
 permalink: "/acronyms/"
 list:
