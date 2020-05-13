@@ -17,8 +17,8 @@ list:
 - acronym: CRTA
   full_name: Centar za istraživanje, transparentnost i odgovornost (Центр исследования,
     гласности и подотчетности в Сербии)
-- acronym: CSOs
-  full_name: civil society organizations
+- acronym: ОГО
+  full_name: организации гражданского общества
 - acronym: GDPR
   full_name: European Union General Data Protection Regulations
 - acronym: ISFED
