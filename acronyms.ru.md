@@ -7,7 +7,7 @@ list:
 - acronym: BERSIH 2.0
   full_name: Gabungan Pilihanraya Bersih dan Adil (Коалиция за открытые и справедливые
     выборы)
-- acronym: CEC
+- acronym: ЦИК
   full_name: Центральная избирательная комиссия Украины
 - acronym: CODEO
   full_name: Coalition of Domestic Election Observers
