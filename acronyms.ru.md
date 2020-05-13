@@ -1,6 +1,6 @@
 ---
 layout: acronyms
-title: Acronyms (Russian)
+title: Список сокращений
 lang: ru
 permalink: "/acronyms/"
 list:
