@@ -1,15 +1,15 @@
 ---
 lang: ru
-title: 3. Who Are You Talking To?
-subtitle: Identifying Your Audience
+title: 3. К кому вы обращаетесь?
+subtitle: Как определить вашу аудиторию
 image:
-  url: ""
-  caption: ""
+  url: ''
+  caption: ''
 uses_forms: true
-permalink: /3-who-are-you-talking-to/
+permalink: "/3-who-are-you-talking-to/"
 published: false
----
 
+---
 In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.
 
 {% figure caption:"Chart adapted from Ed Grefe's lectures as an adjunct professor at George Washington University." class:"center" %} ![](/assets/images/bell_chart_eng.png)
