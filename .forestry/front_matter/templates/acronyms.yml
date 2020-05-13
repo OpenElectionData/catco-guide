@@ -30,5 +30,4 @@ fields:
     labelField: acronym
   label: List
 pages:
-- "./acronyms.md"
 - acronyms.md
