@@ -37,9 +37,10 @@ list:
 - acronym: ОПОРА
   full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
 - acronym: PACE
-  full_name: People's Alliance for Credible Elections
-- acronym: PII
-  full_name: personally identifiable information
+  full_name: People's Alliance for Credible Elections (Народный альянс за честные
+    выборы в Мьянме)
+- acronym: ПИИ
+  full_name: персональная идентифицирующая информация
 - acronym: PVT
   full_name: parallel vote tabulation
 - acronym: R2C
