@@ -12,8 +12,8 @@ list:
 - acronym: CODEO
   full_name: Coalition of Domestic Election Observers (Коалиция национальных наблюдателей
     за выборами в Гане)
-- acronym: CRM
-  full_name: customer relationship manager
+- acronym: МРК
+  full_name: менеджер по работе с клиентами
 - acronym: CRTA
   full_name: Centar za istraživanje, transparentnost i odgovornost (Center for Research,
     Transparency and Accountability)
