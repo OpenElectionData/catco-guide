@@ -8,7 +8,7 @@ list:
   full_name: Gabungan Pilihanraya Bersih dan Adil (Коалиция за открытые и справедливые
     выборы)
 - acronym: CEC
-  full_name: Central Election Commission of Ukraine
+  full_name: Центральная избирательная комиссия Украины
 - acronym: CODEO
   full_name: Coalition of Domestic Election Observers
 - acronym: CRM
