@@ -19,11 +19,11 @@ list:
     гласности и подотчетности в Сербии)
 - acronym: ОГО
   full_name: организации гражданского общества
-- acronym: GDPR
-  full_name: European Union General Data Protection Regulations
+- acronym: ГРЗД
+  full_name: Генеральный регламент по защите данных Европейского Союза
 - acronym: ISFED
-  full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (International
-    Society for Fair Elections and Democracy)
+  full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (Международное
+    общество за справедливые выборы и демократию в Грузии)
 - acronym: LGBTI
   full_name: lesbian, gay, bisexual, trans, intersex
 - acronym: MOCHA
