@@ -30,8 +30,8 @@ list:
   full_name: Модель для распределения обязанностей внутри организации (заглавные буквы
     слов «manager» – менеджер, «owner» – владелец, «consultant» – консультант, «helper»
     – помощнкик, «approver» – утверждающее лицо)
-- acronym: NDI
-  full_name: National Democratic Institute
+- acronym: НДИ
+  full_name: National Democratic Institute (Национальный демократический институт)
 - acronym: NGO
   full_name: non-governmental organization
 - acronym: OPORA
