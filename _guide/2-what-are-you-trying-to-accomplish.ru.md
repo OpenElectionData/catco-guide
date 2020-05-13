@@ -4,11 +4,12 @@ uses_forms: true
 title: 2. Чего вы хотите достигнуть?
 subtitle: Определение целей, стратегий и тактик
 image:
-  url: ''
-  caption: ''
+  url: ""
+  caption: ""
 published: false
-
+permalink: "/2-what-are-you-trying-to-accomplish/"
 ---
+
 Вы будете очень загружены непосредственно в период выборов. Чтобы избежать чрезмерной перегруженности и чтобы определить приоритетность ваших задач, нужно заблаговременно поставить четкие цели. Сформулируйте конкретные цели в самом начале планирования коммуникационных стратегий или информационной кампании, до того, как начнется избирательный процесс или кампания. Согласуйте эти цели с вашей командой и руководством, перед тем как вы совместно начнете над ними работать.
 
 Сформулировав четкие цели, вы сможете более эффективно определить те задачи, которые помогут вам достичь поставленных целей, и игнорировать задачи, которые препятствуют достижению целей. Не сформулировав четких целей изначально, вы не будете знать, достигли ли вы успеха. Вы также не будете знать, нужно ли вам что-то менять в ходе их осуществления.
@@ -59,11 +60,11 @@ published: false
 
 Если цели сформулированы нечетко, их будет трудно выполнять. Кроме того, это будет сложно понять. Старайтесь избегать нечетких или слишком обобщенных целей. Ставить перед собой умные (SMART) цели, находящиеся в их конкретная, измеримыми, достижимыми, релевантными и определенными во времени. Определяя для себя конкретные и четкие цели, вы сможете сфокусировать усилия на их достижениях, и у вас не будет возникать возможных проблем.
 
-| Vague Goals | SMART Goals |
-| --- | --- |
-| Build our credibility | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
-| Raise awareness | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election. |
-| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms. |
+| Vague Goals             | SMART Goals                                                                                                                                                                                                          |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Build our credibility   | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
+| Raise awareness         | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election.                                   |
+| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms.                                                                                                       |
 
 Определяя временные рамки для достижения целей, вы получите более полное представление о том, какие цели будут для вас долгосрочными, а какие краткосрочными. Любой коммуникационный план включает в себя как долгосрочные, так и краткосрочные цели, и вам очень важно дать понять как вашей команде, так и руководству, чего вы хотите достичь и когда. Очень важно убедиться, что достигая краткосрочные цели, вы также приближаетесь к достижению долгосрочных. Возможно, вам нужно будет разбить долгосрочную цель на ряд краткосрочных, чтобы достижение первой было поступательным процессом.
 
@@ -106,11 +107,11 @@ To illustrate this, let's build out one of the example goals above with strategi
 
 **SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
 
-| Strategies | Tactics | Resources Needed |
-| --- | --- | --- |
-| Strategy 1: Use digital advertising to generate web traffic and social reach. | - Raise USD 10,000 for an ads budget.<br>- Research and test relevant search terms. <br>- A/B test (split test) ads to increase their relevance and success among audiences. <br>- Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | - $10,000 <br>- 10 hours/week of dedicated staff time |
-| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | - Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br>- Reach out to that person and their team.<br>- Provide them with content and instructions on how to help on an ongoing basis. | - Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br>- Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
-| Strategy 3: Use our email list to encourage peer-to-peer social sharing. | - Write blog posts twice a week and share them on social media.<br>- Create graphics and videos for social media that people will want to share. Post once a day.<br>- Email social content to our list and ask them to share the posts with their networks. | - Two hours/day of staff time to create content and email our list. |
+| Strategies                                                                                                                   | Tactics                                                                                                                                                                                                                                                                                                                                            | Resources Needed                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Strategy 1: Use digital advertising to generate web traffic and social reach.                                                | - Raise USD 10,000 for an ads budget.<br>- Research and test relevant search terms. <br>- A/B test (split test) ads to increase their relevance and success among audiences. <br>- Proactively contact the Facebook, Google, and/or Twitter Advertising and Customer Service Team and ask for help refining ad campaign to make it more effective. | - \$10,000 <br>- 10 hours/week of dedicated staff time                                                                                                                                                                |
+| Strategy 2: Have a celebrity or other influential person share our content on social media and direct people to the website. | - Identify the celebrity or other influencer that we think would be interested in working with us and is popular with the audiences we need to reach. <br>- Reach out to that person and their team.<br>- Provide them with content and instructions on how to help on an ongoing basis.                                                           | - Two weeks of staff time to identify the right celebrity or other person and how to reach them. <br>- Three hours/week of staff time to manage that relationship and continue to give them updated content to share. |
+| Strategy 3: Use our email list to encourage peer-to-peer social sharing.                                                     | - Write blog posts twice a week and share them on social media.<br>- Create graphics and videos for social media that people will want to share. Post once a day.<br>- Email social content to our list and ask them to share the posts with their networks.                                                                                       | - Two hours/day of staff time to create content and email our list.                                                                                                                                                   |
 
 {: .table--cols-equal}
 

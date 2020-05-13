@@ -1,5 +1,5 @@
 ---
-lang: ar
+lang: ru
 uses_forms: false
 title: 6. Where Will You Say It?
 subtitle: "Identifying the Best Platform "
