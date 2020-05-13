@@ -15,8 +15,8 @@ list:
 - acronym: МРК
   full_name: менеджер по работе с клиентами
 - acronym: CRTA
-  full_name: Centar za istraživanje, transparentnost i odgovornost (Center for Research,
-    Transparency and Accountability)
+  full_name: Centar za istraživanje, transparentnost i odgovornost (Центр исследования,
+    гласности и подотчетности в Сербии)
 - acronym: CSOs
   full_name: civil society organizations
 - acronym: GDPR
