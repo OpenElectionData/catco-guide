@@ -157,21 +157,21 @@ published: false
 
 Например, в предвыборный период 2015 года пресса часто задавала вопросы о нарушениях, которые альянс обнаружил в списках избирателей. Вместо того, чтобы рассказывать об отдельных нарушениях и делать выводы из определенных примеров, которые могли бы помочь той или иной партии, Сай переводил разговор на значение прозрачности и на важность систематического проведения проверок списков избирателей. {% endcallout %}
 
-## The Power of Narrative
+## Истории – это эффективное средство
 
-Humans are hardwired to tell and connect to stories. Stories create an emotional and empathetic connection, and stay with people for longer than facts or statistics. Telling stories is how we teach people, connect with them, and gain their trust and friendship. Using stories to meet your communications goals and convey your messages can be a powerful and effective approach.
+Люди рассказывают истории и сопереживают им. Истории вызывают эмоциональные и эмпатические связи и остаются в памяти людей дольше, чем факты или статистика. Рассказывая истории, мы учим людей, строим с ними связи, заслуживаем их доверие и дружбу. Использование историй для достижения ваших коммуникационных целей и подачи ваших месседжей может быть мощным и эффективным подходом.
 
 {% figure caption:"_Photo: ISFED_" class:"center" %} ![](/assets/images/ISFED-1.jpg)
 
 {% endfigure %}
 
-All stories have settings, characters, and plots. The best stories also have a narrative arc and a moral. A narrative arc means that the plot builds to a climax rather than just a plot where one thing happens after another without any sort of build up. After the climax, there is a resolution that should contain some sort of lesson or moral.
+Все истории имеют время и место действия, героев и сюжеты. Лучшие рассказы также включают сюжетную арку и мораль. Если в рассказе есть сюжетная арка, то сюжетная линия в нем идет по нарастающей до кульминации,и события в нем не происходят просто одно за другим без всякого развития. После кульминации наступает развязка, которая содержит в себе определенный урок или мораль.
 
-For example, here is a story that just has a setting, character, and plot: _Yesterday, I ran errands around the city. I went to the tailor, then the supermarket, then the library. Then I went home._ The setting is the city, I am the character, and the plot is the series of actions. While technically a narrative, without a narrative arc or moral, it's pretty boring! And you are unlikely to remember anything about it or learn anything from it.
+Вот, например, рассказ, в котором есть только время, место действия, герой и сюжет: _«Вчера я сбегал в город. Забежал к портному, потом в гастроном, потом в библиотеку. Потом я вернулся домой»_. Время и место действия – это город, герой – это я, а сюжет – это ряд действий, которые я совершил. Хотя это номинально и является рассказом, но без сюжетной арки и морали, он звучит довольно скучно. И очень сомнительно, что вы хоть что-то из него запомните или извлечете.
 
-A more effective narrative would go something like this: _Yesterday, I ran errands around the city. I went to the tailor, but the tailor had ripped my pants! I demanded my money back, but instead he kept the pants and threw me out of the shop. On my way home I bought a sewing machine so that I can hem my own pants from now on._ That story builds to a climax (I got thrown out of the shop), and you learned a lesson that it's a good idea to hem your pants yourself.
+Более эффективным был бы, к примеру, следующий рассказ: _«Вчера я сбегал в город. Забежал к портному, но он порвал мои штаны! Я потребовал, чтобы он вернул мне деньги, но не получил ни штанов, ни денег, а портной вышвырнул меня из мастерской! По дороге домой я купил швейную машинку и теперь буду подшивать свои штаны сам»_. Такой рассказ имеет сюжетную линию, которая идет по нарастающей до кульминации  (портной вышвырнул меня из мастерской) и вы извлекли урок о том, что подшивать штаны лучше самому.
 
-Narrative is powerful. Stories create a deeper personal connection than facts or data. If you had just read that incidents of tailors ripping pants had increased 33 percent in the last two years, you might not change your behavior. But after you heard the story above, you may think twice about taking your pants to a tailor, and consider hemming your pants yourself to avoid the same fate.
+Истории – это эффективное средство. Они создают более глубокие связи на личностном уровне, чем это могут сделать факты или цифры. Если бы вы просто прочитали о том, что за последние два года случаи, когда портные рвут штаны увеличились на 33 процента, на вас бы это не произвело никакого впечатления. Но прочитав эту историю, вы, возможно, дважды подумаете прежде, чем отнести штаны к портному, и подошьете их сами.
 
 {% callout title="Using Compelling Narrative in Election Observation" %}
 
