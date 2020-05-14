@@ -93,15 +93,13 @@ published: false
 
 {% textarea label="Что побудило вас поддерживать эту идею?" id="brainstorimg3" size="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brainstorming4" size="large" button="false" %}
+{% textarea label="Кому помогает то, что вы делаете? Как это им помогает?" id="brainstorming4" size="large" button="false" %}
 
-{% textarea label="Кому помогает то, что вы делаете? Как это им помогает?" id="brainstorming5" size="large" button="false" %}
+{% textarea label="Какими ценностными установками вы руководствуетесь в своей деятельности?" id="brainstorming5" size="large" button="false" %}
 
-{% textarea label="Какими ценностными установками вы руководствуетесь в своей деятельности?" id="brainstorming6" size="large" button="false" %}
+{% textarea label="Что будет, если ваши усилия закончатся провалом?" id="brainstorming6" size="large" button="false" %}
 
-{% textarea label="Что будет, если ваши усилия закончатся провалом?" id="brainstorming7" size="large" button="false" %}
-
-{% textarea label="Что побуждает вас ежедневно отстаивать вашу идею?" id="brainstorming" size="large" button="false" %}
+{% textarea label="Что побуждает вас ежедневно отстаивать вашу идею?" id="brainstorming7" size="large" button="false" %}
 
 **Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
 
