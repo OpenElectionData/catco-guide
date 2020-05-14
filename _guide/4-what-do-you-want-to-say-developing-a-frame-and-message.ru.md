@@ -101,13 +101,13 @@ published: false
 
 {% textarea label="Что побуждает вас ежедневно отстаивать вашу идею?" id="brainstorming7" size="large" button="false" %}
 
-**Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
+**Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.** Скорее всего, в результате у вас получилось много несвязанных слов. Возьмите ручки разного цвета или отдельные листы бумаги и начните таким образом сортировать слова и фразы в группы, которые сходны по теме или по характеру ответов.
 
-**Keep narrowing down and honing each group. Which words or themes keep coming up? Which ones are the most persuasive? The most inspiring? The most emotional?**
+**Keep narrowing down and honing each group. Which words or themes keep coming up? Which ones are the most persuasive? The most inspiring? The most emotional?** Пересмотрите слова и фразы в каждой из групп. Какие слова или темы всплывают снова и снова? Какие являются наиболее убедительными? Какие самые вдохновляющие? Какие вызывают больше всего эмоций?
 
-**Take the most persuasive phrases and words and craft them into one or two sentences. That's your topline message.**
+**Take the most persuasive phrases and words and craft them into one or two sentences. That's your topline message.** Возьмите самые убедительные фразы и слова и сложите их в одно или два предложения. Это будет вашим ключевым месседжем.
 
-**Go back and look at your goals -- make sure this message supports your overall goals.**
+Снова посмотрите на свою цель и убедитесь, что основная идея поддерживает вашу конечную цель.
 
 ## Different Messages Resonate with Different Audiences
 
