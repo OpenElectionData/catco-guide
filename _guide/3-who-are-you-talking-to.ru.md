@@ -61,9 +61,9 @@ published: false
 
 Кого мы упустили из виду?
 
-Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.
+Проанализируйте те аудитории, на которые нацелены ваши стратегии и тактики. Возможно, вы не включили в свои коммуникационные цели, стратегии и тактики определенную ключевую аудиторию? Возможно, вам нужно добавить некую цель, стратегию или набор тактик для того, чтобы включить ту ключевую аудиторию, которую вы случайно упустили из виду?
 
-For example, let's say you've gotten this far but none of your strategies involve reaching the audience of the political party in power - even though they will be an important group to accept the legitimacy of the PVT findings. Revisit your goals, strategies and tactics to think about how you'll talk to them and what you hope to accomplish when you do.
+Допустим, вы уже проделали большую работу, но ни одна из ваших стратегий не нацелена на то, чтобы донести информацию до правящей политической партии, хотя они являются важной группой, которая может подтвердить достоверность результатов ППГ. Еще раз пересмотрите свои цели, стратегии и тактики и продумайте, каким образом лучше обращаться к правящей партии и чего вы хотите добиться в результате.
 
 {% callout title="Reaching Your Audience Without Mainstream Media" %} In Serbia, the [Center for Research, Transparency and Accountability (CRTA)](https://crta.rs/en/) targets representatives of the election commission, the independent media, political parties, other civil society organizations, and the international community in order to get its message out about the election observation process and findings. The group also communicates broadly with the public and especially with those members of the public they believe will be active in defending democracy and volunteer or otherwise support CRTA and its work.
 
