@@ -197,9 +197,9 @@ published: false
 
 Кроме того, обратите внимание – наш рассказ о работающей матери, которая не смогла проголосовать, работает в рамках нашей коммуникационной концепции и несет в себе нашу основную идею. Для того, чтобы рассказ о матери имел эмоциональное воздействие, мы основываемся на нашем предположении, что демократия – это хорошо и что люди должны иметь возможность голосовать за партию или за лицо по своему выбору. Этот рассказ иллюстрирует нашу главную идею о том, что ППГ помогает сделать независимую проверку достоверности официальных результатов голосования и что каждый голос должен быть учтен. При этом рассказ находит отклик у аудитории на эмоциональном уровне, позволяя им понять и запомнить общий месседж и выводы.
 
-### YOUR TURN: Using Compelling Narrative
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Using Compelling Narrative
 
-{% textarea label="Spend some time brainstorming the stories you know that illustrate and drive home your messages. Remember that the best stories have settings, characters, a narrative arc, and a moral or message" id="narrative" size="large" button="false" %}
+{% textarea label="Проведите «мозговой штурм» и коллективно обсудите известные вам истории, которые бы иллюстрировали ваши месседжи и несли в себе основную идею. Помните, что лучшие рассказы должны включать в себя время и место действия, героев, сюжетную арку и мораль/основную мысль." id="narrative" size="large" button="false" %}
 
 {% textarea label="Now look at your messages and goals. Which stories do you wish you could tell to connect with target audiences? What stories do you need to be on the lookout for or spend some time researching and recording?" id="narrative2" size="large" button="false" %}
 
