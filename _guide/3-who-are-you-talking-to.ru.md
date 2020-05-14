@@ -104,17 +104,17 @@ published: false
 
 Если между вами и вашими аудиториями есть много различий, вы можете сразу и не знать ответов на некоторые вопросы. Не делайте предположений и не гадайте! Попытайтесь изучить эти аудитории, чтобы лучше их понимать. Ниже представлены несколько способов, благодаря которым вы можете получить информацию о своих целевых аудиториях. _(Примечание: пожалуй, самым практичным подходом будет объединить изучение аудитории с изучением способов подачи ей информации; см. следующий раздел)_
 
-* **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
-* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
-* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
+* **Найдите имеющуюся в доступе информацию.** В зависимости от того, где вы находитесь, различные веб-сайты, социальные сети, газеты и телепрограммы могут предоставлять информацию о том, кто является их аудиторией. Если эта информация имеется в доступе, используйте ее для того, чтобы больше узнать о взглядах своей аудитории.
+* **Создайте фокус-группы.** Соберите 4-8 человек из своей целевой аудитории в одной комнате и задайте им вопросы из раздела «Изучите свои целевые аудитории». Просто послушайте их ответы и не вступайте с ними ни в какие дискуссии. Цель состоит не в том, чтобы убедить их узнавать информацию тем способом, которым вы хотите ее распространять, а в том, чтобы узнать, каким образом лучше всего подавать информацию.
+* **Личные интервью.** Подробные личные интервью с представителями вашей аудитории позволят больше узнать об их мнениях и задать дополнительные вопросы. Опять-таки, ваша задача не убедить их делать так, как вы, а изменить то, как вы это делаете, чтобы лучшим способом подстроиться к тому, как это привыкла делать ваша аудитория.
 
-### YOUR TURN: Creating Detailed Audience Profiles
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Creating Detailed Audience Profiles
 
-**Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
+**Используя то, что вы уже знаете о своих основных целевых аудиториях из имеющихся данных, фокус-групп и/или интервью, создайте их подробные профили в таблице ниже.**
 
-With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
+Вооружившись более четким пониманием ваших целевых аудиторий, еще раз посмотрите на свои цели, стратегии и тактики. Актуальны ли они еще, учитывая приобретенные вами знания о ваших целевых аудиториях? Коммуницируете ли вы с ними наилучшим из всех имеющихся способов? Есть ли еще какие-то аудитории, которые стоит охватить для достижения ваших целей? Откорректируйте свои цели, стратегии и тактики соответствующим образом, а также убедитесь, что вы охватили все нужные аудитории.
 
-When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
+When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above: Когда вы проделаете эту работу, у вас сложится довольно детальная картина ваших целевых аудиторий. Давайте продолжим наш пример выше:
 
 | Target Audience | Strategy |
 | --- | --- |
@@ -122,11 +122,11 @@ When you're done, you should have a pretty detailed picture of your target audie
 | Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
 | Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
 
-{% textarea label="Target Audience 1" id="1a" size="Small" button="false" %}  
-{% textarea label="Detailed Profile 1" id="1b" size="Small" button="false" %}
+{% textarea label="Целевая аудитория 1" id="1a" size="Small" button="false" %}  
+{% textarea label="Подробный профиль 1" id="1b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 2" id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile 2" id="2b" size="Small" button="false" %}
+{% textarea label="Целевая аудитория 2" id="2a" size="Small" button="false" %} {% textarea label="Подробный профиль 2" id="2b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 3" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="3b" size="Small" button="false" %}
+{% textarea label="Целевая аудитория 3" id="3a" size="Small" button="false" %} {% textarea label="Подробный профиль 3" id="3b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 4" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 4" id="4b" size="Small" button="false" %}
+{% textarea label="Целевая аудитория 4" id="4a" size="Small" button="false" %} {% textarea label="Подробный профиль 4" id="4b" size="Small" button="false" %}
