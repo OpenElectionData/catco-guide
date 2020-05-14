@@ -38,29 +38,29 @@ published: false
 
 **Теперь в таблице ниже перечислите ценностные установки и убеждения ваших ключевых целевых аудиторий, чтобы проанализировать, соответствует ли ваша коммуникационная концепция ценностным установкам и убеждениям каждой из ваших ключевых аудиторий.**
 
-{% textarea label="Target Audience 1" id="target1" size="small" button="false" %}
+{% textarea label="Целевая аудитория 1" id="target1" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value1" size="large" button="false" %}
+{% textarea label="Ценностные установки и убеждения" id="value1" size="large" button="false" %}
 
-{% textarea label="Target Audience 2" id="target2" size="small" button="false" %}
+{% textarea label="Целевая аудитория 2" id="target2" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value2" size="large" button="false" %}
+{% textarea label="Ценностные установки и убеждения" id="value2" size="large" button="false" %}
 
-{% textarea label="Target Audience 3" id="target3" size="small" button="false" %}
+{% textarea label="Целевая аудитория 3" id="target3" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value3" size="large" button="false" %}
+{% textarea label="Ценностные установки и убеждения" id="value3" size="large" button="false" %}
 
-{% textarea label="Target Audience 4" id="target4" size="small" button="false" %}
+{% textarea label="Целевая аудитория 4" id="target4" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value4" size="large" button="false" %}
+{% textarea label="Ценностные установки и убеждения" id="value4" size="large" button="false" %}
 
-{% textarea label="Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?" id="comparison" size="large" button="false" %}
+{% textarea label="Сравните ценностные установки и убеждения, которые составляют основу вашей работы с ценностями и убеждениями ваших аудиторий. Совпадают ли они? Если нет, то как вы можете их сформулировать так, чтобы они были восприняты аудиторией, но при этом вам не пришлось бы отказаться от своих ценностей и принципов?" id="comparison" size="large" button="false" %}
 
-Once you have settled on a clear frame, it's important to ensure that all your communications fit within it. Share it with all the members of your team, spokespeople, leaders, board members, etc. Check all outgoing communications against the frame to ensure consistency. If you create communications that are inconsistent with your frame, your audiences will be confused and your messages will be muddled. People need to know what your underlying values are and what to expect from your organization.
+Когда вы определитесь с четкой коммуникационной концепцией, очень важно принять все меры, чтобы все ваши коммуникации ей соответствовали. Распространите концепцию среди членов своей команды, своих представителей, лидеров, членов совета директоров и т.п. Проверяйте всю исходящую коммуникацию на соответствие коммуникационной концепции, чтобы обеспечить ее последовательность. Если ваша коммуникация противоречит созданной коммуникационной концепции, это будет сбивать с толку ваши аудитории и ваши месседжи будут запутанными. Людям нужно знать, какие ценностные установки служат основой вашей деятельности и чего ожидать от вашей организации.
 
-For example, if your frame is that democracy is preferable to all other forms of government, elections should be competitive, and that the will of the people must be respected, but you issue a press release implying that a certain candidate should pull out of the race, your audience will become confused, you will lose credibility, and your subsequent messaging will be inconsistent or contradictory.
+Например, если ваша коммуникационная концепция основана на том, что демократия является предпочтительной формой государственного устройства, выборы должны быть состязательными и воля народа должна уважаться, но при этом вы выпускаете пресс-релиз, в котором пишете, что такому-то кандидату следует снять свою кандидатуру, ваша аудитория будет сбита с толку, вы потеряете доверие к себе, и все ваши последующие месседжи будут восприниматься как непоследовательные и противоречивые.
 
-## Develop Your Topline Message
+## Разработайте свою основную идею
 
 Now that you're clear on your frame, it's time to start developing your topline message. This is the distillation of the key point(s) you want to get across in all your communications. Whereas a frame is a place of common understanding between you and your audience, your topline message is what you want your audience to learn and have reinforced every time they hear from you.
 
