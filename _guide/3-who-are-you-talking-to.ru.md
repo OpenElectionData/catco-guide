@@ -40,26 +40,26 @@ published: false
 | Целевая аудитория | Стратегии |
 | :--- | :--- |
 | - Журналисты, которые пишут о выборах<br>- Члены правящей партии<br>- Члены оппозиционной партии/партий | Стратегия 1: Использовать Интернет-рекламу для привлечения трафика на веб-сайт и увеличения охвата в социальных сетях. |
-| - Мужчины от 16 до 26 лет | Стратегия 2: Обратится к знаменитости или иному влиятельному лицу, популярному среди мужчин данного возраста, с просьбой поделиться нашим контентом в социальных сетях и направлять пользователей на наш веб-сайт.  |
+| - Мужчины от 16 до 26 лет | Стратегия 2: Обратится к знаменитости или иному влиятельному лицу, популярному среди мужчин данного возраста, с просьбой поделиться нашим контентом в социальных сетях и направлять пользователей на наш веб-сайт. |
 | - Действующие члены (они же наши «друзья») и их социальные сети | Стратегия 3: Использовать наш список контактов для распространения нашего контента в социальных сетях «от пользователя к пользователю» (P2P, «peer-to-peer»). |
 
-### Your Turn: Identify Your Audience
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Определите свою аудиторию
 
-Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why? You may need to change or refine your tactics as you get a clearer picture of who your audience is.
+Еще раз проанализируйте свои цели, стратегии и тактики в предыдущем упражнении. Теперь подумайте, какие целевые аудитории вам нужно охватить, чтобы достичь успеха и почему? После этого обдумайте, какие стратегии и тактики наиболее подходят для каждой из аудиторий. Возможно, вам придется изменить или усовершенствовать свои стратегии или тактики, когда сложится более четкая картина о том, кто является вашей аудиторией.
 
-### Target Audiences
+### Целевая аудитория
 
-{% textarea label="Who are the groups of people you want to reach out to?" id="Target Audience" size="small" button="false" %}
+{% textarea label="К каким группам людей вы хотите обратиться?" id="Target Audience" size="small" button="false" %}
 
-### Strategies
+### Стратегия
 
-{% textarea label="What strategy will you use to reach out to each target audience?  " id="Strategies" size="small" button="false" %}
+{% textarea label="Какую стратегию вы будете использовать для охвата каждой Целевой аудитории?" id="Strategies" size="small" button="false" %}
 
-### Tactics
+### Тактика
 
-{% textarea label="What are the individual actions you might take to enact each strategy listed?" id="Tactics" size="small" button="false" %}
+{% textarea label="Какие отдельные действия вы могли бы предпринять для реализации каждой из перечисленных стратегий?" id="Tactics" size="small" button="false" %}
 
-_Who's Missing?_
+Кого мы упустили из виду?
 
 Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.
 
