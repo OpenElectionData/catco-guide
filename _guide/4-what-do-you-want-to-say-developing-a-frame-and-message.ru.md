@@ -66,18 +66,18 @@ published: false
 
 Продолжая наш пример выше, если вашей целью является повысить осведомленность о проводимом вами ППГ, а ваша коммуникационная концепция – это то, что демократия является предпочтительной формой государственного устройства, то вашим ключевым месседжем может быть следующее:
 
-**A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.**
+**ППГ позволяет дать независимую оценку достоверности официальных результатов голосования, потому что каждый голос должен быть услышан и учтен.**
 
-## What Makes for a Good Topline Message?
+## Какой должна быть основная идея?
 
-The message in the example above is:
+Идея в примере выше:
 
-* Short
-* Clear
-* Teaches the audience something it might not know
-* Embedded with values and emotion meant to connect with the audience
+* Лаконичная;
+* Четкая;
+* Дает новую информацию аудитории;
+* Несет в себе ценности и эмоциональную нагрузку, которая вызывает отклик у аудитории.
 
-If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
+Если бы ключевым месседжем было только то, что «ППГ позволяет дать независимую оценку достоверности официальных результатов выборов, что предотвращает фальсификации», то он бы повысил осведомленность аудитории о том, что такое ППГ, но не нес бы в себе эмоциональный посыл, который нашел бы отклик в вашей аудитории. Если бы основная идея звучала следующим образом: «мы должны предпринять все, чтобы каждый голос был учтен», она бы, возможно, и вызвала эмоциональную реакцию в аудитории, но не соответствовала бы вашей цели повышения осведомленности населения о том, что такое ППГ и как это работает.
 
 {% callout title="Focusing on One Message" %} [Civil Network OPORA](https://www.oporaua.org/en) is a citizen group in Ukraine that has been observing elections and calling for stronger democratic institutions for more than a decade. One thing they've learned in that time is to choose one message and stick to it for the duration of a campaign. “If you present dozens of issues or messages at a time, you're not going to get people to focus,” said Iryna Shvets, OPORA's program manager. Instead, OPORA will choose one focused message and push it out exclusively for at least two months, or until the group feels like it has broken through with their audience.
 
