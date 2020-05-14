@@ -1,15 +1,15 @@
 ---
 lang: ru
 uses_forms: true
-title: "4. What Do You Want To Say?"
-subtitle: Developing a Frame and Message
+title: 4. Что вы хотите сказать?
+subtitle: 'Разработка коммуникационной концепции и основной идеи '
 image:
-  url: ""
-  caption: ""
-permalink: /4-what-do-you-want-to-say/
+  url: ''
+  caption: ''
+permalink: "/4-what-do-you-want-to-say/"
 published: false
----
 
+---
 ## Develop a Communications Frame
 
 A communications frame is the set of values and assumptions that all of your communications take for granted. Having a clear communications frame from the outset will ensure consistency across your communications, but it will also ensure that your audiences understand where you are coming from and what you are trying to communicate to them.
