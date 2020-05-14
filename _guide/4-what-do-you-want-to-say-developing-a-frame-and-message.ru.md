@@ -7,7 +7,6 @@ image:
   url: ''
   caption: ''
 permalink: "/4-what-do-you-want-to-say/"
-published: false
 
 ---
 ## Разработайте коммуникационную концепцию
