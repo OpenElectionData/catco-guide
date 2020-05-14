@@ -83,9 +83,9 @@ published: false
 
 Когда организация проводила кампанию по воздействию на правительство, чтобы побудить его назначить новых членов Центральной избирательной комиссии, основным их посылом было то, что полномочия комиссии истекли и ее состав нужно незамедлительно обновить. Они включили этот месседж во все свои внешние коммуникации и транслировали его до тех пор, пока не были назначены новые члены комиссии. (Подробную информацию о кампании см. в Разделе «Разбор примеров из практики»). {% endcallout %}
 
-### YOUR TURN: Create Your Topline Message
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Сформулируйте основную идею
 
-**Start by brainstorming all of the possible things you might want to say. Don't hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
+**Начните с проведения «мозгового штурма» и  коллективно обсудите все возможные идеи, которые вы хотели бы выразить. Высказывайте все свои идеи! Это могут быть как целые предложения, так и просто отдельные слова.**
 
 {% textarea label="Someone asks you what your organization is all about. How do you answer?" id="brainstorming1" size="large" button="false" %}
 
