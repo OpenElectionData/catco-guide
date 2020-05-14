@@ -62,9 +62,9 @@ published: false
 
 ## Разработайте свою основную идею
 
-Now that you're clear on your frame, it's time to start developing your topline message. This is the distillation of the key point(s) you want to get across in all your communications. Whereas a frame is a place of common understanding between you and your audience, your topline message is what you want your audience to learn and have reinforced every time they hear from you.
+Теперь, когда вы определились с коммуникационной концепцией, настало время начать разрабатывать основную идею. Она должна включать в себя все ключевые доводы, которые вы хотите донести до аудитории. В то время, как коммуникационная концепция является общим знаменателем для вас и вашей аудитории, основная идея – это то, что вы хотите, чтобы ваша аудитория узнавала или закрепляла каждый раз, когда они получают от вас информацию.
 
-Continuing with our example, if your goal is to raise awareness of your PVT and your frame is that democracy is preferable to all other forms of government, you topline message might be:
+Продолжая наш пример выше, если вашей целью является повысить осведомленность о проводимом вами ППГ, а ваша коммуникационная концепция – это то, что демократия является предпочтительной формой государственного устройства, то вашим ключевым месседжем может быть следующее:
 
 **A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.**
 
