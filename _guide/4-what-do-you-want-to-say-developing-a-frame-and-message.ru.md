@@ -10,21 +10,21 @@ permalink: "/4-what-do-you-want-to-say/"
 published: false
 
 ---
-## Develop a Communications Frame
+## Разработайте коммуникационную концепцию
 
-A communications frame is the set of values and assumptions that all of your communications take for granted. Having a clear communications frame from the outset will ensure consistency across your communications, but it will also ensure that your audiences understand where you are coming from and what you are trying to communicate to them.
+Коммуникационная концепция – это ценностные установки и убеждения, которые будут составлять канву всех ваших коммуникаций. Четкая концепция коммуникации поможет вам последовательно, систематично и в доступной форме подавать информацию для аудитории.
 
-For example, your frame might be that democracy is preferable to other forms of government. Other assumptions of that frame might include the ideas that citizens should be able to participate freely in the democratic process, a peaceful transfer of power is preferable to one-party rule, elections should be credible, and democratic governance should improve people's lives.
+Например, ваша коммуникационная концепция может быть следующей: демократия – это наиболее предпочтительная форма государственного устройства. Другие установки этой концепции могут следующее: граждане должны иметь возможность свободно участвовать в демократическом процессе, власть должна передаваться мирным путем и это предпочтительнее однопартийной системы, выборы должны быть объективными, демократическая система правления делает жизнь людей лучше.
 
-If your audience does not share the values and assumptions of your frame, they will have a hard time understanding what you are trying to communicate to them.
+Если ваша аудитория не разделяет ценностных установок и убеждений в вашей коммуникационной концепции, им будет очень сложно понять, что вы пытаетесь им сказать.
 
-Continuing the example above, if your audience rejects your frame and instead believes that one-party rule is preferable to democracy, then they will not be receptive to any narratives or messages about supporting competitive election processes. You won't be listened to or understood.
+Продолжая пример выше, если ваша аудитория отвергает вашу коммуникационную концепцию и, наоборот, верит в то, что однопартийная система управления лучше, чем демократия, они не будут воспринимать никаких доводов или месседжей в поддержку конкурентных избирательных процессов, к вам не захотят прислушиваться.
 
-You may need to re-adjust your frame to match that of your audience so that they are receptive to what you are trying to convey. In places where a democracy frame won't be understood or trusted, you may need to create a communications frame around values of fairness, national strength, unity, or some other value or outlook upon which you and your audience can agree and understand each other.
+Возможно, нужно будет подкорректировать вашу коммуникационную концепцию, чтобы она совпадала с концепцией вашей аудитории, и тогда аудитория будет более восприимчивой к тому, что вы пытаетесь донести. В тех регионах, где демократическую коммуникационную концепцию не поймут и не будут ей доверять, вам, возможно, придется создать коммуникационную концепцию, которая будет основываться на таких ценностях, как справедливость, единство или же на иных ценностях или мировоззрении, в отношении которых вы и ваша аудитория можете сойтись во мнениях и понять друг друга.
 
-### YOUR TURN: Develop a Communications Frame
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Разработайте коммуникационную концепцию
 
-**Brainstorm a list of basic values and assumptions that are at the core of your work and communications.**
+**Проведите «мозговой штурм» и коллективно обсудите перечень базовых ценностей и убеждений, которые являются основными в вашей работе и в ваших коммуникационных стратегиях.**
 
 {% textarea label="1" id="value and assumption1" size="small" button="false" %}
 
@@ -34,9 +34,9 @@ You may need to re-adjust your frame to match that of your audience so that they
 
 {% textarea label="4" id="value and assumption4" size="small" button="false" %}
 
-**Refine these until you have a clear list of assumptions and values that will be reflected throughout your communications.**
+**Продолжайте над ними работать, пока у вас не появится четкий список убеждений и ценностных установок, которые вы будете отражать в своих коммуникациях.**
 
-**Now list the values and assumptions of your key target audiences to assess whether this frame truly matches the values and assumptions of each of your key audiences.**
+**Теперь в таблице ниже перечислите ценностные установки и убеждения ваших ключевых целевых аудиторий, чтобы проанализировать, соответствует ли ваша коммуникационная концепция ценностным установкам и убеждениям каждой из ваших ключевых аудиторий.**
 
 {% textarea label="Target Audience 1" id="target1" size="small" button="false" %}
 
@@ -72,10 +72,10 @@ Continuing with our example, if your goal is to raise awareness of your PVT and 
 
 The message in the example above is:
 
-- Short
-- Clear
-- Teaches the audience something it might not know
-- Embedded with values and emotion meant to connect with the audience
+* Short
+* Clear
+* Teaches the audience something it might not know
+* Embedded with values and emotion meant to connect with the audience
 
 If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
 
@@ -123,8 +123,8 @@ This can mean changing the tone or vocabulary you use, or it can mean reshaping 
 
 Example:
 
-| Goal                                                                                                                                                                                              | Top Line Message                                                                                                                                   | Target Audience                                                                                                                                                      | Target Message                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Goal | Top Line Message | Target Audience | Target Message |
+| --- | --- | --- | --- |
 | Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections <br> <br> <br> <br> <br> <br> <br> <br> Members of the party in power <br> <br> <br> <br> <br> Members of the opposition party | A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results. <br> <br> A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. <br> <br> A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
 
 In the examples above, the topline message has been slightly modified in each of the target messages to appeal more strongly to the emotions of each target audience. For journalists, the PVT will make their reporting easier and more accurate. For members of the party in power, respecting the PVT results will bolster their historical reputation as great leaders who respect the will of the people. For members of the opposition party, the PVT will deter fraud and the chance that the election will be stolen from them.
