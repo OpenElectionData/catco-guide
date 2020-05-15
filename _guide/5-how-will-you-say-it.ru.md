@@ -92,7 +92,7 @@ published: false
   * Если вы снимаете видео- или аудио-ролики на телефон, не забывайте, что микрофон будет расположен ближе к вам, чем к человеку, которого вы записываете. Микрофон лучше запишет ваши инструкции или ваш голос в беседе из-за близкого расстояния. Чтобы было потом легче это исправить или отредактировать, постарайтесь не говорить одновременно с человеком, которого вы записываете. Дайте ему сначала высказать все, что он хочет сказать, не прерывая его, и только затем задавайте следующий вопрос или давайте следующую инструкцию.
 * **Субтитры**. Если вы планируете разместить видеоролик в социальных сетях, не забудьте написать для него субтитры. Большинство людей, просматривающих Facebook или Instagram, не включают звук. Кроме того, если люди в вашем видео говорят на местном языке, то вам стоит написать субтитры на английском языке, особенно если вашей аудиторией является международное сообщество.
 
-{% callout title="Using Video to Convey Key Information to the Public" %}
+{% callout title="Использование видео для подачи ключевой информации общественности" %}
 
 {% figure caption:"_Photo: ISFED_" class:"right" %}
 
@@ -100,13 +100,13 @@ published: false
 
 {% endfigure %}
 
-To expand their external outreach in a more visual manner, the [International Society for fair Elections and Democracy (ISFED)](https://isfed.ge/eng) produced an ["About Us" video](https://www.youtube.com/watch?v=JV_dcsCmasU) explaining the organization's history, their work in election observation, methodologies used, and technology and outreach tools utilized. The video features several key individuals from ISFED's staff who speak to different parts of ISFED's story as an organization, and also includes subtitles in English (when someone is speaking in Georgian) and in Georgian (when someone is speaking in English), expanding the reach of who is able to view and understand the video.
+Для того, чтобы сделать информационную работу более визуальной, [Международное общество за справедливые выборы и демократию в Грузии (ISFED)](https://isfed.ge/eng) создали видео [«Про нас»](https://www.youtube.com/watch?v=JV_dcsCmasU), в котором они рассказывают об истории организации, о своей работе по наблюдению за выборами, используемой методологии, технологии и способах ведения информационной работы. В видео принимают участие несколько ключевых лиц из персонала ISFED, которые рассказывают о разных этапах становления ISFED как организации. В видео имеются субтитры на английском языке (когда кто-то говорит на грузинском) и на грузинском (когда кто-то говорит на английском), таким образом увеличивая охват аудитории, которая может посмотреть и понять видео.
 
 {% figure caption:"_Infographic from YIAGA_" class:"left" %} ![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
 
 {% endfigure %}
 
-Leading up to the 2019 general elections in Nigeria, [YIAGA AFRICA](https://www.yiaga.org/) released videos highlighting various components of their election observation effort and relevant voter education issues in the lead up to election day. One [video](https://www.youtube.com/watch?v=Qxogx-9fagw&feature=youtu.be) focused on political party agents' participation in the electoral process. The video featured YIAGA AFRICA's PVT Director explaining the need for political parties to observe the process in polling units, yet the video also cut to infographics showing data collected from PVTs in prior years. Another [video](https://www.youtube.com/watch?v=eWh2YHMeI_4&feature=youtu.be) focused on the introduction of electronic voting technologies in Nigeria, following a similar format.
+Накануне всеобщих выборов 2019 года в Нигерии молодежная организация [YIAGA AFRICA]( https://www.yiaga.org/) выпустила видео, делая акцент на различных аспектах их деятельности по наблюдению за выборами, а также на значимых моментах работы с избирателями в предвыборный период. Один из [видеороликов](https://www.youtube.com/watch?v=Qxogx-9fagw&feature=youtu.be) был посвящен участию представителей политических партий в избирательном процессе. В видео директор YIAGA AFRICA объясняет необходимость осуществления политическими партиями мониторинга работы избирательных участков. Кроме того, видео включало в себя инфографику, которая представляла данные, собранные в результате ППГ в предыдущие годы. Другое [видео](https://www.youtube.com/watch?v=eWh2YHMeI_4&feature=youtu.be), выполненное в том же формате, было посвящено внедрению технологий электронного голосования в Нигерии.
 
 {% endcallout %}
 
