@@ -110,9 +110,9 @@ published: false
 
 {% endcallout %}
 
-## Live Stream Video
+## Прямые трансляции видео (лайвстрим)
 
-Facebook, Twitter, Instagram, YouTube, and some regional social networks now all allow for live streaming, which can be a powerful tool. Essentially, live streaming allows you to become your own broadcast television station, curating your own content, and showing events unfold live and unedited. Live streaming is good at conveying urgency and/or for interacting with your audience. It's a great tool for broadcasting events from the field as they unfold or for having a dialogue with your viewers. In addition, your live stream video can also be archived and shared for viewing later by your followers. Here are some tips for producing a successful live stream:
+Facebook, Twitter, Instagram, YouTube и некоторые региональные социальные сети сейчас предоставляют возможность делать лайвстрим, что может быть очень эффективным инструментом. По сути, прямые трансляции позволяют вам самим стать центром телевещания, подбирать свой собственный контент и транслировать мероприятия в режиме реального времени и без монтажа. Прямые трансляции очень хорошо подходят для передачи срочной информации и/или для интерактивного общения с аудиторией. Это отличное средство для трансляции событий с места действия в тот момент, как они разворачиваются, а также для диалога с вашими зрителями. Кроме этого, лайвстрим можно сохранить и опубликовать на вашей странице, чтобы ваши подписчики могли его посмотреть позже. Ниже приведен ряд практических рекомендаций по созданию удачного лайвстрима:
 
 * **Logistics:** Be sure you have bandwidth and battery power. Live streaming needs a reliable internet or data connection and uses a lot of battery power if you are live streaming via cell phone. Plan for what to do if the internet goes down before or during your live stream.
 * **Outreach:** Tell people you'll be live. Advertise your live stream ahead of time so people know how and when to tune in. Facebook even allows you to “reserve” a live streaming time so you can circulate the link ahead of time. Ask for questions or comments ahead of the live stream, if you'll be taking or addressing questions.
