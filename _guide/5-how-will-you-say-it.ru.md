@@ -134,7 +134,7 @@ Facebook, Twitter, Instagram, YouTube и некоторые региональн
 
 {% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 1" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" button="false" %}
+{% textarea label="Перечислите коммуникационные продукты, которые вы будете использовать, чтобы привлечь их" size="large" button="false" %}
 
 **Целевая аудитория 2**
 
@@ -142,7 +142,7 @@ Facebook, Twitter, Instagram, YouTube и некоторые региональн
 
 {% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 2" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" button="false" %}
+{% textarea label="Перечислите коммуникационные продукты, которые вы будете использовать, чтобы привлечь их" id="communication products 2" size="large" button="false" %}
 
 **Целевая аудитория 3**
 
@@ -150,7 +150,7 @@ Facebook, Twitter, Instagram, YouTube и некоторые региональн
 
 {% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 3" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" button="false" %}
+{% textarea label="Перечислите коммуникационные продукты, которые вы будете использовать, чтобы привлечь их" id="communication products 3" size="large" button="false" %}
 
 **Целевая аудитория 4**
 
@@ -158,4 +158,4 @@ Facebook, Twitter, Instagram, YouTube и некоторые региональн
 
 {% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 4" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" button="false" %}
+{% textarea label="Перечислите коммуникационные продукты, которые вы будете использовать, чтобы привлечь их" id="communication products 4" size="large" button="false" %}
