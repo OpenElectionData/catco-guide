@@ -126,36 +126,36 @@ Facebook, Twitter, Instagram, YouTube и некоторые региональн
 
 **Творчески подходите к производству коммуникационной продукции, а также к тому, как ее можно адаптировать, чтобы эффективно коммуницировать с каждой из ваших аудиторий.**
 
-{% textarea label="What is your topline message" id="Topline Message" size="large" button="false" %}
+{% textarea label="что такое основная идея" id="Topline Message" size="large" button="false" %}
 
-**Target Audience 1**
+**Целевая аудитория 1**
 
-{% textarea label="Who is your audience?" id="Audience 1" size="small" button="false" %}
+{% textarea label="Кто ваша Целевая аудитория?" id="Audience 1" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 1" size="small" button="false" %}
+{% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 1" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" button="false" %}
 
-**Target Audience 2**
+**Целевая аудитория 2**
 
-{% textarea label="Who is your audience?" id="Audience 2" size="small" button="false" %}
+{% textarea label="Кто ваша Целевая аудитория?" id="Audience 2" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 2" size="small" button="false" %}
+{% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 2" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" button="false" %}
 
-**Target Audience 3**
+**Целевая аудитория 3**
 
-{% textarea label="Who is your audience?" id="Audience 3" size="small" button="false" %}
+{% textarea label="Кто ваша Целевая аудитория?" id="Audience 3" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 3" size="small" button="false" %}
+{% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 3" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" button="false" %}
 
-**Target Audience 4**
+**Целевая аудитория 4**
 
-{% textarea label="Who is your audience?" id="Audience 4" size="small" button="false" %}
+{% textarea label="Кто ваша Целевая аудитория?" id="Audience 4" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 4" size="small" button="false" %}
+{% textarea label="Какое Целевой месседж вы будете использовать?" id="Message 4" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" button="false" %}
