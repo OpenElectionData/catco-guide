@@ -1,15 +1,15 @@
 ---
 lang: ru
 uses_forms: false
-title: 6. Where Will You Say It?
-subtitle: "Identifying the Best Platform "
+title: '6. Где подавать  контент? '
+subtitle: 'Выбор наилучшей платформы '
 image:
   url: "/assets/images/NDI_Honduras.jpg"
-  caption: "Photo: NDI Honduras"
-permalink: /6-where-will-you-say-it/
+  caption: 'Photo: NDI Honduras'
+permalink: "/6-where-will-you-say-it/"
 published: false
----
 
+---
 There are dozens of ways of communicating with people, and all have their own pros and cons. Print media reaches a large audience, but the message cannot be tailored to specific audiences. It also tends to skew toward an older and literate audience. Radio is a great option for reaching people with low literacy, but the audience must fall within broadcasting range. Broadcast media (TV) reaches large audiences, but it may be difficult to get coverage, advertisements may be expensive, or the gatekeepers might be hostile to your cause. Social media allows for one-on-one interactions and wider discussions, but skews younger and for those with internet access or smartphones. Door-to-door contact can be individually targeted and highly persuasive, but it is time consuming and may be viewed with suspicion in some neighborhoods or contexts.
 
 Depending on your goals and audiences, some tools and platforms are better than others, and their strengths and weaknesses are important to take into account when planning how you'll deliver your messages. Whatever you choose, be sure it will reach your target audiences with maximum impact.
