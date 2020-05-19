@@ -6,7 +6,7 @@ image:
   url: ''
   caption: ''
 uses_forms: true
-permalink: /7-can-we-try-something-different/
+permalink: "/7-can-we-try-something-different/"
 
 ---
 Politics and elections are serious business. Pushing for democratic progress often involves facing great risks, threats, and even dangers for your organization and -- in some cases -- your own personal safety. But just because the topics and consequences of your work are serious doesn't mean they should be dense or dull.
@@ -65,8 +65,7 @@ If you plan to communicate with fan communities, here are some practical tips to
 
 * **Be a fan.** If you want to talk to fan communities about a movie, TV show, book, or musician, be a fan! Fans are fiercely loyal and passionate about the object of their adoration -- don't start by criticizing or pointing out the shortcomings, but approach from a place of authentic admiration.
 * **Listen.** Spend some time listening to the fans, how they interact, what their internal references and jokes are, and what they love about the thing they're a fan of. It's okay to lurk online or at events for a while, just listening to get a sense for the tone and topics to use once you're ready to engage.
-
-**Have authentic interactions.** Don't always try to wedge in your talking points or web address. Interact authentically and have real conversations with fans -- pivot to your message when it feels natural.
+* **Have authentic interactions.** Don't always try to wedge in your talking points or web address. Interact authentically and have real conversations with fans -- pivot to your message when it feels natural.
 
 ## The Power of Comedy
 
