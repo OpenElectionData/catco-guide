@@ -269,9 +269,9 @@ Facebook часто показывает большему количеству �
 
 {% textarea label="Откуда ваши дети получают информацию?" id="children" size="small" button="false" %}
 
-**Now start matching up the different communications channels to your target audiences. Rely on your audience research here, if possible, rather than guessing.**
+**Теперь начните подбирать под каждую из ваших целевых аудиторий подходящие ей коммуникационные каналы. Вместо того, чтобы гадать, опирайтесь на те знания о ваших аудиториях, которые вы получили в процессе их изучения, если это возможно.**
 
-Continuing our example, your communications plan might start to look like this:
+Продолжая наш пример выше, ваш коммуникационный план может уже выглядеть примерно так:
 
 <table>
 <thead>
@@ -305,18 +305,18 @@ Continuing our example, your communications plan might start to look like this:
 </tbody>
 </table>
 
-## Go To People Where They Are
+## Идите к вашей аудитории
 
 {% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
 
 {% endfigure %}
 
-Remember to try to go to people where they already are. If your target audience is mostly on Facebook, don't try to contact them via email. If your target audience gets most of their news in the daily paper, don't play radio ads for them. If your target audience gets most of their news at the barber shop, you need to consider a barber outreach program.
+Помните, что всегда лучше идти туда, где уже есть ваша аудитория. Если ваша целевая аудитория в большинстве своем находится на Facebook, тогда не пытайтесь выходить с ними на контакт через имейл. Если ваша целевая аудитория узнает большинство новостей из ежедневной газеты, не выставляйте для них рекламу на радио. Если целевая аудитория узнает большинство новостей в парикмахерской, возможно, вам стоит провести информационную работу в этом месте.
 
-Since you may not belong to the demographics you're reaching out to, you may not be fluent in the ways people are communicating with each other on these different channels.
+В связи с тем, что вы можете и не принадлежить к тем демографическим группам, которые вы хотите охватить, вам может быть сложно понять, как люди общаются через разные каналы коммуникации.
 
-In this case, spend as much time as you can researching and exploring the different online and offline channels before diving in. If your audience is on Facebook and you are not a member, join. See how people interact with each other and like different pages. Assess what kinds of content spark the most conversation or comments, the tone with which people speak to each other, what slang or abbreviations might be popular on the site, how often people post, and so on. Try to get familiar with how to use the platform before you increase your organization's use of it.
+В этом случае, проведите как можно больше времени изучая различные Интернет-платформы, а также платформы вне Интернета, прежде чем углубится в работу с ними. Если ваша аудитория есть на Facebook, а вас там еще нет, то создайте себе аккаунт. Посмотрите, как люди общаются друг с другом и лайкните различные страницы. Присмотритесь, какие виды контента вызывают наибольшее количество обсуждений или комментариев, понаблюдайте, как люди друг с другом общаются, обратите внимание, какой сленг и аббревиатуры популярны на этом сайте, как часто люди размещают посты и так далее. Постарайтесь ознакомиться с тем, как работать на платформе, прежде чем начинать работу на ней.
 
-If your audience listens to a certain radio program during which you want to buy advertising, listen to that program for a couple of weeks and take note of the advertising. What type and tone of advertising is already there? What does the radio program's content say about the likes and interests of your audience? If you are targeting a specific blogger, read that person's blog, post comments to the blog, and strike up a relationship with the blogger to the extent possible through available channels.
+Если ваша аудитория слушает какую-то программу по радио и вы решите разместить в ней рекламу, послушайте эту программу пару недель и обратите внимание на рекламу в ней. Какой тип и стиль рекламы имеет эта программа? Что контент радиопрограммы говорит вам о предпочтениях и интересах вашей аудитории? Если вы нацеливаетесь на определенного блоггера, почитайте блог этого человека, прокомментируйте контент блога и начните общение с этим блоггером, насколько это возможно в рамках доступных каналов.
 
-Do not try to lure people away from the networks they're already a part of just because you are uncomfortable or unaware of those networks. If you have an active and interesting Twitter feed but all of your potential supporters are on Facebook, you are wasting your time.
+Не пытайтесь уводить людей с тех сетей, в которых они уже находятся, только потому что вы себя там некомфортно чувствуете или не знаете, что это за сети. Если у вас активная и интересная твит-лента в Twitter, но все ваши потенциальные сторонники используют Facebook, вы зря тратите время.
