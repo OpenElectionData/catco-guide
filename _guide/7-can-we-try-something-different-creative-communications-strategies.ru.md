@@ -33,21 +33,21 @@ published: false
 
 Как и с остальными стратегиями, любые стратегии и тактики в отношении поп-культуры, которых вы придерживаетесь, должны служить вашим более широким целям. Если какая-то знаменитость будет задействована в вашей работе, но эта знаменитость не пользуется популярностью в ваших ключевых аудиториях либо не соглашается придерживаться вашего месседжа, тогда это не стоит ваших усилий. Но если люди все меньше верят в демократию, потому что все ведущие телешоу или фильмы говорят о том, что выборы сфальсифицированные, а все политики коррумпированы, тогда вам стоит работать с представителями культуры и актерами, чтобы создать месседжи, демонстрирующие обратное и в которых вы сможете подчеркнуть преимущества участия в политической жизни и важность голосования. Это будет укреплять вашу коммуникационную концепцию и заложит основу, которая облегчит остальную вашу работу.
 
-### Your Turn: Politics and Popular Culture
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Политику и поп-культуры
 
-**Spend some time brainstorming the country's most popular television shows, movies, books, music, and celebrities. Looking at this list, ask yourself the following questions:**
+**Проведите «мозговой штурм» и коллективно обсудите, какие телевизионные шоу, фильмы, книги, музыка и знаменитости наиболее популярны в вашей стране. Теперь посмотрите на этот список и задайте себе следующие вопросы:**
 
-{% textarea label="Do any of these explicitly deal with politics? If so, what are they saying about it?" id="culture1" size="large" button="false" %}
+{% textarea label="Кто-то из этого списка затрагивает политику напрямую в своем творчестве? Если да, то о чем они говорят?" id="culture1" size="large" button="false" %}
 
 {% textarea label="For those that aren't dealing with politics, what are the dominant narratives? What values or morals do they impart? What ideas do they take for granted or reinforce? What frame are they operating within?" id="culture2" size="large" button="false" % }
 
-{% textarea label="Of the narratives and values you identified, which reinforce your frame and message, and which contradict or undermine it?" id="culture3" size="large" button="false" %}
+{% textarea label="Для тех, кто не затрагивает политику, каковы их основные нарративы? Какие ценностные установки и идеи они пытаются донести? Как они общаются с аудиторией?" id="culture3" size="large" button="false" %}
 
-{% textarea label="Is there anything or anyone on the list of pop culture that is particularly appealing to your target audiences?" id="culture4" size="large" button="false" %}
+{% textarea label="Какие из их ценностных установок или нарративов поддерживают и усиливают ваши месседжи, а какие противоречат им? – Есть ли кто-то или что-то в поп-культуре, что особенно нравится вашей аудитории?" id="culture4" size="large" button="false" %}
 
-**For the narratives that reinforce your message and frame -- especially the ones popular with your target audiences -- how can you amplify and engage with those parts of pop culture? Can you tie your work and message to the pop culture modalities? Can you engage authentically with fans about the real-world counterparts or impact? Can you recruit the stars or spokespeople to join your campaign or collaborate with you in some way?**
+**Как вы можете применить в своей работе те нарративы из поп-культуры, которые усиливают ваши месседжи и которые особенно популярны среди вашей аудитории? Можете ли вы задействовать эти нарративы в вашей работе? Можете ли вы привлечь поп-звезд и других популярных личностей к вашей кампании?**
 
-**For the narratives that contradict or devalue your message and frame, think about how you can present counter narratives or rebuttals to what is harmful. Can you work directly with the creators to change how your issues are presented within the culture? Can you recruit the actors or artists involved to serve as spokespeople for your cause to debunk some of the harmful messages in their work? Can you parody or play with the original narrative to present your side or ideas instead?**
+**Продумайте, какие контраргументы или опровержения вы можете представить для тех нарративов, которые противоречят вашим месседжам. Можете ли вы напрямую работать с авторами популярных в поп-культуре нарративов, чтобы изменить то, как проблемы, над которыми вы работаете, представлены в поп-культуре? Можете ли вы привлечь к своей работе актеров и музыкантов, чтобы развенчать те месседжи в их творчестве, которые противоречат вашим? Можете ли вы сделать пародию или как-то обыграть исходный нарратив, чтобы представить вашу точку зрения или ваши идеи?**
 
 ## Tips for Collaborating with Artists and Fans
 
