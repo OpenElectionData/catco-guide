@@ -245,29 +245,29 @@ Facebook часто показывает большему количеству �
 
 Участники одной из встреч, проходившей в декабре 2017 года, непосредственно способствовали ее очень широкому освещению в Интернете и в традиционных медиа. Кроме того, что это позволило охватить бóльшее количество людей и повысить их осведомленность о проблеме, такой охват побудил присутствующих законодателей проголосовать за снижение возрастного лимита для кандидатов на выборные должности. {% endcallout %}
 
-### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Identifying the Best Platform
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Выявление лучших платформы
 
 **Проведите «мозговой штурм» и коллективно обсудите перечень различных доступных вам коммуникационных методик и платформ. Этот список может включать некоторые или все из перечисленных выше, или, возможно, у вас самих есть какие-то уникальные методы и платформы, основаны на вашем географическом положении, имеющихся в наличии ресурсах, а также на ваших обстоятельствах. Ниже приведены примерные вопросы, которые помогут вам начать обсуждение:**
 
-{% textarea label="What print publications are popular in your country and with whom?" id="print publications" size="small" button="false" %}
+{% textarea label="Какие печатные издания являются популярными в вашей стране и кто их читает?" id="print publications" size="small" button="false" %}
 
-{% textarea label="What TV and radio stations or programs are popular in your country and with whom?" id="tv and radio" size="small" button="false" %}
+{% textarea label="Какие теле- и радиостанции или программы популярны в вашей стране и кто их зрители/слушатели?" id="tv and radio" size="small" button="false" %}
 
-{% textarea label="Are there blogs or websites focused on politics and elections that are widely read?" id="blogs or websites" size="small" button="false" %}
+{% textarea label="Имеются ли блоги или веб-сайты, посвященные политике и выборам, с широким кругом читателей?" id="blogs or websites" size="small" button="false" %}
 
-{% textarea label="What are the political leanings (if any) of the print, broadcast, or internet outlets you've listed?" id="political leanings" size="small" button="false" %}
+{% textarea label="Каких политических взглядов (если таковые имеются) придерживаются печатные издания, теле- и радиоканалы, Интернет-ресурсы, которые вы внесли в свой список?" id="political leanings" size="small" button="false" %}
 
-{% textarea label="What social networks are popular and with whom?" id="social network" size="small" button="false" %}
+{% textarea label="Какие социальные сети популярны и кто их пользователи?" id="social network" size="small" button="false" %}
 
-{% textarea label="What messaging platforms are most popular and with whom?" id="messaging platforms" size="small" button="false" %}
+{% textarea label="Какие платформы обмена сообщениями популярны и кто их пользователи?" id="messaging platforms" size="small" button="false" %}
 
-{% textarea label="How do you get your information?" id="gather information" size="small" button="false" %}
+{% textarea label="Откуда вы получаете информацию?" id="gather information" size="small" button="false" %}
 
-{% textarea label="How do your parents get their information?" id="parents" size="small" button="false" %}
+{% textarea label="Откуда ваши родители получают информацию?" id="parents" size="small" button="false" %}
 
-{% textarea label="How do your grandparents get their information?" id="grandparents" size="small" button="false" %}
+{% textarea label="Откуда ваши бабушки и дедушки получают информацию?" id="grandparents" size="small" button="false" %}
 
-{% textarea label="How do your grandparents get their information?" id="children" size="small" button="false" %}
+{% textarea label="Откуда ваши дети получают информацию?" id="children" size="small" button="false" %}
 
 **Now start matching up the different communications channels to your target audiences. Rely on your audience research here, if possible, rather than guessing.**
 
