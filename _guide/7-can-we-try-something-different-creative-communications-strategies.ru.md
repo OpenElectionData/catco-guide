@@ -71,31 +71,31 @@ published: false
 
 #### Этот раздел в значительной мере основан на работе Кейти Борум Чатту, результатах ее исследований и отчете [«Эффект смеха»](http://cmsimpact.org/program/comedy/).
 
-Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren't lighthearted or humorous.
+Использование юмора в коммуникациях поможет поделиться вашим месседжем с аудиторией и сделать так, чтобы этот месседж им запомнился, даже если проблемы, о которых идет речь в этих месседжах, совсем не юмористичные.
 
-There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don't want to be reminded that things are bad, and the path forward is arduous.
+Юмор может помочь избежать использования слишком сложных или слишком угнетающих и безнадежных месседжей. Иногда вопросы демократии бывают сложны для понимания, а их детали зачастую имеют очень специфический и технический характер. Например, важность внесения изменений в избирательный кодекс. Даже если решение этого вопроса может повлиять на объективность выборов, когда вы начнете говорить о правовых основах, люди могут потерять интерес и перестать вас слушать.Также есть опасность, (особенно в ситуации с ограниченной свободой слова) что ситуации, о которых вы говорите, действительно безнадежны и ничего, кроме плохих новостей, не происходит. Когда люди ощущают безнадежность, опять-таки, они перестанут к вам прислушиваться. Им не хочется, чтобы кто-то еще раз напоминал, что все плохо и что путь вперед будет трудным и изнурительным.
 
-The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
+Сила юмора в том, что она вызывает положительные эмоции там, где в обычной ситуации месседжи звучали бы скучно или слишком сложно.
 
 {% figure caption:"Academy on Strengthening Citizen Observation in Closing Spaces. NDI Photo." class:"left" %}  
 ![Academy on Strengthening Citizen Observation in Closing Spaces.](/assets/images/comedy-1-1.jpg "NDI Photo") {% endfigure %}
 
-Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people's minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic.
+Исследования показывают, что люди серьезно воспринимают информацию, которую они получают из комедии. Получая тему и информацию через юмор, люди более склонны усваивать сложную для восприятия информацию. Комикам очень часто доверяют, потому что они воспринимаются, как те, кто говорит правду или насмехается над властями. Именно поэтому юмор – это эффективный ресурс, который, позволяет людям узнавать больше информации и предпринимать действия для решения проблем, которые в других условиях были бы для них слишком сложными, скучными или пессимистичными.
 
-There are, of course, times when a light-hearted or humorous approach is inappropriate. But this approach is overlooked often and is so effective that it should at least be considered and integrated when appropriate.
+Разумеется есть случаи, когда юмористических подход неуместен. Но, в связи с тем, что юмористический подход зачастую игнорируется, хоть и является высокоэффективным, вам, по крайней мере, нужно принять его во внимание и включать в основную стратегию, когда это уместно.
 
-## The Format of Your Comedy Matters
+## Формат юмора имеет значение
 
-There are a number of ways to introduce humor into your communications, and each serves a different purpose and conveys different cues about your message. It's not enough to decide you want to integrate humor into your messaging -- think carefully about what kind of humor is appropriate for the context and best serves your purposes.
+Есть много разных способов включить юмор в коммуникационную стратегию. Но недостаточно просто решить, что юмор будет частью вашей коммуникации. Нужно также тщательно обдумать, какой юмор больше всего подходит к каждому из контекстов и к вашим задачам.
 
-* **Satirical news.** Satirical news points out and reframes absurdity. For it to work, your audience must have some basic familiarity with the situation being satirized, or they will not understand it or find it funny. Satire is good for motivating the base of people who already agree with you, but is likely to alienate or turn off people who don't agree with you.
-* **Scripted, comedic storytelling.** Funny scripted stories -- TV shows, public service announcements (PSAs), movies, online videos, etc. -- are great for creating relationships between the viewers and your characters. This understanding or empathy can help normalize unfamiliar experiences and expose the viewer to people or situations they might not otherwise encounter.
-* **Humorous ads.** Making someone laugh in a short amount of time captures their attention and sticks in their memory. Humorous ads -- print, online, televised, or radio -- work to quickly grab your attention and can be very memorable. They can also spark discussion and sharing with friends and family.
-* **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
+* **Сатирические новости**. Сатирические новости разоблачают и дают новое толкование чему-то абсурдному. Для того, чтобы это сработало, ваша аудитория должна иметь определенное представление о ситуации, которая является объектом высмеивания, иначе они не воспримут сатиру и им не будет смешно. Сатира хорошо подходит для мотивации основной массы людей, которые уже с вами согласны, но, скорее всего, вызовет неприятие и отвернет от вас людей, которые с вами не согласны.
+* **Комедийные постановки**. Смешные постановки – телешоу, социальная реклама, фильмы, Интернет-видео и т.п., – это отличный способ установления контакта между зрителем и вашими героями. Взаимопонимание или сочувствие, которое возникло в результате просмотра, помогут показать зрителю людей или ситуации, с которыми он в обычной ситуации не сталкивался.
+* **Юмористическая реклама**. Если вы рассмешите кого-то за короткий промежуток времени, это привлечет их внимание и останется у них в памяти. Смешная реклама (в печатных изданиях, в Интернете, на телевидении или по радио) быстро привлекает внимание и очень хорошо запоминается. Такая реклама также может способствовать дискуссии между друзьями и членами семей.
+* **Стэндап-комедия и скетч-шоу**. Они могут донести до публики более обширные темы, помочь людям критически оценить некоторые вопросы и сломать табу.
 
-Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you're funny and therefore successful.
+Юмор лучше всего работает, когда людям нравится комик и они доверяют ему. Поэтому продуманно выбирайте того, с кем будете сотрудничать, чтобы юмор принес желаемый эффект. Юмор также должен быть смешным (это звучит как само собой разумеющийся факт, но на практике с этим всегда возникают трудности). Сотрудничество с профессиональным или опытным комиком поможет вам быть смешным, а значит, успешным.
 
-## How Comedy Works
+## How Comedy Works Как работает юмор
 
 There are five main ways comedy works to influence your audience:
 
