@@ -28,8 +28,7 @@ published: false
 
 Вы также можете измерять оба показателя – ведь они в какой-то мере связаны друг с другом. Для того, чтобы добиться желаемого показателя вовлеченности аудитории, вам придется охватить бóльшее количество людей. Однако, нужно будет четко определиться, какие контрольные показатели будут соответствовать вашим целям, и сделать именно эти показатели приоритетными.
 
-{% callout title="Changing Your Measurements of Success" %}
-In Nicaragua, the election observation coalition [Panorama Electoral](https://www.panoramaelectoral.org/) was measuring success purely in reach, rather than the discussion and debate being generated.
+{% callout title="Внесение изменений в параметры оценки успешности" %} In Nicaragua, the election observation coalition [Panorama Electoral](https://www.panoramaelectoral.org/) was measuring success purely in reach, rather than the discussion and debate being generated.
 
 However, in order to achieve their goals of fostering dialogue and increasing participation, the group shifted to collecting metrics on engagement and interaction, prompting them to see the need for a community manager to moderate the dialogue on their social media feeds.
 {% endcallout %}
