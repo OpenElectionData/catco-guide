@@ -95,29 +95,29 @@ published: false
 
 Юмор лучше всего работает, когда людям нравится комик и они доверяют ему. Поэтому продуманно выбирайте того, с кем будете сотрудничать, чтобы юмор принес желаемый эффект. Юмор также должен быть смешным (это звучит как само собой разумеющийся факт, но на практике с этим всегда возникают трудности). Сотрудничество с профессиональным или опытным комиком поможет вам быть смешным, а значит, успешным.
 
-## How Comedy Works Как работает юмор
+## Как работает юмор
 
-There are five main ways comedy works to influence your audience:
+Ниже приведено пять основных способов, как юмор влияет на вашу аудиторию:
 
 ![](/assets/images/catco image-2.png)
 
-### YOUR TURN: Topline Messages
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Основную идею
 
-**Look back at your topline and related messages in your communications plan. Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?**
+**Еще раз обратите внимание на свою основную идею и связанные с ней месседжи в коммуникационном плане. Есть ли среди них месседжи или понятия, которые трудно объяснить, или они слишком сложные, нудные, угнетающие и безнадежные?**
 
-**If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:**
+**Если ответ «да», то проведите «мозговой штурм» и коллективно обсудите, как юмор может помочь лучше выразить идею вашего месседжа. Ниже приведены примерные вопросы, которые помогут вам начать обсуждение.**
 
-{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size="small" button="false" %}
+{% textarea label="Есть ли какие-то распространенные примеры из жизни, которые можно сделать объектом пародии или сатиры?" id="humor1" size="small" button="false" %}
 
-{% textarea label="Is there an absurd or ridiculous news event you can satorize in a way that reinforces your message?" id="humor2" size="small" button="false" %}
+{% textarea label="Есть ли какая-то абсурдная или смешная новость, которую вы можете осмеять так, чтобы усилить свой месседж?" id="humor2" size="small" button="false" %}
 
-{% textarea label="Is there a well-known expression or idiom that can be changed for your purposes?" id="humor3" size="small" button="false" %}
+{% textarea label="Есть ли известное выражение или идиома, которые можно обыграть для ваших целей?" id="humor3" size="small" button="false" %}
 
-{% textarea label="What issue or aspect of your work do you often have the hardest time explaining? Is there a funny way to approach it or a funny outcome you could use to better explain it?" id="humor4" size="small" button="false" %}
+{% textarea label="Какой вопрос или аспект вашей работы вам тяжелее всего объяснить людям? Есть ли юмористический способ к этому подойти, либо какая-то смешная ситуация, которую можно использовать, чтобы лучше его объяснить?" id="humor4" size="small" button="false" %}
 
-{% textarea label="Are there any comedians or comedic actors you can work with?" id="humor5" size="small" button="false" %}
+{% textarea label="Есть ли какие-то комики, с которыми вы можете работать?" id="humor5" size="small" button="false" %}
 
-## Experiential Learning and Communications
+## Обучение через опыт и коммуникации
 
 Experiential learning is the process of experiencing something new and then reflecting on that experience to come to new knowledge or larger lessons. It is commonly used in the classroom or in job training programs, and used creatively, the same principles can be applied to a communications campaign.
 
