@@ -96,39 +96,39 @@ Facebook предоставляет бесплатную аналитику дл
 
 Для реализации некоторых стратегий будет необходимо собирать статистические показатели, которые не всегда легко доступны, но являются хорошим критерием для измерения успешности стратегии – напр., сколько раз контент цитировали в СМИ, количество участников мероприятия, количество неофициальных встреч с репортерами, сколько раз донор ответил каким-то комментарием на имейл, тенденции в общественном мнении и т.д. Эти контрольные показатели, возможно, будут измерять успешность вашей стратегии лучше, чем показатели охвата на Facebook. Вам нужно критически подойти к осмыслению того, что будет являться содержательным критерием успеха для вашей цели, и отслеживать этот критерий, даже если информация по этому критерию и не будет легкодоступной.
 
-## A/B Testing
+## A/B-тестирование
 
-As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best.
+Если вы используете контрольные показатели, чтобы понять, что лучше всего работает и как наиболее эффективно достичь ваших целей, вам стоит внедрить процесс A/B-тестирования в отдельные или во все ваши коммуникационные стратегии и тактики. A/B-тестирование подразумевает подачу двух разных заголовков, контентов, графиков, стилей, месседжей и т.д. случайно подобранным подгруппам людей из одной и той же аудитории, чтобы увидеть, на какие из них они лучше всего реагируют.
 
 {% figure caption:"NDI Photo." class:"left" %}
 
 ![Woman does work on computer.](/assets/images/kosovo-1.jpg "NDI Photo."){% endfigure %}
 
-For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that.
+Например, вы можете отправить емейл, содержащий красную кнопку с призывом к действию (кнопка СТА), размещенной в самом верху сообщения, половине людей в вашем списке контактов, а второй половине отправить имейл без такой кнопки. Через пару дней проверьте количество переходов по ссылке в обоих тестах – выше ли коэффициент нажатий у тех, кто получил имейл с кнопкой? Если да, то, возможно, вам стоит включить красную кнопку с призывом к действию во все ваши рассылки электронной почты для того, чтобы получатели сообщений активнее реагировали на ваши сообщения. Либо же можно заменить красную кнопку на синюю в следующей рассылке и посмотреть, какая из них более эффективна.
 
-A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
+A/B-тестирование может помочь вам улучшить эффективность вашего месседжа, призывов, заголовков, стиля и дизайна контента электронных сообщений, веб-сайтов и социальных сетей в динамике по времени. Однако для достижения наибольшей результативности вам придется тщательно отслеживать результаты, учиться на ошибках и внедрять накопленный опыт во все будущие коммуникационные стратегии.
 
-### YOUR TURN: Review Your Goals
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Review Your Goals
 
-**Review each of your goals. Brainstorm different indicators that will help you know if you've achieved them.**
+**Еще раз критически оцените каждую из ваших целей. Проведите «мозговой штурм» и коллективно обсудите различные индикаторы, которые помогут вам определить, достигли ли вы их.**
 
-{% textarea label="Goal 1" id="goal1" size="small" button="false" %}
+{% textarea label="Цель 1"  id="goal1" size="small" button="false" %}
 
 * {% textarea label="A" id="goala" size="small" button="false" %}
 * {% textarea label="B" id="goalb" size="small" button="false" %}
 * {% textarea label="C" id="goalc" size="small" button="false" %}
 
-**Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
+**Теперь определитесь, какой конкретно метод (напр., Google Analytics, Facebook Insights и т.д.) вы будете использовать для того, чтобы измерять и отслеживать каждый из этих индикаторов.**
 
-Continuing our example, it might look something like this:
+Продолжая наш пример ваше, результаты вашего «мозгового штурма» могут выглядеть примерно так:
 
-GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
+Цель 1: Повысить осведомленность населения о том, что представляет из себя параллельный подсчет голосов (ППГ) путем привлечения 10 000 посетителей на наш веб-сайт и за три недели до выборов уже иметь в среднем по 100 000 посещений на каждой из наших страниц в социальных сетях.
 
-* 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
-* 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
-* Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
-* Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
-* Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
+* 10 000 новых посетителей веб-сайта, которые провели на нем больше 5 секунд (Google Analytics)
+* Коэффициент охвата 100 000 пользователей в неделю на наших страницах в соцсетях, коэффициент вовлеченности – 5%. Демографический состав нашей целевой аудитории – это девушки от 16 до 26 лет. Они должны составлять 50% аудитории, которую мы охватываем (Facebook Analytics и YouTube)
+* Коэффициент просмотра имейлов, отправленных журналистам, должен составлять 30%, а коэффициент переходов по ссылке должен быть 10%. (Аналитика MailChimp)
+* На каждом из ежеквартальных конференц-звонков с журналистами присутствует, как минимум, 12 журналистов (внутренняя система отслеживания)
+* Кандидаты, которые баллотируются на выборах, должны открывать наши имейлы с коэффициентом просмотра 20% и отвечать на них, по меньшей мере, раз в неделю. (Аналитика MailChimp и внутренняя система отслеживания)
 
 ## Put a System In Place
 
