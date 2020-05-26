@@ -48,13 +48,11 @@ published: false
 
 Google Analytics отслеживает весь ваш веб-трафик, а также поведение посетителей вашего веб-сайта. Если у вас есть Gmail, вы можете использовать свой адрес для открытия аккаунта здесь: [analytics.google.com](https://analytics.google.com/). По этой ссылке вы можете получить код – несколько строчек, которые вам нужно будет разместить на страницах своего сайта (следуйте инструкциям Google). После этого вы сможете отслеживать трафик сайта как в режиме реального времени, так и в конкретные отрезки времени. Не забудьте установить Google Analytics на своих сайтах с самого начала, потому что сервис не сможет считать информацию о посещениях сайта до того, как вы его установили.
 
-{% callout title="Using Analytics to Spur Engagement" %}
+{% callout title="Использование аналитических данных для повышения интереса" %} [«Центр исследования, гласности и подотчетности» («CRTA»)](https://crta.rs/en/) в Сербии измеряет их влияние в социальных сетях путем отслеживания аналитических данных Facebook (Facebook Insights), Twitter (Twitter Analytics), Google Analytics и YouTube (Youtube Analytics). Они наняли мониторинговое агентство, которое отслеживает все публикации о них и их работе.
 
-In Serbia, the [CRTA](https://crta.rs/en/) team measure their social media impact by tracking Facebook insights, Twitter analytics, Google analytics, and Youtube analytics. They employ a media monitoring agency that tracks stories published about them and their work.
+Однако они решили измерять не только охват аудитории, но также и вовлеченность аудитории, поэтому в 2018 году они начали отслеживать и этот показатель. В преддверии выборов эта организация трижды обращается к населению с призывами к действию не только для того, чтобы собрать и опубликовать полученные данные, но и для того, чтобы вовлечь общественность в демократические процессы. Например, они обратились к людям с просьбой предоставить информацию для исследования, проводимого «CRTA», и принять участие в мониторинге выборов в качестве волонтеров-наблюдателей (и пройти тренинг для этого).
 
-But they don't just want to measure reach, they want to measure engagement, and so they tracked new engagement metrics in 2018. The group is calling people to action three times in the lead up to elections, as a way not just to collect and publish data, but to get members of the public engaged in their democracy. They asked people to submit information to help with CRTA's research and to join the election observation mission by volunteering to be an observer (and pass the training to become an observer).
-
-CRTA will be tracking these higher-level commitments over time to see if people are willing to participate, in an effort to grow their base of supporters over time.
+CRTA будет отслеживать динамику наиболее активных участников, что позволит увидеть, насколько население готово к участию и будет способствовать увеличению поддержки среди населения.
 
 {% endcallout %}
 
@@ -69,12 +67,12 @@ CRTA will be tracking these higher-level commitments over time to see if people 
 
 ## Facebook Insights
 
-Facebook offers free analytics (called Insights) for your page, and also works with your website if you are tracking users' behavior from Facebook through to your website. There is a lot of useful information collected here, too, and you should explore it to see what's available and relevant to you. But ultimately you should decide on which metrics matter the most to your success and focus on them.
+Facebook предоставляет бесплатную аналитику для вашей страницы – Facebook Insights, которая совместима с вашим сайтом, если вы хотите отслеживать поведение пользователей с Facebook на своем веб-сайте. Facebook Insights предоставляет много другой полезной информации, с которой вам стоит ознакомится и подумать, что еще вы могли бы использовать. В конечном итоге, конечно, вам нужно решить, какие контрольные показатели являются наиболее значимыми для оценки вашего успеха и сконцентрироваться на них.
 
-* **Demographics:** You can learn about your audiences' demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
-* **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
-* **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
-* **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
+* **Демография**. Вы сможете получить представление о демографическом составе своей аудитории – географическое местоположение, возраст, пол, языковые преференции подписчиков вашей страницы, а также тех, кто просматривает или интересуется вашим контентом.
+* **Охват и вовлеченность**. Вы сможете отслеживать лайки, подписчиков и охват аудитории в определенное время. Вы также сможете определять, какие посты отличались наибольшим коэффициентом охвата и вовлеченности.
+* **Просмотр видео контента**. Вы сможете увидеть, сколько людей просмотрели или отреагировали на ваше видео, среднюю продолжительность просмотра и на каком месте большинство из них прекратили смотреть.
+* **Карта перехода посетителей со страницы Facebook на ваш веб-сайт**. Вы сможете встроить пиксель, связанный с вашей страничкой Facebook в код своего веб-сайта. Это позволит вам отслеживать поведение пользователей, которых вы направляете на свой сайт с помощью рекламы в Facebook. Эта функция будет особенно полезной, если вам нужно, чтобы посетители вашей Facebook страницы для завершения какого-либо действия (например, для того, чтобы подписаться на вашу электронную рассылку) переходили по ссылке на ваш веб-сайт.
 
 {% callout title="Evaluating Outreach Efforts On and Offline" %}
 
