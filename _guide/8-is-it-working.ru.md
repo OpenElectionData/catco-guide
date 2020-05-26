@@ -74,11 +74,11 @@ Facebook предоставляет бесплатную аналитику дл
 * **Просмотр видео контента**. Вы сможете увидеть, сколько людей просмотрели или отреагировали на ваше видео, среднюю продолжительность просмотра и на каком месте большинство из них прекратили смотреть.
 * **Карта перехода посетителей со страницы Facebook на ваш веб-сайт**. Вы сможете встроить пиксель, связанный с вашей страничкой Facebook в код своего веб-сайта. Это позволит вам отслеживать поведение пользователей, которых вы направляете на свой сайт с помощью рекламы в Facebook. Эта функция будет особенно полезной, если вам нужно, чтобы посетители вашей Facebook страницы для завершения какого-либо действия (например, для того, чтобы подписаться на вашу электронную рассылку) переходили по ссылке на ваш веб-сайт.
 
-{% callout title="Evaluating Outreach Efforts On and Offline" %}
+{% callout title="Оценка успешности информационной работы онлайн и оффлайн" %}
 
 {% figure caption:"Malaysians protest in the Bersih 5 rally." class:"right" %}![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
 
-In Malaysia, [BERSIH 2.0](http://www.bersih.org/) tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later.
+Коалиция за честные и справедливые выборы [BERSIH 2.0](http://www.bersih.org/) в Малайзии отслеживает всю относящуюся к их работе аналитику на всех платформах, которыми они пользуются. Они также отслеживают контрольные показатели, относящиеся к их общественным акциям, проводимым в режиме оффлайн – подсчет количества групп, с которыми координаторы наладили связь и подсчет количества участников мероприятий. Напр., подсчитывая количество участников мероприятий, Коалиция смогла заметить, что число участников небольших акций протеста планомерно увеличивались каждую неделю по мере приближения дня, на который была назначена их большая акция протеста. Подсчитывая количество участников и наблюдая за тем, как оно увеличивается, они без труда смогли спрогнозировать, что на их самой большой общественной акции семь недель спустя количество участников будет 200 тысяч, и с учетом этого соответствующим образом планировали это мероприятие.
 
 {% endcallout %}
 
@@ -90,11 +90,11 @@ In Malaysia, [BERSIH 2.0](http://www.bersih.org/) tracks all relevant social ana
 * Насколько эффективны нативные видео, длительность просмотра ваших видео.
 * Какова ваша аудитория, включая пол, информацию о доходе, профессии, интересам и образовании.
 
-## Other Metrics
+## Другие статистические показатели
 
-Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what's available to you to measure. Play around with what's available, research what each number means, and decide which ones are important to track over time.
+Большинство платформ социальных сетей включают бесплатную встроенную аналитическую функцию. Вы можете ознакомится с другими вариантами аналитики и  увидеть, какие еще показатели можно измерять. Поэкспериментируйте с имеющимися опциями, разберитесь, что означает каждая из цифр, и решите, какие из статистических показателей для вас важно отслеживать в динамике по времени.
 
-Some strategies may require metrics that don't exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
+Для реализации некоторых стратегий будет необходимо собирать статистические показатели, которые не всегда легко доступны, но являются хорошим критерием для измерения успешности стратегии – напр., сколько раз контент цитировали в СМИ, количество участников мероприятия, количество неофициальных встреч с репортерами, сколько раз донор ответил каким-то комментарием на имейл, тенденции в общественном мнении и т.д. Эти контрольные показатели, возможно, будут измерять успешность вашей стратегии лучше, чем показатели охвата на Facebook. Вам нужно критически подойти к осмыслению того, что будет являться содержательным критерием успеха для вашей цели, и отслеживать этот критерий, даже если информация по этому критерию и не будет легкодоступной.
 
 ## A/B Testing
 
