@@ -16,17 +16,17 @@ published: false
 
 В процессе планирования, обдумайте, какие контрольные показатели будут для вас значимыми и будут влиять на успех вашей работы. Не выбирайте контрольные показатели, которые легко фиксировать, но которые не являются содержательным критерием для измерения успеха вашей программы. Кроме того, в некоторых случаях может быть сложно или невозможно собрать данные за прошлые периоды, поэтому до того, как начать, вам нужно иметь четкое представление о том, какие показатели для вас будут значимыми.
 
-## Reach vs Engagement
+## Охват и вовлеченность
 
-There are two broad ways to measure your communications: reach and engagement.
+Есть два способа измерения успешности коммуникационной стратегии: это охват и интерес.
 
-Reach looks at how many people saw your content. It does not distinguish between active and passive consumption -- if a person sees your TV ad, receives your email, or scrolls past your content in their newsfeed, it will count toward your reach. Reach can be a useful metric if you are trying to saturate a market, strengthen your brand, or raise awareness of an issue -- just creating a constant presence with a certain audience, even if they are passively consuming your information, can sometimes be an effective strategy.
+Охват является показателем того, сколько людей увидели ваш контент. Он не проводит различия между активным и пассивным потреблением контента. Если человек видит вашу телерекламу, получает вашу электронную рассылку или пролистывает ваш контент в своей ленте, это будет учитываться в параметре «охват». Охват может быть полезным параметром измерения, если вы пытаетесь проникнуть на рынок, укрепить свой бренд или повысить осведомленность о каком-то вопросе. Он позволяет вам убедиться, что определенная аудитория постоянно видит ваш контент и это само по себе может быть эффективной стратегией, даже при условии, что эти люди просто пассивно потребляют информацию.
 
-Engagement measures whether someone took action with your content in some way. On social media, this might include leaving a comment, sharing your post, or clicking through to join your email list or sign up to volunteer. In an email, it might include opening the email, clicking through your call to action, forwarding the email to a friend, or replying to your email. With a text message, it might mean they reply or show up to the protest you are informing them about.
+Вовлеченность фиксирует, предпринял ли посетитель какое-либо действие после просмотра вашего контента. Если речь идет о социальных сетях, тут можно учитывать такие показатели, как оставил ли кто-то комментарий, поделился ли вашим постом или же подписался на рассылку, либо решил присоединится к вам в качестве волонтера. Если речь идет об электронной почте, это может включать в себя переход по ссылке с призывом к действию, пересылку сообщения друзьям, ответ на ваше сообщение, либо же тот факт, что ваше сообщение открыли. В текстовых сообщениях это может быть ответ на ваше сообщение или явка на акцию протеста, сведения о которой содержались в смс.
 
-Engagement numbers will be lower than reach, but the interactions will be deeper and the audience more heavily invested in your mission and its success. Think carefully about whether you need a smaller-but-active or a larger-but-passive audience to achieve your goals before deciding whether you will emphasize reach or engagement.
+Уровень вовлеченности будет ниже, чем уровень охвата, но аудитория, которая вовлечена, будет более заинтересована в успехе вашей миссии. Хорошо обдумайте, что более важно для достижения ваших целей – небольшая, но активная аудитория, либо же аудитория побольше, но гораздо пассивнее, – и только после этого определяйтесь с тем, что для вас будет главным контрольным показателем для измерения успеха – охват или вовлеченность.
 
-You can also measure both -- and indeed, they are not necessarily disconnected. To achieve the engagement numbers you want, you may need to reach more people. But you should be clear about what metrics are relevant to achieving your goals and prioritize those.
+Вы также можете измерять оба показателя – ведь они в какой-то мере связаны друг с другом. Для того, чтобы добиться желаемого показателя вовлеченности аудитории, вам придется охватить бóльшее количество людей. Однако, нужно будет четко определиться, какие контрольные показатели будут соответствовать вашим целям, и сделать именно эти показатели приоритетными.
 
 {% callout title="Changing Your Measurements of Success" %}
 In Nicaragua, the election observation coalition [Panorama Electoral](https://www.panoramaelectoral.org/) was measuring success purely in reach, rather than the discussion and debate being generated.
