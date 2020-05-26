@@ -82,13 +82,13 @@ In Malaysia, [BERSIH 2.0](http://www.bersih.org/) tracks all relevant social ana
 
 {% endcallout %}
 
-## Twitter Analytics
+## Twitter-аналитика (Twitter Analytics)
 
-By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see free analytics associated with your Twitter account, regardless of whether you are paying for ads. Some of the metrics you can collect are:
+По этой ссылке [analytics.twitter.com](https://analytics.twitter.com/) вы можете увидеть статистику, связанную с вашим Twitter-аккаунтом, независимо от того, размещаете ли вы там платную рекламу или нет. Ниже приведены некоторые из статистических данных, которые вы сможете собирать:
 
-* How individual tweets perform, in terms of reach and engagement.
-* How your native videos perform, including how long people watch your videos for.
-* Who your audience is, including income, occupation, interests, gender, education, and income.
+* Насколько эффективен каждый из твитов в плане охвата читателей и их вовлеченности.
+* Насколько эффективны нативные видео, длительность просмотра ваших видео.
+* Какова ваша аудитория, включая пол, информацию о доходе, профессии, интересам и образовании.
 
 ## Other Metrics
 
