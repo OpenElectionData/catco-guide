@@ -36,17 +36,17 @@ published: false
 
 Целый ряд цифровых платформ имеет встроенный аналитический сервис для создания детальной статистики посещений, которым вы либо можете пользоваться бесплатно, либо это является частью общей оплаты за пользование платформой.Такой сервис может быть очень эффективным, если его правильно использовать.
 
-## Email Analytics
+## Статистика электронных рассылок
 
-Any mass emailer you use should provide you with basic analytic data you can use to refine your email strategy.
+Любой сервис массовой рассылки может предоставить вам базовые аналитические данные, которые вы можете использовать для оттачивания своей стратегии электронной рассылки.
 
-* Open rate: This is the rate at which people open your email. A healthy and active email list will have around a 20 percent open rate for any given email sent.
-* Click-through rate: This is the rate at which people click on whatever links you put in your emails. For emails with a clear call to action, you should expect a click-through rate of 20 percent. Most mass emailers will also show you which links were clicked on the most, so you can learn whether placing your call to action at the top or bottom of your email is more effective, or whether there is one link people were more interested in than others, for example.
-* Unsubscribe rate: This is the rate at which people unsubscribe from any given email. A normal unsubscribe rate is less than 1 percent per send. If you see a sudden spike in unsubscribes, you should figure out whether you're emailing too often or if your language, tone, or content are alienating your audience.
+* Коэффициент просмотра – это процент людей, которые открывают ваши сообщения. Коэффициент просмотра электронной рассылки у активного списка контактов должен быть около 20 процентов.
+* Коэффициент переходов по ссылке (кликабельность) – это процент переходов по тем ссылках, которые вы включаете в свои электронные сообщения. Если электронная рассылка, содержит призыв к определенному действию, ожидаемый коэффициент переходов по ссылке должен быть 20 процентов. Большинство платформ массовой рассылки также могут предоставить вам статистику о том, по каким ссылкам посетители переходили чаще всего. Это вам поможет определить, где более эффективно разместить призыв к действию – в начале или в конце сообщения, а также, например, какая из ссылок была для вашей аудитории самой интересной.
+* Коэффициент отказа от электронной подписки: это процент получателей, которые отказались от получения электронных сообщений. Стандартный процент отказа должен быть менее 1% на одну рассылку. Если вы заметите внезапный скачок в отказах от подписки, не слишком ли часто вы делаете рассылку или, может быть, язык, стиль или контент отталкивает вашу аудиторию.
 
 ## Google Analytics
 
-Google Analytics tracks all your web traffic and the behavior of the people who visit your website. Once you have a Gmail address, you can use it to open an account at [analytics.google.com](https://analytics.google.com/). There you can get a small bit of code that you place into your website (follow Google's instructions for how to do this), and after that you will be able to track all your web traffic in real time and over time. Be sure to install Google Analytics on your websites from the very beginning -- the analytics cannot collect data on your site from a time before it was installed.
+Google Analytics отслеживает весь ваш веб-трафик, а также поведение посетителей вашего веб-сайта. Если у вас есть Gmail, вы можете использовать свой адрес для открытия аккаунта здесь: [analytics.google.com](https://analytics.google.com/). По этой ссылке вы можете получить код – несколько строчек, которые вам нужно будет разместить на страницах своего сайта (следуйте инструкциям Google). После этого вы сможете отслеживать трафик сайта как в режиме реального времени, так и в конкретные отрезки времени. Не забудьте установить Google Analytics на своих сайтах с самого начала, потому что сервис не сможет считать информацию о посещениях сайта до того, как вы его установили.
 
 {% callout title="Using Analytics to Spur Engagement" %}
 
