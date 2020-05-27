@@ -107,11 +107,11 @@ published: false
 * **Предпримите все необходимые шаги, чтобы исправить ситуацию**. В зависимости от того, чем вызвана эта кризисная ситуация, это может означать, что вам нужно усовершенствовать систему редактирования печатных материалов, нанять работника из группы людей, которая недостаточно представлена в вашей организации и даже, возможно, уволить президента организации. Предпринимайте надлежащие меры, которые имеют смысл и которые помогут предотвратить подобный кризис в будущем.
 * **Помните, что все, что вы скажите или напишите, может быть опубликовано**. Личные имейлы взламываются, личные беседы записываются и сливаются прессе. Не пишите и не говорите ничего, что вы бы не хотели увидеть опубликованным или освещенным.Тщательно подбирайте каждое слово, не оскорбляйте мимоходом своих коллег, коалиционных партнеров или оппонентов. Не используйте ругательства, расистские или женоненавистнические высказывания, а также не делайте ничего, что может плохо сказаться на вашей репутации, если станет публично известным.
 
-For additional crisis communication planning guidelines -- particularly in response to cyber incidents -- take a look at the Harvard Belfer Center's [Election Cyber Incident Communications Plan Template](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). Although developed for a political party audience, the template is a great resource for any group looking to develop a structured crisis communications plan in response to cyber incidents, such as disinformation or hacked websites or social media accounts.
+Дополнительные ресурсы по планированию коммуникаций в условиях кризиса, и в особенности по вопросу реагирования на кибератаки, вы можете увидеть в публикации Центра науки и международных отношений Белфера Гарвардского университета [«Примерный план реагирования на кибератаки во время выборов»](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). Хотя это пособие разработано для политических партий, оно является отличным ресурсом для любой группы, которая пытается разработать хорошо организованный план коммуникаций в кризисных ситуациях на случай кибератак, включая случаи распространения дезинформации, хакерских взломов веб-сайтов и аккаунтов в социальных сетях.
 
-### YOUR TURN: Threats and Crises
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: Угроз и кризисов
 
-**Make a list of the most likely threats or crises you are likely to face. These don't have to be very specific, but general types of threats or lines of attack.**
+**Составьте список наиболее вероятных угроз или кризисов. Они не обязательно должны быть очень конкретными, но они должны включать в себя общие виды угроз или нападения.**
 
 {% textarea label="1" id="threat1" size="small" button="false" %}
 
@@ -121,9 +121,9 @@ For additional crisis communication planning guidelines -- particularly in respo
 
 {% textarea label="4" id="threat4" size="small" button="false" %}
 
-**For each type of crisis you might face, make a list of messages and materials you would need in a rapid-response situation and assign a person to prepare them by a deadline.**
+**Для каждого типа кризиса, который у вас может случиться, составьте список сообщений и материалов, которые вам понадобятся в условии ситуации быстрого реагирования и назначьте лицо ответственное за их подготовку к определенному сроку.**
 
-**Make a list of staff spokespeople and third-party validators you will need to help you in times of crisis.**
+**Составьте список работников, которые будут делать от вашего имени заявления, а также независимых авторитетных лиц, чья помощь вам может понадобиться в период кризиса.**
 
 {% textarea label="1" id="validator1" size="small" button="false" %}
 
@@ -135,6 +135,6 @@ For additional crisis communication planning guidelines -- particularly in respo
 
 {% textarea label="5" id="validator5" size="small" button="false" %}
 
-**Schedule time with your spokespeople and potential validators where you can practice crisis scenarios. Drill them with hard questions until they are confident staying on message and responding naturally.**
+**Организуйте встречи с вашими представителями по связям с общественностью и авторитетными лицами, которые смогут в случае необходимости постоять за вас, и отрепетируйте с ними различные сценарии кризисных ситуаций. Подготовьте их отвечать на сложные вопросы так, чтобы они чувствовали себя уверенно, не отклонялись от месседжа и выглядели естественно.**
 
 #### _Thanks to Melissa Ryan of Ctrl Alt-Right Delete for her expertise in this section._
