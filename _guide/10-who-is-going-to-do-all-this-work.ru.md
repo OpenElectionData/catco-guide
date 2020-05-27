@@ -24,15 +24,15 @@ published: false
 
 Независимо от того, сколько людей в вашей коммуникационной команде или в штате вашей организации, использование модели MOCHA (заглавные буквы слов «manager» – менеджер, «owner» – владелец, «consultant» – консультант, «helper» – помощник, «approver» – утверждающее лицо) для распределения обязанностей по каждому проекту или стратегии может помочь определиться, кто за что отвечает, и принять необходимые меры для того, чтобы каждый проект реализовывался по плану. Модель MOCHA имеет следующие группы ролей для каждой цели, проекта и стратегии:
 
-* **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
-* **Owner:** The Owner has overall responsibility for the success or failure of a project. The Owner ensures that all work gets done (either themself or by delegating pieces of work to Helpers). The Owner decides when and who else to involved in the project and reports to the Manager. _There can only be one Owner of any project or goal._
-* **Consultant**: Consultants are like advisors -- they offer input or sign off on parts of a project that require their specific expertise.
-* **Helper:** Helpers assist with or do some of the work.
-* **Approver:** The Approver signs off on all decisions before they are final. The Approver might be the same as The Manager, but it could also be an executive director, external partner, funder, or board chair.
+* **Mенеджер (Manager)**: Менеджер распределяет обязанности и контролирует Владельца (Owner). Менеджер задает сложные вопросы, критически оценивает прогресс на пути к достижению целей, находит ресурсы и вмешивается в работу, если она идет не по плану или нужно изменить подход.
+* **Владелец (Owner)**: Владелец в целом отвечает за успех или провал проекта. Он принимает необходимые меры для того, чтобы вся работа выполнялась (либо выполняет ее самостоятельно, либо поручает Помощникам (Helpers)). Владелец решает, кого еще подключить к проекту и на каких этапах, и докладывает Менеджеру. _У каждого проекта или цели может быть только один Владелец._
+* **Консультант (Consultant)**: Консультанты это своего рода советники – они помогают рекомендациями или одобряют части проекта, которые требуют специфических знаний.
+* **Помощник (Helper)**: Помощники помогают выполнять или самостоятельно выполняют части работы.
+* **Утверждающее лицо (Approver)**: Утверждающее лицо принимает все окончательные решения. Утверждающее лицо может быть одним и тем же человеком, что и Менеджер, но эту роль также может выполнять исполнительный директор, внешний партнер, источник финансирования или председатель совета директоров.
 
-The MOCHA model gives your team a clear but flexible structure for every project. If you assign MOCHA roles to each goal or discreet project from the outset, the Owner will know who to rely on for help and advice, who must manage and approve the work, and everyone will understand who is ultimately responsible for driving each project forward to completion.
+Модель MOCHA предоставляет вашей команде четкую, но гибкую структуру для каждого проекта. Если вы с самого начала распишете роли для каждой цели или отдельного проекта по модели MOCHA, владелец будет знать, на кого он может опираться, когда ему нужна будет помощь и совет, а также кто управляет работой и одобряет решения. При этом все будут понимать, кто в конечном счете несет ответственность за выполнение каждого из проектов от начала до конца.
 
-This model also allows for flexibility within and across teams. When there is a small communications team (or just one person handling communications), that person(s) might feel overwhelmed and unsure who they can ask for help. By clearly identifying who else in the organization is assigned to be helpers, consultants, managers, or approvers, teams can expand to meet the workload that needs to get done as it needs to get done.
+Эта модель также предполагает гибкость внутри команды и между командами. Если коммуникационная команда небольшая (либо состоит из одного человека, который выполняет все коммуникационные функции), эти люди могут чувствовать себя  перегруженными работой и не знать, к кому они могут обратиться за помощью. Четко определяя, кто в организации выполняет роль Помощников, Консультантов, Менеджеров и Утверждающих лиц, при необходимости команды могут увеличивать свой размер для выполнения более объемных задач.
 
 {% figure caption:"NDI Photo." class: "center" %}
 
@@ -40,21 +40,21 @@ This model also allows for flexibility within and across teams. When there is a 
 
 {% endfigure %}
 
-The other benefit of assigning MOCHA roles to each project is it allows you to evaluate more clearly internal capacity of each staff member and if they realistically have time to accomplish their goals and assignments. If you MOCHA all five of your goals and one person is the Owner for all five, and there are no helpers assigned, then that person is almost certainly going to fail. If, however, you MOCHA each goal and no one feels like they're overcommitted or signed up for too much when looking at everyone's workload, then the work is likely to get done well and on time.
+Еще одно преимущество распределения ролей для каждого проекта по MOCHA – это то, что данный метод позволяет вам более четко оценить возможности каждого из работников и увидеть, достаточно ли у них будет времени для выполнения целей и заданий. Если у вас пять целей и вы распределили роли для всех пяти по MOCHA, при этом один и тот же человек оказался Владельцем всех пяти целей и ни одного Помощника по этим целям не назначено, то это гарантия того, что этот человек обречен на провал. Если же вы  распределили роли для целей по MOCHA, и когда вы смотрите на объем работы всех членов команды, у вас нет ощущения, что их перегрузили обязанностями или что они подписались на слишком большой объем работы, есть все основания полагать, что работа будет сделана хорошо и вовремя.
 
-### YOUR TURN: MOCHA Roles, Responsibilities, and Deadlines
+### ТЕПЕРЬ ВАША ОЧЕРЕДЬ: MOCHA Roles, Responsibilities, and Deadlines
 
-**Go back through your communications plan and assign MOCHA roles to each goal, and any large strategies or standalone projects that have been identified within each goal.**
+**Вернитесь к вашему коммуникационному плану и распишите роли MOCHA для каждой цели, а также для каждой большой стратегии и отдельных проектов, которые вы наметили по каждой из целей.**
 
-**Looking at the full list of MOCHA responsibilities and deadlines, ask yourself the following questions:**
+**Посмотрев на весь список обязанностей и сроков по MOCHA, задайте себе следующие вопросы:**
 
-{% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1" size="large" button="false" %}
+{% textarea label="Реально ли для каждого из этих людей выполнить такой объем работы?" id="MOCHA1" size="large" button="false" %}
 
-{% textarea label="Do they have additional non-communications responsibilities you need to take into account? How much of their time will be taken by communications duties, and can they spare it?" id="MOCHA2" size="large" button="false" %}
+{% textarea label="Есть ли у назначенных людей дополнительные, не связанные с коммуникациями обязанности, которые вы должны принимать во внимание? Сколько времени у них будет занимать выполнение коммуникационных обязанностей и есть ли у них столько времени?" id="MOCHA2" size="large" button="false" %}
 
-{% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA3" size="large" button="false" %}
+{% textarea label="Если работы слишком много (а зачастую это так и есть!), можете ли вы нанять дополнительного человека или людей?" id="MOCHA3" size="large" button="false" %}
 
-{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA4" size="large" button="false" %}
+{% textarea label="Есть ли среди членов вашей организации опытные волонтеры, которые будут готовы и способны выполнять роли помощников и консультантов?" id="MOCHA4" size="large" button="false" %}
 
 ## Staff Accountability and Prioritization
 
