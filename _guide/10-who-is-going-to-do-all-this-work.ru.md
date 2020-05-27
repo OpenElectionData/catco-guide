@@ -18,11 +18,11 @@ published: false
 
 В зависимости от того, сколько людей у вас в штате и какой объем работы вам нужно выполнять, есть несколько способов, которыми вы можете организовать свою коммуникационную команду. У вас может быть коммуникационная команда, которая состоит из одного человека, чья работа заключается в том, чтобы делать абсолютно все, либо у вас может быть большая команда с разделением функций и разным уровнем специализации каждого из сегментов. Ваша команда может расти или уменьшаться в зависимости от того, на каком этапе подготовки к следующим выборам вы находитесь. Нет какого-то одного правильного подхода или способа организации работы. Просто вы должны иметь достаточное количество персонала для того, чтобы реализовывать ваш коммуникационный план настолько оптимально и эффективно, насколько это возможно.
 
-## MOCHA
+## Модель MOCHA
 
-#### _The MOCHA model is adapted from The Management Center_ [_http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf_](http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf "http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf")
+#### Модель MOCHA адаптирована из «The Management Center» [_http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf_](http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf "http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf")
 
-Regardless of how many people are on the communications team or on your organization's staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
+Независимо от того, сколько людей в вашей коммуникационной команде или в штате вашей организации, использование модели MOCHA (заглавные буквы слов «manager» – менеджер, «owner» – владелец, «consultant» – консультант, «helper» – помощник, «approver» – утверждающее лицо) для распределения обязанностей по каждому проекту или стратегии может помочь определиться, кто за что отвечает, и принять необходимые меры для того, чтобы каждый проект реализовывался по плану. Модель MOCHA имеет следующие группы ролей для каждой цели, проекта и стратегии:
 
 * **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
 * **Owner:** The Owner has overall responsibility for the success or failure of a project. The Owner ensures that all work gets done (either themself or by delegating pieces of work to Helpers). The Owner decides when and who else to involved in the project and reports to the Manager. _There can only be one Owner of any project or goal._
