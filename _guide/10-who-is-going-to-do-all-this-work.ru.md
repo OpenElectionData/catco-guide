@@ -12,11 +12,11 @@ published: false
 ---
 {% figure caption:"PACE staff working on developing topline messages. PACE Photo." class:"left" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}
 
-Every group is organized differently and has different amounts of resources to devote to its communications. Part of the reason to work through the exercises and steps in this guide is to have a clear understanding of what work needs to be done, what roles need to be filled and by how many people, and what work should be prioritized and urgent, and what work can wait for a later time.
+Каждая организация имеет свои особенности и разное количество ресурсов, которое она может выделить на свои коммуникации. Одна из причин, по которой имеет смысл пройти все упражнения и шаги в этом пособии, – это получить четкое понимание того, какая работа должна быть проделана, какие функции должны будут выполняться каким количеством людей, а также какая работа должна стать приоритетной и срочной, а какую можно отложить.
 
-Once you have a clear understanding of what needs to be done, you'll be better equipped to structure your team in a way that divides up the workload, you'll know if you need to bring on additional full-time employees, contract employees, or volunteers.
+Как только у вас будет четкое понимание того, что должно быть сделано, вы лучше сможете организовать свою команду таким образом, чтобы разумно разделить объем работы. Это также поможет вам понять, нужно ли нанимать дополнительных работников на полный день, контрактных работников или волонтеров.
 
-Depending on how many people you have on staff and what work you need to accomplish, there are a number of ways to structure a communications team. You may have a one-person communications team whose job is to do everything, or you may have a large team that is highly segmented and specialized. Your team may grow and shrink depending on where you are in relation to the next election. There is no single correct approach or structure -- just be sure that you are staffed in whatever way allows you to carry out your communications plan as efficiently and effectively as you can.
+В зависимости от того, сколько людей у вас в штате и какой объем работы вам нужно выполнять, есть несколько способов, которыми вы можете организовать свою коммуникационную команду. У вас может быть коммуникационная команда, которая состоит из одного человека, чья работа заключается в том, чтобы делать абсолютно все, либо у вас может быть большая команда с разделением функций и разным уровнем специализации каждого из сегментов. Ваша команда может расти или уменьшаться в зависимости от того, на каком этапе подготовки к следующим выборам вы находитесь. Нет какого-то одного правильного подхода или способа организации работы. Просто вы должны иметь достаточное количество персонала для того, чтобы реализовывать ваш коммуникационный план настолько оптимально и эффективно, насколько это возможно.
 
 ## MOCHA
 
@@ -24,11 +24,11 @@ Depending on how many people you have on staff and what work you need to accompl
 
 Regardless of how many people are on the communications team or on your organization's staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
 
-- **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
-- **Owner:** The Owner has overall responsibility for the success or failure of a project. The Owner ensures that all work gets done (either themself or by delegating pieces of work to Helpers). The Owner decides when and who else to involved in the project and reports to the Manager. _There can only be one Owner of any project or goal._
-- **Consultant**: Consultants are like advisors -- they offer input or sign off on parts of a project that require their specific expertise.
-- **Helper:** Helpers assist with or do some of the work.
-- **Approver:** The Approver signs off on all decisions before they are final. The Approver might be the same as The Manager, but it could also be an executive director, external partner, funder, or board chair.
+* **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
+* **Owner:** The Owner has overall responsibility for the success or failure of a project. The Owner ensures that all work gets done (either themself or by delegating pieces of work to Helpers). The Owner decides when and who else to involved in the project and reports to the Manager. _There can only be one Owner of any project or goal._
+* **Consultant**: Consultants are like advisors -- they offer input or sign off on parts of a project that require their specific expertise.
+* **Helper:** Helpers assist with or do some of the work.
+* **Approver:** The Approver signs off on all decisions before they are final. The Approver might be the same as The Manager, but it could also be an executive director, external partner, funder, or board chair.
 
 The MOCHA model gives your team a clear but flexible structure for every project. If you assign MOCHA roles to each goal or discreet project from the outset, the Owner will know who to rely on for help and advice, who must manage and approve the work, and everyone will understand who is ultimately responsible for driving each project forward to completion.
 
