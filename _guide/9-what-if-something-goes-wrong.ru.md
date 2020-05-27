@@ -30,9 +30,9 @@ published: false
 
 С этой записью было бы гораздо труднее бороться, если бы она сразу попала в крупные СМИ, и это еще раз подчеркивает важность плана и образцов заявлений для того, чтобы в случае подобных ситуаций в будущем иметь возможность дать оперативный и решительный ответ. {% endcallout %}
 
-## Prepare What You Can
+## Подготовьте то, что вы можете подготовить
 
-A crisis by definition is fast-moving and high-stress. It's worth spending time at the beginning of a campaign preparing your crisis materials and preparing your staff and validators while you have the time and space to be more relaxed and thoughtful.
+Кризис по определению – это быстроразвивающаяся и стрессовая ситуация. Поэтому в начале кампании, пока у вас есть место и время все продумать спокойно и без напряжения, стоит выделить время на подготовку материалов на случай кризиса и на подготовку вашего персонала и тех, кто будет отстаивать ваши интересы.
 
 * **Create your materials.** Prepare sample blog posts, fact sheets, frequently asked questions (FAQs) for reporters, press releases, emails, text messages, and/or social media content. There will inevitably be placeholders and edits that need to be made in the moment, but if you have the outlines and templates already done, you will feel more in control and able to respond more quickly in the moment.
 * **Appoint and prepare your spokespeople.** Have a clear plan and internal understanding of who can speak on behalf of the organization in a crisis situation. Do all staff have the authority to speak directly to reporters or post on social media? Or do they need to refer all inquiries to an organizational spokesperson? If the spokesperson is unavailable (out of the country, in jail, etc.), who is next in line to serve as spokesperson? Once this plan is clearly laid out to your staff, spend some time training and preparing those who have been designated as spokespeople. Practice your messaging and responses with them so the responses sound natural. Try asking them hard questions and “gotcha” questions so they get comfortable responding in hostile situations.
