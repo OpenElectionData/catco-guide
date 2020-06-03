@@ -126,7 +126,7 @@ They also used social media to bring transparency to previously-secretive proces
 
 В конечном счете эта кампания способствовала назначению новой комиссии. В январе 2018 года президент официально отправил в отставку 13 членов, чьи полномочия истекли, и назначил им замену задолго до президентских и парламентских выборов 2019 года.
 
-## Case Study: “Communications Is Everyone's Business”
+## Разбор примера из практики: «Коммуникации – это дело каждого»
 
 {% figure caption:"YIAGA Africa Photo." %}
 
@@ -134,14 +134,14 @@ They also used social media to bring transparency to previously-secretive proces
 
 {% endfigure %}
 
-The communications team of Nigerian election observation group YIAGA AFRICA consists of five staff members: one to write and produce video and radio content, a photography editor, a web manager to update and manage the website, one person to manage the blast email and text program, and a graphic designer who works on social media and infographic content. Together, the team works to normalize and integrate more participatory practices into Nigeria's political system -- like the importance of young people running for office and the importance of registering to vote.
+Коммуникационная команда группы наблюдения за выборами YIAGA AFRICA в Нигерии состоит из пяти работников: один пишет и публикует виодео- и радио-контент, один фоторедактор, один веб-менеджер для поддержки и обновления веб-сайта, один менеджер массовых электронных и текстовых рассылок и один графический дизайнер, который занимается контентом социальных сетей и инфографикой. Вместе команда работает над нормализацией участия населения в политических процессах Нигерии и интеграцией в политическую систему страны. Например, они пытаются донести, насколько важно для молодых людей баллотироваться на выборные должности или для избирателей регистрироваться на выборы.
 
-However, the communications team is aware of the limitations even of a five-person team. To increase the internal capacity of their organization, the communications team has trained and empowered all staff at YIAGA AFRICA to be effective communicators and offer additional support to the team when time allows.
+Однако коммуникационная команда осознает свои ограничения даже при том, что у них в команде пять человек. Для того, чтобы увеличить внутренние возможности их организации, коммуникационная команда обучила и предоставила возможность всем работникам YIAGA AFRICA быть эффективными коммуникаторами и, когда им позволяет время, они предоставляют дополнительный ресурс команде.
 
-“Communications is everyone's business,” says Moshood Isah, the communications officer of YIAGA AFRICA. “There is a communications team, but generally, everyone at the organization is responsible.”
+«Коммуникации – это дело каждого. – говорит Масхуд Исах, координатор коммуникаций в YIAGA AFRICA. – У нас есть коммуникационная команда, но, в общем, все в организации отвечают за это».
 
-To distribute communications knowledge and skills to all members of the staff, the communications team organizes regular trainings for the full staff. The team has conducted trainings on writing for the web, how to use hashtags and why, how to write news stories for the media, how to speak to media and stay on message, and on other aspects of communications vital to the organization's success.
+Для того, чтобы распространить коммуникационные знания и навыки среди всех членов персонала, коммуникационная команда организовывает регулярные тренинги для штатных работников. Команда провела тренинги по составлению текстов для Интернета, о том, как использовать хэштеги и зачем, о том, как писать новостные заметки для СМИ, как разговаривать с прессой и придерживаться месседжа, а также по другим аспектам коммуникаций, которые являются жизненно важными для успеха организации.
 
-For example, ahead of a PVT, the communications team knew that they would have to hold their results until after the electoral commission released the results. To ensure that that strategy was effectively carried out, the communications team trained all staff on why and how to keep the results private, and when and how to publicize them at the appropriate time.
+Например, перед проведением ППГ коммуникационная команда знала, что они не будут обнародовать свои результаты до того, как избирательная комиссия не объявит официальные результаты. Чтобы обеспечить эффективную реализацию этой стратегии, коммуникационная команда объяснила всему персоналу, почему и как нужно держать результаты в секрете, и когда и как публиковать их, когда наступит время.
 
-By training the larger staff in basics of good communications practices and strategy, the team has been able to broaden its reach and influence. Non-communications staff feel comfortable contributing to the website, creating social media content, and talking to the media. The increase in capacity also frees up the communications team to do some of the higher level tasks and strategizing to allow them to plan for the future and make the organization more prevalent and effective.
+Проводя тренинг с более широким кругом персонала по основам эффективных коммуникационных стратегий и практик, команда добилась расширения охвата и влияния. Члены персонала, которые не относятся к коммуникационному отделу, с уверенностью создают контент для веб-сайта и социальных сетей, а также общаются с представителями СМИ. Увеличение кадрового ресурса освобождает время для коммуникационной команды выполнять задачи на более высоком уровне, разрабатывать стратегии на будущее и делать организацию более эффективной.
