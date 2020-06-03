@@ -1,26 +1,26 @@
 ---
 lang: ru
 uses_forms: true
-title: Additional Resources
-subtitle: ""
+title: Дополнительные ресурсы
+subtitle: ''
 image:
-  url: ""
-  caption: ""
-permalink: /12-additional-resources/
+  url: ''
+  caption: ''
+permalink: "/12-additional-resources/"
 published: false
+
 ---
+## Линия повествования и рассказы
 
-## Narrative & Storytelling
+Рассмотрение примеров из практики, рекомендации и примеры. Оппортунити Адженда (The Opportunity Agenda): [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
 
-Case Studies, Tips & Examples, The Opportunity Agenda: [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
-
-It Gets Better Project: [https://itgetsbetter.org/stories/](https://itgetsbetter.org/stories/ "https://itgetsbetter.org/stories/")
+Проект «Все будет лучше»: [https://itgetsbetter.org/stories/](https://itgetsbetter.org/stories/ "https://itgetsbetter.org/stories/")
 
 En La Viña del Señor: [http://xn--enlaviadelseor-vnbg.com/](http://xn--enlaviadelseor-vnbg.com/ "http://xn--enlaviadelseor-vnbg.com/")
 
-Framing for Activists, George Lakoff: [https://georgelakoff.com/framingforactivists/](https://georgelakoff.com/framingforactivists/ "https://georgelakoff.com/framingforactivists/")
+«Создание коммуникационной концепции для активистов». Джордж Лакофф: [https://georgelakoff.com/framingforactivists/](https://georgelakoff.com/framingforactivists/ "https://georgelakoff.com/framingforactivists/")
 
-“How the American Cancer Society Learned to Touch Hearts to Boost Donations,” Carmine Gallo, Forbes: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
+«Как Американское онкологическое общество научилось проникать в сердца, чтобы увеличить пожертвования». Кармин Галло, журнал «Форбс»: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
 
 ## Audience & Messaging
 
@@ -104,7 +104,7 @@ Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/
 
 The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs:
 
-[https://www.ndi.org/sites/default/files/european*campaign_playbook*-\_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+[https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
 
 ## Citizen Election Observation
 
