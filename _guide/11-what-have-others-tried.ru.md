@@ -1,22 +1,22 @@
 ---
 lang: ru
 uses_forms: false
-title: 11. What Have Others Tried?
-subtitle: Case Studies
+title: '11. Что уже было сделано? '
+subtitle: Разбор примеров из практики
 image:
-  url: ""
-  caption: ""
-permalink: /11-what-have-others-tried/
+  url: ''
+  caption: ''
+permalink: "/11-what-have-others-tried/"
 published: false
+
 ---
+## Разбор примера из практики: звезды YouTube берут интервью у Президента Обамы
 
-## Case Study: YouTube Stars Interview President Obama
+В середине второй каденции Президента Обамы промежуточные выборы в Конгресс стали мрачным предзнаменованием будущего поведения молодых избирателей. На выборах 2014 года партия Обамы потеряла 9 мест в Сенате и контроль над ним, а также 13 мест в Палате представителей. Явка избирателей на выборы упала среди всех возрастных групп, но особенно низкой она была среди избирателей-миллениалов. Думая наперед о выборах 2016 года и о закреплении своих достижений, Обама решил охватить аудиторию миллениалов в надежде вернуть их энтузиазм, повысить явку на выборах и вовлечь их в реализацию своих политических задач.
 
-Midway through President Barack Obama's second term, the midterm elections delivered a dire warning about young voters. In the 2014 elections, Obama's party lost nine Senate seats and control of the chamber, as well as losing 13 seats in the House of Representatives. Voter turnout was down among all age groups, but especially with millennial voters. With his eye on the 2016 elections and cementing his legacy achievements, Obama sought to engage millennial audiences in the hopes of increasing enthusiasm, turnout, and participation in his political agenda.
+Всего лишь 19,9% избирателей возрастом 18-29 лет приняли участие в промежуточных выборах 2014 года – самый низкий уровень участия за последние 40 лет и значительное снижение по сравнению с 24%, которые проголосовали на промежуточных выборах 2010 года. Обама знал, что если эти избиратели продолжат быть апатичными и не придут на выборы в 2016 году и далее, многие из его ключевых политических достижений будут поставлены под угрозу отмены или ослабления (например, его политика в отношении всеобщего медицинского страхования и иммиграционная политика).
 
-Only 19.9 percent of voters ages 18-29 voted in the 2014 midterms, the lowest youth turnout in 40 years and a significant drop from the 24 percent that had cast ballots in 2010 midterms. Obama knew that if those voters remained disengaged and didn't turn out in 2016 and beyond, many of his signature policy achievements would be in danger of being overturned or weakened -- policies like expanded health coverage and a more humane immigration policy for undocumented immigrants who had arrived in the country as children.
-
-Rather than go to the same media outlets that he had relied on up to this point, Obama's communications team decided to speak to this younger audience through trusted messengers and on platforms and channels that already attracted young people -- rather than trying to attract young people to the platforms and channels that Obama was more familiar or comfortable with. His communications team took a broad look at the media and social media landscape and realized that many young people were on YouTube, where YouTube stars unknown to the general public had millions of young subscribers to their channels.
+Вместо того, чтобы обращаться к тем же самым СМИ, на которые он до сей поры опирался, коммуникационная команда Обамы решила выйти на связь с более молодой аудитории через тех людей, которым они доверяют, и через те платформы и каналы, которые популярны среди молодых людей. Они пришли к выводу, что пытаться привлечь молодежь на платформы и каналы, с которыми сам Обама был лучше ознакомлен и где ощущал себя комфортнее, будет неэффективным. Его коммуникационная команда посмотрела в целом на ландшафт СМИ и социальных сетей и поняла, что многие молодые люди предпочитали YouTube, где совершенно не известные широкой публике звезды имели миллионы молодых подписчиков на своих каналах.
 
 {% figure caption:"President Barack Obama participates in an interview with YouTube and Google+ to discuss his State of the Union address in the Roosevelt Room of the White House, Jan. 30, 2012." %}
 
@@ -24,21 +24,21 @@ Rather than go to the same media outlets that he had relied on up to this point,
 
 {% endfigure %}
 
-The Obama team reached out to Hank Green, Bethany Mota, and GloZell Green asking them each to interview the president the day after the State of the Union. That is traditionally a time when the president touts his policy vision and agenda in traditional media outlets. Instead, Obama spent 15 minutes each with Hank Green, one of the “Vlog Brothers” with a following of more than 3 million; Bethany Mota, a young woman with more than 10 million followers who creates videos about style, travel, beauty, and cooking; and GloZell Green, the most-followed African American woman on YouTube, whose signature green lipstick and funny videos are watched by her 4+ million subscribers.
+Команда Обамы обратилась к Хэнку Грину, Бетани Мота и ГлоЗелл Грин с просьбой, чтобы каждый из них провел интервью с президентом на следующий день после его доклада «О положении страны». Исторически в этот период президенты рассказывают о своем видении политики и задач в традиционных СМИ. Вместо этого Обама провел по 15 минут с Хэнком Грином, одним из братьев-видеоблоггеров «Vlog Brothers», у которых более, чем 3 миллиона подписчиков; Бетани Мота, молодой женщиной, аудитория которой более, чем 10 миллионов подписчиков, создающей видео о стиле, путешествиях, красоте и приготовлении пищи; и ГлоЗелл Грином, самой популярной афроамериканской женщиной на YouTube с фирменной зеленой губной помадой и смешными видео, которые смотрят более 4 миллионов подписчиков.
 
-While none of the YouTube stars had much (or any) experience with political topics, each shared the common traits of having large audiences that the president wanted to speak to, a different and signature style, and an authenticity that their subscribers trusted and believed in.
+Хотя никто из звезд YouTube не имел достаточно (или вообще какого-то) опыта в области политики, у них у всех были общие характеристики – большая аудитория, к которой президент хотел обратиться. У них был уникальный стиль, а также искренность подачи информации, которой их подписчики доверяли.
 
-To ensure that the interviews and encounters were authentic and “on brand” for the stars' regular subscribers, the Obama team let the YouTubers be themselves and drive the conversation. The interviews took place at the White House, but each YouTube star brought a backdrop that reflected their personality and brand, making each interview feel different and intimate. Their questions were not vetted by the Obama team and included some that challenged the president and his policies -- questions about his use of drone technology, racist policing, and sanctions on North Korea. There were also some moments of silliness, like when GloZell gave President Obama a gift for his “first wife” (instead of calling her the First Lady).
+Чтобы встречи и интервью были естественными и соответствовали «бренду» звезд в глазах их постоянных подписчиков, команда Обамы позволила ютуберам быть самими собой и направлять диалог. Интервью проходили в Белом доме, но все звезды YouTube принесли с собой декорации, которые отражали их личность и бренд, поэтому каждое интервью ощущалось по-разному и было очень душевным. Команда Обамы не проводила предварительный отбор вопросов, поэтому во время интервью были заданы даже те вопросы, которые подвергали критике президента и некоторые из его политических решений, включая вопросы об использовании дронов, о расистских методах полиции и санкциях в отношении Северной Кореи. Были также и забавные моменты: например, когда ГлоЗелл преподнесла президенту подарок для его «первой жены» (вместо «Первой леди»). 
 
-There were also nonpolitical questions that allowed for moments of authentic connection, like when Bethany Mota asked the president what super power he'd choose. (Obama said he'd like to be able to fly or speak every language.)
+Ютуберы также задавали неполитические вопросы, которые создавали моменты искреннего контакта, например, когда Бетани Мота спросила президента, какую бы он для себя выбрал суперспособность (Обама сказал, что он бы хотел уметь летать или говорить на всех языках).
 
-Obama discussed his legacy with GloZell and the challenges the U.S. faces in the future. Bethany Mota, 19 years old at the time of the interview, asked about why young people like herself should pay attention to politics, and Obama was able to explain the ways politics and government affect young people's lives directly. “There's no decision in our lives that isn't touched in some ways by our laws, and we're lucky we live in a democracy where our voice matters,” he told her and, by extension, her 10 million subscribers, many of whom had sat out the last election.
+Обама обсудил свое наследие во время интервью с ГлоЗелл и рассказал, какие сложности предстоят США в будущем. Бетани Мота, которой на момент интервью было 19 лет, спросила, почему молодые люди, такие как она, должны следить за политикой, и Обама смог объяснить, каким образом политика и правительство напрямую влияют на жизни молодых людей. «В нашей жизни нет ни одного решения, на которое тем или иным  образом не влияли бы наши законы, и нам повезло, что мы живем в демократическом обществе, где наш голос имеет значение» – сказал он ей и 10 миллионам ее подписчиков, многие из которых в прошлых выборах не участвовали.
 
-The interviews were watched more than 5 million times by a predominantly millennial audience.
+The interviews were watched more than 5 million times by a predominantly millennial audience. Интервью набрали более 5 миллионов просмотров аудитории, в основном состоящей из миллениалов.
 
-Watch the interviews: [https://youtu.be/GbR6iQ62v9k](https://youtu.be/GbR6iQ62v9k "https://youtu.be/GbR6iQ62v9k")
+Смотрите интервью здесь: [https://youtu.be/GbR6iQ62v9k](https://youtu.be/GbR6iQ62v9k "https://youtu.be/GbR6iQ62v9k")
 
-You can also see great examples of Barack Obama using non-traditional platforms and outlets to reach young audiences on [Marc Maron's podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama), [Funny or Die](https://www.youtube.com/watch?v=UnW3xkHxIEQ), [Buzzfeed](https://www.facebook.com/watch/?v=1631492713658271), and [Vine](https://www.youtube.com/watch?v=XQCFdOOUDtM).
+Ниже вы также можете ознакомиться с прекрасными примерами, когда Барак Обама использовал нетрадиционные платформы или каналы, для того, чтобы охватить молодую аудиторию:  [Подкаст Марка Марона](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama), [Будь смешным или умри](https://www.youtube.com/watch?v=UnW3xkHxIEQ), [Buzzfeed](https://www.facebook.com/watch/?v=1631492713658271), и [Vine](https://www.youtube.com/watch?v=XQCFdOOUDtM).
 
 ## Case Study: Telling Stories in Support of LGBTI Rights
 
