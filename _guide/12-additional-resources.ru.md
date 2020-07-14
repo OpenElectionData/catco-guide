@@ -104,11 +104,11 @@ OBS Studio (свободная программа с открытым исход
 
 «Стратегия обеспечения кибербезопасности во время проведения избирательной кампании», Европейское издание, Центр науки и международных отношений им. Роберта и Рене Белфер Института государственного управления им. Дж.Ф.Кеннеди Гарвардского университета, США: [https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf](https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf "https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf")
 
-## Citizen Election Observation
+## Группы общественных наблюдателей за выборами
 
-Global Network of Domestic Election Monitors (GNDEM): [https://gndem.org](https://gndem.org "https://gndem.org")
+Глобальная сеть национальных наблюдателей за выборами (ГСННВ): [https://gndem.org](https://gndem.org "https://gndem.org")
 
-Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations (DoGP): [https://gndem.org/declaration-of-global-principles/](https://gndem.org/declaration-of-global-principles/ "https://gndem.org/declaration-of-global-principles/")
+Декларация глобальных принципов непартийного наблюдения и мониторинга выборов общественными организациями: [https://www.ndi.org/sites/default/files/DOGP-Citizen-Orgs-RUS.pdf](https://www.ndi.org/sites/default/files/DOGP-Citizen-Orgs-RUS.pdf "https://www.ndi.org/sites/default/files/DOGP-Citizen-Orgs-RUS.pdf")
 
 How Domestic Organizations Monitor Elections: an A to Z Guide, National Democratic Institute (NDI): [https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide](https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide "https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide")
 
