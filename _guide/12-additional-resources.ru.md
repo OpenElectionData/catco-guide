@@ -110,12 +110,12 @@ OBS Studio (свободная программа с открытым исход
 
 Декларация глобальных принципов непартийного наблюдения и мониторинга выборов общественными организациями: [https://www.ndi.org/sites/default/files/DOGP-Citizen-Orgs-RUS.pdf](https://www.ndi.org/sites/default/files/DOGP-Citizen-Orgs-RUS.pdf "https://www.ndi.org/sites/default/files/DOGP-Citizen-Orgs-RUS.pdf")
 
-How Domestic Organizations Monitor Elections: an A to Z Guide, National Democratic Institute (NDI): [https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide](https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide "https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide")
+«Как национальные организации проводят мониторинг выборов: пособие от А до Я», Национальный демократический институт (НДИ): [https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide](https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide "https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide")
 
-Systematic Methods for Advancing Election Observation, West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf")
+Системные методы продвижения наблюдения за выборами , Сеть наблюдателей за выборами Западной Африки (WAEON), Серия пособий для работы на местах: [https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf")
 
-Outreach and External Communication, West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf")
+информационная работа и внешние коммуникации, Сеть наблюдателей за выборами Западной Африки (WAEON), Серия пособий для работы на местах: [https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf")
 
-Open Election Data Initiative: [https://www.openelectiondata.net/en/](https://www.openelectiondata.net/en/ "https://www.openelectiondata.net/en/")
+Инициатива по открытым выборам: [https://www.openelectiondata.net/en/](https://www.openelectiondata.net/en/ "https://www.openelectiondata.net/en/")
 
-“Parallel Vote Tabulations,” National Democratic Institute (NDI): [https://www.ndi.org/pvt](https://www.ndi.org/pvt "https://www.ndi.org/pvt")
+«Параллельные подсчеты голосов,» Национальный демократический институт (НДИ): [https://www.ndi.org/pvt](https://www.ndi.org/pvt "https://www.ndi.org/pvt")
