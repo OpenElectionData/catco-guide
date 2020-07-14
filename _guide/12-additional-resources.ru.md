@@ -56,9 +56,9 @@ OBS Studio (свободная программа с открытым исход
 
 Академия для разработчиков YouTube: [https://creatoracademy.youtube.com/page/education](https://creatoracademy.youtube.com/page/education "https://creatoracademy.youtube.com/page/education")
 
-“12 Tips For Crafting Compelling Video Content That Draws More Views”: [https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762](https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762 "https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762")
+«12 практических советов по созданию убедительного видео-контента, который привлекает большее количество просмотров» («12 Tips For Crafting Compelling Video Content That Draws More Views): [https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762](https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762 "https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762")
 
-“What Video Editing Software Do YouTubers Use”: [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
+«Какие программы редактирования видео используют ютуберы?» («What Video Editing Software Do YouTubers Use»): [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
 
 ## Data Visualization
 
