@@ -50,11 +50,11 @@ Change.org: [https://www.change.org/](https://www.change.org/ "https://www.chang
 
 Использование WhatsApp в проведении кампаний: [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
 
-## Video
+## Видео
 
-OBS Studio, Open Broadcaster Software: [https://obsproject.com/](https://obsproject.com/ "https://obsproject.com/")
+OBS Studio (свободная программа с открытым исходным кодом для записи видео и потокового вещания): [https://obsproject.com/](https://obsproject.com/ "https://obsproject.com/")
 
-YouTube Creator Academy: [https://creatoracademy.youtube.com/page/education](https://creatoracademy.youtube.com/page/education "https://creatoracademy.youtube.com/page/education")
+Академия для разработчиков YouTube: [https://creatoracademy.youtube.com/page/education](https://creatoracademy.youtube.com/page/education "https://creatoracademy.youtube.com/page/education")
 
 “12 Tips For Crafting Compelling Video Content That Draws More Views”: [https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762](https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762 "https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762")
 
