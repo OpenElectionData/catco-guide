@@ -94,17 +94,15 @@ OBS Studio (свободная программа с открытым исход
 
 Ботометр (Botometer): [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
 
-## Digital Security
+## Цифровая безопасность
 
-Digital First Aid Kit, Digital Defenders Partnership: [https://www.digitaldefenders.org/digitalfirstaid/](https://www.digitaldefenders.org/digitalfirstaid/ "https://www.digitaldefenders.org/digitalfirstaid/")
+«Цифровая аптечка первой помощи», Партнерство цифровых защитников (Digital Defenders Partnership): [https://www.digitaldefenders.org/digitalfirstaid/](https://www.digitaldefenders.org/digitalfirstaid/ "https://www.digitaldefenders.org/digitalfirstaid/")
 
-Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/](https://ssd.eff.org/ "https://ssd.eff.org/")
+«Защита от электронной слежки», Фонд «Электронный рубеж» (Electronic Frontier Foundation): [https://ssd.eff.org/](https://ssd.eff.org/ "https://ssd.eff.org/")
 
-“Digital Security Resources,” Front Line Defenders: [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
+«Ресурсы по цифровой безопасности», Организация «Защитники передовой» (Front Line Defenders): [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
 
-The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs:
-
-[https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+«Стратегия обеспечения кибербезопасности во время проведения избирательной кампании», Европейское издание, Центр науки и международных отношений им. Роберта и Рене Белфер Института государственного управления им. Дж.Ф.Кеннеди Гарвардского университета, США: [https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf](https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf "https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf")
 
 ## Citizen Election Observation
 
