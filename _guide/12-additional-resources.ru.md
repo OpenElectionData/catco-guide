@@ -74,19 +74,19 @@ OBS Studio (свободная программа с открытым исход
 
 ## Креативные стратегии
 
-“#PopJustice: Social Justice and the Promise of Pop Culture Strategies” reports, Liz Mann Strategy: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
+Отчет «#PopJustice: Социальная справедливость и потенциал стратегий поп-культуры». Лиз Манн Стратеджи: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
 
-The Laughter Effect, Center for Media & Social Impact, American University School of Communication: [http://cmsimpact.org/program/comedy/](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")
+Эффект смеха. Центр исследований медиа- и социальных влияний Школы коммуникации Американского Университета (Center for Media & Social Impact, American University School of Communication): [http://cmsimpact.org/program/comedy/](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")
 
-Race in the Writer's Room: How Hollywood Whitewashes the Stories that Shape America, Darnell Hunt: [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
+Избирательная кампания в кабинете писателя: Как Голливуд выбеливает истину в историях, которые формируют Америку». Дарнелл Хант: [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
 
-\#IfIwasTheMayor: [https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf](https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf "https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf")
+Если бы я был мэром (#IfIwasTheMayor): [https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf](https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf "https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf")
 
-The Voter Suppression Trail, Chris Baker, Brian Moore and Mike Lacher, The New York Times: [https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html "https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html")
+«На пути подавления голосов избирателей». Крис Бейкер, Брайан Мур и Майк Лахер. Нью-Йорк Таймс: [https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html "https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html")
 
-“The Back-of-the-Envelope Guide to Communications Strategy,” Ann Christiano and Annie Neimand, Stanford Social Innovation Review: [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
+«Упрощенный курс по коммуникационным стратегиям» («The Back-of-the-Envelope Guide to Communications Strategy»). Энн Кристиано и Энни Ниманд,  Обзор социальных инноваций Стэнфордского университета: [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
 
-## Crisis Communications
+## Коммуникации в кризисных условиях
 
 Election Cyber Incident Communications Plan Template for Political Parties and Campaigns, International Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
 
