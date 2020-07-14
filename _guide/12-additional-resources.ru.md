@@ -34,21 +34,21 @@ En La Viña del Señor: [http://xn--enlaviadelseor-vnbg.com/](http://xn--enlavia
 
 Вэб-приложение Гугл Трендс (Google Trends): [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
 
-## Platforms
+## Платформы
 
-“Google Thinks the Future of the Web Is...Email,” Mark Wilson, Fast Company: [https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email](https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email "https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email")
+«Google думает, что будущим Интернета является...электронная почта» («Google Thinks the Future of the Web Is...Email»). Марк Вилсон. Фаст Компани: [https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email](https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email "https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email")
 
 Care2: [https://www.care2.com/](https://www.care2.com/ "https://www.care2.com/")
 
 Change.org: [https://www.change.org/](https://www.change.org/ "https://www.change.org/")
 
-“29 Simple Ways to Grow Your Email List,” Andy Pitre, HubSpot: [https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx")
+«29 простых способов увеличить список подписчиков на вашу рассылку» («29 Simple Ways to Grow Your Email List»). Энди Питр, ХабСпот: [https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx")
 
-Beautiful Trouble: [https://beautifultrouble.org/](https://beautifultrouble.org/ "https://beautifultrouble.org/")
+Прекрасные неприянтности (Beautiful Trouble): [https://beautifultrouble.org/](https://beautifultrouble.org/ "https://beautifultrouble.org/")
 
-Hustle texting platform: [https://hustle.com/](https://hustle.com/ "https://hustle.com/")
+Платформа смс-сообщений Hustle: [https://hustle.com/](https://hustle.com/ "https://hustle.com/")
 
-WhatsApp Uses for Campaigns: [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
+Использование WhatsApp в проведении кампаний: [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
 
 ## Video
 
