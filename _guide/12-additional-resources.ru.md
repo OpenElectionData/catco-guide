@@ -22,17 +22,17 @@ En La Viña del Señor: [http://xn--enlaviadelseor-vnbg.com/](http://xn--enlavia
 
 «Как Американское онкологическое общество научилось проникать в сердца, чтобы увеличить пожертвования». Кармин Галло, журнал «Форбс»: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
 
-## Audience & Messaging
+## Аудитория и месседж
 
-How To Run Focus Groups, Citizens Advice: [https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf "https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf")
+Как работать с фокус-группами. Совет гражданам: [https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf "https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf")
 
-A Guide for Planning, Organizing, and Managing Focus Groups, the Puget Sound Consortium for Manufacturing Excellence: [https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf](https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf "https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf")
+Пособие по планированию, организации и управлению фокус-группами. Ассоциация обеспечения высоких производственных стандартов Пьюджет Саунд: [https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf](https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf "https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf")
 
-Top Ten Tips for Great Focus Groups, The Experience Business: [http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf](http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf "http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf")
+«Десять лучших советов о том, как организовать отличную фокус-группу» («Top Ten Tips for Great Focus Groups»), Экспириенс бизнес (The Experience Business): [http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf](http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf "http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf")
 
-Tips for Facilitating Focus Groups, Center for the Promotion of Health in the New England Workplace: [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
+«Практические рекомендации по работе с фокус-группами» («Tips for Facilitating Focus Groups»), Центр по продвижению здорового образа жизни на рабочих местах Новой Англии (Center for the Promotion of Health in the New England Workplace): [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
 
-Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
+Вэб-приложение Гугл Трендс (Google Trends): [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
 
 ## Platforms
 
