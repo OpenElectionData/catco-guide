@@ -88,11 +88,11 @@ OBS Studio (свободная программа с открытым исход
 
 ## Коммуникации в кризисных условиях
 
-Election Cyber Incident Communications Plan Template for Political Parties and Campaigns, International Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
+«Примерный план реагирования на кибератаки во время выборов для политических партий и кампаний», Международное издание, Центр науки и международных отношений им. Роберта и Рене Белфер Института государственного управления им. Дж.Ф.Кеннеди Гарвардского университета, США: [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
 
-Botcheck.me: [https://botcheck.me/](https://botcheck.me/ "https://botcheck.me/")
+Выявление ботов на Twitter (Botcheck.me): [https://botcheck.me/](https://botcheck.me/ "https://botcheck.me/")
 
-Botometer: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
+Ботометр (Botometer): [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
 
 ## Digital Security
 
