@@ -60,19 +60,19 @@ OBS Studio (свободная программа с открытым исход
 
 «Какие программы редактирования видео используют ютуберы?» («What Video Editing Software Do YouTubers Use»): [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
 
-## Data Visualization
+## Визуализация данных
 
-Storytelling with Data: [http://www.storytellingwithdata.com/](http://www.storytellingwithdata.com/ "http://www.storytellingwithdata.com/")
+Как рассказать историю при помощи данных: [http://www.storytellingwithdata.com/](http://www.storytellingwithdata.com/ "http://www.storytellingwithdata.com/")
 
-“How To Tell a Powerful Story with Data Visualization,” Brian Bimschleger, Telepathy: [https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization](https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization "https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization")
+«Как рассказать впечатляющую историю при помощи визуализации данных» («How To Tell a Powerful Story with Data Visualization»). Брайан Бимшлегер. Телепатия: [https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization](https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization "https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization")
 
-“How To Properly Tell a Story with Data-- and Common Pitfalls to Avoid,” Outlier AI, Towards Data Science: [https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9](https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9 "https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9")
+«Как правильно рассказать историю при помощи использования данных: типичные подводные камни, которые нужно избегать» («How To Properly Tell a Story with Data-- and Common Pitfalls to Avoid»). Аутлаер ИИ (Outlier AI). Наука о данных (Towards Data Science): [https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9](https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9 "https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9")
 
-Data Smart Cities Solutions Search: [https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search "https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search")
+Поисковая база данных для решения критических проблем городов (Data Smart Cities Solutions Search): [https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search "https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search")
 
-“2018 Report: Engaging Your Audience with Visual Content,” The Content Strategist: [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
+«Отчет 2018 г.: Как вовлечь вашу аудиторию при помощи визуального контента» («2018 Report: Engaging Your Audience with Visual Content»). Стратег по контенту: [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
 
-## Creative Strategies
+## Креативные стратегии
 
 “#PopJustice: Social Justice and the Promise of Pop Culture Strategies” reports, Liz Mann Strategy: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
 
