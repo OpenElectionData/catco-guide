@@ -24,29 +24,29 @@ published: false
 
 {% endfigure %}
 
-### **حان دورك**: Setting Communications Goals
+### حان دورك: تحديد أهداف الاتصالات
 
 قم بتمرين لاستثارة الأفكار إما وحدك أو مع فريقك للتفكير في أشكال النجاح المحتملة. إليك بعض الأسئلة لمساعدتك على الانطلاق:
 
-{% textarea label="What do we want to change or improve about the country's democratic or electoral processes?" id="1" size="large" button="false" %}
+{% textarea label="ما الذي نودّ تغييره أو تحسينه بشأن العمليات الديمقراطية أو الانتخابية في البلاد؟" id="1" size="large" button="false" %}
 
-{% textarea label="Do we want to raise awareness? If so, what does that look like?" id="2" size="large" button="false" %}
+{% textarea label="هل نريد زيادة التوعية؟ إذا أجبنا بنعم، فكيف يمكننا أن نقوم بذلك؟" id="2" size="large" button="false" %}
 
-{% textarea label="Do we want to expand our network of volunteers? If so, for what purpose?" id="3" size="large" button="false" %}
+{% textarea label="هل نريد توسيع شبكة متطوعينا؟ إذا أجبنا بنعم، فما الغرض من ذلك؟" id="3" size="large" button="false" %}
 
-{% textarea label="Do we want to enhance our credibility? Do we want to question the credibility of others?" id="4" size="large" button="false"  %}
+{% textarea label="هل نريد تحسين مصداقيتنا	هل نريد التشكيك في مصداقية الآخرين؟" id="4" size="large" button="false"  %}
 
-{% textarea label="Do we want people to change their behavior or perceptions?" id="5" size="large" button="false"  %}
+{% textarea label="هل نريد من الناس تغيير سلوكهم أو تصوراتهم؟" id="5" size="large" button="false"  %}
 
-{% textarea label="Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?" id="6" size="large" button="false"  %}
+{% textarea label="هل نريد من الناس اتّخاذ تحرك معيّن، كالإبلاغ عن المخالفات، أو تسجيل أسمائهم للتصويت، أو المشاركة في الاقتراع؟" id="6" size="large" button="false"  %}
 
-{% textarea label="Do we want to change laws or policies?" id="7" size="large" button="false" %}
+{% textarea label="هل نريد تغيير القوانين أو السياسات؟" id="7" size="large" button="false" %}
 
-{% textarea label="What do people need to understand or be educated about?" id="8" size="large" button="false"  %}
+{% textarea label="ما الذي نريد من الناس أن يفهموه أو يعوه؟" id="8" size="large" button="false"  %}
 
-{% textarea label="List Your Goals Below" id="goals" size="large" button="false"  %}
+{% textarea label="قائمة أهدافك أدناه" id="goals" size="large" button="false"  %}
 
-You may have brainstormed a long list of things you hope to accomplish, but it's important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn't mean you have to give up on them forever - you can always turn your attention to them at a later date.
+قد يكون تمرين استثارة الأفكار قد أسفر عن قائمة طويلة من الأمور التي تأمل إنجازها، لكن من الضروري أن تكون عملياً بشأن ما تستطيع تحقيقه على أرض الواقع، ضمن المهلة الزمنية المتاحة لك. حاول أن تحصر  عدد أهدافك بين واحد  وخمسة، على ضوء الوقت والقدرات المتوفرة لديك. لكن لمجرّد أنك حذفت بعض الأمور التي تأمل إنجازها من قائمتك، فهذا لا يعني أنك ستضطر إلى التخلي عنها للأبد، بل على العكس: بإمكانك دوماً أن تعود إليها في وقت لاحق.
 
 {% callout title="Setting Organizational Goals" %}
 Don't forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country's democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
