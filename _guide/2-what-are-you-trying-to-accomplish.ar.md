@@ -48,8 +48,8 @@ published: false
 
 قد يكون تمرين استثارة الأفكار قد أسفر عن قائمة طويلة من الأمور التي تأمل إنجازها، لكن من الضروري أن تكون عملياً بشأن ما تستطيع تحقيقه على أرض الواقع، ضمن المهلة الزمنية المتاحة لك. حاول أن تحصر  عدد أهدافك بين واحد  وخمسة، على ضوء الوقت والقدرات المتوفرة لديك. لكن لمجرّد أنك حذفت بعض الأمور التي تأمل إنجازها من قائمتك، فهذا لا يعني أنك ستضطر إلى التخلي عنها للأبد، بل على العكس: بإمكانك دوماً أن تعود إليها في وقت لاحق.
 
-{% callout title="Setting Organizational Goals" %}
-Don't forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country's democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
+{% callout title="تحديد الأهداف التنظيمية" %}
+لا تنسَ أن تفكّر في تطوّر المنظمة على المدى الطويل عند تحديد أهدافك. في نيجيريا، تحدّد مجموعة المراقبة  "المبادرة الشبابية للمناصرة والنمو والتقدم" ([YIAGA AFRICA](https://www.yiaga.org/)) أهدافاً استناداً إلى الطريقة التي تودّ بموجبها أن تتحسّن مؤسسات الدولة الديمقراطية، وذلك من خلال دمج الشباب، والوصول إلى انتخابات شفافة وذات مصداقية، ومكافحة الفساد، وتعزيز مساءلة المسؤولين المنتَخبين. وليس هذا فحسب، بل من أهدافها المرسومة أيضاً الحرص أن تكون المنظّمة معروفة في أوساط النيجيريين، والصحافة العالمية، والمانحين. يضمن لها هذا الأمر طول العمر وصحة المنظمة نفسها، كي تتمكن من مواصلة عملها على المدى الطويل.
 
 ![YIAGA](/assets/images/yiaga_3-1.jpg "YIAGA")
 
