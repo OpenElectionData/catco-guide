@@ -55,17 +55,17 @@ published: false
 
 {% endcallout %}
 
-## Smart Goals
+## الأهداف الذكية
 
-Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
+Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed. عندما تكون الأهداف مبهمة، يصعب العمل من أجل تحقيقها أو معرفة متى تمّ إنجازها فعلاً. لذا، تجنّب الأهداف المبهمة أو العمومية من خلال جعلها محدّدة، وقابلة للقياس، وقابلة للتحقيق، وذات صلة، ومحددة المدة (أو ما يُعرف بالأهداف الذكية بحسب المصطلح باللغة الإنجليزية). فمن شأن تحديد أهداف ملموسة ومحددة أن يحافظ على تركيزك ويحول دون شعورك بالارتباك.
 
-| Vague Goals | SMART Goals |
+| أهداف مبهمة | أهداف ذكية |
 | --- | --- |
-| Build our credibility | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
+| تعزيز مصداقيتنا | سيُنظر إلينا كخبراء في مجال مراقبة الانتخابات، إذا ما نجحنا في إدراج اسمنا ضمن 25 تحقيقاً إعلامياً عن الانتخابات طيلة الفترة المؤدية إلى يوم الانتخابات، وإذا ما وجدنا مصدراً موثوقاً واحداً على الأقل يدعم نتائج بحثنا ويؤكد مصداقيتها.  |
 | Raise awareness | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election. |
 | Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms. |
 
-By defining the time-specific aspect of your goals, you'll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it's important to be clear with your team and your leadership of what you're hoping to accomplish when. You want to especially be sure you're working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you're making steady progress on it.
+By defining the time-specific aspect of your goals, you'll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it's important to be clear with your team and your leadership of what you're hoping to accomplish when. You want to especially be sure you're working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you're making steady progress on it. عندما تحدّد الجانب الزمني لأهدافك، ستميّز بشكل أفضل بين الأهداف الطويلة والقصيرة المدى. لا يخفى عليك أنّ أي خطة اتصال تنطوي على أهداف طويلة وقصيرة المدى على السواء، ومن الضروري أن توضّح لفريقك وقادتك ماذا تأمل أن تحقق ومتى. على وجه الخصوص، يجب أن تحرص على العمل بجدّ من أجل تحقيق أهدافك الطويلة المدى حتى وأنت تعمل من أجل تحقيق الأهداف القصيرة المدى. في هذا الإطار، قد تفضّل تجزيء هدف طويل المدى إلى سلسلة من الأهداف القصيرة للتأكد من أنك تحرز تقدماً مطّرداً باتجاه تنفيذه.
 
 ### YOUR TURN: Setting SMART Goals
 
