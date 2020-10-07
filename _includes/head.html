@@ -26,6 +26,10 @@
   <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
   {% endif %}
 
+  {% if site.active_lang == 'ar' %}
+  <link rel="stylesheet" href="{{ "/assets/css/rtl.css" | absolute_url }}">
+  {% endif %}
+
   {% if site.ga_tracking != nil %}
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;

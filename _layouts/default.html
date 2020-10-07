@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="{{ site.lang | default: "en-US" }}" dir="{% if site.lang == 'ar' %}rtl{% else %}ltr{% endif %}">
+<html lang="{{ site.active_lang | default: "en-US" }}" dir="{% if site.active_lang == 'ar' %}rtl{% else %}ltr{% endif %}">
 {% include head.html %}
 <body>
   <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1"
