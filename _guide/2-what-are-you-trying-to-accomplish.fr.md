@@ -1,7 +1,7 @@
 ---
 title: 2. What Are You Trying To Accomplish?
 subtitle: Setting Goals, Strategies, and Tactics
-lang: en
+lang: fr
 image:
   url: "/assets/images/NDI_moscow.jpg"
   caption: "Photo: NDI, Mikhail Velmakin"

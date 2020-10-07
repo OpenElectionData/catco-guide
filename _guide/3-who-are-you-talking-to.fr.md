@@ -1,14 +1,14 @@
 ---
-lang: en
+lang: fr
 title: 3. Who Are You Talking To?
 subtitle: Identifying Your Audience
 image:
-  url: ''
-  caption: ''
+  url: ""
+  caption: ""
 uses_forms: true
 permalink: /3-who-are-you-talking-to/
-
 ---
+
 In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.
 
 {% figure caption:"Chart adapted from Ed Grefe's lectures as an adjunct professor at George Washington University." class:"center" %} ![](/assets/images/bell_chart_eng.png)
@@ -34,11 +34,11 @@ Let's continue with our example to see how this works:
 
 By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.
 
-| Target Audiences | Strategies |
-| :--- | :--- |
-| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties | Strategy 1: Use digital advertising to generate web trafiic and social reach. |
-| - Young men ages 16-26 | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
-| - Exisiting members (aka our "friends") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing. |
+| Target Audiences                                                                                                        | Strategies                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties | Strategy 1: Use digital advertising to generate web trafiic and social reach.                                          |
+| - Young men ages 16-26                                                                                                  | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
+| - Exisiting members (aka our "friends") and their social networks                                                       | Strategy 3: Use our email list to encourage peer-to-peer social sharing.                                               |
 
 ### Your Turn: Identify Your Audience
 
@@ -99,9 +99,9 @@ In some cases, in order to reach a very broad audience, you might consider reach
 
 If your audiences are different from you, you may not know these answers off the top of your head. Don't make assumptions or guesses! Try to research these audiences to get a strong and complete picture of them. Here are some ways you can research your target audiences. _(Note: it is probably most practical to combine audience research with messaging research; see next section.)_
 
-* **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
-* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
-* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
+- **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
+- **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
+- **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
 
 ### YOUR TURN: Creating Detailed Audience Profiles
 
@@ -111,11 +111,11 @@ With your updated and clear understanding of your audiences, take one more look 
 
 When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
 
-| Target Audience | Strategy |
-| --- | --- |
-| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
-| Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
-| Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
+| Target Audience                       | Strategy                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter.              |
+| Members of the party in power         | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is.                                          |
+| Young men ages 16-26                  | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
 
 {% textarea label="Target Audience 1" id="1a" size="Small" button="false" %}  
 {% textarea label="Detailed Profile 1" id="1b" size="Small" button="false" %}

@@ -1,14 +1,14 @@
 ---
-lang: en
+lang: fr
 uses_forms: false
 title: 11. What Have Others Tried?
 subtitle: Case Studies
 image:
-  url: ''
-  caption: ''
+  url: ""
+  caption: ""
 permalink: /11-what-have-others-tried/
-
 ---
+
 ## Case Study: YouTube Stars Interview President Obama
 
 Midway through President Barack Obama's second term, the midterm elections delivered a dire warning about young voters. In the 2014 elections, Obama's party lost nine Senate seats and control of the chamber, as well as losing 13 seats in the House of Representatives. Voter turnout was down among all age groups, but especially with millennial voters. With his eye on the 2016 elections and cementing his legacy achievements, Obama sought to engage millennial audiences in the hopes of increasing enthusiasm, turnout, and participation in his political agenda.
@@ -37,7 +37,7 @@ The interviews were watched more than 5 million times by a predominantly millenn
 
 Watch the interviews: [https://youtu.be/GbR6iQ62v9k](https://youtu.be/GbR6iQ62v9k "https://youtu.be/GbR6iQ62v9k")
 
-You can also see great examples of Barack Obama using non-traditional platforms and outlets to reach young audiences on [Marc Maron's podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama), [Funny or Die](https://www.youtube.com/watch?v=UnW3xkHxIEQ),  [Buzzfeed](https://www.facebook.com/watch/?v=1631492713658271), and [Vine](https://www.youtube.com/watch?v=XQCFdOOUDtM).
+You can also see great examples of Barack Obama using non-traditional platforms and outlets to reach young audiences on [Marc Maron's podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama), [Funny or Die](https://www.youtube.com/watch?v=UnW3xkHxIEQ), [Buzzfeed](https://www.facebook.com/watch/?v=1631492713658271), and [Vine](https://www.youtube.com/watch?v=XQCFdOOUDtM).
 
 ## Case Study: Telling Stories in Support of LGBTI Rights
 

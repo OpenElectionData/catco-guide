@@ -1,14 +1,14 @@
 ---
-lang: en
+lang: fr
 uses_forms: true
 title: Additional Resources
-subtitle: ''
+subtitle: ""
 image:
-  url: ''
-  caption: ''
+  url: ""
+  caption: ""
 permalink: /12-additional-resources/
-
 ---
+
 ## Narrative & Storytelling
 
 Case Studies, Tips & Examples, The Opportunity Agenda: [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
@@ -103,7 +103,7 @@ Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/
 
 The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs:
 
-[https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+[https://www.ndi.org/sites/default/files/european*campaign_playbook*-\_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
 
 ## Citizen Election Observation
 
