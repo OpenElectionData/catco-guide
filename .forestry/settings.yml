@@ -36,6 +36,14 @@ sections:
   new_doc_ext: ar.md
   templates:
   - guide-pages
+- type: directory
+  path: ''
+  label: 'Guide: French'
+  create: documents
+  match: "**/*.fr.md"
+  new_doc_ext: fr.md
+  templates:
+  - guide-pages
 - type: document
   path: _data/menus.yml
   label: Menus
@@ -56,6 +64,10 @@ sections:
 - type: document
   path: _data/ar/strings.yml
   label: Arabic
+- type: document
+  path: _data/fr/strings.yml
+  label: French
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
