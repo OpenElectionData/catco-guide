@@ -40,7 +40,7 @@ sections:
   path: ''
   label: 'Guide: French'
   create: documents
-  match: "**/*.fr.md"
+  match: _guide/**/*.fr.md
   new_doc_ext: fr.md
   templates:
   - guide-pages
@@ -67,7 +67,6 @@ sections:
 - type: document
   path: _data/fr/strings.yml
   label: French
-  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
