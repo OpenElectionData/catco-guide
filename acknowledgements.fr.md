@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Acknowledgements
+title: Remerciements
 permalink: "/acknowledgements/"
 lang: fr
 menu:
   sidebar:
     weight: "2"
----
+published: false
 
+---
 This guidebook was written by Francoise Stovall with input from Julia Brothers, Sarah Cooper, Johandra Delgado, Michael McNulty, and Amanda Pleasant and with overall guidance from Pat Merloe. Phil Brondyke designed the style of this guide. The National Democratic Institute (NDI) wishes to thank all the citizen election observation groups, including the members of the Global Network of Domestic Election Monitors (GNDEM), that provided examples, lessons learned, and photos from their own outreach and communications efforts and whose experiences have been reflected in this publication.
 
 The development of this publication was made possible through a grant from the National Endowment for Democracy (NED). This guidebook complements other resources by NDI on electoral integrity and citizen election observation, such as NDI's handbooks: How Domestic Organizations Monitor Elections, The Quick Count and Election Observation, Media Monitoring to Promote Democratic Elections, Monitoring and Mitigating Electoral Violence Through Nonpartisan Citizen Election Observation, and Votes Without Violence: A Citizen Observer's Guide to Addressing Violence against Women in Elections. These and other resources are available online at [https://www.ndi.org/ndi-publications-election-monitoring](https://www.ndi.org/ndi-publications-election-monitoring).
