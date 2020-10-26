@@ -7,7 +7,6 @@ image:
   caption: ''
 permalink: "/introduction/"
 uses_forms: false
-published: false
 
 ---
 Des groupes d'observation électorale non partisans et d'autres organisations de la société civile (OSC) travaillent dur chaque jour pour organiser les citoyens, collecter et analyser des données et plaider en faveur de réformes démocratiques. Dans des environnements plus fermés, ils doivent également lutter contre les violations des pouvoirs autoritaires en place. Au cours des trois dernières décennies, le mouvement citoyen pour l'intégrité électorale s'est élargi à plus de 100 pays et a impliqué plus de quatre millions d'activistes. Travailler pour défendre et faire progresser le suffrage universel et équitable à travers un choix libre et éclairé renforce simultanément les normes démocratiques et expose la répression et la corruption politique des autocrates. C’est pourquoi créer de la frustration à travers l’observation citoyenne des élections est un objectif pour ceux qui cherchent à fermer l’espace démocratique et c’est pourquoi il est également important de dynamiser l’observation citoyenne des élections pour relever les défis présentés par ces environnements fermés.
