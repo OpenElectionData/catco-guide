@@ -7,7 +7,6 @@ image:
   caption: 'Photo: NDI, Mikhail Velmakin'
 permalink: "/2-what-are-you-trying-to-accomplish/"
 uses_forms: true
-published: false
 
 ---
 Une fois que vous serez plongé dans une période électorale, vous serez probablement extrêmement occupé. Pour éviter d'être submergé et définir les priorités sur lesquelles consacrer votre temps, il est important de définir, au préalable, des objectifs clairs. Passez un peu de temps à créer des objectifs concrets au tout début de la planification de votre communication ou campagne avant que le processus électoral ou que la campagne ne débute, enfin obtenez l'approbation et l'accord de votre équipe et de votre direction sur le fait que ce sont les objectifs que vous ciblerez en tant que groupe.
@@ -135,4 +134,4 @@ Prenez les objectifs SMART que vous avez identifiés et utilisez le tableau ci-d
 
 {% textarea label="Listez vos tactiques et ressources pour la 3ème stratégie" id="tactics3" size="large" button="false" %}
 
-Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them – from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group's communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
+Une fois que vous avez clairement défini des objectifs, des stratégies et des tactiques, assurez-vous d'obtenir une large compréhension organisationnelle et un accord à leur sujet - à la fois de la direction et du personnel. Étant donné que le conseil d'administration ou le comité de direction de l'organisation ne sont pas aussi impliqués dans les opérations quotidiennes, ils auront souvent une compréhension ou une hiérarchisation différente des objectifs de communication du groupe. Cela peut créer un gros problème pour le personnel des communications, qui est alors entraîné dans de nombreuses directions et doit remplir plusieurs priorités à la fois, ce qui rend son travail globalement moins efficace. Assurez-vous de passer en revue et de discuter des objectifs, des stratégies et des tactiques avec quiconque effectuera, supervisera ou attribuera un travail afin que chacun ait une compréhension commune de ce qui doit se passer et pourquoi.
