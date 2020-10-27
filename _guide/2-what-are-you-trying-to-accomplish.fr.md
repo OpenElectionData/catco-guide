@@ -72,7 +72,7 @@ Des objectifs vagues sont difficiles à atteindre ou à identifier quand vous le
 
 En définissant l'aspect temporel de vos objectifs, vous aurez une meilleure idée de ce qu'est un objectif à long et à court terme. Tout plan de communication aura des objectifs à la fois à long et à court terme, et il est important d'être clair avec votre équipe et votre direction sur les délais dans lesquels vous espérez accomplir vos objectifs. Vous voulez en particulier vous assurer que vous travaillez vers vos objectifs à long terme, même si vous effectuez le travail pour atteindre des objectifs à court terme. Vous voudrez peut-être diviser un objectif à long terme en une série d'objectifs à court terme pour vous assurer que vous faites des progrès constants dans sa réalisation.
 
-### **A VOTRE TOUR:** 
+### **A VOTRE TOUR:**
 
 Jetez un œil lors de votre réflexion sur ce à quoi ressemblerait le succès. Limitez-vous entre un et cinq objectifs et rendez-les SMART en les rendant spécifiques, mesurables, atteignables, réalistes et temporellement défini.
 
@@ -91,7 +91,6 @@ _Vos stratégies et tactiques de communication découleront directement de vos o
 {% callout title="Travailler ensemble vers des objectifs communs" %}
 En Malaisie, le groupe [BERSIH 2.0](http://www.bersih.org/ "bersih") se réunit en début d'année pour fixer ses objectifs, les hiérarchiser et planifier ses activités en conséquence. Au début de 2018 - une année électorale - ils savaient qu'ils allaient consacrer beaucoup de temps et de ressources à inciter les gens à aller voter. Mais ils poursuivaient également une campagne de quatre ans sur le long terme dans le but de redessiner les circonscriptions électorales pour les rendre équitables. Le groupe devait également s'assurer qu'il y avait du temps et de la flexibilité pour au moins une campagne inattendue, au cas où les autorités feraient quelque chose qui exigerait l'organisation de manifestations. En équipe, ils ont identifié ces trois objectifs comme des priorités et ont ajusté leur travail en conséquence. Lorsque des priorités concurrentes sont apparues au cours du travail quotidien, le personnel a pu les comparer à ces objectifs pour choisir ce qu'il fallait poursuivre.
 
-  
 «Pour pouvoir construire un mouvement, votre leadership doit vraiment être fort», a déclaré Maria Chin Abdullah, ancienne présidente de BERSIH 2.0. «Les gens auront des opinions divergentes, mais en fin de compte, les dirigeants doivent travailler ensemble vers des objectifs communs.»
 
 ![BERSIH 2.0 memebrs encouraging people to vote](/assets/images/BERSIH_3.jpg "Photo from BERSIH 2.0")
@@ -110,7 +109,7 @@ N'oubliez pas de prendre en compte les risques, en particulier lorsque vous iden
 
 Pour illustrer cela, développons l'un des exemples d'objectifs ci-dessus avec des stratégies, des tactiques et des ressources.
 
-**EXEMPLE D'OBJECTIF:**Sensibiliser sur le comptage parallèle des résultats (PVT)[\[1\]](#_ftn1) en invitant 10.000 personnes à visiter notre site Web et en ayant une fréquentation moyenne de 100 000 personnes sur nos réseaux sociaux au cours des trois semaines précédant les élections. 
+**EXEMPLE D'OBJECTIF:** Sensibiliser sur le comptage parallèle des résultats (PVT)[\[1\]](#_ftn1) en invitant 10.000 personnes à visiter notre site Web et en ayant une fréquentation moyenne de 100 000 personnes sur nos réseaux sociaux au cours des trois semaines précédant les élections.
 
 ***
 
@@ -124,16 +123,16 @@ Pour illustrer cela, développons l'un des exemples d'objectifs ci-dessus avec d
 
 {: .table--cols-equal}
 
-### YOUR TURN: Identifying Strategies, Tactics, and Resources
+### A VOTRE TOUR DE JOUER: 
 
-Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That's okay! Adjust your goals to reflect what you can realistically achieve.
+Prenez les objectifs SMART que vous avez identifiés et utilisez le tableau ci-dessous (en suivant l'exemple précédent) pour indiquer les stratégies, tactiques et ressources dont vous auriez besoin pour atteindre vos objectifs. Vous constaterez peut-être que vous devez réévaluer certains de vos objectifs si vos stratégies, tactiques ou ressources ne sont pas réalistes. Ce n’est pas un problème! Ajustez vos objectifs pour refléter ce que vous pouvez faire de manière réaliste.
 
-**Goal 1:**
+**OBJECTIF 1:**
 
-{% textarea label="List your tactics and resources for Strategy 1" id="tactics1" size="large" button="false" %}
+{% textarea label="Listez vos tactiques et ressources pour la 1ère stratégie" id="tactics1" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 2" id="tactics2" size="large" button="false" %}
+{% textarea label="Listez vos tactiques et ressources pour la 2ème stratégie" id="tactics2" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 3" id="tactics3" size="large" button="false" %}
+{% textarea label="Listez vos tactiques et ressources pour la 3ème stratégie" id="tactics3" size="large" button="false" %}
 
 Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them – from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group's communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
