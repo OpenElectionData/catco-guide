@@ -117,14 +117,14 @@ Lorsque vous avez terminé, vous devriez avoir une image assez détaillée de vo
 | Public Cible | Stratégie |
 | --- | --- |
 | Les journalistes qui écrivent sur les élections | Ces journalistes préfèrent recevoir des informations par courrier électronique. Cependant, les journalistes A et B sont intéressés pour recevoir des exclusivités et des appels téléphoniques lorsqu’il y a  un scoop à la clé. Ils sont tous sur Facebook mais consomment la plupart de leurs informations sur Twitter. Le journaliste A en particulier dispose d’un grand nombre de followers sur Twitter et répond rapidement aux messages directs (DM) sur Twitter. |
-| Les membres du parti au pouvoir  | Ces personnes sont les plus influencées par le chef du parti. Ils ont tendance à lire le journal du jour et le magazine hebdomadaire et à écouter les news à la radio. Très peu d'entre eux sont sur Twitter mais presque tous sur Facebook. Ils se méfient particulièrement du journaliste B, considérant presque tout ce que cette personne rapporte comme un mensonge, que ce soit vrai ou non.  |
+| Les membres du parti au pouvoir | Ces personnes sont les plus influencées par le chef du parti. Ils ont tendance à lire le journal du jour et le magazine hebdomadaire et à écouter les news à la radio. Très peu d'entre eux sont sur Twitter mais presque tous sur Facebook. Ils se méfient particulièrement du journaliste B, considérant presque tout ce que cette personne rapporte comme un mensonge, que ce soit vrai ou non. |
 | Jeunes hommes âgés entre 16 et 26 ans | Ces gens aiment tous la star de cinéma A et la Pop Star B, mais sont sceptiques à l'égard de tous les politiciens. Ils ne consomment aucune information par la presse écrite ou la radio et passent la plupart de leur temps sur Facebook, Snapchat et Twitch. Ils aiment également les sites Web W, Y et Z et font confiance à ces auteurs. Ils considèrent leurs pairs comme des messagers de confiance et font confiance aux histoires et aux messages que d'autres jeunes hommes de 16 à 26 ans leur racontent. |
 
-{% textarea label="Target Audience 1" id="1a" size="Small" button="false" %}  
+{% textarea label="1ère Public Cible" id="1a" size="Small" button="false" %}  
 {% textarea label="Detailed Profile 1" id="1b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 2" id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile 2" id="2b" size="Small" button="false" %}
+{% textarea label="2ème Public Cible " id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile 2" id="2b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 3" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="3b" size="Small" button="false" %}
+{% textarea label="3ème Public Cible" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="3b" size="Small" button="false" %}
 
-{% textarea label="Target Audience 4" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 4" id="4b" size="Small" button="false" %}
+{% textarea label="4ème Public Cinle" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 4" id="4b" size="Small" button="false" %}
