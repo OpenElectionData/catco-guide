@@ -64,11 +64,11 @@ N'oubliez pas d'inclure le développement organisationnel dans vos objectifs. Au
 
 Des objectifs vagues sont difficiles à atteindre ou à identifier quand vous les avez atteints. Évitez les objectifs vagues ou trop larges en les rendant spécifiques, mesurables, atteignables, réalistes et temporellement défini (SMART est l'acronyme anglais). Définir des objectifs concrets et spécifiques vous permettra de rester concentré et vous évitera de vous sentir dépassé.
 
-| Vague Goals | SMART Goals |
+| Objectifs vagues | Objectifs SMART |
 | --- | --- |
-| Build our credibility | We will be seen as experts on election observation by being included in 25 media stories about the election leading up to election day, and having at least one credible source point to our findings as definitive. |
-| Raise awareness | Raise awareness by getting 10,000 people to visit our website and have an average reach of 100,000 people across our social media channels in the three weeks before the election. |
-| Demand better elections | Organization or designated spokespeople are quoted 10 times in the media demanding specific electoral reforms. |
+| Développer notre crédibilité  | Nous serons considérés comme des experts en observation électorale en étant considérés dans 25 reportages dans les médias sur les élections qui ont précédé le jour du scrutin, et en ayant au moins une source crédible pointant nos conclusions comme définitives. |
+| Sensibiliser | Sensibiliser en incitant 10.000 personnes à visiter notre site Web et atteindre en moyenne 100.000 personnes sur nos médias sociaux au cours des trois semaines précédant les élections. |
+| Demander de meilleures élections | Des organisations ou des porte-parole désignés sont cités 10 fois dans les médias pour exiger des réformes électorales spécifiques |
 
 By defining the time-specific aspect of your goals, you'll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it's important to be clear with your team and your leadership of what you're hoping to accomplish when. You want to especially be sure you're working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you're making steady progress on it.
 
