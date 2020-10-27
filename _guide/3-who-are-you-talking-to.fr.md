@@ -121,10 +121,10 @@ Lorsque vous avez terminé, vous devriez avoir une image assez détaillée de vo
 | Jeunes hommes âgés entre 16 et 26 ans | Ces gens aiment tous la star de cinéma A et la Pop Star B, mais sont sceptiques à l'égard de tous les politiciens. Ils ne consomment aucune information par la presse écrite ou la radio et passent la plupart de leur temps sur Facebook, Snapchat et Twitch. Ils aiment également les sites Web W, Y et Z et font confiance à ces auteurs. Ils considèrent leurs pairs comme des messagers de confiance et font confiance aux histoires et aux messages que d'autres jeunes hommes de 16 à 26 ans leur racontent. |
 
 {% textarea label="1ère Public Cible" id="1a" size="Small" button="false" %}  
-{% textarea label="Detailed Profile 1" id="1b" size="Small" button="false" %}
+{% textarea label="1èr Profil Détaillé" id="1b" size="Small" button="false" %}
 
-{% textarea label="2ème Public Cible " id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile 2" id="2b" size="Small" button="false" %}
+{% textarea label="2ème Public Cible " id="2a" size="Small" button="false" %} {% textarea label="2ème Profil Détaillé" id="2b" size="Small" button="false" %}
 
-{% textarea label="3ème Public Cible" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="3b" size="Small" button="false" %}
+{% textarea label="3ème Public Cible" id="3a" size="Small" button="false" %} {% textarea label="3ème Profil Détaillé" id="3b" size="Small" button="false" %}
 
-{% textarea label="4ème Public Cinle" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 4" id="4b" size="Small" button="false" %}
+{% textarea label="4ème Public Cible" id="4a" size="Small" button="false" %} {% textarea label="4ème Profil Détaillé" id="4b" size="Small" button="false" %}
