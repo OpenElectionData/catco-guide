@@ -98,7 +98,7 @@ En Malaisie, le groupe [BERSIH 2.0](http://www.bersih.org/ "bersih") se réunit 
 
 {% endcallout %}
 
-## Strategies and Tactics to Achieve Your Goals
+## Stratégies et tactiques pour atteindre vos objectifs
 
 Une stratégie est une approche que vous pouvez adopter pour atteindre vos objectifs. Les tactiques sont les actions individuelles que vous entreprenez pour mettre en œuvre votre stratégie.
 
