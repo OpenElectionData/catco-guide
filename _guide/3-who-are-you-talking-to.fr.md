@@ -41,78 +41,78 @@ En sélectionnant ces publics, nous espérons sensibiliser et faire mieux compre
 | :--- | :--- |
 | - Journalistes qui écrivent sur les élections<br>- Membres du parti au pouvoir<br>- Membres du ou des partis d'opposition | Stratégie 1: utiliser la publicité numérique pour générer du trafic Web et augmenter la portée sociale. |
 | - Jeunes hommes âgés de 16 à 26 ans | Stratégie 2: Demandez à une célébrité ou à une personne influente qui est populaire parmi les jeunes hommes de partager notre contenu sur les médias sociaux et de diriger les gens vers le site Web. |
-| - Membres existants ( nos “amis”) et leurs réseaux sociaux  | Stratégie 3: Utilisez notre liste de diffusion pour encourager le partage social de pair à pair (peer-to-peer). |
+| - Membres existants ( nos “amis”) et leurs réseaux sociaux | Stratégie 3: Utilisez notre liste de diffusion pour encourager le partage social de pair à pair (peer-to-peer). |
 
-### Your Turn: Identify Your Audience
+### A VOTRE TOUR:
 
-Look at your goals, strategies and tactics from the last exercise. Who is/are the best audience/s for each one? Who do you need to reach to be successful and why? You may need to change or refine your tactics as you get a clearer picture of who your audience is.
+Examinez vos objectifs, stratégies et tactiques du dernier exercice. Considérez maintenant les publics cibles que vous devez atteindre pour réussir et pourquoi. Enfin, évaluez quelles stratégies et tactiques sont les mieux adaptées à chaque public.
 
-### Target Audiences
+### Public cible
 
-{% textarea label="Who are the groups of people you want to reach out to?" id="Target Audience" size="small" button="false" %}
+{% textarea label="À quels groupes de personnes souhaitez-vous vous addresser? " id="Target Audience" size="small" button="false" %}
 
-### Strategies
+### Stratégies
 
-{% textarea label="What strategy will you use to reach out to each target audience?  " id="Strategies" size="small" button="false" %}
+{% textarea label="Quelle stratégie utiliserez-vous pour atteindre chaque public cible? " id="Strategies" size="small" button="false" %}
 
-### Tactics
+### Tactiques
 
-{% textarea label="What are the individual actions you might take to enact each strategy listed?" id="Tactics" size="small" button="false" %}
+{% textarea label="Quelles sont les actions individuelles que vous pourriez prendre pour mettre-en-oeuvre chaque stratégie?" id="Tactics" size="small" button="false" %}
 
-_Who's Missing?_
+_Qui manque dans votre ciblage?_
 
-Look at all the audiences you plan to target with your strategies and tactics. Is there a key audience or group you aren't speaking to with any of your goals, strategies or tactics? You may need to add a goal, strategy or set of tactics to ensure that you are reaching a key audience you inadvertently left out.
+Regardez tous les publics que vous prévoyez de cibler avec vos stratégies et tactiques de communication. Y a-t-il un public ou un groupe clé à qui vous ne parlez pas avec vos objectifs, stratégies ou tactiques de communication? Vous devrez peut-être ajouter un objectif, une stratégie ou un ensemble de tactiques pour vous assurer d'atteindre un public clé que vous avez oublié par inadvertance.
 
-For example, let's say you've gotten this far but none of your strategies involve reaching the audience of the political party in power - even though they will be an important group to accept the legitimacy of the PVT findings. Revisit your goals, strategies and tactics to think about how you'll talk to them and what you hope to accomplish when you do.
+Par exemple, disons que vous êtes arrivé jusqu'ici, mais aucune de vos stratégies n'implique d'atteindre le public du parti politique au pouvoir - même s'il sera un groupe important pour accepter la légitimité des résultats du PVT. Revoyez vos objectifs, vos stratégies et vos tactiques pour réfléchir à la manière dont vous leur parlerez et à ce que vous espérez accomplir lorsque vous le ferez.
 
-{% callout title="Reaching Your Audience Without Mainstream Media" %} In Serbia, the [Center for Research, Transparency and Accountability (CRTA)](https://crta.rs/en/) targets representatives of the election commission, the independent media, political parties, other civil society organizations, and the international community in order to get its message out about the election observation process and findings. The group also communicates broadly with the public and especially with those members of the public they believe will be active in defending democracy and volunteer or otherwise support CRTA and its work.
+{% callout title="Atteindre votre public sans les médias traditionnels" %} En Serbie, [le Centre pour la Recherche, la Transparence et la Redevabilité (CRTA)](https://crta.rs/en/ "CRTA") cible les représentants de la commission électorale, les médias indépendants, les partis politiques, d'autres organisations de la société civile et la communauté internationale afin de faire passer son message sur le processus d'observation des élections et les résultats. Le groupe communique également largement avec le public, en particulier avec les membres du public qui, selon eux, seront actifs pour soutenir le CRTA et son travail de défense de la démocratie.
 
-However, they have to come up with direct contact and outreach strategies for each audience, because they are blacklisted by the pro-government mainstream media, and therefore can't rely on major media outlets to disseminate their messages for them. Instead, they create a different product (videos, infographics, high-level briefings) and customized message for each target audience. They begin by creating content for a broad, public audience, since that is the largest audience. Then, they transform and repurpose those general educational materials for the public with specialized messages and formats to reach their other targeted audiences, like holding private briefings with higher-level information for the international community.
+Cependant, ils doivent proposer des stratégies de contact direct et de sensibilisation pour chaque public, car ils sont inscrits sur la liste noire des médias grand public pro-gouvernementaux et ne peuvent donc pas compter sur les principaux médias pour diffuser leurs messages à leur place. Au lieu de cela, ils créent différents produits (vidéos, infographies, briefings de haut niveau) et des messages personnalisés pour chaque public cible. Ils commencent par créer du contenu pour un large public, car c'est le plus grand public. Ensuite, ils transforment et réutilisent ces matériels éducatifs généraux pour le public avec des messages et des formats spécialisés pour atteindre les autres publics cibles, comme la tenue de séances d'information privées avec des informations de plus haut niveau pour la communauté internationale.
 
 ![Press Liason from CRTA stands next to a podium at a CRTA Press Conference](/assets/images/A_DSC1721.jpg "Photo from CRTA, Zoran Drekalovic")  
 {% endcallout %}
 
-## About Your Foes
+## Concernant vos ennemis
 
-By definition, your foes will disagree with your goals, and you shouldn't spend time trying to convince them otherwise. But that doesn't mean you can ignore them.
+Par définition, vos ennemis seront en désaccord avec vos objectifs et vous ne devriez pas passer du temps à essayer de les convaincre du contraire. Mais cela ne signifie pas que vous pouvez les ignorer.
 
-Spend time thinking about who exactly your foes are. Maybe it's the readers of a particular publication or viewers of a specific television station. Maybe it's the leaders of the party in power. Maybe it's the leaders of the opposition party or parties. While you may not be able to change their minds and bring them on board with your goals, you will need to limit their influence and the damage they can do to you and your own goals.
+Passez du temps à réfléchir à qui sont exactement vos ennemis. Il s’agit peut-être des lecteurs d’une publication particulière ou des téléspectateurs d’une chaîne de télévision spécifique. Ce sont peut-être les dirigeants du parti au pouvoir. Ce sont peut-être les dirigeants du ou des partis d’opposition. Bien que vous ne puissiez pas changer d'avis et les amener à participer à vos objectifs, vous devrez limiter leur influence et les dommages qu'ils peuvent vous faire et à vos propres objectifs.
 
-Limiting the influence of foes may need to be its own goal, with strategies, tactics, resources, and audiences identified. Or you might integrate it throughout all your goals and strategies. What you decide will depend on how powerful, trusted, and pervasive your foes are. But whatever you choose, do not ignore your foes. Assume that they will be working just as hard as you - often with significantly more resources at their disposal - to communicate with your key audiences about their goals.
+Limiter l'influence des ennemis peut devoir être son propre objectif, avec des stratégies, des tactiques, des ressources et des publics identifiés. Ou vous pouvez l'intégrer dans tous vos objectifs et stratégies. Ce que vous déciderez dépendra de la puissance, de la confiance et de la puissance de vos ennemis. Mais quoi que vous choisissiez, n'ignorez pas vos ennemis. Supposez qu'ils travailleront aussi dur que vous - souvent avec beaucoup plus de ressources à leur disposition - pour communiquer avec vos publics clés au sujet de leurs objectifs.
 
-This is particularly important if your group is operating in a repressive environment and/or a country with closing political space. In these contexts you will need to dedicate significantly more time and resources to the issue of addressing and/ or mitigating the damage that foes can do to your ability to communicate effectively with your target audiences. Authoritarian regimes use a tremendous amount of resources to suppress, discredit, or silence credible information about elections and the findings of credible observer groups. These regimes have strong influence and, in many cases, direct or indirect control over the traditional media. Online media, including social media, may also be restricted or blocked during critical times surrounding elections. Some governments and political actors have increasingly used tools such as bots and trolls to flood citizens with disinformation _\[Disinformation is when false information is shared with the intent of causing harm.\]_ and propaganda. This includes making false accusations that election observer groups are instruments of foreign governments, creating and highlighting government-organized non-governmental organizations (GONGOs), and using “zombie observers" to produce reports claiming that flawed elections are credible. _\['Zombie observers' are observers used by anti-democratic governments, organizations, and parties to undermine genuine election observation and analysis. They typically only offer positive electoral assessments.\]_ See Section 8 for more details on planning for crises and attacks from your opponents.
+Ceci est particulièrement important si votre groupe opère dans un environnement répressif et / ou dans un pays avec un espace politique fermé. Dans ces contextes, vous devrez consacrer beaucoup plus de temps et de ressources à la question de la résolution et / ou de l'atténuation des dommages que les ennemis peuvent causer à votre capacité à communiquer efficacement avec votre public cible. Les régimes autoritaires utilisent d'énormes ressources pour supprimer, discréditer ou faire taire les informations crédibles sur les élections et les conclusions de groupes d'observateurs crédibles. Ces régimes ont une forte influence et, dans de nombreux cas, un contrôle direct ou indirect sur les médias traditionnels. Les médias en ligne, y compris les médias sociaux, peuvent également être restreints ou bloqués pendant les périodes critiques entourant les élections. Certains gouvernements et acteurs politiques ont de plus en plus utilisé des outils tels que les robots et les trolls pour inonder les citoyens de désinformation et de propagande. Cela inclut de fausses accusations selon lesquelles les groupes d'observateurs électoraux sont des instruments de gouvernements étrangers, la création et la mise en évidence d'organisations non gouvernementales organisées par le gouvernement (GONGO) et l'utilisation d '«observateurs zombies» pour produire des rapports affirmant que des élections erronées sont crédibles. Voir le chapitre VIII pour plus de détails sur la planification des crises et des attaques de vos adversaires.
 
-## Get to Know Your Target Audiences
+## Apprenez à connaitre votre public cible
 
-By now, you should have a list of audiences you plan to reach. To reach them effectively, you should spend some time getting to know them.
+À présent, vous devriez avoir une liste d'audiences que vous prévoyez d'atteindre. Pour les atteindre efficacement, vous devriez passer du temps à les connaître.
 
-Here are three questions you'll want to research about all your target audiences. The answers to these questions will help you determine effective messages, messengers, and platforms later on.
+Voici trois questions que vous souhaiterez rechercher sur tous vos publics cibles. Les réponses à ces questions vous aideront à déterminer les messages, les messagers et les plates-formes efficaces plus tard dans le processus.
 
-**1. Where are they?** This refers to where they are both geographically and online. If your influencers are all in the capital, it doesn't make sense to buy ads in newspapers outside of the capital. If you're trying to reach young men ages 16-26 and they are all on Facebook but not many on Twitter, don't invest time and resources into Twitter.
+**1. Où sont-ils?** Cela fait référence à l'endroit où ils se trouvent à la fois géographiquement et en ligne. Si vos influenceurs sont tous dans la capitale, il n’est pas logique d’acheter des publicités dans les journaux en dehors de la capitale. Si vous essayez d'atteindre les jeunes hommes âgés de 16 à 26 ans et qu'ils sont tous sur Facebook mais que beaucoup ne le sont pas sur Twitter, n'investissez pas de temps et de ressources dans Twitter.
 
-**2. What are the main ways they consume information?** Do they get it online? In print? On the radio? Are there specific websites, platforms, services, publications, TV shows, or people they trust? If your key audience listens to the same radio program at 3pm every day, you may want to buy an ad during that program. You also may not want to schedule your own event for that time.
+**2. De quel manière consomment-t-ils les informations?** Les mettent-ils en ligne? Sur papier? À la radio? Existe-t-il des sites Web, des plateformes, des services, des publications, des émissions de télévision ou des personnes en qui ils ont confiance? Si votre public clé écoute le même programme de radio à 15 heures tous les jours, vous souhaiterez sûrement acheter une publicité pendant ce programme. Vous pouvez également ne pas vouloir planifier votre propre événement pour cette heure.
 
-**3.** **Who influences them?** Who are the trusted messengers for your audiences? This could be a politician, celebrity, academic, journalist, or a member of their family or peer group. By identifying people who are already reaching your target audience, you may avoid having to build that audience from scratch. Think expansively and creatively here. The person that influences your target audience may not be well known to you.
+**3.** **Qui les influence?** Qui sont les messagers de confiance pour votre public? Cela peut être un politicien, une célébrité, un universitaire, un journaliste ou un membre de leur famille ou de leur groupe de pairs. En identifiant les personnes qui touchent déjà votre public cible, vous pouvez éviter d'avoir à créer ce lien avec le public à partir de zéro. Pensez de manière extensive et créative ici. La personne qui influence votre public cible peut ne pas vous être bien connue.
 
-## A Note About Influencers
+## Une note sur les influenceurs
 
-In some cases, in order to reach a very broad audience, you might consider reaching out to a very narrow one. Those “influentials” at the top of the above audience map already have extensive networks and audiences of their own. Be sure you're not trying to replicate someone else's audience from scratch if you can reach out to them directly and tap into their audience instead. For example, if you are trying to affect change in one particular community, you may be able to identify the religious or political figure who has the most influence in that community and reach out to that one person directly, rather than trying to reach out to the entire community yourself.
+Dans certains cas, pour toucher un public très large, vous pouvez envisager de toucher un public très restreint. Ces «personnes influentes» en haut de la hiérarchie d'audience ci-dessus ont déjà des réseaux et des publics étendus. Assurez-vous de ne pas essayer de reproduire entièrement le public de quelqu'un d'autre si vous pouvez la contacter directement et puiser dans son public à la place. Par exemple, si vous essayez d'influer sur le changement dans une communauté en particulier, vous pourrez peut-être identifier la personnalité religieuse ou politique qui a le plus d'influence dans cette communauté et contacter directement cette personne, plutôt que d'essayer de contacter toute la communauté vous-même.
 
-## What If You Don't Know the Answers to These Questions?
+## Et si vous ne connaissez par les réponses à ces questions?
 
-If your audiences are different from you, you may not know these answers off the top of your head. Don't make assumptions or guesses! Try to research these audiences to get a strong and complete picture of them. Here are some ways you can research your target audiences. _(Note: it is probably most practical to combine audience research with messaging research; see next section.)_
+Si votre public est différent de vous, vous ne connaissez peut-être pas ces réponses par cœur. Ne faites pas d'hypothèses ou de suppositions! Essayez de rechercher ces publics pour en avoir une image forte et complète. Voici quelques moyens de rechercher vos publics cibles. (Remarque: il est probablement plus pratique de combiner la recherche d'audience avec la recherche de messages; voir la section suivante.)
 
-* **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
-* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
-* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
+* **Recherchez les données existantes**. Selon l'endroit où vous vous trouvez, des données d'audience peuvent être disponibles pour différents sites Web, canaux de médias sociaux, journaux ou programmes de télévision. Si elles sont disponibles, utilisez-les pour déterminer ce que votre public voit et comment il le voit.
+* **Organisez des groupes de discussion.** Réunissez quatre à huit membres de votre public cible dans une salle et posez-leur les questions de la section « Apprenez à connaître votre public ». Écoutez leurs réponses et ne discutez pas avec eux. Il ne s’agit pas de les convaincre de consommer l’information de la manière dont vous espérez la diffuser, mais d’obtenir une image plus claire de la meilleure façon de la leur diffuser.
+* **Entretiens individuels.** Avoir un entretien approfondi et individuel avec les membres de votre public vous permettra d'explorer leurs pensées et de poser des questions de suivi. Encore une fois, votre objectif n'est pas de les convaincre de choisir votre façon de faire, mais de changer la façon dont vous faites les choses pour mieux vous conformer à ce que fait déjà votre public.
 
-### YOUR TURN: Creating Detailed Audience Profiles
+### A VOTRE TOUR:
 
-**Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
+**En utilisant ce que vous savez déjà à leur sujet à partir des données disponibles, des groupes de discussion et / ou des entretiens, créez des profils détaillés de vos publics clés dans le tableau ci-dessous.**
 
-With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
+Avec votre compréhension actualisée et claire de votre public, jetez un dernier coup d'œil à vos objectifs, stratégies et tactiques. Ont-ils encore du sens en sachant ce que vous savez de vos publics cibles? Atteignez-vous votre public de la meilleure façon possible? Sont-ils toujours les bons publics à cibler pour atteindre vos objectifs? Ajustez vos objectifs, stratégies, tactiques et publics en conséquence.
 
-When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
+Lorsque vous avez terminé, vous devriez avoir une image assez détaillée de votre public cible. Pour continuer notre exemple ci-dessus :
 
 | Target Audience | Strategy |
 | --- | --- |
