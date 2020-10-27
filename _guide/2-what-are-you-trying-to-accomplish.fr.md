@@ -50,9 +50,9 @@ Vous voulez également vous assurer que vos objectifs répondent aux défis auxq
 
 Vous avez peut-être réfléchi à une longue liste de choses que vous espérez accomplir, mais il est important d’être pragmatique sur ce que vous pouvez réaliser de façon réaliste dans le laps de temps dont vous disposez. Essayez de réduire vos objectifs entre un et cinq, en fonction du temps et de la capacité dont vous disposez. Ce n'est pas parce que certaines des choses que vous espérez accomplir ont pu être supprimées de la liste que vous devez y renoncer pour toujours - vous pouvez toujours réorienter votre attention sur elles à une date ultérieure.
 
-{% callout title="Fixer des objectifs organisationnels" %} 
+{% callout title="Fixer des objectifs organisationnels" %}
 
-N'oubliez pas d'inclure le développement organisationnel dans vos objectifs. Au Nigéria, le groupe d’observation des élections [YIAGA AFRICA](https://www.yiaga.org/ "yiaga") fixe des objectifs sur la manière dont il souhaite que les institutions démocratiques du pays s’améliorent grâce à l’inclusion des jeunes, à des élections transparentes et crédibles, à la lutte contre la corruption et à une responsabilisation accrue des élus. Mais ils fixent également des objectifs pour s'assurer que YIAGA AFRICA est bien connu des Nigérians, de la presse internationale et des donateurs. Cela garantit la longévité et la santé de l'organisation elle-même, afin qu'elle puisse continuer son travail sur le long terme. 
+N'oubliez pas d'inclure le développement organisationnel dans vos objectifs. Au Nigéria, le groupe d’observation des élections [YIAGA AFRICA](https://www.yiaga.org/ "yiaga") fixe des objectifs sur la manière dont il souhaite que les institutions démocratiques du pays s’améliorent grâce à l’inclusion des jeunes, à des élections transparentes et crédibles, à la lutte contre la corruption et à une responsabilisation accrue des élus. Mais ils fixent également des objectifs pour s'assurer que YIAGA AFRICA est bien connu des Nigérians, de la presse internationale et des donateurs. Cela garantit la longévité et la santé de l'organisation elle-même, afin qu'elle puisse continuer son travail sur le long terme.
 
 ***
 
@@ -66,15 +66,15 @@ Des objectifs vagues sont difficiles à atteindre ou à identifier quand vous le
 
 | Objectifs vagues | Objectifs SMART |
 | --- | --- |
-| Développer notre crédibilité  | Nous serons considérés comme des experts en observation électorale en étant considérés dans 25 reportages dans les médias sur les élections qui ont précédé le jour du scrutin, et en ayant au moins une source crédible pointant nos conclusions comme définitives. |
+| Développer notre crédibilité | Nous serons considérés comme des experts en observation électorale en étant considérés dans 25 reportages dans les médias sur les élections qui ont précédé le jour du scrutin, et en ayant au moins une source crédible pointant nos conclusions comme définitives. |
 | Sensibiliser | Sensibiliser en incitant 10.000 personnes à visiter notre site Web et atteindre en moyenne 100.000 personnes sur nos médias sociaux au cours des trois semaines précédant les élections. |
 | Demander de meilleures élections | Des organisations ou des porte-parole désignés sont cités 10 fois dans les médias pour exiger des réformes électorales spécifiques |
 
-By defining the time-specific aspect of your goals, you'll get a better sense of what is a long- and short-term goal. Any communications plan will have both long- and short-term goals, and it's important to be clear with your team and your leadership of what you're hoping to accomplish when. You want to especially be sure you're working toward your long-term goals even as you are carrying out the work to achieve short-term goals. You may want to break up a long-term goal into a series of short-term goals to ensure that you're making steady progress on it.
+En définissant l'aspect temporel de vos objectifs, vous aurez une meilleure idée de ce qu'est un objectif à long et à court terme. Tout plan de communication aura des objectifs à la fois à long et à court terme, et il est important d'être clair avec votre équipe et votre direction sur les délais dans lesquels vous espérez accomplir vos objectifs. Vous voulez en particulier vous assurer que vous travaillez vers vos objectifs à long terme, même si vous effectuez le travail pour atteindre des objectifs à court terme. Vous voudrez peut-être diviser un objectif à long terme en une série d'objectifs à court terme pour vous assurer que vous faites des progrès constants dans sa réalisation.
 
-### YOUR TURN: Setting SMART Goals
+### **A VOTRE TOUR:** 
 
-Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
+Jetez un œil lors de votre réflexion sur ce à quoi ressemblerait le succès. Limitez-vous entre un et cinq objectifs et rendez-les SMART en les rendant spécifiques, mesurables, atteignables, réalistes et temporellement défini.
 
 {% textarea label="1" id="goals1" size="small" button="false" %}
 
