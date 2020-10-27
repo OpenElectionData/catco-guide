@@ -30,17 +30,17 @@ Vous voulez également vous assurer que vos objectifs répondent aux défis auxq
 
 **Réfléchissez aux objectifs de communication par vous-même ou avec votre équipe en réfléchissant en quoi consisterait un succès. Voici quelques questions pour commencer:**
 
-{% textarea label="What do we want to change or improve about the country's democratic or electoral processes?" id="1" size="large" button="false" %}
+{% textarea label="Que voulons-nous changer ou améliorer dans les processus démocratiques ou électoraux du pays?" id="1" size="large" button="false" %}
 
-{% textarea label="Do we want to raise awareness? If so, what does that look like?" id="2" size="large" button="false" %}
+{% textarea label="Voulons-nous sensibiliser? Si oui, à quoi cela ressemble-t-il?" id="2" size="large" button="false" %}
 
-{% textarea label="Do we want to expand our network of volunteers? If so, for what purpose?" id="3" size="large" button="false" %}
+{% textarea label="Voulons-nous élargir notre réseau de bénévoles? Si oui, dans quel but?" id="3" size="large" button="false" %}
 
-{% textarea label="Do we want to enhance our credibility? Do we want to question the credibility of others?" id="4" size="large" button="false"  %}
+{% textarea label="Voulons-nous renforcer notre crédibilité?" id="4" size="large" button="false"  %}
 
-{% textarea label="Do we want people to change their behavior or perceptions?" id="5" size="large" button="false"  %}
+{% textarea label="Voulons-nous remettre en question la crédibilité des autres?" id="5" size="large" button="false"  %}
 
-{% textarea label="Do we want people to take a specific action, like reporting irregularities, registering to vote, or voting?" id="6" size="large" button="false"  %}
+{% textarea label="Voulons-nous que les gens changent leur comportement ou leurs perceptions?" id="6" size="large" button="false"  %}
 
 {% textarea label="Do we want to change laws or policies?" id="7" size="large" button="false" %}
 
