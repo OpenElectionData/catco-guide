@@ -1,44 +1,46 @@
 ---
-lang: fr
-title: 3. Who Are You Talking To?
-subtitle: Identifying Your Audience
+lang: en
+title: '3. A qui parlez-vous? '
+subtitle: Identifier votre public
 image:
-  url: ""
-  caption: ""
+  url: ''
+  caption: ''
 uses_forms: true
-permalink: /3-who-are-you-talking-to/
+permalink: "/3-who-are-you-talking-to/"
+
 ---
+En général, si vous situez le public au début de votre campagne de communication, cela ressemblera à ceci:
 
-In general, if you mapped the public at the beginning of your communications campaign, it would look like the below graphic.
-
-{% figure caption:"Chart adapted from Ed Grefe's lectures as an adjunct professor at George Washington University." class:"center" %} ![](/assets/images/bell_chart_eng.png)
+{% figure caption:"Graphique adapté d’une des lectures d’Ed Grefe en tant que professeur adjoint à l’Université George Washington." class:"center" %} ![](/assets/images/bell_chart_eng.png)
 {% endfigure %}
 
-Your "friends" are the 5-10 percent of the public that already support your cause, believe you are a credible organization, will show up when asked, will share your message, etc. You do not need to convince them of the importance of your cause.
+Vos «amis» sont les 5 à 10% du public qui soutiennent déjà votre cause, croient que vous êtes une organisation crédible, se présenteront lorsqu'on leur demandera, partageront votre message, etc. Vous n'avez pas besoin de les convaincre de l'importance de votre cause.
 
-Your "foes" are the 5-10 percent of the public that will always disagree with your cause, no matter what you say or how you try to convince them. It's not worth spending time trying to convince them otherwise, but you will want to limit the amount of negative influence they have on you and your issue.
+Vos «ennemis» sont les 5 à 10% du public qui seront toujours en désaccord avec votre cause, peu importe ce que vous dites ou comment vous essayez de les convaincre. Cela ne vaut pas la peine de passer du temps à essayer de les convaincre du contraire, mais vous voudrez limiter leur influence négative sur vous et votre cause.
 
-(The percentage of the population you can trust can count as friends or foes will vary - sometimes significantly - depending on the country, political context, and issue. This chart is meant to be a starting point for mapping out your audiences.)
+(Le pourcentage de la population que vous pouvez compter comme amis ou ennemis varie - parfois de manière significative - en fonction du pays, du contexte politique et du problème. Ce graphique est destiné à être un point de départ pour cartographier votre public.)
 
-The biggest space in the middle, usually 80-90 percent of the public, are "strangers." They don't know about your organization or issue and so haven't formed an opinion one way or the other. these people can be further divided into "influentials" - the media, political operatives and leaders, government officials, civic activists, academics, and business and community leaders who help other form opinions - and the general public.
+Le plus grand espace au milieu, généralement 80 à 90 pour cent du public, sont des «étrangers». Ils ne connaissent pas votre organisation ou votre problème et ne se sont donc pas fait une opinion dans un sens ou dans l'autre. Ces personnes peuvent être divisées en «personnes influentes» - les médias, les agents et dirigeants politiques, les représentants du gouvernement, les militants civiques, les universitaires et les chefs d'entreprise et communautaires qui aident les autres à se forger une opinion - et le grand public.
 
-Broadly speaking, every communications campaign is trying to move more and more people from the middle of the above "audience map" graph into the "friends and family" portion of it, effectively moving that vertical line on the left toward the right, while keeping your "foes" line from moving.
+D'une manière générale, chaque campagne de communication tente de déplacer de plus en plus de personnes du milieu du graphique ci-dessus «plan d'audience» vers la partie «amis et famille» de celui-ci, en déplaçant efficacement cette ligne verticale de gauche vers la droite, tout en empêchant votre ligne «ennemis» de se déplacer.
 
-But the "general public" is large and varied, and with limited time and resources you'll need to specify exactly who you want to talk to and prioritize those groups that will help you achieve your overall goals.
+Mais le «grand public» est vaste et varié, et avec un temps et des ressources limités, vous devrez spécifier exactement à qui vous voulez parler et hiérarchiser les groupes qui vous aideront à atteindre vos objectifs généraux.
 
-To help you decide which segments of the general public to prioritize, it can be helpful to think about communicating with an intent to change behavior or change perceptions. First, ask yourself whose behavior or perceptions you need to change - these are your priority stakeholder groups. Then think about the relationships between your identified stakeholder groups. If you succeed in changing the behavior or perceptions of one group first, would this affect how other priority stakeholder groups behave or view the issue? If so, this stakeholder group belongs to the "influentials" category of your audience map and should be a high priority for outreach.
+Pour vous aider à choisir les segments du grand public à prioriser, il peut être utile de penser à communiquer avec l'intention de changer le comportement ou de changer les perceptions. Tout d'abord, demandez-vous quel comportement ou quelles perceptions vous devez changer- ce sont vos groupes de parties prenantes prioritaires. Pensez ensuite aux relations entre vos groupes de parties prenantes identifiés. Si vous réussissez à changer d'abord le comportement ou les perceptions d'un groupe, cela affectera-t-il la manière dont les autres groupes des parties prenantes prioritaires se comportent ou perçoivent le problème? Si tel est le cas, ce groupe de parties prenantes appartient à la catégorie des personnes influentes de votre carte d'audience et devrait être une priorité élevée pour la sensibilisation.
 
-{% callout title="Targeting the Right Audiences" %} "Audiences depend on the campaign," said Iryna Shvets, program manager of [Civil Network OPORA](https://www.oporaua.org/en), a citizen observer group in Ukraine. "We are never targeting the 'general public.'" The group may end up educating members of the general public as a side-effect of more targeted communications, but it is too broad and vast an audience to try to target in and of itself. Instead, they focus on key stakeholders and decision makers for a particular campaign or lobbying effort. For example, if they want to push for changes to law or norms to align them with international standards, they'll target Members of Parliament or international organizations that believe will support international norms for democratic elections. {% endcallout %}
+{% callout title="Cibler le bon public" %} «Le public dépend de la campagne», a déclaré Iryna Shvets, responsable du programme de [Réseau Civique OPORA](https://oporaua.org/), un groupe d'observateurs citoyens en Ukraine. «Nous ne ciblons jamais le« grand public».»
 
-Let's continue with our example to see how this works:
+Bien que le groupe puisse finir par éduquer les membres du grand public comme un effet secondaire de communications plus ciblées, il s'agit d'un public trop large et trop vaste pour essayer de le cibler en lui-même. Au lieu de cela, ils se concentrent sur les parties prenantes et les décideurs clés pour une campagne ou un effort de lobbying particulier. Par exemple, s’ils veulent faire pression pour que les lois ou les normes soient modifiées pour les aligner sur les normes internationales, ils cibleront les parlementaires ou les organisations internationales qui estiment qu’ils soutiendront les normes internationales pour des élections démocratiques. {% endcallout %}
 
-By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.
+Continuons-nous avec notre exemple pour voir comment cela fonctionne:
 
-| Target Audiences                                                                                                        | Strategies                                                                                                             |
-| :---------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties | Strategy 1: Use digital advertising to generate web trafiic and social reach.                                          |
-| - Young men ages 16-26                                                                                                  | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
-| - Exisiting members (aka our "friends") and their social networks                                                       | Strategy 3: Use our email list to encourage peer-to-peer social sharing.                                               |
+En sélectionnant ces publics, nous espérons sensibiliser et faire mieux comprendre le PVT aux influenceurs qui auront besoin de comprendre, accepter et partager les résultats du PVT et aux personnes les plus susceptibles de recourir à la violence électorale. . Nous voulons également donner aux personnes qui comprennent déjà les PVT la possibilité de parler et de partager ces informations avec leurs propres amis et famille, car elles seront considérées comme des messagers de confiance dans leurs propres réseaux. Ce sont les publics que nous pensons devoir atteindre pour atteindre notre objectif de sensibilisation via le trafic Web et les médias sociaux.
+
+| Target Audiences | Strategies |
+| :--- | :--- |
+| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties | Strategy 1: Use digital advertising to generate web trafiic and social reach. |
+| - Young men ages 16-26 | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
+| - Exisiting members (aka our "friends") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing. |
 
 ### Your Turn: Identify Your Audience
 
@@ -99,9 +101,9 @@ In some cases, in order to reach a very broad audience, you might consider reach
 
 If your audiences are different from you, you may not know these answers off the top of your head. Don't make assumptions or guesses! Try to research these audiences to get a strong and complete picture of them. Here are some ways you can research your target audiences. _(Note: it is probably most practical to combine audience research with messaging research; see next section.)_
 
-- **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
-- **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
-- **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
+* **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
+* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
+* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
 
 ### YOUR TURN: Creating Detailed Audience Profiles
 
@@ -111,11 +113,11 @@ With your updated and clear understanding of your audiences, take one more look 
 
 When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
 
-| Target Audience                       | Strategy                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter.              |
-| Members of the party in power         | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is.                                          |
-| Young men ages 16-26                  | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
+| Target Audience | Strategy |
+| --- | --- |
+| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
+| Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
+| Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
 
 {% textarea label="Target Audience 1" id="1a" size="Small" button="false" %}  
 {% textarea label="Detailed Profile 1" id="1b" size="Small" button="false" %}
