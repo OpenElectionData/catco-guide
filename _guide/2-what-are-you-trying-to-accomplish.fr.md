@@ -42,24 +42,27 @@ Vous voulez également vous assurer que vos objectifs répondent aux défis auxq
 
 {% textarea label="Voulons-nous que les gens changent leur comportement ou leurs perceptions?" id="6" size="large" button="false"  %}
 
-{% textarea label="Do we want to change laws or policies?" id="7" size="large" button="false" %}
+{% textarea label="Voulons-nous changer les lois ou les politiques?" id="7" size="large" button="false" %}
 
-{% textarea label="What do people need to understand or be educated about?" id="8" size="large" button="false"  %}
+{% textarea label="De quoi les gens ont-ils besoin pour comprendre ou être mieux éduqués sur un sujet?" id="8" size="large" button="false"  %}
 
-{% textarea label="List Your Goals Below" id="goals" size="large" button="false"  %}
+{% textarea label="Listez vos objectifs ci-dessous" id="goals" size="large" button="false"  %}
 
-You may have brainstormed a long list of things you hope to accomplish, but it's important to be pragmatic about what you can realistically achieve in the time frame you have. Try to narrow down your goals to between one and five, considering the time and capacity you have. Just because some of the things you hope to accomplish may have come off the list doesn't mean you have to give up on them forever - you can always turn your attention to them at a later date.
+Vous avez peut-être réfléchi à une longue liste de choses que vous espérez accomplir, mais il est important d’être pragmatique sur ce que vous pouvez réaliser de façon réaliste dans le laps de temps dont vous disposez. Essayez de réduire vos objectifs entre un et cinq, en fonction du temps et de la capacité dont vous disposez. Ce n'est pas parce que certaines des choses que vous espérez accomplir ont pu être supprimées de la liste que vous devez y renoncer pour toujours - vous pouvez toujours réorienter votre attention sur elles à une date ultérieure.
 
-{% callout title="Setting Organizational Goals" %}
-Don't forget to include organizational development in your goals. In Nigeria, the election observation group [YIAGA AFRICA](https://www.yiaga.org/) sets goals about how they want the country's democratic institutions to improve through youth inclusion, transparent and credible elections, fighting corruption, and increasing accountability for elected officials. But they also set goals about ensuring that YIAGA AFRICA is well known by Nigerians, international press, and donors. This ensures longevity and health of the organization itself, so it can continue its work in the long term.
+{% callout title="Fixer des objectifs organisationnels" %} 
+
+N'oubliez pas d'inclure le développement organisationnel dans vos objectifs. Au Nigéria, le groupe d’observation des élections [YIAGA AFRICA](https://www.yiaga.org/ "yiaga") fixe des objectifs sur la manière dont il souhaite que les institutions démocratiques du pays s’améliorent grâce à l’inclusion des jeunes, à des élections transparentes et crédibles, à la lutte contre la corruption et à une responsabilisation accrue des élus. Mais ils fixent également des objectifs pour s'assurer que YIAGA AFRICA est bien connu des Nigérians, de la presse internationale et des donateurs. Cela garantit la longévité et la santé de l'organisation elle-même, afin qu'elle puisse continuer son travail sur le long terme. 
+
+***
 
 ![YIAGA](/assets/images/yiaga_3-1.jpg "YIAGA")
 
 {% endcallout %}
 
-## Smart Goals
+## _Des objectifs SMART_
 
-Vague goals are hard to work toward, or to know when you've achieved them. Avoid vague or overly-broad goals by making them Specific, Measurable, Attainable, Relevant, and Time-sensitive (SMART is the English acronym). Defining concrete and specific goals will keep you focused and prevent you from feeling overwhelmed.
+Des objectifs vagues sont difficiles à atteindre ou à identifier quand vous les avez atteints. Évitez les objectifs vagues ou trop larges en les rendant spécifiques, mesurables, atteignables, réalistes et temporellement défini (SMART est l'acronyme anglais). Définir des objectifs concrets et spécifiques vous permettra de rester concentré et vous évitera de vous sentir dépassé.
 
 | Vague Goals | SMART Goals |
 | --- | --- |
