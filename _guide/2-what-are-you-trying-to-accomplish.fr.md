@@ -16,13 +16,9 @@ En définissant des objectifs clairs et bien définis, vous serez mieux en mesur
 
 Vous avez probablement déjà effectué d’une manière ou d’une autre, l’établissement d'objectifs pour votre organisation dans son ensemble. Les objectifs de communication peuvent faire partie d'un objectif organisationnel plus large, ou ils peuvent constituer leur propre objectif. Par exemple, votre objectif organisationnel plus large peut être de procéder à une vérification de la liste électorale et d'utiliser les résultats pour plaider en faveur de réformes dans les processus d'inscription des électeurs. Pour atteindre cet objectif, vous auriez besoin d'un objectif de communication visant à sensibiliser les médias, les militants et le public aux résultats de la vérification des listes électorales afin de mobiliser un soutien pour influencer les décideurs. Vos objectifs de communication doivent toujours vous aider à progresser et à atteindre vos objectifs organisationnels.
 
-Vous voulez également vous assurer que vos objectifs répondent aux défis auxquels votre organisation et votre pays sont confrontés. Si vous n'avez pas encore effectué une analyse du paysage politique, une évaluation des risques organisationnels et une analyse SWOT (forces, faiblesses, opportunités et menaces) des menaces ou défis spécifiques auxquels vous et votre environnement politique sont confrontés, il est judicieux de le faire avant de définir vos objectifs. Une évaluation des risques est particulièrement importante si vous travaillez dans un espace fermé ou en cours de fermeture. Lorsque vous définissez vos objectifs, assurez-vous de prendre en compte les risques qui pourraient être accrus du fait de votre travail (ou de l'évolution de votre environnement politique) et prenez des mesures pour atténuer, éviter ou accepter ces risques. Gardez à l'esprit que ces risques peuvent être de nature très diverse (physiques, numériques, émotionnels, juridiques, etc.), alors assurez-vous de penser de manière holistique lorsque vous les évaluer. [_Security Planner_](https://securityplanner.org/#/)[**_\[1\]_**](#_ftn1) de Jigsaw est une excellente ressource pour commencer à réfléchir à votre risque numérique général. Les personnes travaillant dans des organisations à haut risque dans des espaces fermés ou en cours de fermeture devraient également demander [conseil](https://securityplanner.org/#/tool/information-for-high-risk-users)[\[2\]](#_ftn2) à des formateurs ou auditeurs professionnels en sécurité.
+Vous voulez également vous assurer que vos objectifs répondent aux défis auxquels votre organisation et votre pays sont confrontés. Si vous n'avez pas encore effectué une analyse du paysage politique, une évaluation des risques organisationnels et une analyse SWOT (forces, faiblesses, opportunités et menaces) des menaces ou défis spécifiques auxquels vous et votre environnement politique sont confrontés, il est judicieux de le faire avant de définir vos objectifs. Une évaluation des risques est particulièrement importante si vous travaillez dans un espace fermé ou en cours de fermeture. Lorsque vous définissez vos objectifs, assurez-vous de prendre en compte les risques qui pourraient être accrus du fait de votre travail (ou de l'évolution de votre environnement politique) et prenez des mesures pour atténuer, éviter ou accepter ces risques. Gardez à l'esprit que ces risques peuvent être de nature très diverse (physiques, numériques, émotionnels, juridiques, etc.), alors assurez-vous de penser de manière holistique lorsque vous les évaluer. [_Security Planner_](https://securityplanner.org/#/ "Security Planner") de Jigsaw est une excellente ressource pour commencer à réfléchir à votre risque numérique général. Les personnes travaillant dans des organisations à haut risque dans des espaces fermés ou en cours de fermeture devraient également demander [conseil](https://securityplanner.org/#/tool/information-for-high-risk-users "High Risk") à des formateurs ou auditeurs professionnels en sécurité.
 
 ***
-
-[\[1\]](#_ftnref1) [https://securityplanner.org/](https://securityplanner.org/ "https://securityplanner.org/")
-
-[\[2\]](#_ftnref2) [https://securityplanner.org/#/tool/information-for-high-risk-users](https://securityplanner.org/#/tool/information-for-high-risk-users "https://securityplanner.org/#/tool/information-for-high-risk-users")
 
 {% figure caption:"_NDI Photo, Patjim Gashi_" class:"center" %}
 
@@ -30,9 +26,9 @@ Vous voulez également vous assurer que vos objectifs répondent aux défis auxq
 
 {% endfigure %}
 
-### YOUR TURN: Setting Communications Goals
+### **A VOUS DE JOUER:**
 
-Brainstorm communications goals by yourself or with your team by thinking about what success would look like. Here are some questions to get you started:
+**Réfléchissez aux objectifs de communication par vous-même ou avec votre équipe en réfléchissant en quoi consisterait un succès. Voici quelques questions pour commencer:**
 
 {% textarea label="What do we want to change or improve about the country's democratic or electoral processes?" id="1" size="large" button="false" %}
 
