@@ -1,29 +1,29 @@
 ---
-lang: fr
+lang: en
 uses_forms: true
-title: "4. What Do You Want To Say?"
-subtitle: Developing a Frame and Message
+title: '4. Que voulez-vous dire? '
+subtitle: Élaboration d'un cadre et d'un message
 image:
-  url: ""
-  caption: ""
-permalink: /4-what-do-you-want-to-say/
+  url: ''
+  caption: ''
+permalink: "/4-what-do-you-want-to-say/"
+
 ---
+## Développer un cadre de communication
 
-## Develop a Communications Frame
+Un cadre de communication est l'ensemble des valeurs et d'hypothèses que toutes vos communications tiennent pour acquis. Avoir un cadre de communication clair dès le départ assurera la cohérence de vos communications, mais cela garantira également que vos publics comprennent d'où vous venez et ce que vous essayez de leur communiquer.
 
-A communications frame is the set of values and assumptions that all of your communications take for granted. Having a clear communications frame from the outset will ensure consistency across your communications, but it will also ensure that your audiences understand where you are coming from and what you are trying to communicate to them.
+Par exemple, votre idée pourrait être que la démocratie est préférable à d'autres formes de gouvernement. D'autres hypothèses de ce cadre pourraient inclure l'idée que les citoyens devraient pouvoir participer librement au processus démocratique, un transfert pacifique du pouvoir est préférable à un régime à parti unique, les élections devraient être crédibles et la gouvernance démocratique devrait améliorer la vie des gens.
 
-For example, your frame might be that democracy is preferable to other forms of government. Other assumptions of that frame might include the ideas that citizens should be able to participate freely in the democratic process, a peaceful transfer of power is preferable to one-party rule, elections should be credible, and democratic governance should improve people's lives.
+Si votre public ne partage pas les valeurs et les hypothèses de votre cadre, il aura du mal à comprendre ce que vous essayez de lui communiquer.
 
-If your audience does not share the values and assumptions of your frame, they will have a hard time understanding what you are trying to communicate to them.
+Poursuivant l'exemple ci-dessus, si votre public rejette votre cadre et croit plutôt que la règle du parti unique est préférable à la démocratie, alors ils ne seront pas réceptifs à des narratifs ou des messages sur le soutien de processus électoraux compétitifs. Vous ne serez ni écouté ni compris.
 
-Continuing the example above, if your audience rejects your frame and instead believes that one-party rule is preferable to democracy, then they will not be receptive to any narratives or messages about supporting competitive election processes. You won't be listened to or understood.
+Vous devrez peut-être réajuster votre cadre pour qu'il corresponde à celui de votre public afin qu'il soit réceptif à ce que vous essayez de transmettre. Dans les endroits où un cadre démocratique ne sera pas compris ou n’inspirera pas confiance, vous devrez peut-être créer un cadre de communication autour de valeurs d'équité, de force nationale, d'unité ou d'une autre valeur ou perspective sur laquelle vous et votre public pouvez vous entendre et vous comprendre.
 
-You may need to re-adjust your frame to match that of your audience so that they are receptive to what you are trying to convey. In places where a democracy frame won't be understood or trusted, you may need to create a communications frame around values of fairness, national strength, unity, or some other value or outlook upon which you and your audience can agree and understand each other.
+### **A VOTRE TOUR:**
 
-### YOUR TURN: Develop a Communications Frame
-
-**Brainstorm a list of basic values and assumptions that are at the core of your work and communications.**
+**Réfléchissez à une liste de valeurs et d'hypothèses de base qui sont au cœur de votre travail et de vos communications.**
 
 {% textarea label="1" id="value and assumption1" size="small" button="false" %}
 
@@ -33,72 +33,72 @@ You may need to re-adjust your frame to match that of your audience so that they
 
 {% textarea label="4" id="value and assumption4" size="small" button="false" %}
 
-**Refine these until you have a clear list of assumptions and values that will be reflected throughout your communications.**
+**Affinez-les jusqu'à ce que vous ayez une liste claire d'hypothèses et de valeurs qui seront reflétées tout au long de vos communications.**
 
-**Now list the values and assumptions of your key target audiences to assess whether this frame truly matches the values and assumptions of each of your key audiences.**
+**Maintenant, dans le tableau ci-dessous, listez les valeurs et les hypothèses de vos publics cibles clés pour évaluer si ce cadre correspond vraiment aux valeurs et hypothèses de chacun de vos publics clés.**
 
-{% textarea label="Target Audience 1" id="target1" size="small" button="false" %}
+{% textarea label="1er Public cible" id="target1" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value1" size="large" button="false" %}
+{% textarea label="Valeurs et hypothèses" id="value1" size="large" button="false" %}
 
-{% textarea label="Target Audience 2" id="target2" size="small" button="false" %}
+{% textarea label="2ème Public cible" id="target2" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value2" size="large" button="false" %}
+{% textarea label="Valeurs et hypothèses" id="value2" size="large" button="false" %}
 
-{% textarea label="Target Audience 3" id="target3" size="small" button="false" %}
+{% textarea label="3ème Public cible" id="target3" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value3" size="large" button="false" %}
+{% textarea label="Valeurs et hypothèses" id="value3" size="large" button="false" %}
 
-{% textarea label="Target Audience 4" id="target4" size="small" button="false" %}
+{% textarea label="4ème Public cible" id="target4" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value4" size="large" button="false" %}
+{% textarea label="Valeurs et hypothèses" id="value4" size="large" button="false" %}
 
-{% textarea label="Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?" id="comparison" size="large" button="false" %}
+{% textarea label="Comparez les valeurs et les hypothèses au cœur de votre travail avec celles de votre public. Sont-elles similaires? Sinon, comment ajuster votre cadre pour être compris par eux sans abandonner vos valeurs et principes?" id="comparison" size="large" button="false" %}
 
-Once you have settled on a clear frame, it's important to ensure that all your communications fit within it. Share it with all the members of your team, spokespeople, leaders, board members, etc. Check all outgoing communications against the frame to ensure consistency. If you create communications that are inconsistent with your frame, your audiences will be confused and your messages will be muddled. People need to know what your underlying values are and what to expect from your organization.
+Une fois que vous avez défini un cadre clair, il est important de vous assurer que toutes vos communications y correspondent. Partagez-le avec tous les membres de votre équipe, les porte-parole, les dirigeants, les membres du conseil, etc. Vérifiez toutes les communications sortantes par rapport au cadre pour assurer la cohérence. Si vous créez des communications qui ne correspondent pas à votre cadre, votre public sera confus et vos messages seront confus. Les gens ont besoin de savoir quelles sont vos valeurs sous-jacentes et à quoi ils doivent s’attendre avec votre organisation.
 
-For example, if your frame is that democracy is preferable to all other forms of government, elections should be competitive, and that the will of the people must be respected, but you issue a press release implying that a certain candidate should pull out of the race, your audience will become confused, you will lose credibility, and your subsequent messaging will be inconsistent or contradictory.
+Par exemple, si votre idée est que la démocratie est préférable à toutes les autres formes de gouvernement, les élections doivent être compétitives et que la volonté du peuple doit être respectée, mais vous publiez un communiqué de presse impliquant qu'un certain candidat devrait se retirer de la course, votre public sera confus, vous perdrez votre crédibilité et votre prochain message sera incohérent ou contradictoire.
 
-## Develop Your Topline Message
+## Développer votre message principal
 
-Now that you're clear on your frame, it's time to start developing your topline message. This is the distillation of the key point(s) you want to get across in all your communications. Whereas a frame is a place of common understanding between you and your audience, your topline message is what you want your audience to learn and have reinforced every time they hear from you.
+Maintenant que vous êtes clair sur votre cadre, il est temps de commencer à développer votre message principal. Il s'agit de la distillation du (des) point (s) clé (s) que vous souhaitez faire passer dans toutes vos communications. Alors qu'un cadre est un lieu de compréhension commun entre vous et votre public, votre message principal est ce que vous voulez que votre public apprenne et qui se renforce chaque fois qu'il entend parler de vous.
 
-Continuing with our example, if your goal is to raise awareness of your PVT and your frame is that democracy is preferable to all other forms of government, you topline message might be:
+Poursuivant notre exemple, si votre objectif est de faire connaître votre PVT et que votre cadre est que la démocratie est préférable à toutes les autres formes de gouvernement, votre message principal pourrait être:
 
-**A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.**
+**Un PVT (dépouillement parralèle de scrutin) vérifie de manière indépendante si les résultats officiels des élections sont exacts, car chaque vote doit être compté et chaque voix doit être entendue.**
 
-## What Makes for a Good Topline Message?
+## Qu’est ce qui fait un bon message principal?
 
-The message in the example above is:
+Le message dans l’exemple ci-dessus est:
 
-- Short
-- Clear
-- Teaches the audience something it might not know
-- Embedded with values and emotion meant to connect with the audience
+* Court;
+* Clair;
+* Apprendre au public quelque chose qu’il ne connait pas; et
+* Intégré aux valeurs et aux émotions destinées à se connecter avec le public
 
-If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
+Si le message principal était seulement «un PVT vérifie de manière indépendante que les résultats officiels des élections sont exacts, ce qui décourage la fraude», il informerait le public sur un PVT, mais il manquerait un moyen émotionnel pour le public de se connecter au message. Si le message était seulement «nous devons nous assurer que chaque vote est compté», il pourrait résonner émotionnellement avec le public, mais ne pas atteindre l'objectif de sensibilisation sur ce qu'est ou produit un PVT.
 
-{% callout title="Focusing on One Message" %} [Civil Network OPORA](https://www.oporaua.org/en) is a citizen group in Ukraine that has been observing elections and calling for stronger democratic institutions for more than a decade. One thing they've learned in that time is to choose one message and stick to it for the duration of a campaign. “If you present dozens of issues or messages at a time, you're not going to get people to focus,” said Iryna Shvets, OPORA's program manager. Instead, OPORA will choose one focused message and push it out exclusively for at least two months, or until the group feels like it has broken through with their audience.
+{% callout title="Se concentrer sur un message" %} Le réseau civil OPORA est un groupe de citoyens ukrainiens qui observe les élections et réclame des institutions démocratiques plus fortes depuis plus d'une décennie. Une chose qu’ils ont apprise à cette époque est de choisir un message et de s’y tenir pendant toute la durée d’une campagne. «Si vous présentez des dizaines de problèmes ou de messages à la fois, vous n'allez pas amener les gens à se concentrer», a déclaré Iryna Shvets, responsable du programme OPORA. Au lieu de cela, OPORA choisira un message ciblé et le diffusera exclusivement pendant au moins deux mois, ou jusqu'à ce que le groupe ait l'impression qu'il a atteind avec son public.
 
-While the group was conducting a campaign to pressure the government to appoint new members to the Central Election Commission, its central message was that the commission had overstayed its term and needed to be updated as soon as possible. They drove the message in all their external communications until new commissioners were appointed. (See Case Studies section for more information on the campaign). {% endcallout %}
+Alors que le groupe menait une campagne pour faire pression sur le gouvernement pour qu'il nomme de nouveaux membres à la Commission électorale centrale, son message central était que la commission avait dépassé son mandat et devait être renouvelée dès que possible. Ils ont véhiculé le message dans toutes leurs communications externes jusqu'à ce que de nouveaux membres soient nommés. (Voir la section Études de cas pour plus d'informations sur la campagne). {% endcallout %}
 
-### YOUR TURN: Create Your Topline Message
+### A VOTRE TOUR:
 
-**Start by brainstorming all of the possible things you might want to say. Don't hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
+**Créez votre message principal. Commencez par réfléchir à toutes les choses que vous pourriez vouloir dire. Ne vous retenez pas! Certains peuvent être des phrases, d'autres simplement des mots. Voici quelques questions pour vous lancer dans votre réflexion:**
 
-{% textarea label="Someone asks you what your organization is all about. How do you answer?" id="brainstorming1" size="large" button="false" %}
+{% textarea label="Quelqu'un vous demande en quoi consiste votre organisation. Comment répondez-vous?" id="brainstorming1" size="large" button="false" %}
 
-{% textarea label="What's your favorite argument in favor of your cause or organization?" id="brainstorming2" size="large" button="false" %}
+{% textarea label="Quel est votre argument préféré en faveur de votre cause ou organisation?" id="brainstorming2" size="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brainstorimg3" size="large" button="false" %}
+{% textarea label="Qu'est-ce qui vous a incité à agir pour ce problème?" id="brainstorimg3" size="large" button="false" %}
 
-{% textarea label="Who does your work help? How does it help them?" id="brainstorming4" size="large" button="false" %}
+{% textarea label="Qui votre travail aide-t-il? Comment cela les aide-t-il?" id="brainstorming4" size="large" button="false" %}
 
-{% textarea label="What values do you uphold in your work?" id="brainstorming5" size="large" button="false" %}
+{% textarea label="Quelles valeurs pensez-vous être importantes dans votre travail?" id="brainstorming5" size="large" button="false" %}
 
-{% textarea label="What will happen if your mission fails?" id="brainstorming6" size="large" button="false" %}
+{% textarea label="Que se passera-t-il si votre mission échoue?" id="brainstorming6" size="large" button="false" %}
 
-{% textarea label="What keeps you advocating for this cause every day?" id="brainstorming7" size="large" button="false" %}
+{% textarea label="Qu'est-ce qui vous pousse à défendre cette cause chaque jour?" id="brainstorming7" size="large" button="false" %}
 
 **Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
 
@@ -120,14 +120,15 @@ This can mean changing the tone or vocabulary you use, or it can mean reshaping 
 
 Example:
 
-<<<<<<< HEAD:\_guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
-| Goal | Top Line Message | Target Audience | Target Message |
-| --- | --- | --- | --- |
-=======
-| Goal | Top Line Message | Target Audience | Target Message |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<<<<<<< HEAD:_guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
 
-> > > > > > > Begin adding French language & RTL CSS:\_guide/4-what-do-you-want-to-say-developing-a-frame-and-message.fr.md
+| Goal | Top Line Message | Target Audience | Target Message |
+
+=======
+
+| Goal | Top Line Message | Target Audience | Target Message |
+
+> > > > > > > Begin adding French language & RTL CSS:_guide/4-what-do-you-want-to-say-developing-a-frame-and-message.fr.md
 > > > > > > > | Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections <br> <br> <br> <br> <br> <br> <br> <br> Members of the party in power <br> <br> <br> <br> <br> Members of the opposition party | A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results. <br> <br> A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. <br> <br> A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
 
 In the examples above, the topline message has been slightly modified in each of the target messages to appeal more strongly to the emotions of each target audience. For journalists, the PVT will make their reporting easier and more accurate. For members of the party in power, respecting the PVT results will bolster their historical reputation as great leaders who respect the will of the people. For members of the opposition party, the PVT will deter fraud and the chance that the election will be stolen from them.
