@@ -100,25 +100,25 @@ Alors que le groupe menait une campagne pour faire pression sur le gouvernement 
 
 {% textarea label="Qu'est-ce qui vous pousse à défendre cette cause chaque jour?" id="brainstorming7" size="large" button="false" %}
 
-**Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
+**Maintenant, vous regardez probablement un gros désordre de mots. En utilisant des stylos de différentes couleurs ou en les réécrivant sur différentes feuilles de papier, commencez à trier les mots et les phrases en groupes similaires par thème ou par ton.**
 
-**Keep narrowing down and honing each group. Which words or themes keep coming up? Which ones are the most persuasive? The most inspiring? The most emotional?**
+**Continuez à réduire et à perfectionner chaque groupe. Quels mots ou thèmes reviennent sans cesse? Lesquelles sont les plus convaincantes? Le plus inspirant? Le plus émouvant?**
 
-**Take the most persuasive phrases and words and craft them into one or two sentences. That's your topline message.**
+**Prenez les phrases et les mots les plus convaincants et réduisez-les en une ou deux phrases. C’est votre message principal.**
 
-**Go back and look at your goals -- make sure this message supports your overall goals.**
+**Revenez en arrière et examinez vos objectifs - assurez-vous que ce message soutient vos objectifs généraux.**
 
-## Different Messages Resonate with Different Audiences
+## Différents messages résonnent avec différents publics
 
 {% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
 
 {% endfigure %}
 
-Your topline message should be clear, concise, persuasive, and support your goals and frame. However, different people may respond differently to your message, and you may need to adapt or adjust it depending on who you are communicating with.
+Votre message principal doit être clair, concis, convaincant et soutenir vos objectifs et votre cadre. Cependant, différentes personnes peuvent répondre différemment à votre message et vous devrez peut-être l'adapter ou l'ajuster en fonction de la personne avec laquelle vous communiquez.
 
-This can mean changing the tone or vocabulary you use, or it can mean reshaping the main message to emphasize the values or emotions that will connect with a particular audience. The resulting messages shouldn't contradict your frame or topline message, but they should resonate with the different subsets of audiences you identified so you are more easily able to connect and communicate with them.
+Cela peut signifier changer le ton ou le vocabulaire que vous utilisez, ou cela peut signifier remodeler le message principal pour mettre en valeur les valeurs ou les émotions qui se connecteront avec un public particulier. Les messages qui en résultent ne doivent pas contredire votre cadre ou votre message principal, mais ils doivent résonner avec les différents sous-ensembles d'audiences que vous avez identifiés afin que vous puissiez plus facilement vous connecter et communiquer avec eux.
 
-Example:
+Exemple:
 
 <<<<<<< HEAD:_guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
 
