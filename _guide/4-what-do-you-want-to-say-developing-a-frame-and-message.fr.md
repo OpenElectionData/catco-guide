@@ -122,14 +122,14 @@ Exemple:
 
 <<<<<<< HEAD:_guide/4-what-do-you-want-to-say-developing-a-frame-and-message.en.md
 
-| Goal | Top Line Message | Target Audience | Target Message |
+| But | Message principal | Public cible | Message ciblé |
 
 =======
 
-| Goal | Top Line Message | Target Audience | Target Message |
+| But | Message principal | Public cible | Message ciblé |
 
 > > > > > > > Begin adding French language & RTL CSS:_guide/4-what-do-you-want-to-say-developing-a-frame-and-message.fr.md
-> > > > > > > | Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections <br> <br> <br> <br> <br> <br> <br> <br> Members of the party in power <br> <br> <br> <br> <br> Members of the opposition party | A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results. <br> <br> A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. <br> <br> A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
+> > > > > > > | Sensibiliser sur le PVT en faisant visiter notre site Web à 10 000 personnes et en ayant une portée moyenne de 100 000 personnes sur nos canaux de médias sociaux au cours des trois semaines précédant les élections. | Un PVT vérifie de manière indépendante si les résultats officiels des élections sont exacts, car chaque vote doit être compté et chaque voix doit être entendue. | Journalistes qui écrivent sur les élections <br> <br> <br> <br> <br> <br> <br> <br> Membres du parti au pouvoir <br> <br> <br> <br> <br> Membres du parti d’opposition | Un PVT est une pratique statistiquement rigoureuse et acceptée au niveau international pour évaluer l'exactitude ou la fraude des résultats officiels des élections. Les résultats du PVT aideront à raconter l'histoire de l'élection en fournissant un autre ensemble de données permettant de vérifier les résultats officiels des élections.  <br> <br> Un PVT vérifie que les résultats des élections annoncés sont exacts. Gagnant ou perdant, les grands dirigeants respectent la volonté du peuple lorsque chaque vote est compté et que chaque voix est entendue. <br> <br> Un PVT vérifie que les vrais résultats sont connus; qui dissuade la fraude, ce qui garantit que tous les votes sont comptés avec précision et que le vrai gagnant est connu. |
 
 In the examples above, the topline message has been slightly modified in each of the target messages to appeal more strongly to the emotions of each target audience. For journalists, the PVT will make their reporting easier and more accurate. For members of the party in power, respecting the PVT results will bolster their historical reputation as great leaders who respect the will of the people. For members of the opposition party, the PVT will deter fraud and the chance that the election will be stolen from them.
 
