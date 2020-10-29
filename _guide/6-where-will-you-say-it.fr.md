@@ -7,7 +7,6 @@ image:
   url: "/assets/images/NDI_Honduras.jpg"
   caption: 'Photo: NDI Honduras'
 permalink: "/6-where-will-you-say-it/"
-published: false
 
 ---
 Il existe des dizaines de façons de communiquer avec les gens, et toutes ont leurs propres avantages et inconvénients. La presse écrite atteint un large public, mais le message ne peut pas être adapté à un public spécifique. Il a également tendance à pencher vers un public plus âgé et alphabétisé. La radio est une excellente option pour atteindre les personnes peu alphabétisées, mais l'audience doit se situer à portée de diffusion. Les médias audiovisuels (TV) atteignent un large public, mais il peut être difficile d'obtenir une couverture, les publicités peuvent être coûteuses ou les gestionnaires peuvent être hostiles à votre cause. Les médias sociaux permettent des interactions individuelles et des discussions plus larges, mais favorisent les plus jeunes et ceux qui ont accès à Internet ou aux smartphones. Le contact porte-à-porte peut être ciblé individuellement et est hautement persuasif, mais il prend du temps et peut être considéré avec suspicion dans certains quartiers ou contextes.
