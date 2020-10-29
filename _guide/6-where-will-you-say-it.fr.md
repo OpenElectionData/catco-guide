@@ -129,9 +129,9 @@ Il existe de nombreuses autres plates-formes de médias sociaux que vous voudrez
 
 N'oubliez pas que chaque plate-forme supplémentaire que vous ajoutez à votre plan de communication signifie plus de temps et de ressources consacrés à la création de contenu pour cette plate-forme, et plus de comptes qui doivent être protégés contre le piratage potentiel par des adversaires. Si votre capacité en personnel est limitée, vous devez vous concentrer sur la ou les plateformes qui s'adressent le plus directement à votre public cible et vous aident à atteindre vos objectifs. Ne perdez pas de temps ou de ressources à créer du contenu pour une plate-forme qui ne vous aide pas à atteindre vos objectifs ou à atteindre vos publics cibles, en particulier au détriment de passer plus de temps sur une plate-forme qui le fait.
 
-{% callout title="Utiliser Twitter Efficacement" %} Twitter est une plate-forme clé dans les discussions politiques en ligne au Nigéria. Afin d'atteindre et d'engager des millions de jeunes Nigérians dans la conversation, le groupe d'observation électorale nigérian [YIAGA AFRICA](https://twitter.com/YIAGA "yiaga") utilise des hashtags pertinents et actuels. Le groupe organise régulièrement des discussions Twitter et utilise un hashtag associé pour susciter l'intérêt pour la discussion et permettre aux gens de poser des questions et de suivre facilement. Il s’est avéré être un outil et une stratégie utiles pour sensibiliser le public à la responsabilité et à la surveillance du gouvernement, à l’engagement des jeunes et aux processus électoraux. 
+{% callout title="Utiliser Twitter Efficacement" %} Twitter est une plate-forme clé dans les discussions politiques en ligne au Nigéria. Afin d'atteindre et d'engager des millions de jeunes Nigérians dans la conversation, le groupe d'observation électorale nigérian [YIAGA AFRICA](https://twitter.com/YIAGA "yiaga") utilise des hashtags pertinents et actuels. Le groupe organise régulièrement des discussions Twitter et utilise un hashtag associé pour susciter l'intérêt pour la discussion et permettre aux gens de poser des questions et de suivre facilement. Il s’est avéré être un outil et une stratégie utiles pour sensibiliser le public à la responsabilité et à la surveillance du gouvernement, à l’engagement des jeunes et aux processus électoraux.
 
- {% endcallout %}
+{% endcallout %}
 
 Quelle que soit la ou les plates-formes sur lesquelles vous décidez d'investir du temps, soyez stratégique sur le contenu que vous pouvez republier ou réutiliser pour ces plates-formes. Bien que chaque réseau social ait sa propre communauté, ses normes et ses atouts, certains contenus seront appropriés pour plusieurs plates-formes.
 
@@ -308,18 +308,18 @@ En poursuivant notre exemple, votre plan de communication pourrait commencer à 
 </tbody>
 </table>
 
-## Go To People Where They Are
+## Aller là où les gens sont
 
 {% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
 
 {% endfigure %}
 
-Remember to try to go to people where they already are. If your target audience is mostly on Facebook, don't try to contact them via email. If your target audience gets most of their news in the daily paper, don't play radio ads for them. If your target audience gets most of their news at the barber shop, you need to consider a barber outreach program.
+N'oubliez pas d'essayer d'aller vers les gens là où ils se trouvent déjà. Si votre public cible est principalement sur Facebook, n'essayez pas de le contacter par e-mail. Si votre public cible reçoit l'essentiel de ses actualités dans le quotidien, ne diffusez pas d'annonces radio à sa place. Si votre public cible reçoit la plupart de ses nouvelles chez le coiffeur, vous devez envisager un programme de sensibilisation des coiffeurs.
 
-Since you may not belong to the demographics you're reaching out to, you may not be fluent in the ways people are communicating with each other on these different channels.
+Étant donné que vous ne faites peut-être pas partie des groupes démographiques auxquels vous vous adressez, vous ne maîtrisez peut-être pas la manière dont les gens communiquent entre eux sur ces différents canaux.
 
-In this case, spend as much time as you can researching and exploring the different online and offline channels before diving in. If your audience is on Facebook and you are not a member, join. See how people interact with each other and like different pages. Assess what kinds of content spark the most conversation or comments, the tone with which people speak to each other, what slang or abbreviations might be popular on the site, how often people post, and so on. Try to get familiar with how to use the platform before you increase your organization's use of it.
+Dans ce cas, passez autant de temps que possible à rechercher et à explorer les différents canaux en ligne et hors ligne avant de vous lancer. Si votre public est sur Facebook et que vous n'êtes pas membre, rejoignez le réseau. Voyez comment les gens interagissent les uns avec les autres et aiment différentes pages. Évaluez quels types de contenu suscitent le plus de conversations ou de commentaires, le ton avec lequel les gens se parlent, l'argot ou les abréviations qui pourraient être populaires sur le site, la fréquence à laquelle les gens publient, etc. Essayez de vous familiariser avec l'utilisation de la plate-forme avant d'en augmenter l'utilisation par votre organisation.
 
-If your audience listens to a certain radio program during which you want to buy advertising, listen to that program for a couple of weeks and take note of the advertising. What type and tone of advertising is already there? What does the radio program's content say about the likes and interests of your audience? If you are targeting a specific blogger, read that person's blog, post comments to the blog, and strike up a relationship with the blogger to the extent possible through available channels.
+Si votre public écoute une émission de radio au cours de laquelle vous souhaitez acheter de la publicité, écoutez cette émission pendant quelques semaines et prenez note de la publicité. Quel type et quel ton de publicité existe-t-il déjà? Que dit le contenu de l’émission de radio sur les goûts et les intérêts de votre public? Si vous ciblez un blogueur spécifique, lisez le blog de cette personne, publiez des commentaires sur le blog et établissez une relation avec le blogueur dans la mesure du possible via les canaux disponibles.
 
-Do not try to lure people away from the networks they're already a part of just because you are uncomfortable or unaware of those networks. If you have an active and interesting Twitter feed but all of your potential supporters are on Facebook, you are wasting your time.
+N'essayez pas de détourner les gens des réseaux dont ils font déjà partie simplement parce que vous n'êtes pas à l'aise ou que vous n'êtes pas au courant de ces réseaux. Si vous avez un fil Twitter actif et intéressant mais que tous vos supporters potentiels sont sur Facebook, vous perdez votre temps.
