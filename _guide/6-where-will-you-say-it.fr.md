@@ -278,31 +278,32 @@ En poursuivant notre exemple, votre plan de communication pourrait commencer à 
 <table>
 <thead>
 <tr>
-<th>Goal</th>
-<th>Topline Message</th>
-<th>Target Audience</th>
-<th>Target Message</th>
-<th>Communication Tool</th>
+<th>Objectif</th>
+<th>Message principal</th>
+<th>Public ciblé</th>
+<th>Message ciblee</th>
+<th>Outils de communication</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td rowspan="3">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
-<td rowspan="3">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
-<td>Journalists who write about elections.</td>
-<td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
-<td>- Email press releases & press conferences<br>- Materials on website<br>- One-on-one phone interviews & quarterly conference calls<br>- Twitter<br>- Whatsapp group<br>- YouTube
+<td rowspan="3">Sensibiliser à ce qu'est un PVT en faisant visiter notre site Web à 10 000 personnes et en ayant une portée moyenne de 100 000 personnes sur vos canaux de médias sociaux au cours des trois semaines précédant les élections.</td>
+<td rowspan="3">Un comptage parallèle des résultats (PVT) vérifie indépendamment si les résultats officiels des élections sont exacts, car chaque vote doit être compté et chaque voix doit être entendue</td>
+<td>Les journalistes qui écrivent sur les élections.</td>
+<td>Un PVT est une norme statistiquement rigoureuse et acceptée au niveau international pour évaluer l'exactitude ou la fraude des résultats officiels des élections. Les résultats du PVT aideront à raconter l'histoire de l'élection à venir en fournissant un autre ensemble de données permettant de vérifier les résultats des élections.</td>
+<td>- Communiqués de presse par e-mail & conférences de presse
+<br>- Matériel sur le site Web<br>- Entretiens téléphoniques individuels et conférences téléphoniques trimestrielles<br>- Twitter<br>- Groupe WhatsApp<br>- YouTube
 </td>
 </tr>
 <tr>
-<td>Members of the party in power</td>
-<td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
-<td>- One-on-one outreach to party leadership<br>- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br>- Facebook ads</td>
+<td>Membres du parti au pouvoir</td>
+<td>Un PVT vérifie des résultats électoraux justes et précis. Gagnant ou perdant, les grands dirigeants respectent la volonté du peuple, lorsque chaque vote est compté et que chaque voix est entendue.</td>
+<td>- Sensibilisation individuelle aux dirigeants du parti<br>- Annonces et articles d'opinion dans le quotidien, Le magazine de la semaine et les nouvelles à la radior<br>- Annonces Facebook</td>
 </tr>
 <tr>
-<td>Members of the opposition party</td>
-<td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
-<td>- Facebook ads<br>- One-on-one outreach to the party leadership<br>- Ads in the Opposition Weekly<br>- Blast emails</td>
+<td>Membres du parti d’opposition </td>
+<td>Un PVT vérifie que les vrais résultats sont connus et dissuade la fraude, car chaque vote doit être compté et chaque voix doit être entendue.</td>
+<td>- Annonces Facebook<br>- Sensibilisation individuelle au sein de la direction du parti<br>- Annonce dans  le journal d’opposition<br>- E-mails de masse</td>
 </tr>
 </tbody>
 </table>
