@@ -7,7 +7,6 @@ image:
   caption: ''
 uses_forms: true
 permalink: "/7-can-we-try-something-different/"
-published: false
 
 ---
 La politique et les élections sont des affaires sérieuses. Faire pression pour le progrès démocratique implique souvent de faire face à de grands risques, menaces et même dangers pour votre organisation et - dans certains cas - votre propre sécurité personnelle. Mais ce n'est pas parce que les sujets et les conséquences de votre travail sont sérieux qu'ils doivent être denses ou ennuyeux.
