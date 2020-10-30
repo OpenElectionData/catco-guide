@@ -70,87 +70,87 @@ De nombreuses informations sont disponibles via l'analyse du site, et vous devez
 
 Facebook propose des analyses gratuites (appelées _Insights_) pour votre page, et est également compatible avec votre site Web si vous suivez le comportement des utilisateurs de Facebook à votre site Web. De nombreuses informations utiles sont également collectées ici, et vous devriez les explorer pour voir ce qui est disponible et pertinent pour vous. En fin de compte, cependant, vous devez décider des paramètres qui comptent le plus pour votre succès et vous concentrer sur eux.
 
-* **Demographics:** You can learn about your audiences' demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
-* **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
-* **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
-* **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
+* **Données démographiques :** vous pouvez en savoir plus sur les données démographiques de votre public, c'est-à-dire sur la situation géographique, l'âge, le sexe et la langue préférée des personnes qui suivent votre page, consultent votre contenu et interagissent avec.
+* **Audience et engagement :** vous pouvez suivre les « likes », les abonnés et l’audience au fil du temps. Vous pouvez également déterminer les publications qui présentent les taux d’audience et d'engagement les plus élevés.
+* **Le visionnage des vidéos :** vous pouvez voir combien de personnes ont regardé et réagi à vos vidéos, combien de temps elles ont passé en moyenne à regarder la vidéo et à quel moment la plupart des gens ont arrêté de regarder.
+* **Le comportement de Facebook au site Web :** vous pouvez placer un pixel associé à votre page Facebook dans le code de votre site Web. Cela vous permettra de suivre le comportement des personnes qui passent de Facebook à votre site Web. Ceci est particulièrement utile si vous souhaitez qu'ils partent de Facebook pour effectuer une action sur votre site Web, comme l'inscription à votre liste de diffusion.
 
-{% callout title="Evaluating Outreach Efforts On and Offline" %}
+{% callout title="Évaluation des efforts de sensibilisation en ligne et hors ligne" %}
 
 {% figure caption:"Malaysians protest in the Bersih 5 rally." class:"right" %}![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
 
-In Malaysia, [BERSIH 2.0](http://www.bersih.org/) tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later.
+En Malaisie, BERSIH 2.0 suit toutes les analyses sociales pertinentes sur les plateformes qu'ils utilisent. Ils suivent également les mesures liées à leur organisation hors ligne - mesurant le nombre de groupes avec lesquels les coordinateurs se connectent et le taux de participation aux événements. En mesurant le taux de participation, le groupe pouvait savoir que le nombre de personnes devenait progressivement plus grand lors de petits rassemblements dans les semaines précédant leur grand évenement. En mesurant le taux de participation et en le regardant augmenter, ils se sont sentis à l'aise d’anticiper et de planifier la venue de 200 000 participants pour leur plus grand rassemblement sept semaines plus tard.
 
 {% endcallout %}
 
-## Twitter Analytics
+## Analyses sur Twitter
 
-By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see free analytics associated with your Twitter account, regardless of whether you are paying for ads. Some of the metrics you can collect are:
+En vous rendant sur [analytics.twitter.com](https://analytics.twitter.com/), vous pouvez voir des analyses gratuites associées à votre compte Twitter, que vous payiez ou non pour des publicités. Certaines des mesures que vous pouvez collecter sont:
 
-* How individual tweets perform, in terms of reach and engagement.
-* How your native videos perform, including how long people watch your videos for.
-* Who your audience is, including income, occupation, interests, gender, education, and income.
+* Comment les tweets individuels fonctionnent, en termes d’audience et d'engagement.
+* Les performances de vos vidéos, y compris la durée pendant laquelle les internautes regardent vos vidéos.
+* Qui est votre public, y compris la profession, les intérêts, le sexe, le niveau d’éducation et le revenu.
 
-## Other Metrics
+## Autres mesures
 
-Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what's available to you to measure. Play around with what's available, research what each number means, and decide which ones are important to track over time.
+La plupart des plates-formes de médias sociaux ont une sorte de plate-forme d'analyse intégrée gratuite. Vous pouvez explorer d'autres options d'analyse et voir ce que vous pouvez mesurer. Jouez avec ce qui est disponible, recherchez ce que signifie chaque chiffre et décidez quelles mesures sont importantes à suivre au fil du temps.
 
-Some strategies may require metrics that don't exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
+Certaines stratégies peuvent nécessiter des mesures qui ne sont pas facilement disponibles, mais qui sont une bonne mesure du succès : nombre de fois cité dans les médias, nombre de participants à un événement, nombre de réunions officieuses avec des journalistes, nombre de fois où un donateur a répondu à un e-mail avec des commentaires, des tendances de l'opinion publique, etc. Ces types de mesures peuvent constituer de meilleures mesures de votre succès que l’audience sur Facebook. Réfléchissez de manière critique à ce qui constitue une mesure significative de votre objectif et suivez-la, même si ce n'est pas nécessairement la mesure la plus simple disponible.
 
-## A/B Testing
+## Test A/B
 
-As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best.
+Lorsque vous utilisez des mesures pour savoir ce qui fonctionne et comment atteindre efficacement vos objectifs, vous souhaiterez sûrement intégrer un plan de test A / B dans tout ou une partie de vos communications. Les tests A / B consistent à fournir deux lignes d'objet, contenus, graphiques, tonalités, messages, etc. différents à des sous-ensembles aléatoires d'audiences similaires pour voir à laquelle ils répondent le mieux.
 
 {% figure caption:"NDI Photo." class:"left" %}
 
 ![Woman does work on computer.](/assets/images/kosovo-1.jpg "NDI Photo."){% endfigure %}
 
-For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that.
+Par exemple, vous pouvez envoyer un e-mail avec un bouton d'appel à l'action rouge tout en haut de l'e-mail à la moitié de votre liste de diffusion et un sans le bouton à l'autre moitié de la liste. Après environ un jour, comparez les taux de clics des deux tests - les personnes ayant reçu l'e-mail du bouton étaient-elles plus susceptibles de cliquer ? Si tel est le cas, vous voudrez peut-être inclure un bouton rouge d'appel à l'action dans tous vos e-mails comme meilleure pratique pour augmenter l'engagement de vos e-mails. Ou vous pouvez tester un bouton d'appel à l'action rouge par rapport à un bouton d'appel à l'action bleu dans votre prochain e-mail pour voir quel bouton est le plus efficace.
 
-A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
+Les tests A / B peuvent vous aider à affiner l'efficacité de votre message, vos appels, vos lignes d'objet, votre ton et votre conception des e-mails, les sites Web et les réseaux sociaux. Cependant, il faut suivre attentivement les résultats et intégrer les leçons apprises et les nouvelles meilleures pratiques dans les communications futures pour un impact maximal.
 
-### YOUR TURN: Review Your Goals
+### A VOTRE TOUR:
 
-**Review each of your goals. Brainstorm different indicators that will help you know if you've achieved them.**
+**Passez en revue chacun de vos objectifs. Réfléchissez à différents indicateurs qui vous aideront à savoir si vous les avez atteints.**
 
-{% textarea label="Goal 1" id="goal1" size="small" button="false" %}
+{% textarea label="1er Objectif" id="goal1" size="small" button="false" %}
 
 * {% textarea label="A" id="goala" size="small" button="false" %}
 * {% textarea label="B" id="goalb" size="small" button="false" %}
 * {% textarea label="C" id="goalc" size="small" button="false" %}
 
-**Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
+**Attribuez maintenant une méthode concrète (telle que Google Analytics, Facebook Insights, etc.) que vous utiliserez pour mesurer et suivre chaque indicateur.**
 
-Continuing our example, it might look something like this:
+En poursuivant notre exemple, cela pourrait ressembler à ceci:
 
-GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
+OBJECTIF 1 : Sensibiliser à ce qu'est un « dépouillement parallèle des scrutins » (PVT), en faisant visiter notre site Web à 10 000 personnes et en ayant une audience moyenne de 100 000 personnes sur nos réseaux sociaux au cours des trois semaines précédant les élections.
 
-* 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
-* 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
-* Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
-* Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
-* Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
+* 10 000 visiteurs uniques sur notre site Web qui sont restés plus de 5 secondes. (Google Analytics)
+* 100 000 personnes par semaine sur les réseaux sociaux avec un taux d'engagement d'au moins 5%. Notre cible démographique de jeunes femmes âgées de 16 à 26 ans devrait représenter 50% de notre audience. (Analyse Facebook et YouTube)
+* Les e-mails destinés aux journalistes ont un taux d'ouverture de 30% et un taux de clics de 10%. (Analyse MailChimp)
+* Les appels trimestriels avec les journalistes sont suivis par au moins 12 journalistes par appel. (Suivi interne)
+* Les candidats politiques ouvrent nos e-mails à un taux d'ouverture de 20% et répondent à nos e-mails au moins une fois par semaine. (Analyse MailChimp et suivi interne)
 
-## Put a System In Place
+## Mettre un système en place
 
-Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren't working.
+Une fois que vous avez décidé quelles mesures vous devez suivre pour atteindre vos objectifs, vous devrez mettre en place un système pour collecter ces données régulièrement. Votre système de suivi doit collecter les données dont vous avez besoin, mais ne doit pas trop difficile afin d’éviter d’employer un temps ou des efforts excessifs. Il doit également être suivi ou présenté de manière à ce que vous puissiez facilement voir votre progression vers vos objectifs, ou identifier rapidement les problèmes ou les stratégies qui ne fonctionnent pas.
 
-Questions to keep in mind when you are setting up your metrics-collection process:
+Questions à garder à l'esprit lorsque vous configurez votre processus de collecte de données:
 
 {% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
 
-* Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)?
-* Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work?
-* How long does the collection process take and is it overly arduous?
-* Can the process or part of the process be automated?
-* How often does the data need to be collected?
-* Are all the necessary data points being collected?
-* Is the data being displayed in a way that is easy to read and draw conclusions from?
-* Who needs access to the data? Do they have it?
+* Qui collectera et compilera les données, y compris les données qui doivent être collectées manuellement (comme le nombre de réunions tenues) ?
+* Les mesures seront-elles suivies par une personne ou par plusieurs contributeurs ? Combien de temps disposent-ils pour effectuer cette tâche, compte tenu de leurs autres travaux ?
+* Combien de temps dure le processus de collecte et est-il trop difficile ?
+* Le processus ou une partie du processus peut-il être automatisé ?
+* À quelle fréquence les données doivent-elles être collectées ?
+* Tous les points de données nécessaires sont-ils collectés ?
+* Les données sont-elles présentées de manière lisible et pouvant aider à tirer des conclusions ?
+* Qui a besoin d'accéder aux données ? Le peuvent-ils ?
 
-Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn't working.
+Une fois que vous avez un système en place, planifiez des réunions régulières avec les membres de l'équipe ou les dirigeants qui ont aidé à créer les objectifs et / ou qui mettent en œuvre les stratégies prévues par le plan. Discutez de la performance de chaque stratégie en fonction de son indicateur. Êtes-vous sur la bonne voie pour atteindre vos objectifs ? Certaines stratégies fonctionnent-elles mieux que d'autres ? Certaines stratégies ne fonctionnent-elles pas du tout ? Soyez honnête avec vous-même et votre équipe au sujet de vos progrès et de ce qui fonctionne ou pas.
 
-Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
+Utilisez ces vérifications régulières pour affiner et mettre à jour vos stratégies et tactiques sur la base de données réelles. Cela doit être un processus itératif et continu.
 
 <table>
 <thead>
