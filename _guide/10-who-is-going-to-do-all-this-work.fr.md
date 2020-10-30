@@ -18,8 +18,6 @@ En fonction du nombre de personnes que vous comptez et du travail à accomplir, 
 
 ## MOCHA
 
-#### _The MOCHA model is adapted from The Management Center_ [_http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf_](http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf "http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf")
-
 Quel que soit le nombre de personnes dans l'équipe de communication ou dans le personnel de votre organisation, le modèle MOCHA d'attribution de la responsabilité de chaque projet ou stratégie peut aider à clarifier qui est en charge de quoi et à garantir que chaque projet avance. Le modèle MOCHA attribue les rôles suivants à chaque objectif, projet ou stratégie : Manager, Owner, Consultant, Helper, Approver (Gestionnaire, Propriétaire, Consultant, Assistant, Approbateur)
 
 * **Gestionnaire (_Manager)_ :** le Manager attribue la responsabilité et tient le propriétaire redevable. Le gestionnaire pose des questions difficiles, examine les progrès vers les objectifs, sert de ressource et intervient si le travail est hors-sujet ou doit être abordé différemment.
