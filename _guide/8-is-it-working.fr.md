@@ -155,40 +155,41 @@ Utilisez ces vérifications régulières pour affiner et mettre à jour vos stra
 <table>
 <thead>
 <tr>
-<th>Goal</th>
-<th>Topline Message</th>
-<th>Target Audience</th>
-<th>Target Message</th>
-<th>Communication Tool</th>
-<th>Metric</th>
+<th>Objectif</th>
+<th>Message principal</th>
+<th>Public cible</th>
+<th>Message cible</th>
+<th>Outils de communications</th>
+<th>Indicateurs</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
-<td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
-<td>Journalists who write about elections.</td>
-<td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
-<td>- Email press releases & press conferences<br><br>- Materials on website<br><br>- One-on-one phone interviews & quarterly conference calls<br><br>- Twitter<br><br>- Whatsapp group
+<td rowspan="4">Sensibiliser à ce qu'est un « dépouillement parallèle des scrutins » (PVT), en faisant visiter notre site Web à 10 000 personnes et en ayant une audience moyenne de 100 000 personnes sur nos réseaux sociaux au cours des trois semaines précédant les élections.</td>
+<td rowspan="4">Un PVT vérifie indépendamment si les résultats officiels des élections sont exacts, car chaque vote doit être compté et chaque voix doit être entendue</td>
+<td>Journalistes qui écrivent sur les élections.</td>
+<td>Un PVT est une norme statistiquement rigoureuse et acceptée au niveau international pour évaluer l'exactitude ou la fraude des résultats officiels des élections. Les résultats du PVT aideront à raconter l'histoire de l'élection à venir en fournissant un autre ensemble de données permettant de vérifier les résultats des élections.</td>
+<td>- Communiqués de presse par courriel
+& conférences de presse<br><br>- Matériel sur le site Web<br><br>- Entretiens téléphoniques individuels et conférences téléphoniques trimestrielles <br><br>- Twitter<br><br>- Groupe WhatsApp
 </td>
 <td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br><br>- Page is visited 50 times per quarter<br><br>- Attendance of 12 journalists per call.<br><br>- At least one journalist DMs with us on Twitter regularly<br><br>- Journalist WhatsApp group membership is 100 or more
 </td>
 </tr>
 <tr>
-<td>Members of the party in power</td>
-<td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
+<td>Membres du parti au pouvoir</td>
+<td>Un PVT vérifie des résultats électoraux justes et précis. Gagnant ou perdant, les grands dirigeants respectent la volonté du peuple, lorsque chaque vote est compté et que chaque voix est entendue.</td>
 <td>- One-on-one outreach to party leadership<br><br>-- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br><br>-- Facebook ads</td>
 <td>-2 meetings per quarter<br><br>-- Once a week placements<br><br>-- Click through rate to call to action is 40 percent</td>
 </tr>
 <tr>
-<td>Members of the opposition party</td>
-<td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
+<td>Membres du parti d’opposition</td>
+<td>Un PVT vérifie que les vrais résultats sont connus et dissuade la fraude, car chaque vote doit être compté et chaque voix doit être entendue.</td>
 <td>- One-on-one outreach to the party leadership<br><br>- Ads in the Opposition Weekly<br><br>- Blast emails</td>
 <td>- 2 meetings per quarter<br><br>- Weekly placements<br><br>- List is 250 people with an open rate of 25 percent</td>
 </tr>
 <tr>
-<td>Young men ages 16-26</td>
-<td>A PVT is a way of verifying that your voice is heard in these elections.</td>
+<td>Jeunes hommes âgés de 18 à 26 ans</td>
+<td>Un PVT est un moyen de vérifier que votre voix est entendue lors de ces élections.</td>
 <td>- Facebook posts and videos<br><br>- Paid Facebook promotion</td>
 <td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br><br>- 25,000 reach from these ads and 5 percent conversion to page likes</td>
 </tr>
