@@ -99,7 +99,7 @@ Si le compte est faux, signalez-le sur la plateforme pour violation des conditio
 
 Cela arrive aux meilleurs d'entre nous - parfois la crise est quelque chose que nous créons nous-mêmes. Peut-être que les dirigeants ont été surpris en train de faire quelque chose de mal, peut-être qu'un tweet était offensant ou insensible, peut-être que le bulletin d'information a été diffusé avec des informations inexactes. Ces choses arriveront. C’est la façon dont vous les gérez dont on se souviendra.
 
-{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." %}
+{% figure caption:"Le 28 août 2019, Shahrul Aman, l'ancien président par intérim de Bersih 2.0 a été appelé à témoigner après avoir déposé un rapport de police. BERSIH 2.0 Photo." %}
 
 ![On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report.](/assets/images/BERSIH_4-1.jpg "BERSIH 2.0 Photo")
 
