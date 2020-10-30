@@ -1,14 +1,15 @@
 ---
-lang: fr
+lang: en
 uses_forms: false
-title: 11. What Have Others Tried?
-subtitle: Case Studies
+title: '11. Qu''est ce qui a été essayé par les autres ? '
+subtitle: Études de cas
 image:
-  url: ""
-  caption: ""
-permalink: /11-what-have-others-tried/
----
+  url: ''
+  caption: ''
+permalink: "/11-what-have-others-tried/"
+published: false
 
+---
 ## Case Study: YouTube Stars Interview President Obama
 
 Midway through President Barack Obama's second term, the midterm elections delivered a dire warning about young voters. In the 2014 elections, Obama's party lost nine Senate seats and control of the chamber, as well as losing 13 seats in the House of Representatives. Voter turnout was down among all age groups, but especially with millennial voters. With his eye on the 2016 elections and cementing his legacy achievements, Obama sought to engage millennial audiences in the hopes of increasing enthusiasm, turnout, and participation in his political agenda.
