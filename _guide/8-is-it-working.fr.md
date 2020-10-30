@@ -1,81 +1,79 @@
 ---
-lang: fr
+lang: en
 uses_forms: true
-title: 8. Is It Working?
-subtitle: Evaluation and Analysis
+title: '8. Est-ce que ça marche ? '
+subtitle: Évaluation et analyse
 image:
-  url: ""
-  caption: ""
-permalink: /8-is-it-working/
+  url: ''
+  caption: ''
+permalink: "/8-is-it-working/"
+published: false
+
 ---
+Avoir des critères clairs pour mesurer votre succès vous permettra de savoir si votre plan de communication fonctionne et a atteint vos objectifs - ou s'il ne fonctionne pas comme vous l'aviez espéré et vous devez revoir et ajuster vos stratégies et tactiques. Vous aurez besoin de savoir ce que vous mesurez et, idéalement, vous collecterez des données assez fréquemment pour détecter les problèmes tôt et vous adaptez avant que ce ne soit trop tard ou trop difficile.
 
-Having clear criteria to measure your success will allow you to know if your communications plan is working and achieving your goals -- or if it's not performing as you had hoped, and you need to revisit and adjust your strategies and tactics. You'll need to know what you're measuring and ideally you'll be collecting data frequently enough to see problems early and adjust before it's too late or too hard.
+Vous ne partez pas totalement de zéro, car le « M » de vos objectifs SMART est « mesurable ». Si vous avez rédigé vos objectifs en gardant à l'esprit la mesurabilité, vous aurez alors une idée des statistiques que vous devez collecter et utiliser comme points de repère pour atteindre votre objectif.
 
-You're not starting totally from scratch, as the “M” in your SMART goals is “measurable.” If you've written your goals with measurability in mind, then you'll have some idea of what metrics you need to collect and use as benchmarks on your way to your goal.
+Au cours de votre processus de planification, réfléchissez aux mesures qui sont significatives et importantes pour votre travail. Vous ne voulez pas être dans une position où vous suivez des mesures faciles à suivre, mais qui ne constituent pas une mesure significative du succès de votre programme. Il peut également être difficile voire impossible dans certains cas de collecter des données du passé, vous voulez donc avoir une compréhension claire de ce qui est pertinent avant de commencer.
 
-During your planning process, think about what metrics are meaningful and matter to your work. You don't want to be in a position where you are tracking the metrics that are easiest to track but aren't a real measure of the success of your program. It can also be difficult or impossible in some cases to gather data from the past, so you want to have a clear understanding of what is relevant before you begin.
+## L’audience vs engagement
 
-## Reach vs Engagement
+Il existe deux grandes façons de mesurer vos communications : l’audience et l'engagement.
 
-There are two broad ways to measure your communications: reach and engagement.
+L'engagement mesure si quelqu'un a agi en fonction de votre contenu d'une manière ou d'une autre. Sur les réseaux sociaux, cela peut inclure de laisser un commentaire, de partager votre message ou de cliquer pour rejoindre votre liste de diffusion ou de s’inscrire comme bénévole. Dans un e-mail, il peut s'agir d'ouvrir l'e-mail, de cliquer sur votre appel à l'action, de transférer l'e-mail à un ami ou de répondre à votre e-mail. Avec un message texte, cela peut signifier répondre ou se présenter à la manifestation pour laquelle vous les avez sollicités.
 
-Reach looks at how many people saw your content. It does not distinguish between active and passive consumption -- if a person sees your TV ad, receives your email, or scrolls past your content in their newsfeed, it will count toward your reach. Reach can be a useful metric if you are trying to saturate a market, strengthen your brand, or raise awareness of an issue -- just creating a constant presence with a certain audience, even if they are passively consuming your information, can sometimes be an effective strategy.
+Les chiffres d'engagement seront inférieurs à l’audience, mais les interactions seront plus profondes et le public plus fortement investi dans votre mission et son succès. Réfléchissez bien à la question de savoir si vous avez besoin d'un public plus petit mais actif ou plus large mais passif pour atteindre vos objectifs avant de décider si vous mettrez l'accent sur l’audienc ou l'engagement dans vos indicateurs de succès.
 
-Engagement measures whether someone took action with your content in some way. On social media, this might include leaving a comment, sharing your post, or clicking through to join your email list or sign up to volunteer. In an email, it might include opening the email, clicking through your call to action, forwarding the email to a friend, or replying to your email. With a text message, it might mean they reply or show up to the protest you are informing them about.
+Vous pouvez également mesurer les deux - et en réalité, ils ne sont pas nécessairement sans aucun rapport. Pour atteindre les chiffres d'engagement que vous souhaitez, vous devrez peut-être toucher plus de personnes. Cependant, vous devez être clair sur les paramètres qui sont pertinents pour atteindre vos objectifs et vous devez les hiérarchiser.
 
-Engagement numbers will be lower than reach, but the interactions will be deeper and the audience more heavily invested in your mission and its success. Think carefully about whether you need a smaller-but-active or a larger-but-passive audience to achieve your goals before deciding whether you will emphasize reach or engagement.
+{% callout title="Changer vos mesures de succès" %} Au Nicaragua, la coalition d'observation électorale [_Panorama Electoral_](https://www.panoramaelectoral.org/) mesurait initialement le succès uniquement en regardant l’audience, plutôt que par l'évaluation des discussions et des débats.
 
-You can also measure both -- and indeed, they are not necessarily disconnected. To achieve the engagement numbers you want, you may need to reach more people. But you should be clear about what metrics are relevant to achieving your goals and prioritize those.
-
-{% callout title="Changing Your Measurements of Success" %}
-In Nicaragua, the election observation coalition [Panorama Electoral](https://www.panoramaelectoral.org/) was measuring success purely in reach, rather than the discussion and debate being generated.
-
-However, in order to achieve their goals of fostering dialogue and increasing participation, the group shifted to collecting metrics on engagement and interaction, prompting them to see the need for a community manager to moderate the dialogue on their social media feeds.
+Afin d'atteindre leurs objectifs de favoriser le dialogue et d'augmenter la participation, le groupe a modifié sa stratégie pour collecter des mesures plus significatives sur l'engagement et l'interaction, les incitant à voir la nécessité d’un gestionnaire de communauté pour modérer le dialogue sur leurs flux de médias sociaux.
 {% endcallout %}
 
-## Common Analytics and Metrics Available
+## Analyses et mesures communes disponibles
 
-A number of digital platforms have built-in analytics that you can access for free (or included in the price) that are very powerful when used well.
+Un certain nombre de plates-formes numériques ont des analyses intégrées auxquelles vous pouvez accéder gratuitement (ou qui sont incluses dans le prix global de la plate-forme) qui sont très puissantes lorsqu'elles sont bien utilisées.
 
-## Email Analytics
+## Analyse des e-mails
 
-Any mass emailer you use should provide you with basic analytic data you can use to refine your email strategy.
+Tout e-mail de masse que vous utilisez doit vous fournir des données analytiques de base que vous pouvez utiliser pour affiner votre stratégie de messagerie électronique.
 
-- Open rate: This is the rate at which people open your email. A healthy and active email list will have around a 20 percent open rate for any given email sent.
-- Click-through rate: This is the rate at which people click on whatever links you put in your emails. For emails with a clear call to action, you should expect a click-through rate of 20 percent. Most mass emailers will also show you which links were clicked on the most, so you can learn whether placing your call to action at the top or bottom of your email is more effective, or whether there is one link people were more interested in than others, for example.
-- Unsubscribe rate: This is the rate at which people unsubscribe from any given email. A normal unsubscribe rate is less than 1 percent per send. If you see a sudden spike in unsubscribes, you should figure out whether you're emailing too often or if your language, tone, or content are alienating your audience.
+* Taux d'ouverture: il s'agit du taux auquel les gens ouvrent votre e-mail. Une liste de diffusion saine et active aura un taux d'ouverture d'environ 20% pour tout courrier électronique envoyé.
+* Taux de clics: il s'agit du taux auquel les gens cliquent sur les liens que vous mettez dans vos e-mails. Pour les e-mails avec un appel à l'action clair, vous devez vous attendre à un taux de clics de 20%. La plupart des e-mails de masse vous montreront également les liens sur lesquels les internautes ont le plus cliqué, afin que vous puissiez savoir si placer votre appel à l'action en haut ou en bas de votre e-mail est plus efficace, ou s'il existe par exemple un lien qui intéresse plus les gens que d'autres.
+* Taux de désabonnement: il s'agit du taux auquel les gens se désabonnent d'un e-mail donné. Un taux de désabonnement normal est inférieur à 1% par envoi. Si vous constatez une augmentation soudaine des désabonnements, vous devez déterminer si vous envoyez des e-mails trop souvent ou si votre langue, votre ton ou votre contenu aliénent votre public.
 
 ## Google Analytics
 
-Google Analytics tracks all your web traffic and the behavior of the people who visit your website. Once you have a Gmail address, you can use it to open an account at [analytics.google.com](https://analytics.google.com/). There you can get a small bit of code that you place into your website (follow Google's instructions for how to do this), and after that you will be able to track all your web traffic in real time and over time. Be sure to install Google Analytics on your websites from the very beginning -- the analytics cannot collect data on your site from a time before it was installed.
+Google Analytics suit tout votre trafic Web et le comportement des personnes qui visitent votre site Web. Une fois que vous avez une adresse Gmail, vous pouvez l'utiliser pour ouvrir un compte sur [analytics.google.com](https://analytics.google.com/). Là, vous pouvez obtenir quelques lignes de code que vous insérez dans votre site Web (suivez les instructions de Google pour savoir comment procéder). Après cela, vous pourrez suivre l'ensemble de votre trafic Web en temps réel et au fil du temps.
 
-{% callout title="Using Analytics to Spur Engagement" %}
+{% callout title="Utiliser Analytics pour stimuler de l'engagement" %}
 
-In Serbia, the [CRTA](https://crta.rs/en/) team measure their social media impact by tracking Facebook insights, Twitter analytics, Google analytics, and Youtube analytics. They employ a media monitoring agency that tracks stories published about them and their work.
+En Serbie, l'équipe CRTA mesure leur impact sur les réseaux sociaux en suivant Facebook Insights, Twitter Analytics, Google Analytics et YouTube Analytics. Ils emploient une agence de surveillance des médias qui suit les histoires publiées sur eux et leur travail.
 
-But they don't just want to measure reach, they want to measure engagement, and so they tracked new engagement metrics in 2018. The group is calling people to action three times in the lead up to elections, as a way not just to collect and publish data, but to get members of the public engaged in their democracy. They asked people to submit information to help with CRTA's research and to join the election observation mission by volunteering to be an observer (and pass the training to become an observer).
+Cependant, ils ne veulent pas seulement mesurer l’audience, ils veulent également mesurer l'engagement, et ils ont donc commencé à suivre de nouvelles mesures d'engagement en 2018. Le groupe appelle les gens à agir trois fois avant les élections, pour non seulement collecter et publier des données, mais aussi pour impliquer les membres du public au sein de leur démocratie. Par exemple, ils ont demandé aux gens de soumettre des informations pour aider à la recherche du CRTA et de se joindre à la mission d'observation électorale en se portant volontaire pour être un observateur (et réussir la formation pour devenir un observateur).
 
-CRTA will be tracking these higher-level commitments over time to see if people are willing to participate, in an effort to grow their base of supporters over time.
+Le CRTA suivra ces engagements de plus haut niveau au fil du temps pour voir si les gens sont prêts à participer, dans un effort pour élargir leur base de supporters.
 
 {% endcallout %}
 
-There is a lot of information available to you in analytics, and you should spend some time exploring it to see what's available. Most of it was designed to help business websites maximize their customers' experience, but there is still a lot of useful information for civic groups.
+De nombreuses informations sont disponibles via l'analyse du site, et vous devez passer un peu de temps à l’explorer pour voir ce qui est disponible. Google Analytics a été principalement conçu pour aider les sites Web professionnels à maximiser l'expérience de leurs clients, mais il existe néanmoins de nombreuses informations utiles pour les groupes de citoyens.
 
-- **Audience:** You can learn about the visitors to your website through the audience features. How many unique visitors did you get and how often do they come back? How long do they stay on the site and how many pages do they view in a visit? What are the demographics of your audience and what are their interests? If you were hoping for deep engagement on your website from young men ages 16-26, but your analytics reveal that your primary audience is older women ages 60-75 and they are only staying on the site for an average of 8 seconds, then you may need re-evaluate either the content of your website or the ways that you are promoting it (or both).
-- **Devices and browsers:** Part of the audience information includes what browsers and devices they are using to access your site. Be sure that your site is optimized to look its best on the most popular devices and browsers your audience is using.
-- **Behavior:** You can learn about how people actually use your site from the behavior features. You can see what content is most popular and how long people spend engaging with each page. You can also see the most common site behavior flows -- what pages do people start on and how do they travel through the site? Are they finding the information you most want them to find? Are they engaging deeply with your site or spending only a few seconds on it? Is the path through the site the one you had envisioned? If not, do you need to change your menu or page configuration to ensure that people are seeing the information you want them to prioritize? Use the behavior information to maximize the impact of your content and refine your site to ensure that your audience has an easy time finding the information it needs.
-- **Acquisition:** You can learn a lot about how your audience found your site from the acquisition features. You can find how many people found you through organic search and the search terms they used to do so. You can also see what websites account for your web referrals -- if they are coming from your social media posts, news articles, other referring websites, etc. If your social media referrals are low but your organic search rates are high, you might want to spend more time creating content that performs well based on what people are searching for, rather than creating more posts for social media that refer back to your website, for example. If you are paying for site promotion you can also link your Google AdWords account to your Analytics account and monitor it in this section.
-- You can create sophisticated searches and reports by combining this data. Click on “add a segment” to any report screen to add additional data points. For example, if you want to see how young men ages 16-26 are finding your site versus older women ages 60-75, you can add a demographics segment to your channels analytics screen and find the breakdown. They may have totally different referrals, which you can then refine and cater to more effectively.
-- You can also compare site performance over time with the date range feature. You can look at your analytics over any period of time you choose, and you can also overlay that over any comparable period of time by clicking “compare to.” This can help you analyze trends over time in the data.
+* **Audience:** vous pouvez en savoir plus sur les visiteurs de votre site Web grâce aux fonctionnalités d'audience. Combien de visiteurs uniques avez-vous reçus et à quelle fréquence sont-ils revenus ? Combien de temps sont-ils restés sur le site et combien de pages ont-ils consultés lors d'une visite ? Quelles sont les données démographiques de votre public et quels sont leurs intérêts ? Si vous espériez un engagement profond sur votre site Web de la part de jeunes hommes âgés de 16 à 26 ans, mais que vos analyses révèlent que votre public principal est constitué de femmes âgées de 60 à 75 ans et qu'elles ne restent sur le site que pendant 8 secondes en moyenne, alors vous pouvez avoir besoin de réévaluer le contenu de votre site Web ou la manière dont vous en faites la promotion (ou les deux).
+* **Appareils et navigateurs:** vous recevrez également des informations sur les navigateurs et les appareils que le public utilise pour accéder à votre site. Assurez-vous que votre site est optimisé pour apparaitre le mieux possible sur les appareils et navigateurs les plus populaires de votre public.
+* **Comportement:** vous pouvez découvrir comment les gens utilisent réellement votre site à partir des fonctionnalités de comportement. Vous pouvez voir quel contenu est le plus populaire et combien de temps les gens passent à interagir avec chaque page. Vous pouvez également voir les flux de comportement de site les plus courants : sur quelles pages les utilisateurs commencent-ils et comment se déplacent-ils sur le site ? Trouvent-ils les informations que vous voulez le plus qu'ils trouvent ? S'engagent-ils profondément avec votre site ou n'y passent-ils que quelques secondes ? Le chemin à travers le site est-il celui que vous aviez envisagé ? Sinon, devez-vous modifier la configuration de votre menu ou de votre page pour vous assurer que les utilisateurs voient les informations que vous souhaitez qu'ils priorisent ? Utilisez les informations sur le comportement pour maximiser l'impact de votre contenu et affinez votre site pour vous assurer que votre public trouve facilement les informations dont il a besoin.
+* **Acquisition:** vous pouvez en apprendre beaucoup sur la façon dont votre public a trouvé votre site grâce aux fonctionnalités d'acquisition. Vous pouvez identifier le nombre de personnes qui vous ont trouvé grâce à des recherches organiques et les termes de recherche utilisés pour le faire. Vous pouvez également voir quels sites Web représentent vos références Web - si elles proviennent de vos publications sur les réseaux sociaux, articles de presse, autres sites Web de référence, etc. Si vos références sur les réseaux sociaux sont faibles mais que vos taux de recherche organiques sont élevés, vous voudrez peut-être passer plus de temps à créer du contenu qui fonctionne bien sur la base de recherches courantes, plutôt que de créer plus de publications pour les médias sociaux qui renvoient à votre site Web, par exemple. Si vous payez pour la promotion de site, vous pouvez également associer votre compte Google AdWords à votre compte Analytics et le surveiller dans cette section.
+* Vous pouvez créer des recherches et des rapports sophistiqués en combinant les données. Cliquez sur « ajouter un segment » à n'importe quel écran de rapport pour ajouter des points de données supplémentaires. Par exemple, si vous souhaitez voir comment les jeunes hommes âgés de 16 à 26 ans trouvent votre site par rapport aux femmes plus âgées de 60 à 75 ans, vous pouvez ajouter un segment démographique à l'écran d'analyse de vos chaînes et trouver la répartition. Ces deux groupes peuvent avoir des références totalement différentes, ce qui vous permettra d'affiner votre stratégie de promotion de site pour répondre plus efficacement à ces deux groupes.
+* Vous pouvez également évaluer les performances du site au fil du temps avec la fonction de l’intervalle de dates. Vous pouvez consulter vos analyses sur n'importe quelle période de temps que vous choisissez, et vous pouvez également superposer cette période sur une période de temps comparable en cliquant sur "comparer à". Cela peut vous aider à analyser les tendances qui apparaissent au fil du temps sur les données.
 
-## Facebook Insights
+## Analyses sur Facebook
 
-Facebook offers free analytics (called Insights) for your page, and also works with your website if you are tracking users' behavior from Facebook through to your website. There is a lot of useful information collected here, too, and you should explore it to see what's available and relevant to you. But ultimately you should decide on which metrics matter the most to your success and focus on them.
+Facebook propose des analyses gratuites (appelées _Insights_) pour votre page, et est également compatible avec votre site Web si vous suivez le comportement des utilisateurs de Facebook à votre site Web. De nombreuses informations utiles sont également collectées ici, et vous devriez les explorer pour voir ce qui est disponible et pertinent pour vous. En fin de compte, cependant, vous devez décider des paramètres qui comptent le plus pour votre succès et vous concentrer sur eux.
 
-- **Demographics:** You can learn about your audiences' demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
-- **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
-- **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
-- **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
+* **Demographics:** You can learn about your audiences' demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
+* **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
+* **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
+* **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
 
 {% callout title="Evaluating Outreach Efforts On and Offline" %}
 
@@ -89,9 +87,9 @@ In Malaysia, [BERSIH 2.0](http://www.bersih.org/) tracks all relevant social ana
 
 By going to [analytics.twitter.com](https://analytics.twitter.com/), you can see free analytics associated with your Twitter account, regardless of whether you are paying for ads. Some of the metrics you can collect are:
 
-- How individual tweets perform, in terms of reach and engagement.
-- How your native videos perform, including how long people watch your videos for.
-- Who your audience is, including income, occupation, interests, gender, education, and income.
+* How individual tweets perform, in terms of reach and engagement.
+* How your native videos perform, including how long people watch your videos for.
+* Who your audience is, including income, occupation, interests, gender, education, and income.
 
 ## Other Metrics
 
@@ -117,9 +115,9 @@ A/B testing can help you refine the effectiveness of your message, appeals, subj
 
 {% textarea label="Goal 1" id="goal1" size="small" button="false" %}
 
-- {% textarea label="A" id="goala" size="small" button="false" %}
-- {% textarea label="B" id="goalb" size="small" button="false" %}
-- {% textarea label="C" id="goalc" size="small" button="false" %}
+* {% textarea label="A" id="goala" size="small" button="false" %}
+* {% textarea label="B" id="goalb" size="small" button="false" %}
+* {% textarea label="C" id="goalc" size="small" button="false" %}
 
 **Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
 
@@ -127,11 +125,11 @@ Continuing our example, it might look something like this:
 
 GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
 
-- 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
-- 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
-- Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
-- Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
-- Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
+* 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
+* 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
+* Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
+* Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
+* Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
 
 ## Put a System In Place
 
@@ -141,58 +139,58 @@ Questions to keep in mind when you are setting up your metrics-collection proces
 
 {% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
 
-- Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)?
-- Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work?
-- How long does the collection process take and is it overly arduous?
-- Can the process or part of the process be automated?
-- How often does the data need to be collected?
-- Are all the necessary data points being collected?
-- Is the data being displayed in a way that is easy to read and draw conclusions from?
-- Who needs access to the data? Do they have it?
+* Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)?
+* Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work?
+* How long does the collection process take and is it overly arduous?
+* Can the process or part of the process be automated?
+* How often does the data need to be collected?
+* Are all the necessary data points being collected?
+* Is the data being displayed in a way that is easy to read and draw conclusions from?
+* Who needs access to the data? Do they have it?
 
 Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn't working.
 
 Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
 
 <table>
-  <thead>
-    <tr>
-      <th>Goal</th>
-      <th>Topline Message</th>
-      <th>Target Audience</th>
-      <th>Target Message</th>
-      <th>Communication Tool</th>
-      <th>Metric</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
-      <td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
-      <td>Journalists who write about elections.</td>
-      <td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
-      <td>- Email press releases & press conferences<br><br>- Materials on website<br><br>- One-on-one phone interviews & quarterly conference calls<br><br>- Twitter<br><br>- Whatsapp group
+<thead>
+<tr>
+<th>Goal</th>
+<th>Topline Message</th>
+<th>Target Audience</th>
+<th>Target Message</th>
+<th>Communication Tool</th>
+<th>Metric</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
+<td rowspan="4">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
+<td>Journalists who write about elections.</td>
+<td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
+<td>- Email press releases & press conferences<br><br>- Materials on website<br><br>- One-on-one phone interviews & quarterly conference calls<br><br>- Twitter<br><br>- Whatsapp group
 </td>
-      <td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br><br>- Page is visited 50 times per quarter<br><br>- Attendance of 12 journalists per call.<br><br>- At least one journalist DMs with us on Twitter regularly<br><br>- Journalist WhatsApp group membership is 100 or more
+<td>- 30 percent open rate and 10 percent click-through rate for emails, 50 journalists attend conference and 20 write about it<br><br>- Page is visited 50 times per quarter<br><br>- Attendance of 12 journalists per call.<br><br>- At least one journalist DMs with us on Twitter regularly<br><br>- Journalist WhatsApp group membership is 100 or more
 </td>
-    </tr>
-    <tr>
-      <td>Members of the party in power</td>
-      <td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
-      <td>- One-on-one outreach to party leadership<br><br>-- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br><br>-- Facebook ads</td>
-      <td>-2 meetings per quarter<br><br>-- Once a week placements<br><br>-- Click through rate to call to action is 40 percent</td>
-    </tr>
-      <tr>
-      <td>Members of the opposition party</td>
-      <td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
-      <td>- One-on-one outreach to the party leadership<br><br>- Ads in the Opposition Weekly<br><br>- Blast emails</td>
-      <td>- 2 meetings per quarter<br><br>- Weekly placements<br><br>- List is 250 people with an open rate of 25 percent</td>
-    </tr>
-    <tr>
-      <td>Young men ages 16-26</td>
-      <td>A PVT is a way of verifying that your voice is heard in these elections.</td>
-      <td>- Facebook posts and videos<br><br>- Paid Facebook promotion</td>
-      <td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br><br>- 25,000 reach from these ads and 5 percent conversion to page likes</td>
-    </tr>
-  </tbody>
+</tr>
+<tr>
+<td>Members of the party in power</td>
+<td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
+<td>- One-on-one outreach to party leadership<br><br>-- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br><br>-- Facebook ads</td>
+<td>-2 meetings per quarter<br><br>-- Once a week placements<br><br>-- Click through rate to call to action is 40 percent</td>
+</tr>
+<tr>
+<td>Members of the opposition party</td>
+<td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
+<td>- One-on-one outreach to the party leadership<br><br>- Ads in the Opposition Weekly<br><br>- Blast emails</td>
+<td>- 2 meetings per quarter<br><br>- Weekly placements<br><br>- List is 250 people with an open rate of 25 percent</td>
+</tr>
+<tr>
+<td>Young men ages 16-26</td>
+<td>A PVT is a way of verifying that your voice is heard in these elections.</td>
+<td>- Facebook posts and videos<br><br>- Paid Facebook promotion</td>
+<td>- 25,000 reach from this demographic per week; 10 percent engagement rate and average video watch is 15 seconds<br><br>- 25,000 reach from these ads and 5 percent conversion to page likes</td>
+</tr>
+</tbody>
 </table>
