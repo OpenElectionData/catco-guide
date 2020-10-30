@@ -1,37 +1,36 @@
 ---
-lang: fr
+lang: en
 uses_forms: true
-title: 10. Who Is Going To Do All This Work?
-subtitle: Staffing & Resources
+title: '10. Qui va faire tout ce travail ? '
+subtitle: Dotation en personnel et ressources
 image:
-  url: ""
-  caption: ""
-permalink: /10-who-is-going-to-do-all-this-work/
----
+  url: ''
+  caption: ''
+permalink: "/10-who-is-going-to-do-all-this-work/"
+published: false
 
+---
 {% figure caption:"PACE staff working on developing topline messages. PACE Photo." class:"left" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}
 
-Every group is organized differently and has different amounts of resources to devote to its communications. Part of the reason to work through the exercises and steps in this guide is to have a clear understanding of what work needs to be done, what roles need to be filled and by how many people, and what work should be prioritized and urgent, and what work can wait for a later time.
+Une fois que vous aurez une compréhension claire de ce qui doit être fait, vous serez mieux équipé pour structurer votre équipe de manière à diviser raisonnablement la charge de travail et vous saurez si vous devez recruter des employés à temps plein supplémentaires, employés intérimaires ou des bénévoles.
 
-Once you have a clear understanding of what needs to be done, you'll be better equipped to structure your team in a way that divides up the workload, you'll know if you need to bring on additional full-time employees, contract employees, or volunteers.
-
-Depending on how many people you have on staff and what work you need to accomplish, there are a number of ways to structure a communications team. You may have a one-person communications team whose job is to do everything, or you may have a large team that is highly segmented and specialized. Your team may grow and shrink depending on where you are in relation to the next election. There is no single correct approach or structure -- just be sure that you are staffed in whatever way allows you to carry out your communications plan as efficiently and effectively as you can.
+En fonction du nombre de personnes que vous comptez et du travail à accomplir, il existe plusieurs façons de structurer une équipe de communication. Vous pouvez avoir une équipe de communication composée d'une seule personne dont le travail est de tout faire, ou vous pouvez avoir une grande équipe hautement segmentée et spécialisée. Votre équipe peut s'agrandir et se réduire en fonction de votre situation par rapport à la prochaine élection. Il n'y a pas d'approche ou une formule correcte unique - assurez-vous simplement que vous disposez du personnel de la manière qui vous permet d'exécuter votre plan de communication aussi efficacement que possible.
 
 ## MOCHA
 
 #### _The MOCHA model is adapted from The Management Center_ [_http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf_](http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf "http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf")
 
-Regardless of how many people are on the communications team or on your organization's staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
+Quel que soit le nombre de personnes dans l'équipe de communication ou dans le personnel de votre organisation, le modèle MOCHA d'attribution de la responsabilité de chaque projet ou stratégie peut aider à clarifier qui est en charge de quoi et à garantir que chaque projet avance. Le modèle MOCHA attribue les rôles suivants à chaque objectif, projet ou stratégie : Manager, Owner, Consultant, Helper, Approver (Gestionnaire, Propriétaire, Consultant, Assistant, Approbateur)
 
-- **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
-- **Owner:** The Owner has overall responsibility for the success or failure of a project. The Owner ensures that all work gets done (either themself or by delegating pieces of work to Helpers). The Owner decides when and who else to involved in the project and reports to the Manager. _There can only be one Owner of any project or goal._
-- **Consultant**: Consultants are like advisors -- they offer input or sign off on parts of a project that require their specific expertise.
-- **Helper:** Helpers assist with or do some of the work.
-- **Approver:** The Approver signs off on all decisions before they are final. The Approver might be the same as The Manager, but it could also be an executive director, external partner, funder, or board chair.
+* **Gestionnaire (_Manager)_ :** le Manager attribue la responsabilité et tient le propriétaire redevable. Le gestionnaire pose des questions difficiles, examine les progrès vers les objectifs, sert de ressource et intervient si le travail est hors-sujet ou doit être abordé différemment.
+* **Propriétaire (_Owner_) : **Le propriétaire a la responsabilité globale du succès ou de l'échec d'un projet. Le propriétaire s'assure que tout le travail est fait (soit lui-même, soit en déléguant le travail aux aides). Le propriétaire décide qui d'autre impliquer dans le projet et à quelles heures et rend compte au gestionnaire. Il ne peut y avoir qu'un seul propriétaire pour un projet ou un objectif.
+* **Consultant :** les consultants sont des conseillers - ils apportent leur contribution ou approuvent les parties d'un projet qui nécessitent leur expertise spécifique.
+* **Aide (_Helper_) :** les assistants aident ou effectuent une partie du travail.
+* **Approbateur _(Approver)_ :** L'approbateur approuve toutes les décisions avant qu'elles ne soient définitives. L'approbateur peut être le même que le gestionnaire, mais il peut également être un directeur exécutif, un partenaire externe, un bailleur de fonds ou un président du conseil.
 
-The MOCHA model gives your team a clear but flexible structure for every project. If you assign MOCHA roles to each goal or discreet project from the outset, the Owner will know who to rely on for help and advice, who must manage and approve the work, and everyone will understand who is ultimately responsible for driving each project forward to completion.
+Le modèle MOCHA donne à votre équipe une structure claire mais flexible pour chaque projet. Si vous attribuez des rôles MOCHA à chaque objectif ou projet dès le départ, le propriétaire saura sur qui s'appuyer pour obtenir de l'aide et des conseils, ainsi que qui doit gérer et approuver le travail, et tout le monde comprendra qui est en fin de compte responsable de la conduite de chaque projet jusqu'à la fin.
 
-This model also allows for flexibility within and across teams. When there is a small communications team (or just one person handling communications), that person(s) might feel overwhelmed and unsure who they can ask for help. By clearly identifying who else in the organization is assigned to be helpers, consultants, managers, or approvers, teams can expand to meet the workload that needs to get done as it needs to get done.
+Ce modèle permet également une flexibilité au sein et entre les équipes. Lorsqu'il y a une petite équipe de communication (ou juste une personne qui s'occupe des communications), cette ou ces personnes peuvent se sentir dépassées et ne pas savoir à qui elles peuvent demander de l'aide. En identifiant clairement les autres membres de l'organisation qui sont désignés comme assistants, consultants, gestionnaires ou approbateurs, les équipes peuvent se déployer pour répondre à la charge de travail au fur et à mesure que cela doit être fait.
 
 {% figure caption:"NDI Photo." class: "center" %}
 
@@ -39,26 +38,26 @@ This model also allows for flexibility within and across teams. When there is a 
 
 {% endfigure %}
 
-The other benefit of assigning MOCHA roles to each project is it allows you to evaluate more clearly internal capacity of each staff member and if they realistically have time to accomplish their goals and assignments. If you MOCHA all five of your goals and one person is the Owner for all five, and there are no helpers assigned, then that person is almost certainly going to fail. If, however, you MOCHA each goal and no one feels like they're overcommitted or signed up for too much when looking at everyone's workload, then the work is likely to get done well and on time.
+L'autre avantage de l'attribution de rôles MOCHA à chaque projet est que cette méthode vous permet d'évaluer plus clairement la capacité de chaque membre du personnel et s'il dispose de manière réaliste de suffisamment de temps pour accomplir ses objectifs et ses missions. Si vous utilisez MOCHA sur vos cinq objectifs et qu'une personne est le propriétaire des cinq, et qu'aucun assistant n'est affecté, alors cette personne échouera presque certainement. Si, cependant, vous utilisez MOCHA pour chaque objectif et que personne n'a l'impression d'être sur-engagé ou de trop s’investir en examinant la charge de travail de chacun, alors le travail sera probablement bien fait et à temps.
 
-### YOUR TURN: MOCHA Roles, Responsibilities, and Deadlines
+### A VOTRE TOUR :
 
-**Go back through your communications plan and assign MOCHA roles to each goal, and any large strategies or standalone projects that have been identified within each goal.**
+**Parcourez votre plan de communication et attribuez des rôles MOCHA à chaque objectif, ainsi qu'à toutes les grandes stratégies ou projets autonomes qui ont été identifiés sous chaque objectif.**
 
-**Looking at the full list of MOCHA responsibilities and deadlines, ask yourself the following questions:**
+**En regardant la liste complète des responsabilités et des délais du MOCHA, posez-vous les questions suivantes :**
 
-{% textarea label="Is it realistic to assign this amount of work to each of person?" id="MOCHA1" size="large" button="false" %}
+{% textarea label="Est-il réaliste d'attribuer cette quantité de travail à chacun ?" id="MOCHA1" size="large" button="false" %}
 
-{% textarea label="Do they have additional non-communications responsibilities you need to take into account? How much of their time will be taken by communications duties, and can they spare it?" id="MOCHA2" size="large" button="false" %}
+{% textarea label="Les personnes concernées ont-elles des responsabilités supplémentaires en matière de non-communication dont vous devez tenir compte ? Combien de temps vont-elles consacrer aux tâches de communication et pour le reste ?" id="MOCHA2" size="large" button="false" %}
 
-{% textarea label="If there is too much work to do (and there often is!), can you hire an additional person or people?" id="MOCHA3" size="large" button="false" %}
+{% textarea label="S'il y a trop de travail à faire (et il y en a souvent !), Pouvez-vous embaucher une ou plusieurs personnes supplémentaires ?" id="MOCHA3" size="large" button="false" %}
 
-{% textarea label="Do you have skilled volunteers in your membership that would be willing and able to act as Helpers or Consultants?" id="MOCHA4" size="large" button="false" %}
+{% textarea label="Avez-vous parmi vos membres des bénévoles qualifiés qui seraient disposés et capables d'agir en tant qu'assistants ou consultants ?" id="MOCHA4" size="large" button="false" %}
 
-## Staff Accountability and Prioritization
+## Responsabilité du personnel et hiérarchisation des priorités
 
-However you ultimately end up organizing your team and assigning roles, it's important that each person has a clear understanding of what they are responsible for completing, how that fits into the overall communications plan, and knows to whom and when to ask for help if they do not believe they'll be able to meet their goals in time.
+Quelle que soit la façon dont vous finissez par organiser votre équipe et attribuer des rôles, il est important que chaque personne comprenne clairement sa responsabilité et la tâche qu’elle a à accomplir, sachez comment cela s'inscrit dans le plan de communication global et sachez à qui et quand demander de l'aide s'ils ne croient pas qu'ils pourront atteindre leurs objectifs à temps.
 
-Consider having a regularly scheduled meeting with everyone involved to report on their progress, identify any problems they may have early on, and brainstorm ways to solve them or work around them. You may also want to do individual check-ins or follow ups with all or key staff members or volunteers. Try to foster a team that is creative and takes criticism well -- don't fault someone for failing, but strive to create an atmosphere where they feel free to admit to mistakes and work together to solve problems and achieve progress on your goals as a team.
+Envisagez d'organiser une réunion régulière avec toutes les personnes impliquées pour rendre compte de leurs progrès, identifier les problèmes qu'ils pourraient rencontrer dès le début et réfléchir à des moyens de résoudre ou de contourner les problèmes. Vous voudrez peut-être également faire des vérifications individuelles ou des suivis avec tous les membres clés du personnel ou des bénévoles. Essayez de favoriser une équipe créative et qui accepte bien les critiques. Ne blâmez pas quelqu'un pour avoir échoué, mais efforcez-vous de créer une atmosphère dans laquelle ils se sentent libres d'admettre leurs erreurs et de travailler ensemble pour résoudre les problèmes et progresser sur vos objectifs en équipe.
 
-There will inevitably come a time when there is too much to do and the communications team will need to choose to prioritize some work while putting aside other work. Doing this in an open and transparent manner, based on your identified goals, will help your team understand which work to prioritize and why, so that the most important things get done and you make maximum progress on your goals as an organization.
+Il viendra inévitablement un moment où il y aura trop à faire et l'équipe de communication devra choisir de prioriser certains travaux tout en mettant de côté d'autres travaux. Faire cela de manière ouverte et transparente, en fonction de vos objectifs identifiés, aidera votre équipe à comprendre quel travail prioriser et pourquoi, afin que les choses les plus importantes soient accomplies et que vous progressiez au maximum sur vos objectifs en tant qu'organisation.
