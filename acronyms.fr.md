@@ -30,25 +30,26 @@ list:
   full_name: 'Manager, Owner, Consultant, Helper, Approver  (Gestionnaire, Propriétaire,
     Consultant, Aide, Approbateur) '
 - acronym: NDI
-  full_name: National Democratic Institute
-- acronym: NGO
-  full_name: non-governmental organization
+  full_name: 'L’institut National Démocratique '
+- acronym: ONG
+  full_name: Organisation non-gouvernementale
 - acronym: OPORA
-  full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
+  full_name: Громадянська мережа ОПОРА (Civil Network OPORA) Réseau Civil OPORA
 - acronym: PACE
-  full_name: People's Alliance for Credible Elections
-- acronym: PII
-  full_name: personally identifiable information
+  full_name: People’s Alliance for Credible Elections
+- acronym: DCP
+  full_name: Données à caractère personnel
 - acronym: PVT
-  full_name: parallel vote tabulation
+  full_name: parallel vote tabulation- dépouillement parallèle des scrutins
 - acronym: R2C
-  full_name: Right To Choose
+  full_name: Right To Choose-Le droit de choisir
 - acronym: SMART
-  full_name: Specific, Measurable, Attainable, Relevant, Time-sensitive
+  full_name: 'Spécifique, Mesurable, Acceptable, Réaliste, Temporellement défini '
 - acronym: SMS
-  full_name: short message service (text messages)
+  full_name: 'short message service (text messages) '
 - acronym: YIAGA AFRICA
-  full_name: Youth Initiative for Advocacy, Growth & Advancement
+  full_name: 'Youth Initiative for Advocacy, Growth & Advancement (Initiative de la
+    jeunesse pour un plaidoyer, une croissance et du progrès) '
 published: false
 
 ---
