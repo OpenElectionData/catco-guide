@@ -106,18 +106,18 @@ The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Be
 
 [https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
 
-## Citizen Election Observation
+## Observation électorale citoyenne
 
-Global Network of Domestic Election Monitors (GNDEM): [https://gndem.org](https://gndem.org "https://gndem.org")
+Réseau mondial des observateurs électoraux nationaux (GNDEM) : [https://gndem.org](https://gndem.org "https://gndem.org")
 
-Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations (DoGP): [https://gndem.org/declaration-of-global-principles/](https://gndem.org/declaration-of-global-principles/ "https://gndem.org/declaration-of-global-principles/")
+Declaration des principes internationaux pour l’observation et la surveillance impartiales des elections (DoGP) : [https://gndem.org/declaration-of-global-principles/](https://gndem.org/declaration-of-global-principles/ "https://gndem.org/declaration-of-global-principles/")
 
-How Domestic Organizations Monitor Elections: an A to Z Guide, National Democratic Institute (NDI): [https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide](https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide "https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide")
+L’observation des élections par des organisations nationale (NDI) : [https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide](https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide "https://www.ndi.org/publications/ndi-handbook-how-domestic-organizations-monitor-elections-z-guide")
 
-Systematic Methods for Advancing Election Observation, West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf")
+Méthodes systématiques pour faire progresser l'observation électorale, Série de guides de terrain du Réseau des observateurs électoraux d'Afrique de l'Ouest (WAEON) : [https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Systematic%20Methods%20for%20Advancing%20Election%20Observation_WAEON_EN.pdf")
 
-Outreach and External Communication, West Africa Election Observers Network (WAEON) Field Guide Series: [https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf")
+Sensibilisation et communication externe, Série de guides de terrain du Réseau des observateurs électoraux en Afrique de l'Ouest (WAEON) : [https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf](https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf "https://www.ndi.org/sites/default/files/Outreach%20and%20Communication_WAEON_EN.pdf")
 
-Open Election Data Initiative: [https://www.openelectiondata.net/en/](https://www.openelectiondata.net/en/ "https://www.openelectiondata.net/en/")
+Initiative pour les données électorales ouvertes : [https://www.openelectiondata.net/en/](https://www.openelectiondata.net/en/ "https://www.openelectiondata.net/en/")
 
-“Parallel Vote Tabulations,” National Democratic Institute (NDI): [https://www.ndi.org/pvt](https://www.ndi.org/pvt "https://www.ndi.org/pvt")
+«Dépouillement parallèle des scrutins (PVT)», Institut national démocratique (NDI) : [https://www.ndi.org/pvt](https://www.ndi.org/pvt "https://www.ndi.org/pvt")
