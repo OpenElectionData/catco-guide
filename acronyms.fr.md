@@ -8,25 +8,27 @@ list:
   full_name: Gabungan Pilihanraya Bersih dan Adil (Coalition pour des élections propres
     et équitables)
 - acronym: CEC
-  full_name: Central Election Commission of Ukraine
+  full_name: Commission électorale centrale d’Ukraine
 - acronym: CODEO
-  full_name: Coalition of Domestic Election Observers
-- acronym: CRM
-  full_name: customer relationship manager
+  full_name: 'Coalition of Domestic Election Observers-Coalition d’observateurs électoraux
+    nationaux '
+- acronym: GRC
+  full_name: 'la gestion de la relation client '
 - acronym: CRTA
-  full_name: Centar za istraživanje, transparentnost i odgovornost (Center for Research,
-    Transparency and Accountability)
-- acronym: CSOs
-  full_name: civil society organizations
-- acronym: GDPR
-  full_name: European Union General Data Protection Regulations
+  full_name: 'Centar za istraživanje, transparentnost i odgovornost (Centre pour la
+    recherche, la transparence et la redevabilité) '
+- acronym: OSC
+  full_name: organisations de la société civile
+- acronym: RGPD
+  full_name: Règlement général sur la protection des données de l’Union Européenne
 - acronym: ISFED
-  full_name: სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (International
-    Society for Fair Elections and Democracy)
+  full_name: 'სამართლიანი არჩევნებისა და დემოკრატიის საერთაშორისო საზოგადოება (Société
+    Internationale pour des éléctions justes et démocratiques) '
 - acronym: LGBTI
-  full_name: lesbian, gay, bisexual, trans, intersex
+  full_name: Les lesbiennes, gays, bisexuel·le·s, transgenres  et intersexes
 - acronym: MOCHA
-  full_name: Manager, Owner, Consultant, Helper, Approver
+  full_name: 'Manager, Owner, Consultant, Helper, Approver  (Gestionnaire, Propriétaire,
+    Consultant, Aide, Approbateur) '
 - acronym: NDI
   full_name: National Democratic Institute
 - acronym: NGO
