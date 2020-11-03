@@ -42,35 +42,35 @@ Care2: [https://www.care2.com/](https://www.care2.com/ "https://www.care2.com/")
 
 Change.org: [https://www.change.org/](https://www.change.org/ "https://www.change.org/")
 
-“29 Simple Ways to Grow Your Email List,” Andy Pitre, HubSpot: [https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx")
+« 29 façons simples d'augmenter votre liste de diffusion », Andy Pitre, HubSpot : [https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/32028/25-clever-ways-to-grow-your-email-marketing-list.aspx")
 
-Beautiful Trouble: [https://beautifultrouble.org/](https://beautifultrouble.org/ "https://beautifultrouble.org/")
+Beau problème : [https://beautifultrouble.org/](https://beautifultrouble.org/ "https://beautifultrouble.org/")
 
-Hustle texting platform: [https://hustle.com/](https://hustle.com/ "https://hustle.com/")
+Plateforme de textos Hustle : [https://hustle.com/](https://hustle.com/ "https://hustle.com/")
 
-WhatsApp Uses for Campaigns: [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
+Utilisations de WhatsApp pour les campagnes : [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
 
-## Video
+## Vidéos
 
 OBS Studio, Open Broadcaster Software: [https://obsproject.com/](https://obsproject.com/ "https://obsproject.com/")
 
 YouTube Creator Academy: [https://creatoracademy.youtube.com/page/education](https://creatoracademy.youtube.com/page/education "https://creatoracademy.youtube.com/page/education")
 
-“12 Tips For Crafting Compelling Video Content That Draws More Views”: [https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762](https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762 "https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762")
+« 12 conseils pour créer un contenu vidéo convaincant qui attire plus de vues » : [https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762](https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762 "https://www.forbes.com/sites/forbescommunicationscouncil/2018/07/26/12-tips-for-crafting-compelling-video-content-that-draws-more-views/#53b647664762")
 
-“What Video Editing Software Do YouTubers Use”: [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
+" Quel logiciel de montage vidéo les YouTubers utilisent-ils " : [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
 
-## Data Visualization
+## Visualisation des données
 
-Storytelling with Data: [http://www.storytellingwithdata.com/](http://www.storytellingwithdata.com/ "http://www.storytellingwithdata.com/")
+Raconter une histoire avec des données : [http://www.storytellingwithdata.com/](http://www.storytellingwithdata.com/ "http://www.storytellingwithdata.com/")
 
-“How To Tell a Powerful Story with Data Visualization,” Brian Bimschleger, Telepathy: [https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization](https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization "https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization")
+« Comment raconter une histoire puissante avec la visualisation des données », Brian Bimschleger, Télépathie : [https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization](https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization "https://www.dtelepathy.com/blog/business/how-to-tell-a-powerful-story-with-data-visualization")
 
-“How To Properly Tell a Story with Data-- and Common Pitfalls to Avoid,” Outlier AI, Towards Data Science: [https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9](https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9 "https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9")
+« Comment raconter correctement une histoire avec des données - et les pièges courants à éviter », Outlier AI, Towards Data Science : [https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9](https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9 "https://towardsdatascience.com/how-to-properly-tell-a-story-with-data-and-common-pitfalls-to-avoid-317d8817e0c9")
 
 Data Smart Cities Solutions Search: [https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search "https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search")
 
-“2018 Report: Engaging Your Audience with Visual Content,” The Content Strategist: [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
+« Rapport 2018 : Engagez votre audience avec du contenu visuel », The Content Strategist : [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
 
 ## Creative Strategies
 
