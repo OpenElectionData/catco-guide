@@ -86,21 +86,21 @@ The Voter Suppression Trail, Chris Baker, Brian Moore et Mike Lacher, The New Yo
 
 « Le guide de l'arrière-plan de la stratégie de communication », Ann Christiano et Annie Neimand, Stanford Social Innovation Review : [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
 
-## Crisis Communications
+## Communications de crise
 
-Election Cyber Incident Communications Plan Template for Political Parties and Campaigns, International Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
+Modèle de plan de communication des cyberincidents électoraux pour les partis politiques et les campagnes, International Edition, Harvard Kennedy School Belfer Center for Science and International Affairs : [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
 
 Botcheck.me: [https://botcheck.me/](https://botcheck.me/ "https://botcheck.me/")
 
-Botometer: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
+Botomètre: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
 
-## Digital Security
+## Sécurité numérique
 
-Digital First Aid Kit, Digital Defenders Partnership: [https://www.digitaldefenders.org/digitalfirstaid/](https://www.digitaldefenders.org/digitalfirstaid/ "https://www.digitaldefenders.org/digitalfirstaid/")
+Kit de premiers secours numérique, partenariat Digital Defenders : [https://www.digitaldefenders.org/digitalfirstaid/](https://www.digitaldefenders.org/digitalfirstaid/ "https://www.digitaldefenders.org/digitalfirstaid/")
 
 Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/](https://ssd.eff.org/ "https://ssd.eff.org/")
 
-“Digital Security Resources,” Front Line Defenders: [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
+« Ressources de sécurité numérique », Front Line Defenders : [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
 
 The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs:
 
