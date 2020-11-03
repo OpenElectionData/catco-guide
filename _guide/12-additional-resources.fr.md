@@ -34,9 +34,9 @@ Conseils pour faciliter les groupes de discussion, Centre pour la promotion de l
 
 Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
 
-## Platforms
+## Platesformes
 
-“Google Thinks the Future of the Web Is...Email,” Mark Wilson, Fast Company: [https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email](https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email "https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email")
+"Google pense que l'avenir du Web est ... l’Email", Mark Wilson, Fast Company [https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email](https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email "https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email")
 
 Care2: [https://www.care2.com/](https://www.care2.com/ "https://www.care2.com/")
 
