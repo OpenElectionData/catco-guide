@@ -124,7 +124,7 @@ L'utilisation de l'humour dans le cas de la Commission électorale centrale a no
 
 Finalement, la campagne a contribué à la nomination d'une nouvelle CEC. En janvier 2018, le président a officiellement limogé les 13 membres dont le mandat était arrivé à expiration et a officiellement nommé leurs remplaçants, bien avant les élections présidentielles et législatives de 2019.
 
-## Case Study: “Communications Is Everyone's Business”
+## Etude de cas : “La communication est l’affaire de tous”
 
 {% figure caption:"YIAGA Africa Photo." %}
 
@@ -132,14 +132,14 @@ Finalement, la campagne a contribué à la nomination d'une nouvelle CEC. En jan
 
 {% endfigure %}
 
-The communications team of Nigerian election observation group YIAGA AFRICA consists of five staff members: one to write and produce video and radio content, a photography editor, a web manager to update and manage the website, one person to manage the blast email and text program, and a graphic designer who works on social media and infographic content. Together, the team works to normalize and integrate more participatory practices into Nigeria's political system -- like the importance of young people running for office and the importance of registering to vote.
+L'équipe de communication du groupe d'observation des élections nigérian YIAGA AFRICA se compose de cinq membres du personnel : un pour écrire et produire du contenu vidéo et radio, un éditeur de photographie, un responsable Web pour mettre à jour et gérer le site Web, une personne pour gérer le programme d’email de masse et le texte associé, et un graphiste qui travaille sur les médias sociaux et le contenu infographique. Ensemble, l’équipe s’efforce de normaliser et d’intégrer des pratiques plus participatives dans le système politique Nigérian telles que l’importance d’inclure des jeunes candidats aux élections et l’importance de s’inscrire pour voter.
 
-However, the communications team is aware of the limitations even of a five-person team. To increase the internal capacity of their organization, the communications team has trained and empowered all staff at YIAGA AFRICA to be effective communicators and offer additional support to the team when time allows.
+Cependant, l'équipe de communication est consciente des limites même d'une équipe de cinq personnes. Pour augmenter la capacité interne de leur organisation, l'équipe de communication a formé et habilité tout le personnel de YIAGA AFRICA à être des messagers efficaces et à offrir un soutien supplémentaire à l'équipe lorsque le temps le permet.
 
-“Communications is everyone's business,” says Moshood Isah, the communications officer of YIAGA AFRICA. “There is a communications team, but generally, everyone at the organization is responsible.”
+« La communication est l’affaire de tous », déclare Moshood Isah, responsable des communications de YIAGA AFRICA. « Il y a une équipe de communication, mais généralement, tout le monde dans l'organisation est responsable »
 
-To distribute communications knowledge and skills to all members of the staff, the communications team organizes regular trainings for the full staff. The team has conducted trainings on writing for the web, how to use hashtags and why, how to write news stories for the media, how to speak to media and stay on message, and on other aspects of communications vital to the organization's success.
+Pour diffuser les connaissances et les compétences en communication à tous les membres du personnel, l'équipe de communication organise régulièrement des formations pour l'ensemble du personnel. L’équipe a organisé des formations sur l’écriture sur le Web, sur l’utilisation des hashtags et pourquoi ils sont utiles, sur la manière d’écrire de nouveaux articles pour les médias, sur la manière de parler aux médias et de focaliser sur les messages clés, et sur d’autres aspects de la communication essentiels au succès de l’organisation.
 
-For example, ahead of a PVT, the communications team knew that they would have to hold their results until after the electoral commission released the results. To ensure that that strategy was effectively carried out, the communications team trained all staff on why and how to keep the results private, and when and how to publicize them at the appropriate time.
+Par exemple, avant un PVT, l'équipe de communication savait qu'elle ne partagerait ses résultats qu'après la publication des résultats officiels par la commission électorale. Pour s'assurer que cette stratégie a été effectivement mise en œuvre, l'équipe de communication a formé tout le personnel sur les raisons et la manière de garder les résultats privés, et quand et comment les publier au moment opportun.
 
-By training the larger staff in basics of good communications practices and strategy, the team has been able to broaden its reach and influence. Non-communications staff feel comfortable contributing to the website, creating social media content, and talking to the media. The increase in capacity also frees up the communications team to do some of the higher level tasks and strategizing to allow them to plan for the future and make the organization more prevalent and effective.
+En formant de manière large le personnel sur les bonnes pratiques et stratégies de communication de base, l'équipe a pu élargir son audience et son influence. Le personnel non chargé des communications se sent maintenant à l'aise pour contribuer au site Web, créer du contenu sur les réseaux sociaux et parler aux médias. L'augmentation de la capacité libère également l'équipe de communication pour effectuer certaines des tâches de niveau supérieur et élaborer des stratégies pour leur permettre de planifier l'avenir et de rendre l'organisation plus présente et efficace.
