@@ -72,19 +72,19 @@ Data Smart Cities Solutions Search: [https://datasmart.ash.harvard.edu/civic-ana
 
 « Rapport 2018 : Engagez votre audience avec du contenu visuel », The Content Strategist : [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
 
-## Creative Strategies
+## Stratégies créatives
 
-“#PopJustice: Social Justice and the Promise of Pop Culture Strategies” reports, Liz Mann Strategy: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
+« #PopJustice : Justice sociale et la promesse des stratégies de la culture pop », Liz Mann Strategy: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
 
-The Laughter Effect, Center for Media & Social Impact, American University School of Communication: [http://cmsimpact.org/program/comedy/](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")
+The Laughter Effect, Center for Media & Social Impact, American University School of Communication : [http://cmsimpact.org/program/comedy/](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")
 
-Race in the Writer's Room: How Hollywood Whitewashes the Stories that Shape America, Darnell Hunt: [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
+Race in the Writer’s Room : Comment Hollywood blanchit les histoires qui façonnent l’Amérique, Darnell Hunt : [https://hollywood.colorofchange.org/](https://hollywood.colorofchange.org/ "https://hollywood.colorofchange.org/")
 
 \#IfIwasTheMayor: [https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf](https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf "https://everyvoice.org/wp-content/uploads/2018/08/IIWTM-casestudy.pdf")
 
-The Voter Suppression Trail, Chris Baker, Brian Moore and Mike Lacher, The New York Times: [https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html "https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html")
+The Voter Suppression Trail, Chris Baker, Brian Moore et Mike Lacher, The New York Times : [https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html](https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html "https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html")
 
-“The Back-of-the-Envelope Guide to Communications Strategy,” Ann Christiano and Annie Neimand, Stanford Social Innovation Review: [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
+« Le guide de l'arrière-plan de la stratégie de communication », Ann Christiano et Annie Neimand, Stanford Social Innovation Review : [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
 
 ## Crisis Communications
 
