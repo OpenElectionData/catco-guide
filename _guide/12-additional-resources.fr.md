@@ -1,14 +1,15 @@
 ---
-lang: fr
+lang: en
 uses_forms: true
-title: Additional Resources
-subtitle: ""
+title: Ressources supplémentaires
+subtitle: ''
 image:
-  url: ""
-  caption: ""
-permalink: /12-additional-resources/
----
+  url: ''
+  caption: ''
+permalink: "/12-additional-resources/"
+published: false
 
+---
 ## Narrative & Storytelling
 
 Case Studies, Tips & Examples, The Opportunity Agenda: [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
