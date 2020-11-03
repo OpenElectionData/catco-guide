@@ -10,27 +10,27 @@ permalink: "/12-additional-resources/"
 published: false
 
 ---
-## Narrative & Storytelling
+## Récit et narration
 
-Case Studies, Tips & Examples, The Opportunity Agenda: [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
+Une étude de cas, conseils et exemples, l'agenda des opportunités: [https://toolkit.opportunityagenda.org/narrative/more](https://toolkit.opportunityagenda.org/narrative/more "https://toolkit.opportunityagenda.org/narrative/more")
 
-It Gets Better Project: [https://itgetsbetter.org/stories/](https://itgetsbetter.org/stories/ "https://itgetsbetter.org/stories/")
+Projet It Gets Better [https://itgetsbetter.org/stories/](https://itgetsbetter.org/stories/ "https://itgetsbetter.org/stories/")
 
 En La Viña del Señor: [http://xn--enlaviadelseor-vnbg.com/](http://xn--enlaviadelseor-vnbg.com/ "http://xn--enlaviadelseor-vnbg.com/")
 
 Framing for Activists, George Lakoff: [https://georgelakoff.com/framingforactivists/](https://georgelakoff.com/framingforactivists/ "https://georgelakoff.com/framingforactivists/")
 
-“How the American Cancer Society Learned to Touch Hearts to Boost Donations,” Carmine Gallo, Forbes: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
+«Comment La société Américaine du cancer a appris à toucher les cœurs pour augmenter les dons», Carmine Gallo, Forbes: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
 
-## Audience & Messaging
+## Audience et messages
 
-How To Run Focus Groups, Citizens Advice: [https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf "https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf")
+Comment organiser des groupes de discussion, conseils aux citoyens: [https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf "https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf")
 
-A Guide for Planning, Organizing, and Managing Focus Groups, the Puget Sound Consortium for Manufacturing Excellence: [https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf](https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf "https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf")
+Un Guide pour Planifier, Organiser, et Gérer des groupes de discussions, _the Puget Sound Consortium for Manufacturing Excellence :_ [https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf](https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf "https://www.shoreline.edu/pscme/reports/Y4/FocusGroupGuide.pdf")
 
-Top Ten Tips for Great Focus Groups, The Experience Business: [http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf](http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf "http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf")
+Les dix meilleurs conseils pour les grands groupes de discussion, _The Experience Business:_ [http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf](http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf "http://www.theexperiencebusiness.co.uk/downloads/content-docs/top_ten_tips.pdf")
 
-Tips for Facilitating Focus Groups, Center for the Promotion of Health in the New England Workplace: [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
+Conseils pour faciliter les groupes de discussion, Centre pour la promotion de la santé dans le milieu de travail de la Nouvelle-Angleterre : [https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf](https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf "https://www.uml.edu/docs/FG%20Tips%20sheet_RK_tcm18-167588.pdf")
 
 Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
 
@@ -104,7 +104,7 @@ Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/
 
 The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs:
 
-[https://www.ndi.org/sites/default/files/european*campaign_playbook*-\_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+[https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
 
 ## Citizen Election Observation
 
