@@ -21,7 +21,7 @@ Vous voulez également vous assurer que vos objectifs répondent aux défis auxq
 
 {% figure caption:"_NDI Photo, Patjim Gashi_" class:"center" %}
 
-![](/assets/images/NDI_kosovo_2.jpg)
+![NDI Photo, Patjim Gashi](/assets/images/NDI_kosovo_2.jpg "NDI Photo, Patjim Gashi")
 
 {% endfigure %}
 
@@ -122,7 +122,7 @@ Pour illustrer cela, développons l'un des exemples d'objectifs ci-dessus avec d
 
 {: .table--cols-equal}
 
-### A VOTRE TOUR DE JOUER: 
+### A VOTRE TOUR DE JOUER:
 
 Prenez les objectifs SMART que vous avez identifiés et utilisez le tableau ci-dessous (en suivant l'exemple précédent) pour indiquer les stratégies, tactiques et ressources dont vous auriez besoin pour atteindre vos objectifs. Vous constaterez peut-être que vous devez réévaluer certains de vos objectifs si vos stratégies, tactiques ou ressources ne sont pas réalistes. Ce n’est pas un problème! Ajustez vos objectifs pour refléter ce que vous pouvez faire de manière réaliste.
 
