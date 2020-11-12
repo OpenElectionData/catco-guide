@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: true
 title: '9. Et si quelque chose ne va pas ? '
 subtitle: Communications de crise
