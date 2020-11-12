@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 title: '3. A qui parlez-vous? '
 subtitle: Identifier votre public
 image:
