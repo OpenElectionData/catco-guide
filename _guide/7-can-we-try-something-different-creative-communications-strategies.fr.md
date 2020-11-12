@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 title: '7. Essayez quelque chose de différent ? '
 subtitle: Stratégies de communication créative
 image:
