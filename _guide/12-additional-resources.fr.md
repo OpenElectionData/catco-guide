@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: true
 title: Ressources supplémentaires
 subtitle: ''
