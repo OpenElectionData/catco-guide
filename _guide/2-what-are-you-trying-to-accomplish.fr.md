@@ -1,7 +1,7 @@
 ---
 title: '2. Qu''essayez vous d''accomplir? '
 subtitle: Fixer des objectifs, des stratégies et des tactiques
-lang: en
+lang: fr
 image:
   url: "/assets/images/NDI_moscow.jpg"
   caption: 'Photo: NDI, Mikhail Velmakin'
