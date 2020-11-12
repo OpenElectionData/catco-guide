@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: false
 title: '6. Où allez-vous le dire? '
 subtitle: Identifier la meilleure plateforme
