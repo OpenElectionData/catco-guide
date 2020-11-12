@@ -1,7 +1,7 @@
 ---
 title: 1. Introduction
 subtitle: et Résumé
-lang: en
+lang: fr
 image:
   url: ''
   caption: ''
