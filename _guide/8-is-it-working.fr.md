@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: true
 title: '8. Est-ce que ça marche ? '
 subtitle: Évaluation et analyse
