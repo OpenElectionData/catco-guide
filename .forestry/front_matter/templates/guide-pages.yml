@@ -18,6 +18,7 @@ fields:
     - es
     - ru
     - ar
+    - fr
     source:
       type: simple
       section: 
@@ -36,7 +37,7 @@ fields:
   - name: url
     type: file
     config:
-      maxSize: 250
+      maxSize: 
     label: Featured Image
     description: Select or upload the featured image for this page in the guide.
   - type: text
