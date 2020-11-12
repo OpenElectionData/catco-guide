@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: true
 title: '4. Que voulez-vous dire? '
 subtitle: Élaboration d'un cadre et d'un message
