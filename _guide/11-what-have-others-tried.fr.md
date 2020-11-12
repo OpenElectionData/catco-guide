@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: false
 title: '11. Qu''est ce qui a été essayé par les autres ? '
 subtitle: Études de cas
