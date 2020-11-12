@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: true
 title: 5. Comment allez-vous le dire?
 subtitle: Identifier le meilleur format
