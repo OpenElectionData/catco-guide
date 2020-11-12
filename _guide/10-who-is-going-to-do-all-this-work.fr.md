@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: fr
 uses_forms: true
 title: '10. Qui va faire tout ce travail ? '
 subtitle: Dotation en personnel et ressources
