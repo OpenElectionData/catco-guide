@@ -35,15 +35,17 @@ published: false
 
 صحيحٌ أنّ المجموعة قد تثقف أفراداً من عامة الناس في نهاية الأمر، كأثر جانبي لتنظيم حملة اتصال أكثر دقة، لكن تبقى محاولة استهداف هذا الجمهور بحد ذاته عملية واسعة جداً ومبهمة. عوضاً عن ذلك، تركّز الشبكة على أصحاب مصلحة أساسيين وصناع قرار عند العمل على حملة معيّنة أو الضغط من أجل قضية ما. على سبيل المثال، إذا أرادت الشبكة الدفع باتجاه إجراء تغييرات في القوانين أو المعايير لكي تكون أكثر توافقاً مع المعايير الدولية، فستستهدف نواباً في البرلمان أو أفراداً في منظمات دولية يدعمون، برأيها، المعايير الدولية لانتخابات ديمقراطية. {% endcallout %}
 
-Let's continue with our example to see how this works:
+فلنستأنف العمل على مثالنا لتوضيح كيف يُطبَّق ذلك عملياً:
 
-By selecting these audiences, we're hoping to raise awareness and understanding of the PVT with the influencers who will need to understand, accept, and share the findings of the PVT and with the people most likely to resort to election-related violence. We also want to empower the people who already understand PVTs with the ability to talk about and share this information with their own friends, as they'll be seen as trusted messengers in their own networks. These are the audiences we believe we need to reach to achieve our goal of raising awareness through web traffic and social media.
+نموذج عن هدف: نشر التوعية بشأن الجدولة المتوازية للأصوات وتعريفها، من خلال إقناع 10 آلاف شخص بزيارة موقعنا الإلكتروني وبلوغ ما معدّله 100 ألف شخص عبر مختلف وسائل التواصل الاجتماعي الخاصة بنا في الأسابيع الثلاثة قبل الانتخابات.
 
-| Target Audiences | Strategies |
+| الجمهور المستهدف | الاستراتيجيات |
 | :--- | :--- |
-| - Journalists who write about elections<br>- Members of the party in power<br>- Members of the opposition party/parties | Strategy 1: Use digital advertising to generate web trafiic and social reach. |
-| - Young men ages 16-26 | Strategy 2: Have a celebrity or influential person share our content on social media and direct people to the website. |
-| - Exisiting members (aka our "friends") and their social networks | Strategy 3: Use our email list to encourage peer-to-peer social sharing. |
+| - الصحافيون الذين يكتبون عن الانتخابات <br>- أعضاء الحزب الحاكم <br>- أعضاء الحزب/الأحزاب المعارض/ة | الاستراتيجية 1: استخدام الدعاية الرقمية لزيادة حركة المرور على موقعك الإلكتروني والتواصل الاجتماعي. |
+| - رجال ذكور بين 16 و26 سنة |  الاستراتيجية 2: الطلب من شخصية شهيرة أو ذات نفوذ تتمتع بالشعبية في أوساط الرجال الذكور نشر محتوانا على وسائل التواصل الاجتماعي وتوجيه الناس إلى زيارة الموقع الإلكتروني. |
+| - الأعضاء الحاليون (أو "أصدقاؤنا") وشبكاتهم الاجتماعية |  الاستراتيجية 3: استخدام قائمة عناوين البريد الإلكتروني الخاصة بنا للتشجيع على التبادل الاجتماعي بين النظراء. |
+
+الأساس المنطقي: من خلال اختيار هذه الجماهير، نأمل أن ننشر الوعي بين المؤثّرين تجاه الجدولة المتوازية للأصوات، وأن نزيد فهمهم لهذه المنهجية، لا سيما وأنهم سيكونون بحاجة إلى فهم نتائج الجدولة، وقبولها، ونشرها، وكذلك بين الأشخاص الأرجح أن يلجأوا إلى أعمال العنف ذات الصلة بالانتخابات. فضلاً عن ذلك، نرغب في تمكين الأشخاص الذين يفهمون تقنية الجدولة المتوازية للانتخابات جيداً، لكي يتمكنوا من التحدث عنها ونشر هذه المعلومات في أوساط أصدقائهم وأُسرهم، لا سيما وأنهم سيكونون مرسالاً موثوقاً به بنظر شبكاتهم الخاصة. هذه هي الجماهير التي نعتقد أننا بحاجة إلى التواصل معها لتحقيق هدفنا المتمثل بنشر التوعية من خلال زيادة حركة المرور على موقعنا الإلكتروني ووسائل التواصل الاجتماعي. 
 
 ### Your Turn: Identify Your Audience
 
