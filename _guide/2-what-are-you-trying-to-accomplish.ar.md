@@ -121,10 +121,10 @@ published: false
 
 **الهدف 1:**
 
-{% textarea label="List your tactics and resources for Strategy 1" id="tactics1" size="large" button="false" %}
+{% textarea label="ضع قائمة بأساليبك ومواردك للاستراتيجية 1" id="tactics1" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 2" id="tactics2" size="large" button="false" %}
+{% textarea label="ضع قائمة بأساليبك ومواردك للاستراتيجية 2" id="tactics2" size="large" button="false" %}
 
-{% textarea label="List your tactics and resources for Strategy 3" id="tactics3" size="large" button="false" %}
+{% textarea label="ضع قائمة بأساليبك ومواردك للاستراتيجية 3" id="tactics3" size="large" button="false" %}
 
 ما إن تحدّد أهدافك واستراتيجياتك وتكتيكاتك بشكل واضح، احرص على تأمين تفاهم وتوافق واسع ضمن المنظمة- من قبل القادة والموظفين على السواء. وبما أنّ مجلس إدارة المنظمة أو اللجنة التوجيهية قد لا يكونان مشاركين تماماً في العمليات اليومية، فسيكون لهما غالباً تصوّر مختلف لأهداف الاتصال الخاصة بالمجموعة، أو أولويات مختلفة. ومن المحتمل أن يتسبّب هذا الأمر بمشكلة كبيرة بالنسبة إلى الموظفين المعنيين بشؤون الاتصال، فيجد هؤلاء أنفسهم منجرفين نحو أكثر من اتجاه، ومضطرين لأداء أولويات متعددة في الوقت عينه، مما يجعل دورهم أقل فعالية بشكل عام. لذا، احرص على مراجعة الأهداف، والاستراتيجيات، والتكتيكات، ومناقشتها مع أي جهة ستقوم بتنفيذ العمل أو الإشراف عليه أو توزيع مهامه، لكي يكوّن الجميع فهماً مشتركاً لما يجب أن يحدث ولماذا.
