@@ -61,15 +61,15 @@ published: false
 
 | أهداف مبهمة | أهداف ذكية |
 | --- | --- |
-| تعزيز مصداقيتنا | سيُنظر إلينا كخبراء في مجال مراقبة الانتخابات، إذا ما نجحنا في إدراج اسمنا ضمن 25 تحقيقاً إعلامياً عن الانتخابات طيلة الفترة المؤدية إلى يوم الانتخابات، وإذا ما وجدنا مصدراً موثوقاً واحداً على الأقل يدعم نتائج بحثنا ويؤكد مصداقيتها.  |
+| تعزيز مصداقيتنا | سيُنظر إلينا كخبراء في مجال مراقبة الانتخابات، إذا ما نجحنا في إدراج اسمنا ضمن 25 تحقيقاً إعلامياً عن الانتخابات طيلة الفترة المؤدية إلى يوم الانتخابات، وإذا ما وجدنا مصدراً موثوقاً واحداً على الأقل يدعم نتائج بحثنا ويؤكد مصداقيتها. |
 | نشر التوعية | نشر التوعية من خلال إقناع 10 آلاف شخص بزيارة موقعنا الإلكتروني وبلوغ ما معدّله 100 ألف شخص عبر مختلف وسائل التواصل الاجتماعي الخاصة بنا في الأسابيع الثلاثة قبل الانتخابات. |
 | المطالبة بانتخابات أفضل | الاستشهاد بالمنظمة أو الناطق باسمها 10 مرات في وسائل الإعلام وهي/هو تطالب/يطالب بإجراء إصلاحات انتخابية محددة. |
 
 عندما تحدّد الجانب الزمني لأهدافك، ستميّز بشكل أفضل بين الأهداف الطويلة والقصيرة المدى. لا يخفى عليك أنّ أي خطة اتصال تنطوي على أهداف طويلة وقصيرة المدى على السواء، ومن الضروري أن توضّح لفريقك وقادتك ماذا تأمل أن تحقق ومتى. على وجه الخصوص، يجب أن تحرص على العمل بجدّ من أجل تحقيق أهدافك الطويلة المدى حتى وأنت تعمل من أجل تحقيق الأهداف القصيرة المدى. في هذا الإطار، قد تفضّل تجزيء هدف طويل المدى إلى سلسلة من الأهداف القصيرة للتأكد من أنك تحرز تقدماً مطّرداً باتجاه تنفيذه.
 
-### YOUR TURN: Setting SMART Goals
+### حان دورك: أهداف ذكية من
 
-Take a look at your brainstorm of what success would look like. Narrow your goals down to between one and five, and make them SMART by making them specific, measurable, achievable, relevant, and time-sensitive.
+عد إلى تمرين استثارة الأفكار الذي أجريته بشأن أشكال النجاح المحتملة. احصر عدد أهدافك ما بين هدف وخمسة، وأحلها إلى أهداف ذكية من خلال جعلها محدّدة، وقابلة للقياس، وقابلة للتحقيق، وذات صلة، ومحدّدة المدة.
 
 {% textarea label="1" id="goals1" size="small" button="false" %}
 
@@ -81,12 +81,13 @@ Take a look at your brainstorm of what success would look like. Narrow your goal
 
 {% textarea label="5" id="goals5" size="small" button="false" %}
 
-Your communications strategies and tactics will flow directly from your goals. _Try not to get distracted by tasks that do not ultimately help you achieve your goals._
+ الإشارة إلى أنّ استراتيجيات وتكتيكات الاتصال الخاصة بك ستنبع مباشرةً من أهدافك. فحاول ألا تتلهى بمهام لن تساعدك في تحقيق أهدافك في نهاية الأمر.
 
-{% callout title="Working Together Toward Common Goals" %}
-In Malaysia, the [BERSIH 2.0](http://www.bersih.org/) group gathers at the start of each year to set its goals, prioritize them, and plan their activities around them. At the beginning of 2018 - an election year - they knew they'd be devoting a lot of time and resources to getting out the vote. But they were also pursuing a long-term, four-year campaign with the goal of having election districts redrawn to make them fair. The group also needed to be sure there was time and flexibility for at least one unexpected campaign, in case authorities did something that would require organizing protests, which can take up to three to four months. As a team, they identified these three goals as priorities and adjusted their work accordingly. When competing priorities came up during day-to-day work, staff was able to check them against their yearly planning to choose what to pursue.
+{% callout title="العمل معاً نحو تحقيق الأهداف المشتركة" %}  في ماليزيا، يلتقي ائتلاف الانتخابات النظيفة والنزيهة (مجموعة "[BERSIH 2.0](http://www.bersih.org/ "BERSIH 2.0")")  في بداية كل عام لتحديد أهدافه، وترتيبها حسب الأولوية، والتخطيط لأنشطته على ضوء ذلك. في بداية 2018- سنة الانتخابات- علمت المجموعة أنها ستخصص قدراً أكبر بكثير من الوقت والموارد لحث الناس على المشاركة في التصويت. وفي الوقت نفسه، كان لها هدف طويل المدى آخر هو ثمرة حملة استمرت أربع سنوات، يتمثل بالدعوة إلى إعادة ترسيم الدوائر الانتخابية كي تكون أكثر عدلاً. كما كان على المجموعة التأكّد من توفير ما يكفي من الوقت والمرونة لإطلاق حملة مفاجئة واحدة على الأقل، في حال ارتكبت السلطات أمراً يستدعي تنظيم احتجاجات. فحدّدت، ضمن إطار فريق، هذه الأهداف الثلاثة كأولويات، معدّلةً عملها بناءً على ذلك. وعندما ظهرت أولويات متضاربة أخرى خلال العمل اليومي، تمكّن الموظفون من مقارنتها بهذه الأهداف لاختيار علامَ يريدون العمل.
 
-“To be able to build a movement, your leadership really needs to be strong,” said Maria Chin Abdullah, former Chairperson of BERSIH 2.0. “People will have differences of opinions, but at the end of the day, the leadership needs to be working together toward common goals.”
+اختيار علامَ يريدون العمل. 
+
+قالت ماريا تشين عبد الله، الرئيسة السابقة لمجموعة "BERSIH 2.0":  "كي تتمكّنوا من بناء حركة، يجب أن تكون قيادتكم قوية فعلاً. سيختلف الناس في آرائهم، ولكن في نهاية الأمر، يجدر بعناصر القيادة أن تعمل معاً نحو تحقيق الأهداف المشتركة."
 
 ![BERSIH 2.0 memebrs encouraging people to vote](/assets/images/BERSIH_3.jpg "Photo from BERSIH 2.0")
 
@@ -94,7 +95,7 @@ In Malaysia, the [BERSIH 2.0](http://www.bersih.org/) group gathers at the start
 
 ## Strategies and Tactics to Achieve Your Goals
 
-A strategy is an approach you can take to achieve your goals. Tactics are the individual actions you take to enact your strategy.
+الاستراتيجية هي مقاربة يمكن أن تنتهجها لتحقيق أهدافك. أما التكتيكات، فهي الخطوات الفردية المتّخذة لتطبيق استراتيجيتك.
 
 Have a look at your goals, and think about how you can achieve them. There will likely be multiple ways you could achieve your goals: some might take a lot of time, others might take a lot of money, some might be difficult or high-risk in your political environment, while others still might depend on a little luck or another event happening first. Choose the strategies that are the most likely to get you to your goal while being realistic about your constraints, such as time, money, number of staff, media environment, digital and physical risks, and political constraints.
 
