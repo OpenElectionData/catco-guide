@@ -93,19 +93,19 @@ published: false
 
 {% endcallout %}
 
-## Strategies and Tactics to Achieve Your Goals
+## استراتيجيات وتكتيكات لتحقيق أهدافك
 
 الاستراتيجية هي مقاربة يمكن أن تنتهجها لتحقيق أهدافك. أما التكتيكات، فهي الخطوات الفردية المتّخذة لتطبيق استراتيجيتك.
 
-Have a look at your goals, and think about how you can achieve them. There will likely be multiple ways you could achieve your goals: some might take a lot of time, others might take a lot of money, some might be difficult or high-risk in your political environment, while others still might depend on a little luck or another event happening first. Choose the strategies that are the most likely to get you to your goal while being realistic about your constraints, such as time, money, number of staff, media environment, digital and physical risks, and political constraints.
+راجع أهدافك، وفكّر في كيفية تحقيقها. من الأرجح أن تكون هناك عدة طرائق لتحقيق أهدافك: بعضها قد يستغرق وقتاً، وبعضها قد يكون ذا كلفة عالية، وبعضها قد يكون صعباً أو محفوفاً بالمخاطر في بيئتك السياسية، في حين أنّ بعضها الآخر قد يعتمد على قليل من الحظ أو على وقوع حدث آخر أولاً. فاختر إذاً الاستراتيجيات التي يُرجّح أن تصل بك إلى تحقيق هدفك، مع الحفاظ على نظرة واقعية بشأن القيود التي ستصادفها، كالوقت، والمال، وعدد الموظفين، والبيئة الإعلامية، والمخاطر الرقمية والمادية، والقيود السياسية.
 
-For example, if your goal is to raise awareness by getting 10,000 visitors to your website, one way to achieve that is to create a digital advertising campaign. But if you don't have money to pay for digital ads, this is not a realistic strategy to choose. Instead, you might choose the strategy of increasing organic traffic to the website by writing daily blog posts and asking your social media followers to share them. However, this approach requires a lot more staff time and a more engaged social media following than the digital ad campaign. If you think the digital ads are the best way achieve this goal but don't have the money, then one of your tactics will need to be raising the money in order to run the ad campaign.
+ على سبيل المثال، إذا كان هدفك هو نشر التوعية من خلال جذب 10 آلاف زائر إلى موقعك الإلكتروني، فمن الطرق لتحقيق ذلك إطلاق حملة دعائية رقمية. لكن إذا كنت لا تملك المال الكافي لتسديد ثمن الإعلانات الرقمية، فلعلّ هذه ليست بالاستراتيجية الواقعية المناسبة لك. عوضاً عن ذلك، يمكنك اختيار زيادة حركة المرور الأساسية إلى موقعك، من خلال كتابة تدوينات إلكترونية يومية والطلب من متابعيك على وسائل التواصل الاجتماعي نشر هذه التدوينات. لكنّ هذه المقاربة تتطلّب تخصيص الموظفين لوقت أكبر بكثير، وتفاعلاً أكبر عبر وسائل التواصل الاجتماعي بالمقارنة مع حملة الدعاية الرقمية. فإذا كنت تعتقد أنّ الدعاية الرقمية هي الطريقة الأمثل لتحقيق هذا الهدف، لكنك لا تستطيع تكبّد ثمنها، فمن أحد التكتيكات المحتملة جمع المال المطلوب لإدارة الحملة الدعائية.
 
-Don't forget to consider risks, especially when identifying tactics or resources. For instance, if your goals and tactics rely on a functioning website, but it's highly likely someone may disrupt or take down your website, then alternative tactics may need to be identified or sufficient personnel, time, and money should be allocated to ensure the website is secured.
+ لكن لا تنسَ أن تفكّر في المخاطر، لا سيما عندما تحدّد التكتيكات أو تطلق افتراضات بشأن مواردك. على سبيل المثال، إذا كانت أهدافك وتكتيكاتك تعتمد على وجود موقع إلكتروني يعمل كما يجب، ومن المحتمل جداً أن يقدم أحدهم على تعطيله أو تشويش عمله، فقد تدعو الحاجة إلى تحديد تكتيكات بديلة، أو تخصيص ما يكفي من الموظفين، والوقت، والموارد المالية لضمان أمن الموقع الإلكتروني.
 
-To illustrate this, let's build out one of the example goals above with strategies, tactics, and resources.
+لتوضيح ذلك، فلنتوسع في أحد الأمثلة المذكورة أعلاه عن الأهداف، من خلال تحديد الاستراتيجيات، والتكتيكات، والموارد.
 
-**SAMPLE GOAL**: Raise awareness of what a parallel vote tabulation (PVT) is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
+نموذج عن هدف: نشر التوعية بشأن الجدولة المتوازية للأصوات  وتعريفها، من خلال إقناع 10 آلاف شخص بزيارة موقعنا الإلكتروني وبلوغ ما معدّله 100 ألف شخص عبر مختلف وسائل التواصل الاجتماعي الخاصة بنا في الأسابيع الثلاثة قبل الانتخابات.
 
 | Strategies | Tactics | Resources Needed |
 | --- | --- | --- |
@@ -115,11 +115,11 @@ To illustrate this, let's build out one of the example goals above with strategi
 
 {: .table--cols-equal}
 
-### YOUR TURN: Identifying Strategies, Tactics, and Resources
+### حان دورك: تحديد الاستراتيجيات والتكتيكات والموارد
 
-Take the SMART goals you identified and use the below table (following the above example) to fill in the strategies, tactics, and resources you would need to achieve your goals. You may find that you have to re-evaluate some of your goals if your strategies, tactics, or resources are unrealistic. That's okay! Adjust your goals to reflect what you can realistically achieve.
+عد إلى الأهداف الذكية التي حدّدتها واستخدم الجدول أدناه (استناداً إلى المثال السابق) لملء الاستراتيجيات، والتكتيكات، والموارد التي ستكون بحاجة إليها لتحقيق أهدافك. قد تكتشف أنك بحاجة إلى إعادة تقييم بعض من أهدافك إذا كانت الاستراتيجيات، أو التكتيكات، أو الموارد غير واقعية. لا بأس في ذلك! عدّل أهدافك لتعكس ما تستطيع تحقيقه على أرض الواقع.
 
-**Goal 1:**
+**الهدف 1:**
 
 {% textarea label="List your tactics and resources for Strategy 1" id="tactics1" size="large" button="false" %}
 
@@ -127,4 +127,4 @@ Take the SMART goals you identified and use the below table (following the above
 
 {% textarea label="List your tactics and resources for Strategy 3" id="tactics3" size="large" button="false" %}
 
-Once you have clearly defined goals, strategies, and tactics, make sure to get broad organizational understanding and agreement on them – from both leadership and staff. Since the Board or Steering Committee of the organization may not be as involved in day-to-day operations, they will often have a different understanding or prioritization of the group's communications goals. This can create a big problem for the communications staff, who are then pulled in many directions and have to fulfill multiple priorities at once, making their work less effective overall. Be sure to review and discuss goals, strategies, and tactics with anyone who will be carrying out, overseeing, or assigning work so that everyone has a common understanding of what needs to happen and why.
+ما إن تحدّد أهدافك واستراتيجياتك وتكتيكاتك بشكل واضح، احرص على تأمين تفاهم وتوافق واسع ضمن المنظمة- من قبل القادة والموظفين على السواء. وبما أنّ مجلس إدارة المنظمة أو اللجنة التوجيهية قد لا يكونان مشاركين تماماً في العمليات اليومية، فسيكون لهما غالباً تصوّر مختلف لأهداف الاتصال الخاصة بالمجموعة، أو أولويات مختلفة. ومن المحتمل أن يتسبّب هذا الأمر بمشكلة كبيرة بالنسبة إلى الموظفين المعنيين بشؤون الاتصال، فيجد هؤلاء أنفسهم منجرفين نحو أكثر من اتجاه، ومضطرين لأداء أولويات متعددة في الوقت عينه، مما يجعل دورهم أقل فعالية بشكل عام. لذا، احرص على مراجعة الأهداف، والاستراتيجيات، والتكتيكات، ومناقشتها مع أي جهة ستقوم بتنفيذ العمل أو الإشراف عليه أو توزيع مهامه، لكي يكوّن الجميع فهماً مشتركاً لما يجب أن يحدث ولماذا.
