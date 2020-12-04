@@ -112,25 +112,25 @@ _من ينقص؟_
 * نظّم مجموعات تركيز. اطلب من أربعة إلى ثمانية أفراد من جمهورك المستهدف الاجتماع في غرفة، واطرح عليهم الأسئلة الواردة في قسم "تعرّف على جمهورك المستهدف". استمع إلى إجاباتهم ولا تتجادل معهم. ليس الهدف من هذا التمرين إقناعهم باستيعاب المعلومات بالطريقة التي تأمل إيصالها لهم، بل تكوين فكرة أوضح عن أفضل طريقة لإيصال هذه المعلومات.
 * نظّم مقابلات مباشرة. نظّم مقابلة متعمّقة ومباشرة مع أفراد من جمهورك، للتعمق في أفكارهم، واطرح عليهم أسئلة متابعة. مرّةً جديدةً، ليس الهدف من هذا التمرين إقناعهم بطريقتك، بل تغيير طريقتك بحيث تتوافق على أفضل نحو مع الطريقة التي يعتمدها جمهورك منذ البداية.
 
-### YOUR TURN: Creating Detailed Audience Profiles
+### حان دورك: إنشاء ملفات تعريف جمهور مفصلة
 
-**Using what you already know about them from any available data, focus groups, and/or interviews, create detailed profiles of your key audiences in the below boxes.**
+**استناداً إلى ما تعرفه عن جمهورك الأساسي من خلال أي بيانات متوفرة، أو مجموعات تركيز، و/أو مقابلات، دوّن الخصائص المفصّلة لجماهيرك الأساسية في الجدول أدناه.**
 
-With your updated and clear understanding of your audiences, take one more look at your goals, strategies, and tactics. Do they still make sense knowing what you know about your target audiences? Are you reaching your audiences in the best possible ways? Are they still the right audiences to target to achieve your goals? Adjust your goals, strategies, tactics, and audiences accordingly.
+بعد نظرتك المحدّثة وفهمك الواضح لجماهيرك، راجع أهدافك، واستراتيجياتك، وتكتيكاتك مرةً جديدة. هل ما زالت صالحة بالنسبة إليك على ضوء المعلومات الجديدة التي اكتسبتها عن جماهيرك المستهدفة؟ هل تتواصل مع جماهيرك بأفضل الطرق الممكنة؟ أما زالت هذه الجماهير الخيار المناسب الذي يجب استهدافه لتحقيق أهدافك؟ عدّل أهدافك واستراتيجياتك وتكتيكاتك وجماهيرك على ضوء ما تغيّر.
 
-When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above:
+{% textarea label="الجمهور المستهدف 1" id="1a" size="Small" button="false" %}  
+{% textarea label="1 الخصائص المفصّلة" id="1b" size="Small" button="false" %}
+
+{% textarea label="2 الجمهور المستهدف" id="2a" size="Small" button="false" %} {% textarea label="2 الخصائص المفصّلة" id="2b" size="Small" button="false" %}
+
+{% textarea label=" 3 الجمهور المستهدف" id="3a" size="Small" button="false" %} {% textarea label="3 الخصائص المفصّلة" id="3b" size="Small" button="false" %}
+
+{% textarea label="4 الجمهور المستهدف" id="4a" size="Small" button="false" %} {% textarea label="4 الخصائص المفصّلة" id="4b" size="Small" button="false" %}
+
+When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above: لدى انتهائك، ستكون لديك صورة مفصّلة جداً عن جماهيرك المستهدفة. استئنافاً للمثال المستخدم أعلاه:
 
 | Target Audience | Strategy |
 | --- | --- |
 | Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
 | Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
 | Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
-
-{% textarea label="Target Audience 1" id="1a" size="Small" button="false" %}  
-{% textarea label="Detailed Profile 1" id="1b" size="Small" button="false" %}
-
-{% textarea label="Target Audience 2" id="2a" size="Small" button="false" %} {% textarea label="Detailed Profile 2" id="2b" size="Small" button="false" %}
-
-{% textarea label="Target Audience 3" id="3a" size="Small" button="false" %} {% textarea label="Detailed Profile 3" id="3b" size="Small" button="false" %}
-
-{% textarea label="Target Audience 4" id="4a" size="Small" button="false" %} {% textarea label="Detailed Profile 4" id="4b" size="Small" button="false" %}
