@@ -7,7 +7,6 @@ image:
   caption: ''
 uses_forms: true
 permalink: "/3-who-are-you-talking-to/"
-published: false
 
 ---
 بشكلٍ عام، إذا قمت بمسح الجمهور في بداية حملة الاتصال الخاصة بك، فسيبدو على الشكل التالي :
