@@ -127,10 +127,10 @@ _من ينقص؟_
 
 {% textarea label="4 الجمهور المستهدف" id="4a" size="Small" button="false" %} {% textarea label="4 الخصائص المفصّلة" id="4b" size="Small" button="false" %}
 
-When you're done, you should have a pretty detailed picture of your target audiences. To continue with our example above: لدى انتهائك، ستكون لديك صورة مفصّلة جداً عن جماهيرك المستهدفة. استئنافاً للمثال المستخدم أعلاه:
+لدى انتهائك، ستكون لديك صورة مفصّلة جداً عن جماهيرك المستهدفة. استئنافاً للمثال المستخدم أعلاه:
 
-| Target Audience | Strategy |
+| الجمهور المستهدف | الاستراتيجية |
 | --- | --- |
-| Journalists who write about elections | These journalists prefer to receive information via emailed press release. However, journalists X and Y are interested in receiving exclusives and welcome phone calls if there's something big. They are all on Facebook but consume most of their information on Twitter. Journalist A in particular has a large Twitter following and replies quickly to direct messages (DMs) on Twitter. |
-| Members of the party in power | These people are most influenced by the leader of the party. They tend to read The Daily Journal and The Weekly Magazine, and listen to The Radio Newshour. Very few of them are on Twitter but almost all are on Facebook. They are particularly distrustful of Journalist B, regarding nearly everything that person reports on as a lie, whether or not it is. |
-| Young men ages 16-26 | These people all love Movie Star A and Pop Star B, but are skeptical of all politicians. They do not consume any information by print or radio, and spend most of their time on Facebook, Snapchat, and Twitch. They also like websites X, Y, and Z and trust those writers. They regard their peers as trusted messengers and trust the stories and messages that other young men 16-26 are telling them. |
+| الصحافيون الذين يكتبون عن الانتخابات | يفضّل هؤلاء الصحافيون تلقي المعلومات عبر نشرات صحفية مرسلة إليهم من خلال البريد الإلكتروني. لكنّ الصحافيان "أ" و"ب" مهتمان بتلقي أخبار حصرية، ولا يمانعان تلقي مكالمات هاتفية في حال وقع حادث خطير. لديهما حساب على فايسبوك لكنهما يستقيان معظم معلوماتهما من تويتر. يتمتع الصحافي "أ" بشكل خاص بقاعدة كبيرة من المتابعين على تويتر، وهو يردّ بسرعة على الرسائل المباشرة التي ترده عبر تويتر.  |
+| أعضاء الحزب الحاكم | يُعتبر هؤلاء الأشخاص أكثر تأثراً بزعيم الحزب. ويميلون إلى قراءة صحيفة "ذا دايلي جورنال" اليومية ومجلة "ذا ويكلي ماغازين" الأسبوعية، والاستماع إلى برنامج "ذا راديو نيوزاور" الإذاعي. تملك قلة قليلة منهم حساباً على تويتر، لكنّ معظمهم تقريباً موجودون على فايسبوك. لا يثقون بالصحافي "ب" بشكل خاص، معتبرين أنّ كل ما ينشره كذب، سواء أكان كذلك أم لا.  |
+| رجال شباب بين 16 و26 | جميع هؤلاء الأشخاص معجبون بالنجمة السينمائية "أ" ونجمة البوب "ب"، ويشكّكون بجميع السياسيين. لا يستقون معلوماتهم من المطبوعات أو الراديو، ويمضون معظم وقتهم على فايسبوك، وسنابتشات، وتويتش. كما يحبّون المواقع الإلكترونية أ، ب، وج، ويثقون بأولئك الكتاب. يعتبرون نظراءهم أشخاصاً جديرين بالثقة ويثقون بالقصص والرسائل التي يخبرها إياهم رجال شباب آخرون في العمر نفسه. |
