@@ -96,21 +96,21 @@ _من ينقص؟_
 
 1\.	أين هم**؟ يستفهم** هذا السؤال عن أماكن تواجدهم جغرافياً وعبر الإنترنت. فإذا كان كل المؤثّرين الذين يهمونك متواجدين في العاصمة، لا فائدة إذاً من نشر إعلانات في الصحف الصادرة خارج نطاق العاصمة. وإذا كنت تحاول التواصل مع رجال شباب بين 16 و26 سنة، وكان لديهم جميعاً حساب على فايسبوك، ولبعضهم فقط حساب على تويتر، لا تستثمر الوقت والموارد على تويتر.
 
-2\.	ما هي أبرز الطرق التي يستخدمونها للحصول على المعلومات؟ هل يحصلون على المعلومات عبر الإنترنت؟ عبر المنشورات المطبوعة؟ أم الراديو؟ هل من مواقع إلكترونية محددة، أو منصات، أو خدمات، أو منشورات، أو برامج تلفزيونية، أو أشخاص يشكّلون مصدر ثقة؟ إذا كان جمهورك الأساسي يصغي إلى البرنامج الإذاعي نفسه عند الثالثة بعد ظهر كل يوم، فلعله من الأفضل أن تبث إعلاناتك خلال هذا البرنامج. وحريّ بك أيضاً عدم تنظيم أنشطتك في ذلك الوقت.
+2\.	ما هي أبرز الطرق التي يستخدمونها للحصول على المعلومات**؟ هل يحصلون على المعلومات** عبر الإنترنت؟ عبر المنشورات المطبوعة؟ أم الراديو؟ هل من مواقع إلكترونية محددة، أو منصات، أو خدمات، أو منشورات، أو برامج تلفزيونية، أو أشخاص يشكّلون مصدر ثقة؟ إذا كان جمهورك الأساسي يصغي إلى البرنامج الإذاعي نفسه عند الثالثة بعد ظهر كل يوم، فلعله من الأفضل أن تبث إعلاناتك خلال هذا البرنامج. وحريّ بك أيضاً عدم تنظيم أنشطتك في ذلك الوقت.
 
- 3.	من يؤثّر عليهم؟ من الأشخاص الموثوق بهم بالنسبة إلى جماهيرك المستهدفة، والمخوّلون نقل رسالتك؟ قد يكون هذا الشخص سياسياً، أو شخصية شهيرة، أو أكاديمياً، أو صحافياً، أو عضواً في الأسرة أو أحد الأقران. من خلال تحديد الأشخاص الذين يتواصلون مع جمهورك المستهدف منذ زمن طويل، ستتجنب بدء العمل مع ذلك الجمهور من نقطة الصفر. فكّر بطريقة توسعية وخلاقة. من المحتمل ألا تكون الشخصية التي تؤثّر على جمهورك المستهدف معروفةً بالنسبة إليك.
+ 3.	من يؤثّر عليهم**؟ من الأشخاص** الموثوق بهم بالنسبة إلى جماهيرك المستهدفة، والمخوّلون نقل رسالتك؟ قد يكون هذا الشخص سياسياً، أو شخصية شهيرة، أو أكاديمياً، أو صحافياً، أو عضواً في الأسرة أو أحد الأقران. من خلال تحديد الأشخاص الذين يتواصلون مع جمهورك المستهدف منذ زمن طويل، ستتجنب بدء العمل مع ذلك الجمهور من نقطة الصفر. فكّر بطريقة توسعية وخلاقة. من المحتمل ألا تكون الشخصية التي تؤثّر على جمهورك المستهدف معروفةً بالنسبة إليك.
 
-## A Note About Influencers
+## ملاحظة عن المؤثّرين
 
-In some cases, in order to reach a very broad audience, you might consider reaching out to a very narrow one. Those “influentials” at the top of the above audience map already have extensive networks and audiences of their own. Be sure you're not trying to replicate someone else's audience from scratch if you can reach out to them directly and tap into their audience instead. For example, if you are trying to affect change in one particular community, you may be able to identify the religious or political figure who has the most influence in that community and reach out to that one person directly, rather than trying to reach out to the entire community yourself.
+في بعض الحالات، وبهدف بلوغ جمهور واسع جداً، قد تلجأ إلى التواصل مع جمهور ضيّق جداً في بداية الأمر. فيتمتع هؤلاء "المؤثّرون"، المتربّعون على عرش خريطة الجمهور أعلاه، بشبكات واسعة وقاعدة كبيرة من الجماهيرة الخاصة بهم. لذا، احرص على عدم استنساخ جمهور شخص ما، مباشراً جهودك من الصفر، بل فكّر في ما إذا كان بإمكانك التواصل مع هذا الشخص مباشرة والاستفادة من جمهوره أولاً. على سبيل المثال، إذا كنت تحاول تحقيق تغيير في مجتمع محلي معيّن، حدّد الشخصية الدينية أو السياسية الأكثر تأثيراً في ذلك المجتمع وتواصل مع هذا الشخص مباشرةً، عوضاً عن محاولة الاتصال بالمجتمع المحلي برمّته بنفسك.
 
-## What If You Don't Know the Answers to These Questions?
+## ماذا إذا كنت تجهل الإجابة عن هذه الأسئلة؟
 
-If your audiences are different from you, you may not know these answers off the top of your head. Don't make assumptions or guesses! Try to research these audiences to get a strong and complete picture of them. Here are some ways you can research your target audiences. _(Note: it is probably most practical to combine audience research with messaging research; see next section.)_
+إذا كان جمهورك مختلفاً عنك، فمن المحتمل ألا تكون الإجابات حاضرةً في ذهنك. لا تفترض أو تتكهن! حاول أن تجري أبحاثاً حول هذا الجمهور لتكوّن صورةً واضحةً وكاملةً عنه. إليك بعض الطرق لإجراء بحث عن جمهورك المستهدف. (ملاحظة: من الأنسب على الأرجح جمع الأبحاث عن الجمهور مع الأبحاث عن كيفية صياغة الرسالة؛ راجع القسم التالي.)
 
-* **Find data that exists.** Depending on where you're located, there may be audience data available for different websites, social media channels, newspapers, or television programs. If it's available, use it to determine what your audience is seeing and how they are seeing it.
-* **Do focus groups.** Get four to eight members of your target audience in a room and ask them the questions in the “Get to Know your Audience” section. Listen to their answers, and don't argue with them. The point is not to convince them to consume information the way you hope to disseminate it, but to get a clearer picture of how best you can disseminate it to them.
-* **One-on-one interviews.** Having a deep, one-on-one interview with members of your audience will allow you to explore their thoughts and ask follow up questions. Again, your goal isn't to convince them to come around to your way of doing things, but to change how you do things to conform best to what your audience is already doing.
+* جد البيانات المتوفرة. تبعاً لمكان إقامتك، قد تتمكّن من الحصول على بيانات عن الجمهور من مواقع إلكترونية مختلفة، وصفحات على مواقع التواصل الاجتماعي، وصحف، وبرامج تلفزيونية. فإذا كانت هذه البيانات متوفّرة، استخدمها لتحدّد ما يراه جمهورك وكيف يراه.
+* نظّم مجموعات تركيز. اطلب من أربعة إلى ثمانية أفراد من جمهورك المستهدف الاجتماع في غرفة، واطرح عليهم الأسئلة الواردة في قسم "تعرّف على جمهورك المستهدف". استمع إلى إجاباتهم ولا تتجادل معهم. ليس الهدف من هذا التمرين إقناعهم باستيعاب المعلومات بالطريقة التي تأمل إيصالها لهم، بل تكوين فكرة أوضح عن أفضل طريقة لإيصال هذه المعلومات.
+* نظّم مقابلات مباشرة. نظّم مقابلة متعمّقة ومباشرة مع أفراد من جمهورك، للتعمق في أفكارهم، واطرح عليهم أسئلة متابعة. مرّةً جديدةً، ليس الهدف من هذا التمرين إقناعهم بطريقتك، بل تغيير طريقتك بحيث تتوافق على أفضل نحو مع الطريقة التي يعتمدها جمهورك منذ البداية.
 
 ### YOUR TURN: Creating Detailed Audience Profiles
 
