@@ -88,17 +88,17 @@ _من ينقص؟_
 
 يُعتبر هذا الأمر مهمّاً بشكل خاص إذا كانت منظمتك تعمل في بيئة و/أو دولة قمعية تضيق فيها المساحات المخصصة للتعبير السياسي. في هذه الأُطر، أنت بحاجة إلى تخصيص قدر أكبر بكثير من الوقت والموارد لمعالجة و/أو تخفيف الضرر الذي يمكن أن يحدثه خصومك لقدرتك على التواصل بفعالية مع جماهيرك المستهدفة. فلا يخفى عليك أنّ الأنظمة الاستبدادية توظّف قدراً هائلاً من الموارد لكبت وتشويه وإسكات المعلومات الموثوقة المتعلقة بالانتخابات ونتائج مجموعات المراقبة ذات المصداقية. بالفعل، تتمتع هذه الأنظمة بتأثير قوي، كما تبسط في الكثير من الحالات سيطرتها على وسائل الإعلام التقليدية، بشكل مباشر أو غير مباشر. بالإضافة إلى ذلك، يمكنها تضييق الخناق على الإعلام الإلكتروني أو وسائل التواصل الاجتماعي، أو حجبها، خلال الأوقات الحرجة المتعلقة بالانتخابات. فضلاً عن ذلك، تلجأ بعض الحكومات والجهات السياسية، أكثر فأكثر، إلى إنشاء حسابات حقيقية ووهمية لاستفزاز المواطنين وإغراقهم بالمعلومات المضللة  ( المعلومات المضللة هي معلومات كاذبة تُنشر بنية إحداث الأذى) والبروباغندا. يشمل ذلك توجيه اتهامات باطلة مفادها أنّ مجموعات مراقبة الانتخابات أداةٌ بيد الحكومات الأجنبية، وإنشاء منظمات غير حكومية تخضع لتنظيم الحكومة وإعلاء شأنها، واستخدام مراقبين دوليين وهميين  ("المراقبون الوهميون" هم مراقبون تستخدمهم الحكومات والمنظمات والأحزاب المعادية للديمقراطية لتقويض المراقبة والتحاليل الصحيحة للانتخابات. ولا يصدرون عادةً إلا تقييمات إيجابية للانتخابات. ) لإصدار تقارير تدّعي أنّ الانتخابات المزوّرة تتسم بالمصداقية. راجع الفصل الثامن للاطلاع على المزيد من التفاصيل حول كيفية وضع الخطط تحسّباً للأزمات والهجمات من قبل خصومك.
 
-## Get to Know Your Target Audiences
+## تعرّف على جماهيرك المستهدفة
 
-By now, you should have a list of audiences you plan to reach. To reach them effectively, you should spend some time getting to know them.
+من المفترض أنك تملك الآن قائمةً بشرائح الجماهير التي تنوي التواصل معها. لكن لبلوغها بشكل فعال، عليك تخصيص بعض الوقت للتعرف عليها.
 
-Here are three questions you'll want to research about all your target audiences. The answers to these questions will help you determine effective messages, messengers, and platforms later on.
+في ما يلي ثلاثة أسئلة يجب الإجابة عنها وإجراء البحوث بشأنها لمعرفة كل المعلومات اللازمة عن جماهيرك المستهدفة. ستساعدك الإجابات في تحديد الرسائل الفعالة في مرحلة لاحقة، فضلاً عن الجهات المخولة نقل هذه الرسائل، والمنصات التي ستُستخدم تحقيقاً لذلك الغرض.
 
-**1. Where are they?** This refers to where they are both geographically and online. If your influencers are all in the capital, it doesn't make sense to buy ads in newspapers outside of the capital. If you're trying to reach young men ages 16-26 and they are all on Facebook but not many on Twitter, don't invest time and resources into Twitter.
+1\.	أين هم**؟ يستفهم** هذا السؤال عن أماكن تواجدهم جغرافياً وعبر الإنترنت. فإذا كان كل المؤثّرين الذين يهمونك متواجدين في العاصمة، لا فائدة إذاً من نشر إعلانات في الصحف الصادرة خارج نطاق العاصمة. وإذا كنت تحاول التواصل مع رجال شباب بين 16 و26 سنة، وكان لديهم جميعاً حساب على فايسبوك، ولبعضهم فقط حساب على تويتر، لا تستثمر الوقت والموارد على تويتر.
 
-**2. What are the main ways they consume information?** Do they get it online? In print? On the radio? Are there specific websites, platforms, services, publications, TV shows, or people they trust? If your key audience listens to the same radio program at 3pm every day, you may want to buy an ad during that program. You also may not want to schedule your own event for that time.
+2\.	ما هي أبرز الطرق التي يستخدمونها للحصول على المعلومات؟ هل يحصلون على المعلومات عبر الإنترنت؟ عبر المنشورات المطبوعة؟ أم الراديو؟ هل من مواقع إلكترونية محددة، أو منصات، أو خدمات، أو منشورات، أو برامج تلفزيونية، أو أشخاص يشكّلون مصدر ثقة؟ إذا كان جمهورك الأساسي يصغي إلى البرنامج الإذاعي نفسه عند الثالثة بعد ظهر كل يوم، فلعله من الأفضل أن تبث إعلاناتك خلال هذا البرنامج. وحريّ بك أيضاً عدم تنظيم أنشطتك في ذلك الوقت.
 
-**3.** **Who influences them?** Who are the trusted messengers for your audiences? This could be a politician, celebrity, academic, journalist, or a member of their family or peer group. By identifying people who are already reaching your target audience, you may avoid having to build that audience from scratch. Think expansively and creatively here. The person that influences your target audience may not be well known to you.
+ 3.	من يؤثّر عليهم؟ من الأشخاص الموثوق بهم بالنسبة إلى جماهيرك المستهدفة، والمخوّلون نقل رسالتك؟ قد يكون هذا الشخص سياسياً، أو شخصية شهيرة، أو أكاديمياً، أو صحافياً، أو عضواً في الأسرة أو أحد الأقران. من خلال تحديد الأشخاص الذين يتواصلون مع جمهورك المستهدف منذ زمن طويل، ستتجنب بدء العمل مع ذلك الجمهور من نقطة الصفر. فكّر بطريقة توسعية وخلاقة. من المحتمل ألا تكون الشخصية التي تؤثّر على جمهورك المستهدف معروفةً بالنسبة إليك.
 
 ## A Note About Influencers
 
