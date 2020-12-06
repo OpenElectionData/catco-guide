@@ -40,19 +40,19 @@ published: false
 
 {% textarea label="الجمهور المستهدف 1" id="target1" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value1" size="large" button="false" %}
+{% textarea label="القيم والافتراضات" id="value1" size="large" button="false" %}
 
 {% textarea label="الجمهور المستهدف 2" id="target2" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value2" size="large" button="false" %}
+{% textarea label="القيم والافتراضات" id="value2" size="large" button="false" %}
 
 {% textarea label="Target Audience 3" id="target3" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value3" size="large" button="false" %}
+{% textarea label="القيم والافتراضات" id="value3" size="large" button="false" %}
 
 {% textarea label="Target Audience 4" id="target4" size="small" button="false" %}
 
-{% textarea label="Value and Assumptions" id="value4" size="large" button="false" %}
+{% textarea label="القيم والافتراضات" id="value4" size="large" button="false" %}
 
 {% textarea label="Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?" id="comparison" size="large" button="false" %}
 
