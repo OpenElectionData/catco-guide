@@ -1,26 +1,26 @@
 ---
 lang: ar
 uses_forms: true
-title: "4. What Do You Want To Say?"
-subtitle: Developing a Frame and Message
+title: 4. ما الذي تريد قوله؟
+subtitle: " تطوير الإطار  والرسالة"
 image:
-  url: ""
-  caption: ""
-permalink: /4-what-do-you-want-to-say/
+  url: ''
+  caption: ''
+permalink: "/4-what-do-you-want-to-say/"
 published: false
+
 ---
+## طوّر إطاراً للاتصال
 
-## Develop a Communications Frame
+إطار الاتصال هو مجموعة القيم والافتراضات التي يُسلَّم بها جدلاً في عمليات الاتصال. من شأن اعتماد إطار اتصال واضح منذ البداية أن يضمن ترابطاً وانسجاماً بين جميع اتصالاتك. وليس هذا فحسب، بل سيضمن ذلك أيضاً أن يفهم جمهورك خلفيتك وما تحاوله نقله إليه.
 
-A communications frame is the set of values and assumptions that all of your communications take for granted. Having a clear communications frame from the outset will ensure consistency across your communications, but it will also ensure that your audiences understand where you are coming from and what you are trying to communicate to them.
+على سبيل المثال، قد ينصّ إطارك على أنّ الديمقراطية هي أفضل أشكال الحكم. من الافتراضات المقترنة بهذا الإطار ضرورة تمكّن المواطنين من المشاركة بحرية في العملية الديمقراطية، وتفضيل الانتقال السلمي للسلطة على حكم الحزب الواحد، وضرورة أن تتمتع الانتخابات بمصداقية، وأن تحسّن الحوكمة الديمقراطية حياة الناس.
 
-For example, your frame might be that democracy is preferable to other forms of government. Other assumptions of that frame might include the ideas that citizens should be able to participate freely in the democratic process, a peaceful transfer of power is preferable to one-party rule, elections should be credible, and democratic governance should improve people's lives.
+إذا كان جمهورك لا يتشارك القيم والافتراضات المقترنة بإطارك، فسيصعب عليه فهم ما تحاول نقله إليه.
 
-If your audience does not share the values and assumptions of your frame, they will have a hard time understanding what you are trying to communicate to them.
+للمثال أعلاه، إذا رفض جمهورك إطارك واعتقد، عوضاً عن ذلك، أنّ حكم الحزب الواحد أفضل من الديمقراطية، فلن يكون متقبلاً لأي خطاب أو رسالة ترسلها إليه حول ضرورة دعم الانتخابات التنافسية. لن يُفهم كلامك جيداً ولن يلقى آذاناً صاغية.
 
-Continuing the example above, if your audience rejects your frame and instead believes that one-party rule is preferable to democracy, then they will not be receptive to any narratives or messages about supporting competitive election processes. You won't be listened to or understood.
-
-You may need to re-adjust your frame to match that of your audience so that they are receptive to what you are trying to convey. In places where a democracy frame won't be understood or trusted, you may need to create a communications frame around values of fairness, national strength, unity, or some other value or outlook upon which you and your audience can agree and understand each other.
+قد تضطر أحياناً إلى إعادة تعديل إطارك بحيث يتناسب مع جمهورك، لكي يتقبل هذا الأخير ما تحاول نقله إليه. فإذا لم يفهم المستهدف إطار الديمقراطية أو لم يبدِ ثقةً به مثلاً، قد تضطر إلى إعداد إطار اتصال يتمحور حول قيم العدل، والقوة الوطنية، والوحدة، أو أي قيمة أخرى تساعدك على التفاهم مع جمهورك.
 
 ### YOUR TURN: Develop a Communications Frame
 
@@ -72,10 +72,10 @@ Continuing with our example, if your goal is to raise awareness of your PVT and 
 
 The message in the example above is:
 
-- Short
-- Clear
-- Teaches the audience something it might not know
-- Embedded with values and emotion meant to connect with the audience
+* Short
+* Clear
+* Teaches the audience something it might not know
+* Embedded with values and emotion meant to connect with the audience
 
 If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
 
@@ -123,8 +123,8 @@ This can mean changing the tone or vocabulary you use, or it can mean reshaping 
 
 Example:
 
-| Goal                                                                                                                                                                                              | Top Line Message                                                                                                                                   | Target Audience                                                                                                                                                      | Target Message                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Goal | Top Line Message | Target Audience | Target Message |
+| --- | --- | --- | --- |
 | Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election. | A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard. | Journalists who write about elections <br> <br> <br> <br> <br> <br> <br> <br> Members of the party in power <br> <br> <br> <br> <br> Members of the opposition party | A PVT is a statistically rigorous and internationally accepted practice to assess the accuracy or fraudulence of official election results. The results of the PVT will help tell the story of the election by providing another data set against which to verify official election results. <br> <br> A PVT verifies that announced election results are accurate. Win or lose, great leaders respect the will of the people when every vote is counted and every voice is heard. <br> <br> A PVT verifies that true results are known; that deters fraud, which ensures all votes are accurately counted and the true winner is known. |
 
 In the examples above, the topline message has been slightly modified in each of the target messages to appeal more strongly to the emotions of each target audience. For journalists, the PVT will make their reporting easier and more accurate. For members of the party in power, respecting the PVT results will bolster their historical reputation as great leaders who respect the will of the people. For members of the opposition party, the PVT will deter fraud and the chance that the election will be stolen from them.
