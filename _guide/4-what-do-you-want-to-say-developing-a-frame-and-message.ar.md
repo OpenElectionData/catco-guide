@@ -60,13 +60,13 @@ published: false
 
 على سبيل المثال، إذا كان إطارك ينصّ على أنّ الديمقراطية هي أفضل أشكال الحكم، وعلى ضرورة أن تكون الانتخابات تنافسية، وضرورة احترام إرادة الشعب، لكنّك أصدرت نشرةً صحفية تدعو فيها إلى سحب مرشح معيّن من السباق الانتخابي، فسيُصاب جمهورك بالارتباك، وتخسر مصداقيتك، وستكون رسائك اللاحقة غير منسجمة أو متناقضة مع ما تدعو إليه.
 
-## Develop Your Topline Message
+## صغ رسالتك الأساسية
 
-Now that you're clear on your frame, it's time to start developing your topline message. This is the distillation of the key point(s) you want to get across in all your communications. Whereas a frame is a place of common understanding between you and your audience, your topline message is what you want your audience to learn and have reinforced every time they hear from you.
+بعد أن انتهيت من تحديد إطارك، حان وقت صياغة رسالتك الأساسية. يجب أن تشكّل هذه الرسالة عصارة النقطة/النقاط الأساسية التي تريد نقلها عبر تواصلك مع الجمهور. في حين يشكل الإطار فسحةً للتفاهم المشترك بينك وبين جمهورك، تتمحور الرسالة الأساسية حول ما تريد من جمهورك معرفته وترسيخه في أذهانهم كلما سمعوها منك.
 
-Continuing with our example, if your goal is to raise awareness of your PVT and your frame is that democracy is preferable to all other forms of government, you topline message might be:
+استنئنافاً لمثالنا، إذا كان هدفك هو نشر التوعية بشأن الجدولة المتوازية للأصوات، وإطارك ينصّ على أنّ الديمقراطية هي أفضل أشكال الحكم، فقد تكون رسالتك الأساسية على الشكل التالي:
 
-**A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.**
+**الجدولة المتوازية للأصوات تتحقّق، بشكل مستقل، مما إذا كانت نتائج الانتخابات الرسمية دقيقة، لأنه يجب احتساب كل صوت وسماع كل رأي.**
 
 ## What Makes for a Good Topline Message?
 
