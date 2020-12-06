@@ -79,9 +79,11 @@ published: false
 
 إذا كانت الرسالة الأساسية تقتصر على " الجدولة المتوازية للأصوات تتحقّق، بشكل مستقل، مما إذا كانت نتائج الانتخابات الرسمية دقيقة، مما يردع التزوير"، فستعرّف الجمهور عما هي الجدولة المتوازية للأصوات، من دون أن تُدرج عاملاً عاطفياً يتفاعل معه الجمهور. أما إذا كانت الرسالة تقتصر على "يجب أن نضمن احتساب كل صوت"، فقد تخلّف وقعاً عاطفياً على الجمهور من دون أن تستوفي هدف نشر التوعية تجاه ما هي الجدولة المتوازية للأصوات أو ما تحققه.
 
-{% callout title="Focusing on One Message" %} [Civil Network OPORA](https://www.oporaua.org/en) is a citizen group in Ukraine that has been observing elections and calling for stronger democratic institutions for more than a decade. One thing they've learned in that time is to choose one message and stick to it for the duration of a campaign. “If you present dozens of issues or messages at a time, you're not going to get people to focus,” said Iryna Shvets, OPORA's program manager. Instead, OPORA will choose one focused message and push it out exclusively for at least two months, or until the group feels like it has broken through with their audience.
+{% callout title="ركّز على رسالة واحدة" %}
 
-While the group was conducting a campaign to pressure the government to appoint new members to the Central Election Commission, its central message was that the commission had overstayed its term and needed to be updated as soon as possible. They drove the message in all their external communications until new commissioners were appointed. (See Case Studies section for more information on the campaign). {% endcallout %}
+ [الشبكة المدنية "أوبورا" (OPORA)](https://www.oporaua.org/en "OPORA") هي مجموعة مدنية في أوكرانيا تراقب الانتخابات وتدعو إلى تعزيز المؤسسات الديمقراطية منذ أكثر من عقد. من الأمور التي تعلّمتها هذه الشبكة مع الوقت، اختيار رسالة والالتزام بها طيلة مدة الحملة. فتقول إيرينا شفيتس، مديرة البرامج في الشبكة: "إذا عرضت عشرات القضايا أو الرسائل في الوقت عينه، لن تساعد الناس على التركيز." عوضاً عن ذلك، تختار "أوبورا" رسالةً مركّزة واحدةً، تنادي بها حصرياً على مدى شهرين على الأقل، أو حتى تشعر المجموعة أنها بلغت مسامع جمهورها.
+
+بينما كانت المجموعة تدير حملة للضغط على الحكومة من أجل تعيين أعضاء لجنة الانتخابات المركزية، تمثّلت رسالتها الأساسية بأنّ اللجنة تجاوزت مدة ولايتها، وأصبحت الحاجة تدعو إلى تحديثها بأسرع ما يمكن. وقد نادت بهذه الرسالة في مختلف اتصالاتها الخارجية إلى أن بدأ فعلاً تعيين أعضاء جدد في اللجنة. (راجع قسم دراسات الحالة للحصول على المزيد من المعلومات حول هذه الحملة). {% endcallout %}
 
 ### YOUR TURN: Create Your Topline Message
 
