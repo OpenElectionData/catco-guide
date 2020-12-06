@@ -81,49 +81,47 @@ published: false
 
 {% callout title="ركّز على رسالة واحدة" %}
 
- [الشبكة المدنية "أوبورا" (OPORA)](https://www.oporaua.org/en "OPORA") هي مجموعة مدنية في أوكرانيا تراقب الانتخابات وتدعو إلى تعزيز المؤسسات الديمقراطية منذ أكثر من عقد. من الأمور التي تعلّمتها هذه الشبكة مع الوقت، اختيار رسالة والالتزام بها طيلة مدة الحملة. فتقول إيرينا شفيتس، مديرة البرامج في الشبكة: "إذا عرضت عشرات القضايا أو الرسائل في الوقت عينه، لن تساعد الناس على التركيز." عوضاً عن ذلك، تختار "أوبورا" رسالةً مركّزة واحدةً، تنادي بها حصرياً على مدى شهرين على الأقل، أو حتى تشعر المجموعة أنها بلغت مسامع جمهورها.
+[الشبكة المدنية "أوبورا" (OPORA)](https://www.oporaua.org/en "OPORA") هي مجموعة مدنية في أوكرانيا تراقب الانتخابات وتدعو إلى تعزيز المؤسسات الديمقراطية منذ أكثر من عقد. من الأمور التي تعلّمتها هذه الشبكة مع الوقت، اختيار رسالة والالتزام بها طيلة مدة الحملة. فتقول إيرينا شفيتس، مديرة البرامج في الشبكة: "إذا عرضت عشرات القضايا أو الرسائل في الوقت عينه، لن تساعد الناس على التركيز." عوضاً عن ذلك، تختار "أوبورا" رسالةً مركّزة واحدةً، تنادي بها حصرياً على مدى شهرين على الأقل، أو حتى تشعر المجموعة أنها بلغت مسامع جمهورها.
 
 بينما كانت المجموعة تدير حملة للضغط على الحكومة من أجل تعيين أعضاء لجنة الانتخابات المركزية، تمثّلت رسالتها الأساسية بأنّ اللجنة تجاوزت مدة ولايتها، وأصبحت الحاجة تدعو إلى تحديثها بأسرع ما يمكن. وقد نادت بهذه الرسالة في مختلف اتصالاتها الخارجية إلى أن بدأ فعلاً تعيين أعضاء جدد في اللجنة. (راجع قسم دراسات الحالة للحصول على المزيد من المعلومات حول هذه الحملة). {% endcallout %}
 
-### YOUR TURN: Create Your Topline Message
+### حان دورك : صغ رسالتك
 
-**Start by brainstorming all of the possible things you might want to say. Don't hold back! Some might be sentences, some might just be words. Here are some questions to get you started brainstorming:**
+**صغ رسالتك الأساسية. ابدأ باستثارة الأفكار حول كل الأمور المحتملة التي يمكن أن تقولها. لا تتردّد! بعض ما تقوله قد يكون عبارة عن جمل وبعضه الآخر مجرّد كلمات. إليك بعض الأسئلة لمساعدتك على الانطلاق:**
 
-{% textarea label="Someone asks you what your organization is all about. How do you answer?" id="brainstorming1" size="large" button="false" %}
+{% textarea label="يسألك أحدهم ما هي قصة منظّمتك. فكيف تجيب؟" id="brainstorming1" size="large" button="false" %}
 
-{% textarea label="What's your favorite argument in favor of your cause or organization?" id="brainstorming2" size="large" button="false" %}
+{% textarea label="ما هي حجتك المفضّلة للدفاع عن قضيتك أو منظمتك؟" id="brainstorming2" size="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brainstorimg3" size="large" button="false" %}
+{% textarea label="ما الذي ألهمك التحرك من أجل هذه القضية؟" id="brainstorimg3" size="large" button="false" %}
 
-{% textarea label="What inspired you to take action for this issue?" id="brainstorming4" size="large" button="false" %}
+{% textarea label="كيف يوفّر عملك المساعدة؟ كيف يساعدهم؟" id="brainstorming4" size="large" button="false" %}
 
-{% textarea label="Who does your work help? How does it help them?" id="brainstorming5" size="large" button="false" %}
+{% textarea label="ما هي القيم التي تحافظ عليها في عملك؟" id="brainstorming5" size="large" button="false" %}
 
-{% textarea label="What values do you uphold in your work?" id="brainstorming6" size="large" button="false" %}
+{% textarea label="ما قد يحدث إذا فشلت مهمّتك؟" id="brainstorming6" size="large" button="false" %}
 
-{% textarea label="What will happen if your mission fails?" id="brainstorming7" size="large" button="false" %}
+{% textarea label="ما الذي يحثّك على مناصرة هذه القضية كل يوم؟" id="brainstorming7" size="large" button="false" %}
 
-{% textarea label="What keeps you advocating for this cause every day?" id="brainstorming" size="large" button="false" %}
+**من الأرجح أنّ أمامك الآن مجموعة مبعثرة من الكلمات. استخدم أقلاماً بألوان مختلفة، أو  أعد كتابة الكلمات والجمل على أوراق مختلفة، ثم ابدأ بتصنيفها ضمن مجموعات متشابهة من حيث الموضوع أو النبرة.**
 
-**Now, you are probably looking at a big mess of words. By using different colored pens or by rewriting them on different pieces of paper, start sorting the words and phrases into groups that are similar by theme or tone.**
+**استمرّ بحصر نطاق كل مجموعة وصقلها. ما هي الكلمات أو المواضيع التي لا تنفك تظهر؟ أيها الأكثر الإقناعاً؟ الأكثر إلهاماً؟ الأكثر عاطفية؟**
 
-**Keep narrowing down and honing each group. Which words or themes keep coming up? Which ones are the most persuasive? The most inspiring? The most emotional?**
+**اختر العبارات والكلمات الأكثر إقناعاً وصغها في جملة أو اثنتين. هذه هي رسالتك الأساسية.**
 
-**Take the most persuasive phrases and words and craft them into one or two sentences. That's your topline message.**
+**عد إلى أهدافك وراجعها. تأكّد من أنّ هذه الرسالة تدعم أهدافك بشكل عام.**
 
-**Go back and look at your goals -- make sure this message supports your overall goals.**
-
-## Different Messages Resonate with Different Audiences
+## اختلاف أثر الرسائل باختلاف الجماهير
 
 {% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
 
 {% endfigure %}
 
-Your topline message should be clear, concise, persuasive, and support your goals and frame. However, different people may respond differently to your message, and you may need to adapt or adjust it depending on who you are communicating with.
+ينبغي أن تكون رسالتك الأساسية واضحة، ومختصرة، ومقنعة، وداعمة لأهدافك وإطارك. لكنّ مختلف الأشخاص قد يستجيبون بشكل مختلف لرسالتك، وقد تضطر لتعديلها تبعاً للجهة التي تتواصل معها.
 
-This can mean changing the tone or vocabulary you use, or it can mean reshaping the main message to emphasize the values or emotions that will connect with a particular audience. The resulting messages shouldn't contradict your frame or topline message, but they should resonate with the different subsets of audiences you identified so you are more easily able to connect and communicate with them.
+يمكن أن يعني هذا الأمر تغيير النبرة أو المفردات التي تستخدمها، أو إعادة صياغة الرسالة للتشديد على القيم أو العواطف التي تهمّ جمهوراً معيّناً. لكن ينبغي ألا تتعارض الرسائل الناتجة عن ذلك مع إطارك أو رسالتك الأساسية، مع ضرورة أن تخلّف وقعاً لدى مختلف شرائح الجماهير التي حدّدتها، لكي تتمكّن من التواصل مع هذه الفئات بسهولة أكبر.
 
-Example:
+مثال:
 
 | Goal | Top Line Message | Target Audience | Target Message |
 | --- | --- | --- | --- |
