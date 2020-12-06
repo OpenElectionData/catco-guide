@@ -164,21 +164,21 @@ published: false
 
 على سبيل المثال، في فترة ما بعد انتخابات 2015، دأبت وسائل الإعلام على طرح أسئلة عن بعض العيوب التي شابت قائمة الناخبين. في هذا الإطار، عمد ساي، عوضاً عن معالجة هذه العيوب بشكل منفصل قد يصبّ في صالح حزب أو آخر، إلى التركيز على أهمية الشفافية وفائدة تناول قائمة الناخبين بشكل منهجي، بدل استخلاص الاستنتاجات من عيوب محددة. {% endcallout %}
 
-## The Power of Narrative
+## قوة السرد
 
-Humans are hardwired to tell and connect to stories. Stories create an emotional and empathetic connection, and stay with people for longer than facts or statistics. Telling stories is how we teach people, connect with them, and gain their trust and friendship. Using stories to meet your communications goals and convey your messages can be a powerful and effective approach.
+يميل الإنسان، بطبيعته، إلى سرد القصص والتماهي معها. فالقصص توجد رابطاً عاطفياً وإحساساً بالتعاطف، وتعلق في ذاكرة الأشخاص لوقت أطول من الحقائق أو الإحصاءات. بالفعل، إنّ سرد القصص هو طريقتنا في تعليم الأشخاص، والتواصل معهم، وكسب ثقتهم وصداقتهم. من هنا، فإنّ استخدام القصص لتحقيق أهداف التواصل الخاصة بك، ونقل رسائلك، قد يكون مقاربةً قويةً وفعالة.
 
 {% figure caption:"_Photo: ISFED_" class:"center" %} ![](/assets/images/ISFED-1.jpg)
 
 {% endfigure %}
 
-All stories have settings, characters, and plots. The best stories also have a narrative arc and a moral. A narrative arc means that the plot builds to a climax rather than just a plot where one thing happens after another without any sort of build up. After the climax, there is a resolution that should contain some sort of lesson or moral.
+لكلّ قصة إطار معيّن، وشخصيات، وحبكة. فضلاً عن ذلك، تتمتع أفضل القصص بقوسٍ سردي وعبرة أخلاقية. يدلّ القوس السردي على أنّ الحبكة تتقدّم بشكل تدريجي باتجاه الذورة، عوضاً عن حدوث أمر تلو آخر من دون أي تصاعد تدريجي في الأحداث. بعد الحدث الذورة، نصل إلى القرار الذي ينبغي أن يتضمّن نوعاً من أنواع الدروس أو العِبَر الأخلاقية.
 
-For example, here is a story that just has a setting, character, and plot: _Yesterday, I ran errands around the city. I went to the tailor, then the supermarket, then the library. Then I went home._ The setting is the city, I am the character, and the plot is the series of actions. While technically a narrative, without a narrative arc or moral, it's pretty boring! And you are unlikely to remember anything about it or learn anything from it.
+For example, here is a story that just has a setting, character, and plot: _Yesterday, I ran errands around the city. I went to the tailor, then the supermarket, then the library. Then I went home._ The setting is the city, I am the character, and the plot is the series of actions. While technically a narrative, without a narrative arc or moral, it's pretty boring! And you are unlikely to remember anything about it or learn anything from it. على سبيل المثال، في ما يلي قصة لها إطار وشخصية وحبكة: بالأمس، أنجزت بعض المهام في المدينة. قصدت الخياط، ثم السوبرماركت فالمكتبة. ثم توجهت إلى البيت. إطار القصة هو المدينة، الشخصية هي أنا، والحبكة هي سلسلة الأحداث. صحيح أنها عبارة عن سرد، لكنها من دون قوس سردي أو عبرة أخلاقية، وبالتالي تُعتبر مملة جداً! ومن الأجح ألا تتذكّر شيئاً عنها أو تتعلم شيئاً منها على الإطلاق.
 
-A more effective narrative would go something like this: _Yesterday, I ran errands around the city. I went to the tailor, but the tailor had ripped my pants! I demanded my money back, but instead he kept the pants and threw me out of the shop. On my way home I bought a sewing machine so that I can hem my own pants from now on._ That story builds to a climax (I got thrown out of the shop), and you learned a lesson that it's a good idea to hem your pants yourself.
+A more effective narrative would go something like this: _Yesterday, I ran errands around the city. I went to the tailor, but the tailor had ripped my pants! I demanded my money back, but instead he kept the pants and threw me out of the shop. On my way home I bought a sewing machine so that I can hem my own pants from now on._ That story builds to a climax (I got thrown out of the shop), and you learned a lesson that it's a good idea to hem your pants yourself. أما القصة السردية الأكثر فعالية، فتكون على الشكل التالي: بالأمس، أنجزت بعض المهام في المدينة. قصدت الخياط، لكنه كان قد مزّق سروالي! فطالبته باسترجاع أموالي، ولكنه احتفظ بسروالي وطردني من متجره. في طريق عودتي، اشتريت ماكينة خياطة لكي أصلح سراويلي بنفسي من الآن فصاعداً. تتصاعد هذه القصة بشكل تدريجي حتى تصل إلى الذروة (طردي من المتجر)، وقد تعلّمتَ درساً مفاده أنّ إصلاح سراويلك بنفسك من الآن فصاعداً فكرة جيدة.
 
-Narrative is powerful. Stories create a deeper personal connection than facts or data. If you had just read that incidents of tailors ripping pants had increased 33 percent in the last two years, you might not change your behavior. But after you heard the story above, you may think twice about taking your pants to a tailor, and consider hemming your pants yourself to avoid the same fate.
+يتميز السرد بقوته. وتوجد القصص رابطاً شخصياً أقوى من الحقائق أو البيانات. إذا كنت قد قرأت للتوّ أنّ حوادث تمزيق السراويل من قبل الخياطين قد ازدادت بمعدّل 33% في السنتين الأخيرتين، فقد لا تغيّر سلوكك. لكن بعد سماعك القصة أعلاه، قد تفكّر مرتين قبل إعطاء سروالك لخياط، وتدرس إمكانية إصلاح سراويلك بنفسك تجنّباً لمواجهة المصير ذاته.
 
 {% callout title="Using Compelling Narrative in Election Observation" %}
 
