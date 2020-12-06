@@ -22,9 +22,9 @@ published: false
 
 قد تضطر أحياناً إلى إعادة تعديل إطارك بحيث يتناسب مع جمهورك، لكي يتقبل هذا الأخير ما تحاول نقله إليه. فإذا لم يفهم المستهدف إطار الديمقراطية أو لم يبدِ ثقةً به مثلاً، قد تضطر إلى إعداد إطار اتصال يتمحور حول قيم العدل، والقوة الوطنية، والوحدة، أو أي قيمة أخرى تساعدك على التفاهم مع جمهورك.
 
-### YOUR TURN: Develop a Communications Frame
+### حان دورك: Develop a Communications Frame
 
-**Brainstorm a list of basic values and assumptions that are at the core of your work and communications.**
+**فكّر في قائمة من القيم والافتراضات الأساسية التي تصبّ في صلب عملك وجهودك المتعلقة بالاتصال.**
 
 {% textarea label="1" id="value and assumption1" size="small" button="false" %}
 
@@ -34,9 +34,9 @@ published: false
 
 {% textarea label="4" id="value and assumption4" size="small" button="false" %}
 
-**Refine these until you have a clear list of assumptions and values that will be reflected throughout your communications.**
+**نقّح الأفكار التي توصّلت إليها إلى أن يصبح لديك قائمة واضحة من الافتراضات والقيم التي ستنعكس إيجاباً على مختلف مراحل عمليات الاتصال الخاصة بك.**
 
-**Now list the values and assumptions of your key target audiences to assess whether this frame truly matches the values and assumptions of each of your key audiences.**
+**والآن في الجدول أدناه، عدد القيم والافتراضات الخاصة بجماهيرك المستهدفة الرئيسية لتقييم ما إذا كان هذا الإطار يتطابق فعلاً مع القيم والافتراضات لكل من جماهيرك الرئيسية.**
 
 {% textarea label="Target Audience 1" id="target1" size="small" button="false" %}
 
