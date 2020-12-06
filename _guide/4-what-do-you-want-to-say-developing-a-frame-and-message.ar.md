@@ -38,11 +38,11 @@ published: false
 
 **والآن في الجدول أدناه، عدد القيم والافتراضات الخاصة بجماهيرك المستهدفة الرئيسية لتقييم ما إذا كان هذا الإطار يتطابق فعلاً مع القيم والافتراضات لكل من جماهيرك الرئيسية.**
 
-{% textarea label="Target Audience 1" id="target1" size="small" button="false" %}
+{% textarea label="الجمهور المستهدف 1" id="target1" size="small" button="false" %}
 
 {% textarea label="Value and Assumptions" id="value1" size="large" button="false" %}
 
-{% textarea label="Target Audience 2" id="target2" size="small" button="false" %}
+{% textarea label="الجمهور المستهدف 2" id="target2" size="small" button="false" %}
 
 {% textarea label="Value and Assumptions" id="value2" size="large" button="false" %}
 
