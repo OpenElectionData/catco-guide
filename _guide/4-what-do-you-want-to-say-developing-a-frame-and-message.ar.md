@@ -68,14 +68,14 @@ published: false
 
 **الجدولة المتوازية للأصوات تتحقّق، بشكل مستقل، مما إذا كانت نتائج الانتخابات الرسمية دقيقة، لأنه يجب احتساب كل صوت وسماع كل رأي.**
 
-## What Makes for a Good Topline Message?
+## ما هي عناصر الرسالة الأساسية الجيدة؟
 
-The message in the example above is:
+ما هي عناصر الرسالة الأساسية الجيدة؟
 
-* Short
-* Clear
-* Teaches the audience something it might not know
-* Embedded with values and emotion meant to connect with the audience
+* قصيرة؛
+* واضحة؛
+* تعرّف الجمهور على أمر قد لا يعرفه؛
+* تتضمّن قيماً وعاملاً عاطفياً يُقصد به بناء رابط مع الجمهور.
 
 If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
 
