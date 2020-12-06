@@ -46,11 +46,11 @@ published: false
 
 {% textarea label="القيم والافتراضات" id="value2" size="large" button="false" %}
 
-{% textarea label="Target Audience 3" id="target3" size="small" button="false" %}
+{% textarea label="الجمهور المستهدف 3" id="target3" size="small" button="false" %}
 
 {% textarea label="القيم والافتراضات" id="value3" size="large" button="false" %}
 
-{% textarea label="Target Audience 4" id="target4" size="small" button="false" %}
+{% textarea label="الجمهور المستهدف 4" id="target4" size="small" button="false" %}
 
 {% textarea label="القيم والافتراضات" id="value4" size="large" button="false" %}
 
