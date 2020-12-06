@@ -158,9 +158,11 @@ published: false
 
 حريّ بك دمج رسالتك الأساسية- أحرفياً أم بكلمات مشابهة- في كل ما يصدر عنك. وما إن تصوغ رسالتك الأساسية والعبارات المماثلة بها، درّب فريق الاتصال في منظمتك، والموظفين فيها، والناطقين باسمها، وقادتها على الرسالة، لكي يرتاحون إليها ويتعلمون كيفية دمجها في كل ما يقولونه أو يكتبونه بسلاسة وسهولة. فإذا فهم الجميع رسائلك بوضوح وتدربوا على التمسّك بها في كلّ ما يقولونه، سيكون لديك فريق من الخبراء في شؤون الاتصال الذين لا ينفكون يساهمون في ترسيخ رسائلك ويساعدونك على النهوض بأهدافك.
 
-{% callout title="Staying on Message" %} In Myanmar, Sai Ye Kya Swar Myint, the executive director of the [People's Alliance for Credible Elections (PACE)](https://www.pacemyanmar.org/) learned how to stay on message despite partisan or tricky questions from the media. The media, while relatively open in Myanmar, is highly partisan, and will often ask leading questions meant to benefit one party over another. Instead of answering directly, Sai pivots to messages about the process, PACE's methodology, and values like transparency in government.
+{% callout title="تمسّك بالرسالة" %}
 
-For example, in the 2015 pre-election period, the media frequently would ask about anomalies they had found in the voter list. Rather than address standalone anomalies that might benefit one party or another, Sai would pivot to the value of transparency and the benefit of looking at the voter list systematically, rather than drawing inferences from specific anomalies. {% endcallout %}
+في ميانمار، تعلّم المدير التنفيذي للتحالف [الشعبي من أجل انتخابات ذات مصداقية (PACE) ، ساي يي](https://www.pacemyanmar.org/ "PACE") كيا سوار ميينت، كيفية التمسّك برسالته بالرغم من الأسئلة المنحازة أو المعقدة التي يطرحها الإعلام. فتتّسم وسائل الإعلام في ميانمار، بالرغم من انفتاحها النسبي، بدرجة عالية من الانحياز، وهي تطرح غالباً أسئلة استدراجية، يُقصد بها  إفادة حزب معيّن عوضاً عن آخر.  لكن بدل الإجابة بشكلٍ مباشر، يركّز ساي على الرسائل المتعلقة بالعملية نفسها، ومنهجية التحالف، وقيمه مثل الشفافية في الحكم.
+
+على سبيل المثال، في فترة ما بعد انتخابات 2015، دأبت وسائل الإعلام على طرح أسئلة عن بعض العيوب التي شابت قائمة الناخبين. في هذا الإطار، عمد ساي، عوضاً عن معالجة هذه العيوب بشكل منفصل قد يصبّ في صالح حزب أو آخر، إلى التركيز على أهمية الشفافية وفائدة تناول قائمة الناخبين بشكل منهجي، بدل استخلاص الاستنتاجات من عيوب محددة. {% endcallout %}
 
 ## The Power of Narrative
 
