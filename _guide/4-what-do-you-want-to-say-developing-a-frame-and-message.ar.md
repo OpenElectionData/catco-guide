@@ -54,11 +54,11 @@ published: false
 
 {% textarea label="القيم والافتراضات" id="value4" size="large" button="false" %}
 
-{% textarea label="Compare the values and assumptions at the core of your work with those of your audiences. Are they similar? If not, how can you adjust your frame to be understood by them without abandoning your values and principles?" id="comparison" size="large" button="false" %}
+{% textarea label="قارن القيم والافتراضات التي تصب في صلب عملك بتلك الخاصة بجماهيرك. هل تتشابه؟ إذا أجبت بكلا، كيف يمكنك تعديل إطارك بحيث يفهمه المستهدف، من دون التخلي عن قيمك ومبادئك؟" id="comparison" size="large" button="false" %}
 
-Once you have settled on a clear frame, it's important to ensure that all your communications fit within it. Share it with all the members of your team, spokespeople, leaders, board members, etc. Check all outgoing communications against the frame to ensure consistency. If you create communications that are inconsistent with your frame, your audiences will be confused and your messages will be muddled. People need to know what your underlying values are and what to expect from your organization.
+بعد أن تقرّر إطاراً واضحاً، من الضروري أن تتأكّد من أنّ كل جهودك في مجال الاتصال تندرج ضمن هذا الإطار. أطلع عناصر فريقك، والناطقين باسم منظمتك، والقادة، وأعضاء مجلس الإدارة وغيرهم على هذا الإطار. قارن كل محاولات الاتصال الخارجية على ضوء هذا الإطار لكي تتأكّد من أنها منسجمة معه. إذا بدأت بمحاولات اتصال غير منسجمة مع إطارك، فسيُصاب جمهورك بالارتباك وتتشوش رسائلك. يجب أن يعرف الأشخاص ما هي قيمك الأساسية وما يمكن أن يتوقعوه من منظمتك.
 
-For example, if your frame is that democracy is preferable to all other forms of government, elections should be competitive, and that the will of the people must be respected, but you issue a press release implying that a certain candidate should pull out of the race, your audience will become confused, you will lose credibility, and your subsequent messaging will be inconsistent or contradictory.
+على سبيل المثال، إذا كان إطارك ينصّ على أنّ الديمقراطية هي أفضل أشكال الحكم، وعلى ضرورة أن تكون الانتخابات تنافسية، وضرورة احترام إرادة الشعب، لكنّك أصدرت نشرةً صحفية تدعو فيها إلى سحب مرشح معيّن من السباق الانتخابي، فسيُصاب جمهورك بالارتباك، وتخسر مصداقيتك، وستكون رسائك اللاحقة غير منسجمة أو متناقضة مع ما تدعو إليه.
 
 ## Develop Your Topline Message
 
