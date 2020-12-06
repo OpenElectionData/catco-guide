@@ -77,7 +77,7 @@ published: false
 * تعرّف الجمهور على أمر قد لا يعرفه؛
 * تتضمّن قيماً وعاملاً عاطفياً يُقصد به بناء رابط مع الجمهور.
 
-If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
+إذا كانت الرسالة الأساسية تقتصر على " الجدولة المتوازية للأصوات تتحقّق، بشكل مستقل، مما إذا كانت نتائج الانتخابات الرسمية دقيقة، مما يردع التزوير"، فستعرّف الجمهور عما هي الجدولة المتوازية للأصوات، من دون أن تُدرج عاملاً عاطفياً يتفاعل معه الجمهور. أما إذا كانت الرسالة تقتصر على "يجب أن نضمن احتساب كل صوت"، فقد تخلّف وقعاً عاطفياً على الجمهور من دون أن تستوفي هدف نشر التوعية تجاه ما هي الجدولة المتوازية للأصوات أو ما تحققه.
 
 {% callout title="Focusing on One Message" %} [Civil Network OPORA](https://www.oporaua.org/en) is a citizen group in Ukraine that has been observing elections and calling for stronger democratic institutions for more than a decade. One thing they've learned in that time is to choose one message and stick to it for the duration of a campaign. “If you present dozens of issues or messages at a time, you're not going to get people to focus,” said Iryna Shvets, OPORA's program manager. Instead, OPORA will choose one focused message and push it out exclusively for at least two months, or until the group feels like it has broken through with their audience.
 
