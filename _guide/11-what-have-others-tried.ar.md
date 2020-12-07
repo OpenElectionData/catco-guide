@@ -36,7 +36,7 @@ published: false
 
 شاهد المقابلات على هذا الرابط: [https://youtu.be/GbR6iQ62v9k](https://youtu.be/GbR6iQ62v9k "https://youtu.be/GbR6iQ62v9k")
 
-يمكنك الاطلاع على أمثلة عظيمة أخرى عن كيفية استخدام باراك أوباما لمنصات وأدوات غير تقليدية للتواصل مع الجماهير الشابة على [بودكاست مارك مارون](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama) ([Marc Maron’s podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama)[فاني أور داي](https://www.youtube.com/watch?v=UnW3xkHxIEQ) (Funny or Die), [بازفيد](https://www.facebook.com/BuzzFeedVideo/videos/1631492713658271/) (Buzzfeed)، [وفاين](https://www.youtube.com/watch?v=XQCFdOOUDtM) (Vine).
+يمكنك الاطلاع على أمثلة عظيمة أخرى عن كيفية استخدام باراك أوباما لمنصات وأدوات غير تقليدية للتواصل مع الجماهير الشابة على [بودكاست مارك مارون](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama) ([Marc Maron’s podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama) [فاني أور داي](https://www.youtube.com/watch?v=UnW3xkHxIEQ) (Funny or Die), [بازفيد](https://www.facebook.com/BuzzFeedVideo/videos/1631492713658271/) (Buzzfeed)، [وفاين](https://www.youtube.com/watch?v=XQCFdOOUDtM) (Vine).
 
 ## Case Study: Telling Stories in Support of LGBTI Rights
 
