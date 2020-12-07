@@ -28,47 +28,46 @@ published: false
 
 يمكنك أيضاً قياس الاثنين معاً- بالفعل، فليس المفهومان غير مرتبطين ببعض بالضرورة. للتعرّف على إحصاءات عن الإشراك، من الأفضل الوصول إلى المزيد من الأشخاص أولاً. لكن يجب أن تكون واضحاً بشأن المقاييس المناسبة لتحقيق أهدافك، مع ضرورة أن تمنحها الأولوية.
 
-{% callout title="تغيير مقاييس النجاح الخاصة بك" %} 
+{% callout title="تغيير مقاييس النجاح الخاصة بك" %}
 
-In Nicaragua, the election observation coalition [Panorama Electoral](https://www.panoramaelectoral.org/) was measuring success purely in reach, rather than the discussion and debate being generated. في بادئ الأمر، كان ائتلاف مراقبة الانتخابات في نيكاراغوا، [بانوراما إلكتورال](https://www.panoramaelectoral.org/)، يقيس نجاحه بناءً على مدى وصوله إلى الأشخاص، عوضاً عن تقييم المناقشات والمناظرات التي تولّدت عن ذلك.
+في بادئ الأمر، كان ائتلاف مراقبة الانتخابات في نيكاراغوا، [بانوراما إلكتورال](https://www.panoramaelectoral.org/)، يقيس نجاحه بناءً على مدى وصوله إلى الأشخاص، عوضاً عن تقييم المناقشات والمناظرات التي تولّدت عن ذلك.
 
-However, in order to achieve their goals of fostering dialogue and increasing participation, the group shifted to collecting metrics on engagement and interaction, prompting them to see the need for a community manager to moderate the dialogue on their social media feeds.
+لكن بهدف تحقيق أهدافه المتعلقة بتعزيز الحوار وزيادة المشاركة، بدّلت المجموعة استراتيجيتها نحو جمع مقاييس هادفة أكثر حول الإشراك والتفاعل، مما جعلها تدرك حاجتها إلى مدير مجتمعي لإدارة الحوار على حساباتها في وسائل التواصل الاجتماعي. {% endcallout %}
+
+## أبرز التحليلات والمقاييس المتوفرة
+
+يضمّ عدد من المنصات الرقمية برامج تحليلات مدمجة فيها يمكنك استخدامها مجاناً (أو تكون مدرجة في ثمن استخدام المنصة بشكل عام). يمكن أن تكون هذه البرامج قوية جداً إذا ما استُخدمت جيداً.
+
+## _التحليلات عبر البريد الإلكتروني_
+
+يُفترض بأي منصة بريد إلكتروني كبيرة أن تزوّدك ببيانات تحليلية أساسية يمكنك استخدامها لتنقيح استراتيجيتك المعتمدة عبر البريد الإلكتروني:
+
+* معدّل فتح الرسالة: هذا هو معدّل فتح الأشخاص لرسالتك الإلكترونية. بشكلٍ عام، يفتح الناس أي رسالة إلكترونية من هذا النوع، في أي قائمة صالحة وناشطة من عناوين البريد الإلكتروني، بمعدّل 20%.
+* معدّل النقر على الرابط: هذا هو معدّل نقر الأشخاص على أي روابط ترفقها بالبريد الإلكتروني. بالنسبة إلى الرسائل الإلكترونية التي تتضمّن دعوةً صريحةً إلى التحرك، توقع معدّل نقر يبلغ 20%. ستُظهر لك معظم منصات البريد الإلكتروني الكبيرة أيضاً ما هي أكثر الروابط التي تمّ النقر عليها، لتعرف أيها أكثر فعالية: وضع نداء العمل في أعلى الرسالة أم أسفلها، ولتعرف أيضاً ما إذا كان المتلقون قد اهتموا برابط معيّن أكثر من غيره، على سبيل المثال.
+* معدّل إلغاء الاشتراك: هذا هو معدّل إلغاء الأشخاص لاشتراكهم في أي رسالة إلكترونية. يبلغ معدّل إلغاء الاشتراك أقل من 1% لكل رسالة مرسلة. إذا لاحظت ارتفاعاً مفاجئاً في معدّلات إلغاء الاشتراك، فقد يعود السبب إما إلى أنك ترسل رسائل أكثر من اللازم وإما إلى أنّ مفرداتك، أو نبرتك، أو المحتوى الذي تقدّمه تنفّر جمهورك.
+
+## _تحليلات غوغل_
+
+يتتبّع برنامج تحليلات غوغل حركة المرور على شبكة الإنترنت وسلوك الأشخاص الذين يزورون موقعك الإلكتروني. بعد أن يصبح لديك عنوان على جيمايل، استخدمه لتفتح حساباً على موقع [analytics.google.com](https://analytics.google.com/)، حيث يمكنك نقل بضعة أسطر من الرموز المشفّرة إلى موقعك الإلكتروني (اتّبع إرشادات غوغل لمعرفة كيفية القيام بذلك). بعد ذلك، ستتمكّن من تتبع حركة المرور على موقعك الإلكتروني وقت حدوثها ومع الوقت. تأكّد من تركيب برنامج تحليلات غوغل على مواقعك الإلكترونية منذ البداية. فلا يمكنك أن تطلب من البرنامج جمع البيانات على موقعك مع احتساب الوقت منذ ما قبل تركيبه على الموقع.
+
+{% callout title="استخدام التحليلات لتشجيع الإشراك" %}
+
+يقيس فريق مركز البحث والشفافية والمساءلة في صربيا تأثيره على مواقع التواصل الاجتماعي من خلال تتبّع رؤى جمهور فايسبوك (Insights)، وتحليلات تويتر وغوغل ويوتيوب. فيستخدم المركز وكالةً لمراقبة وسائل الإعلام من أجل تتبّع التحقيقات المنشورة عنه وعن عمله.
+
+لكنّ المركز لم يكن يريد قياس نسبة الوصول فحسب، بل الإشراك أيضاً، وبالتالي بدأ بتتبّع مقاييس إشراك جديدة عام 2018. فكانت المجموعة تدعو الناس إلى التحرك ثلاث مرات يومياً في الفترة الممهدة للانتخابات، لا لتجميع البيانات ونشرها فحسب، بل لإشراك أفراد من الجمهور في نظامه بلدهم الديمقراطي أيضاً. على سبيل المثال، طلب المركز من الناس إرسال معلومات لمساعدته في أبحاثه، والانضمام إلى بعثة مراقبة الانتخابات من خلال التطوع والعمل كمراقب (بعد الخضوع للتدريب اللازم).
+
+سيقوم المركز بتتبّع هذه الالتزامات العالية المستوى مع الوقت لمعرفة إذا كان الأشخاص مستعدين للمشاركة، في محاولة لتوسيع نطاق قاعدة مناصريه.
+
 {% endcallout %}
 
-## Common Analytics and Metrics Available
+تتوفّر معلومات كثيرة من خلال تحليلات المواقع، ويجدر بك تخصيص بعض الوقت للتعمّق في ما هو متوفّر. جديرٌ بالذكر أنّ برنامج تحليلات غوغل صُمّم، في المقام الأول، لمساعدة المواقع الإلكترونية الخاصة بالشركات على تمكين العملاء من التمتع بأفضل تجربة على الموقع. مع ذلك، يتضمّن هذا البرنامج الكثير من المعلومات المفيدة بالنسبة إلى المجموعات المدنية أيضاً.
 
-A number of digital platforms have built-in analytics that you can access for free (or included in the price) that are very powerful when used well.
-
-## Email Analytics
-
-Any mass emailer you use should provide you with basic analytic data you can use to refine your email strategy.
-
-* Open rate: This is the rate at which people open your email. A healthy and active email list will have around a 20 percent open rate for any given email sent.
-* Click-through rate: This is the rate at which people click on whatever links you put in your emails. For emails with a clear call to action, you should expect a click-through rate of 20 percent. Most mass emailers will also show you which links were clicked on the most, so you can learn whether placing your call to action at the top or bottom of your email is more effective, or whether there is one link people were more interested in than others, for example.
-* Unsubscribe rate: This is the rate at which people unsubscribe from any given email. A normal unsubscribe rate is less than 1 percent per send. If you see a sudden spike in unsubscribes, you should figure out whether you're emailing too often or if your language, tone, or content are alienating your audience.
-
-## Google Analytics
-
-Google Analytics tracks all your web traffic and the behavior of the people who visit your website. Once you have a Gmail address, you can use it to open an account at [analytics.google.com](https://analytics.google.com/). There you can get a small bit of code that you place into your website (follow Google's instructions for how to do this), and after that you will be able to track all your web traffic in real time and over time. Be sure to install Google Analytics on your websites from the very beginning -- the analytics cannot collect data on your site from a time before it was installed.
-
-{% callout title="Using Analytics to Spur Engagement" %}
-
-In Serbia, the [CRTA](https://crta.rs/en/) team measure their social media impact by tracking Facebook insights, Twitter analytics, Google analytics, and Youtube analytics. They employ a media monitoring agency that tracks stories published about them and their work.
-
-But they don't just want to measure reach, they want to measure engagement, and so they tracked new engagement metrics in 2018. The group is calling people to action three times in the lead up to elections, as a way not just to collect and publish data, but to get members of the public engaged in their democracy. They asked people to submit information to help with CRTA's research and to join the election observation mission by volunteering to be an observer (and pass the training to become an observer).
-
-CRTA will be tracking these higher-level commitments over time to see if people are willing to participate, in an effort to grow their base of supporters over time.
-
-{% endcallout %}
-
-There is a lot of information available to you in analytics, and you should spend some time exploring it to see what's available. Most of it was designed to help business websites maximize their customers' experience, but there is still a lot of useful information for civic groups.
-
-* **Audience:** You can learn about the visitors to your website through the audience features. How many unique visitors did you get and how often do they come back? How long do they stay on the site and how many pages do they view in a visit? What are the demographics of your audience and what are their interests? If you were hoping for deep engagement on your website from young men ages 16-26, but your analytics reveal that your primary audience is older women ages 60-75 and they are only staying on the site for an average of 8 seconds, then you may need re-evaluate either the content of your website or the ways that you are promoting it (or both).
-* **Devices and browsers:** Part of the audience information includes what browsers and devices they are using to access your site. Be sure that your site is optimized to look its best on the most popular devices and browsers your audience is using.
-* **Behavior:** You can learn about how people actually use your site from the behavior features. You can see what content is most popular and how long people spend engaging with each page. You can also see the most common site behavior flows -- what pages do people start on and how do they travel through the site? Are they finding the information you most want them to find? Are they engaging deeply with your site or spending only a few seconds on it? Is the path through the site the one you had envisioned? If not, do you need to change your menu or page configuration to ensure that people are seeing the information you want them to prioritize? Use the behavior information to maximize the impact of your content and refine your site to ensure that your audience has an easy time finding the information it needs.
-* **Acquisition:** You can learn a lot about how your audience found your site from the acquisition features. You can find how many people found you through organic search and the search terms they used to do so. You can also see what websites account for your web referrals -- if they are coming from your social media posts, news articles, other referring websites, etc. If your social media referrals are low but your organic search rates are high, you might want to spend more time creating content that performs well based on what people are searching for, rather than creating more posts for social media that refer back to your website, for example. If you are paying for site promotion you can also link your Google AdWords account to your Analytics account and monitor it in this section.
-* You can create sophisticated searches and reports by combining this data. Click on “add a segment” to any report screen to add additional data points. For example, if you want to see how young men ages 16-26 are finding your site versus older women ages 60-75, you can add a demographics segment to your channels analytics screen and find the breakdown. They may have totally different referrals, which you can then refine and cater to more effectively.
-* You can also compare site performance over time with the date range feature. You can look at your analytics over any period of time you choose, and you can also overlay that over any comparable period of time by clicking “compare to.” This can help you analyze trends over time in the data.
+* **الجمهور**: يمكنك اكتساب معلومات كثيرة عن زوّار موقعك الإلكتروني من خلال الميزات المتوفرة المتعلقة بالجمهور. فعلى كم زائر منفرد حصلت وكم مرة عاد هؤلاء الزوار إلى موقعك؟ ما هي المدة التي قضوها على الموقع وكم صفحة زاروا خلال زيارة واحدة؟ ما هي خصائص جمهورك الديموغرافية واهتماماته؟ إذا كنت تتطلّع إلى تفاعل كبير على موقعك الإلكتروني من قبل رجال شباب بين 16 و26 سنة، فكشفت لك التحليلات أنّ جمهورك الأساسي يتكوّن من نساء أكبر سناً بين 60 و75 سنة، وأنهن لا يبقين على الموقع إلا لحوالى 8 ثوانٍ، فلعله يجدر بك إعادة تقييم محتوى موقعك الإلكتروني أو الطرق التي تعتمدها للترويج له (أو كلا الأمرين).
+* **الأجهزة وبرامج التصفح:** ستتلقى معلومات عبر الأجهزة وبرامج التصفح التي يستخدمها الجمهور للوصول إلى موقعك أيضاً. لذا، احرص على رفع فعالية موقعك لكي يبدو بأفضل حلة على أكثر الأجهزة وبرامج التصفح انتشاراً بين الناس.
+* **السلوك:** يمكنك التعرف على كيفية استخدام الأشخاص لموقعك من خلال الميزات المتوفرة المتعلقة بالسلوك. فبإمكانك معرفة المحتوى الأكثر رواجاً، والمدة التي يمضيها الأشخاص للتفاعل مع كل صفحة. فضلاً عن ذلك، يمكنك ملاحظة أكثر أشكال تدفقات السلوك شيوعاً على الموقع- أي ما هي الصفحات التي دخل من خلالها الأشخاص على الموقع وكيف أكملوا مسار رحلتهم عبر الموقع؟ هل يجدون المعلومات التي تريد منهم إيجادها؟ هل يتفاعلون بعمق مع موقعك أم يمضون عليه بضع ثوانٍ لا أكثر؟ هل المسار الذي يتم سلوكه عبر الموقع هو نفسه الذي تصوّرته؟ إن لم يكن الأمر كذلك، هل أنت بحاجة إلى تغيير قائمة التصفح أو إعدادات الصفحة لضمان رؤية الأشخاص للمعلومات التي تريد منهم منحها الأولوية؟ استند إلى المعلومات الخاصة بالسلوك لتحقيق أكبر قدر من التأثير عبر المحتوى، وتنقيح موقعك، حرصاً على تسهيل تجربة جمهورك وتمكينه من إيجاد المعلومات التي يحتاج إليها.
+* **الاكتساب:** يمكنك جمع معلومات كثيرة عن كيفية وصول جمهورك إلى موقعك الإلكتروني من خلال الميزات المتوفرة المتعلقة بالاكتساب. فباستطاعتك تحديد عدد الأشخاص الذين وجدوك من خلال عمليات البحث الأساسية، ومصطلحات البحث التي استخدموها للوصول إلى الموقع. كما يمكنك معرفة ما هي المواقع الإلكترونية الأخرى التي تتضمّن إحالات إلى موقعك- أي إذا كان زوار موقعك قد وصلوا إليك من خلال تدوينات على وسائل التواصل الاجتماعي، أو مقالات إخبارية، أو مواقع مرجعية أخرى إلخ. فإذا كانت الإحالات إلى موقعك من وسائل التواصل الاجتماعي متدنية، في حين أن معدّلات الوصول إليك عبر محرّكات البحث عالية، لعلّه من الأفضل أن تخصص بعض الوقت لإعداد محتوى يحقّق نتائج جيدة بناءً على أبرز عمليات البحث، عوضاً عن صياغة تدوينات تُنشر على وسائل التواصل الاجتماعي وتتضمّن إحالةً إلى موقعك على سبيل المثال. وإذا كنت تدفع مقابل الترويج لموقعك، يمكنك ربط حسابك على "غوغل آدووردز" (Google AdWords) بحسابك على برنامج التحليلات، ومراقبة ما يجري في هذا القسم.
+* فضلاً عن ذلك، يمكنك إعداد أبحاث وتقارير متطوّرة من خلال جمع البيانات ببعضها. انقر على زر "إضافة قسم" إلى أي شاشة تقرير، لإضافة نقاط خاصة بالبيانات. على سبيل المثال، إذا كنت تريد أن تعرف كيف يجد الرجال الشباب بين 16 و26 سنة موقعك بالمقارنة مع النساء الأكبر سناً بين 60 و75 سنة، يمكنك إضافة قسم خاص بالخصائص الديموغرافية إلى شاشة تحليلات قنواتك، لتطّلع على التفاصيل. فقد تكون هاتان المجموعتان قد اتّبعتا إحالات مختلفة تماماً، مما سيتيح لك تنقيح استراتيجية الدعاية للموقع، بغية تلبية احتياجاتهما بطريقة أكثر فعالية.
+* فضلاً عن ذلك، يمكنك تقييم أداء الموقع مع الوقت من خلال ميزة النطاق الزمني. فباستطاعتك دراسة تحليلات موقعك لفترة زمنية تختارها، مع إمكانية مقارنة هذه الفترة الزمنية بأي فترة أخرى من خلال نقر زر "مقارنة". من شأن ذلك أن يساعدك على تحليل التوجهات مع الوقت في البيانات.
 
 ## Facebook Insights
 
