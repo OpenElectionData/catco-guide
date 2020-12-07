@@ -1,34 +1,34 @@
 ---
 lang: ar
 uses_forms: true
-title: 10. Who Is Going To Do All This Work?
-subtitle: Staffing & Resources
+title: '10. من سيقوم بكلّ هذه المهام ؟ '
+subtitle: تعيين الموظفين والموارد
 image:
-  url: ""
-  caption: ""
-permalink: /10-who-is-going-to-do-all-this-work/
+  url: ''
+  caption: ''
+permalink: "/10-who-is-going-to-do-all-this-work/"
 published: false
----
 
+---
 {% figure caption:"PACE staff working on developing topline messages. PACE Photo." class:"left" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}
 
-Every group is organized differently and has different amounts of resources to devote to its communications. Part of the reason to work through the exercises and steps in this guide is to have a clear understanding of what work needs to be done, what roles need to be filled and by how many people, and what work should be prioritized and urgent, and what work can wait for a later time.
+تُنظّم كل مجموعة نفسها بشكل مختلف عن الأخرى، وتخصص مقداراً مختلفاً من الموارد لاتصالاتها. ولعلّ أحد أسباب العمل على التمارين والخطوات الواردة في هذا الدليل هو فهم العمل المطلوب بشكل واضح، فضلاً عن الأدوار التي يجب إسنادها، وعدد الأشخاص المطلوبين، والعمل الذي يجب إعطاؤه الأولوية وإدراجه في خانة الخطوات الملحة، وذلك الذي يمكن إنجازه في وقت لاحق.
 
-Once you have a clear understanding of what needs to be done, you'll be better equipped to structure your team in a way that divides up the workload, you'll know if you need to bring on additional full-time employees, contract employees, or volunteers.
+بعد أن تحيط بشكل واضح بما هو مطلوب، ستكون أكثر جهوزية لتنظيم فريقك بطريقة توزّع أعباء العمل بشكل منطقي، وستعرف ما إذا كنت بحاجة إلى الاستعانة بموظفين إضافيين بدوام كامل، أو التعاقد مع موظفين مؤقتين، أو حشد متطوعين.
 
-Depending on how many people you have on staff and what work you need to accomplish, there are a number of ways to structure a communications team. You may have a one-person communications team whose job is to do everything, or you may have a large team that is highly segmented and specialized. Your team may grow and shrink depending on where you are in relation to the next election. There is no single correct approach or structure -- just be sure that you are staffed in whatever way allows you to carry out your communications plan as efficiently and effectively as you can.
+تبعاً لعدد موظفيك ونوع العمل الذي تريد إنجازه، تتنوّع طرق تشكيل فريق الاتصالات. قد تفضل تشكيل فريق من شخص واحد يكون مسؤولاً عن كل شيء، أو ترتئي تشكيل فريق كبير على درجة كبيرة من التوزع والتخصص. كما يمكن أن توسّع فريقك أو تقلّص حجمه تبعاً لموقعك الحالي في الانتخابات القادمة. في الواقع، ليس من مقاربة أو تصميم صحيح واحد. احرص فقط على أن يكون لديك عدد كاف من الموظفين بأي طريقة تتيح لك تنفيذ خطة الاتصالات بأعلى قدر من الفعالية والكفاءة.
 
-## MOCHA
+## (MOCHA) "المدير، صاحب المشروع، المستشار، المساعد، المعتمد 
 
-#### _The MOCHA model is adapted from The Management Center_ [_http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf_](http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf "http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf")
+#### _تمّ تعديل نموذج "موتشا" عن_ [_مركز الإدارة_](http://www.managementcenter.org/wp-content/uploads/2015/08/MOCHA-for-managers.pdf)_._
 
-Regardless of how many people are on the communications team or on your organization's staff, the MOCHA model for assigning responsibility for each project or strategy can help clarify who is charge of what and ensure that each project moves forward. The MOCHA model assigns the following roles to each goal, project, or strategy:
+بغضّ النظر عن عدد الأشخاص في فريق الاتصالات أو عدد الموظفين في منظمتك، يساعدك نموذج "MOCHA" المعنيّ بتوزيع المسؤوليات في كلّ مشروع أو استراتيجية على توضيح من المسؤول عن ماذا، وضمان إحراز كل مشروع تقدماً إلى الأمام. يوزع نموذج "MOCHA" الأدوار التالية على كلّ هدف، أو مشروع، أو استراتيجية:
 
-- **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
-- **Owner:** The Owner has overall responsibility for the success or failure of a project. The Owner ensures that all work gets done (either themself or by delegating pieces of work to Helpers). The Owner decides when and who else to involved in the project and reports to the Manager. _There can only be one Owner of any project or goal._
-- **Consultant**: Consultants are like advisors -- they offer input or sign off on parts of a project that require their specific expertise.
-- **Helper:** Helpers assist with or do some of the work.
-- **Approver:** The Approver signs off on all decisions before they are final. The Approver might be the same as The Manager, but it could also be an executive director, external partner, funder, or board chair.
+* **Manager:** The Manager assigns responsibility and holds the Owner accountable. The Manager asks hard questions, reviews progress to goals, serves as a resource, and intervenes if the work is off-track or needs to approached differently.
+* **Owner:** The Owner has overall responsibility for the success or failure of a project. The Owner ensures that all work gets done (either themself or by delegating pieces of work to Helpers). The Owner decides when and who else to involved in the project and reports to the Manager. _There can only be one Owner of any project or goal._
+* **Consultant**: Consultants are like advisors -- they offer input or sign off on parts of a project that require their specific expertise.
+* **Helper:** Helpers assist with or do some of the work.
+* **Approver:** The Approver signs off on all decisions before they are final. The Approver might be the same as The Manager, but it could also be an executive director, external partner, funder, or board chair.
 
 The MOCHA model gives your team a clear but flexible structure for every project. If you assign MOCHA roles to each goal or discreet project from the outset, the Owner will know who to rely on for help and advice, who must manage and approve the work, and everyone will understand who is ultimately responsible for driving each project forward to completion.
 
