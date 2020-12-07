@@ -38,7 +38,7 @@ published: false
 
 يمكنك الاطلاع على أمثلة عظيمة أخرى عن كيفية استخدام باراك أوباما لمنصات وأدوات غير تقليدية للتواصل مع الجماهير الشابة على [بودكاست مارك مارون](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama) ([Marc Maron’s podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama)) [فاني أور داي](https://www.youtube.com/watch?v=UnW3xkHxIEQ) (Funny or Die) [بازفيد](https://www.facebook.com/BuzzFeedVideo/videos/1631492713658271/) (Buzzfeed)، [وفاين](https://www.youtube.com/watch?v=XQCFdOOUDtM) (Vine).
 
-## Case Study: Telling Stories in Support of LGBTI Rights
+## دراسة حالة: سرد القصص دعماً لحقوق مجتمع الميم
 
 حاول ناشطون من مجتمع الميم (المثليات والمثليون ومزدوجو الميل الجنسي ومغايرو الهوية الجنسانية وحاملو صفات الجنسين) في نيكاراغوا، حيث تنتشر ضدهم مشاعر الوصم والتمييز، تعزيز قوتهم السياسية لإقرار مرسوم ضد التمييز يوفّر الحماية لهم ولمجتمعاتهم. كان الناشطون يعرفون أنهم لا يتمتعون بما يكفي من القوة السياسية، وأنّ الفرصة الوحيدة لإقرار المرسوم هي باستقطاب عدد هائل من الحلفاء والمناصرين من خارج مجتمعهم دعماً لهذا المرسوم.
 
@@ -66,9 +66,9 @@ published: false
 
 فضلاً عن ذلك، كانت الحملة ناشطةً على فايسبوك: وهي المنصة الأكثر رواجاً وشعبية على وسائل التواصل الاجتماعي في نيكاراغوا. فاستخدمت [صفحتها على فايسبوك](https://www.facebook.com/enlavinadelsenornica/)لنشر القصص المصوّرة عبر الوسائط المتعددة، وتلقي المعلومات الارتجاعية، وإطلاع الحلفاء المحتملين على الفرص التي توفّرها الحملة.
 
-Several months after launching “In The Lord's Vineyard,” the group presented a nondiscrimination ordinance to the Managua City Council and Mayor's office. That was accompanied by a campaign to enlist allied businesses to establish themselves as "discrimination-free zones." To date more than 40 businesses have signed on.
+بعد عدة أشهر على إطلاق حملة "كُروم الرب"، أرسلت المجموعة مرسوم عدم التمييز إلى مجلس بلدية ماناغوا ومكتب رئيس البلدية. ترافق ذلك مع حملة لإعداد قائمة بالشركات الحليفة التي كرّست نفسها "كمناطق خالية من التمييز". وقد وقّعت على هذه القائمة 40 شركة حتى اليوم.
 
-While the ordinance has not yet been passed, the group continues to build support for it by targeting key audiences like businesses and straight allies with its messaging, in order to get them more involved in the issue and demonstrate wide support among different, powerful demographics.
+ومع أنّ المرسوم لم يُقَرّ، ما زالت المجموعة تعمل على حشد الدعم له من خلال استهداف جماهير أساسية، كالشركاء والحلفاء مستقيمي الميل الجنسي برسائل مدروسة، لحثهم على المشاركة بدرجة أكبر في القضية وإظهار دعم واسع لها بين مختلف الفئات الديموغرافية ذات النفوذ.
 
 ## Case Study: Live Streaming Election Day
 
