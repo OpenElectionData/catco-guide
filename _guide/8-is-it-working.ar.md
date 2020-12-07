@@ -78,11 +78,11 @@ published: false
 * **مشاهدات الفيديو:** يمكنك تبيّن كم من الأشخاص شاهدوا فيديوهاتك وتفاعلوا معها، وما هو معدّل الوقت الذي أمضوه في مشاهدتهم، وعند أي نقطة بالتحديد توقّف معظمهم عن المشاهدة.
 * **السلوك من فايسبوك إلى الموقع الإلكتروني:** يمكنك إدراج علامة بيكسل متعلقة بصفحتك على فايسبوك في شيفرة موقعك الإلكتروني. يتيح لك هذا الأمر تتبّع طريقة تصرّف الأشخاص الذين ينتقلون من فايسبوك إلى موقعك. ويُعتبر هذا الأمر مفيداً جداً إذا كنت تريد منهم التوجّه من فايسبوك نحو موقعك للقيام بأمر معيّن، كتسجيل أسمائهم على قائمة عناوين البريد الإلكتروني.
 
-{% callout title="Evaluating Outreach Efforts On and Offline" %}
+{% callout title="تقييم جهود الوصول إلى الأشخاص عبر الإنترنت وخارجها" %}
 
 {% figure caption:"Malaysians protest in the Bersih 5 rally." class:"right" %}![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
 
-In Malaysia, [BERSIH 2.0](http://www.bersih.org/) tracks all relevant social analytics on the platforms they use. They also track metrics related to their offline organizing -- measuring number of groups coordinators connect with and turnout for events. By measuring turnout, the group knew that crowds were getting progressively larger at small rallies in the weeks leading up to their big rally. Measuring the turnout and watching it grow, they felt comfortable predicting and planning for 200,000 at their biggest rally seven weeks later.
+في ماليزيا، يتتبّع ائتلاف الانتخابات النظيفة والنزيهة [(BERSIH 2.0)](http://www.bersih.org/ "BERSIH 2.0") كافة التحليلات ذات الصلة على وسائل التواصل الاجتماعي التي يستخدمها. كما يتتبّع أيضاً مقاييس حول التنظيم خارج نطاق الإنترنت- أي قياس عدد المجموعات التي يتواصل معها المنسّقون ونسبة المشاركة في اللقاءات. ومن خلال احتساب نسبة المشاركة هذه، عرف الائتلاف أنّ الحشود تتزايد بشكل تدريجي في المهرجانات الصغيرة في الأسابيع المؤدية إلى مهرجانها الكبير. بالفعل، من خلال قياس نسبة المشاركة وملاحظتها وهي تنمو شيئاً فشيئاً، استطاعت المجموعة توقّع حضور 200 ألف شخص لمهرجانها الأكبر المقرّر عقده خلال سبعة أسابيع، والتخطيط بناءً على ذلك.
 
 {% endcallout %}
 
@@ -94,35 +94,35 @@ In Malaysia, [BERSIH 2.0](http://www.bersih.org/) tracks all relevant social ana
 * أداء الفيديوهات التي تقوم بتحميلها على وسائل التواصل الاجتماعي، بما في ذلك مدّة مشاهدة الأشخاص لهذه الفيديوهات.
 * من هو جمهورك، بما في ذلك خصائصه المتعلقة بالوظيفة، والاهتمامات، والنوع الاجتماعي، ومستوى التعليم، والمدخول.
 
-## Other Metrics
+## مقاييس أخرى
 
-Most social media platforms have some kind of free, built-in analytics platform. You can dig into other analytics options and see what's available to you to measure. Play around with what's available, research what each number means, and decide which ones are important to track over time.
+تضمّ معظم منصات وسائل التواصل الاجتماعي شكلاً من أشكال منصّة التحليلات المجانية المدمجة بالموقع. يمكنك التعمق في خيارات التحليلات الأخرى وتتبيّن ما هي الخيارات المتوفّرة لديك لتقوم بالقياس. جرّب الأدوات المتوفّرة، وأجرِ أبحاثاً حول معنى كل رقم، ثم قرر أي المقاييس يجب تتبّعها مع الوقت.
 
-Some strategies may require metrics that don't exist easily on one platform but are a good measure of success: number of times quoted in the media, number of attendees at an event, number of off-the-record meetings with reporters, number of times a donor replied to an email with feedback, trends in public opinion, etc. All those may be the truer measure of your success, rather than reach on Facebook. Think critically about what is a meaningful measurement of your goal and track that, even if it is not the easiest metric available.
+قد تتطلّب بعض الاستراتيجيات مقاييس لا تكون جاهزةً تلقائياً، غير أنها تشكّل مقياساً جيداً لعلامات النجاح، ويُقصد بها: عدد المرات التي يتمّ اقتباس كلامك في الإعلام، أو عدد المشاركين في لقاء معيّن، أو عدد الاجتماعات غير الرسمية مع المراسلين الصحفيين، وعدد المرات التي أجاب فيها أحد المانحين عن رسالتك الإلكترونية مع الملاحظات والمعلومات الارتجاعية، واتجاهات الرأي العام إلخ. ولا يخفى عليك أنّ هذا النوع من المقاييس قد يكون مقياساً أفضل للنجاح من مقياس الوصول إلى الأشخاص على فايسبوك. لذا، اعتمد طريقة التفكير النقدي لتحديد المقاييس المفيدة بالنسبة إلى هدفك، حتى وإن لم تكن الأسهل تطبيقاً.
 
-## A/B Testing
+## اختبار أ/ب (A/B Testing)
 
-As you use metrics to learn what works and is most effective at meeting your goals, you may want to integrate an A/B testing plan into some or all of your communications. A/B testing means trying two different subject lines, contents, graphics, tones, messages, etc. to random subsets of similar audiences to see which they respond to best.
+عند استخدامك المقاييس لمعرفة ما ينجح وكيف يمكنك تحقيق أهدافك بشكل فعال، يمكنك أيضاً دمج خطة اختبار أ/ب في بعض اتصالاتك أو كلها. وهذا يعني تحضير موضوعين مختلفين، ومحتويين، ورسومات بيانية، ونبرتين، ورسالتين وغير ذلك لمجموعتين فرعيتين عشوائيتين من جمهورين متشابهين، لمعرفة أيّ الاحتمالين يلقى استجابةً أفضل.
 
 {% figure caption:"NDI Photo." class:"left" %}
 
 ![Woman does work on computer.](/assets/images/kosovo-1.jpg "NDI Photo."){% endfigure %}
 
-For example, you could send an email with a red call-to-action button at the very top of the email to half of your list and one without the button to the other half. After a day or so, compare click-through rates of both tests -- were people who received the button email more likely to click-through? If so, you may want to include a red call-to-action button in all your emails as a best practice to increase engagement with your emails. Or you may want to test a red call-to-action button against a blue call-to-action button in your next email and learn from that.
+على سبيل المثال، يمكنك إرسال رسالة إلكترونية، تتضمّن زراً أحمر اللون في أعلى الرسالة يمثّل نداء العمل، إلى نصف الأشخاص في قائمة عناوين البريد الإلكتروني، ورسالة أخرى من دون الزر الأحمر إلى النصف الآخر. بعد يوم أو يومين، قارن معدّلات النقر على هذا الزر في كلتا الحالتين: فهل كان الأشخاص الذي تلقوا الرسالة ذات الزر الأحمر أكثر ميلاً إلى نقره؟ إذا صح ذلك، قد ترتئي اعتماد هذه التقنية في رسائلك الإلكترونية كافة، كونها من أفضل الممارسات التي تزيد مستوى التفاعل مع رسائلك. كما يمكن أن تختبر رسالةً تتضمّن زراً أحمر وأخرى زراً أزرق لتعرف أيهما أكثر فعالية.
 
-A/B testing can help you refine the effectiveness of your message, appeals, subject lines, tone, and design over time on email, websites, and social media. It does require careful tracking of results and integrating lessons learned and new best practices into future communications for maximum impact.
+يساعدك اختبار أ/ب في تنقيح فعالية رسالتك، ومدى جاذبيتها، فضلاً عن تحسين العنوان، والنبرة، والتصميم مع الوقت في رسائلك الإلكترونية، ومواقعك الإلكترونية، ووسائل التواصل الاجتماعي. لكن، تتطلّب منك هذه التقنية تتبّع النتائج بدقة، ودمج الدروس المستخلصة وأفضل الممارسات الجديدة في خطط الاتصالات المقبلة تحقيقاً لأكبر قدر من التأثير.
 
-### YOUR TURN: Review Your Goals
+### حان دورك: Review Your Goals
 
-**Review each of your goals. Brainstorm different indicators that will help you know if you've achieved them.**
+**راجع كلاً من أهدافك. فكّر في مؤشرات مختلفة تساعدك في معرفة  ما إذا كنت قد حقّقت هذه الأهداف.**
 
-{% textarea label="Goal 1" id="goal1" size="small" button="false" %}
+{% textarea label="الهدف1" id="goal1" size="small" button="false" %}
 
 * {% textarea label="A" id="goala" size="small" button="false" %}
 * {% textarea label="B" id="goalb" size="small" button="false" %}
 * {% textarea label="C" id="goalc" size="small" button="false" %}
 
-**Now assign each a concrete method (such as Google Analytics, Facebook Insights, etc.) you will use to measure and track each of these indicators.**
+**والآن، حدّد طريقةً ملموسة (مثل تحليلات غوغل أو رؤى فايسبوك إلخ.) تستخدمها من أجل قياس المؤشّرات الخاصة بكل هدف وتتبّعها.**
 
 Continuing our example, it might look something like this:
 
