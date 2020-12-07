@@ -108,9 +108,9 @@ Comedy works best when people like or trust the comedian. Choose your messenger 
 
 ### حان دورك: Topline Messages
 
-**Look back at your topline and related messages in your communications plan. Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?** عد إلى رسالتك الأساسية والرسائل ذات الصلة في خطة الاتصالات الخاصة بك. هل من رسائل أو مفاهيم يصعب شرحها، أو تُعتبر معقدة جداً، أو مملة، أو بائسة جداً وميؤوس منها؟
+**عد إلى رسالتك الأساسية والرسائل ذات الصلة في خطة الاتصالات الخاصة بك. هل من رسائل أو مفاهيم يصعب شرحها، أو تُعتبر معقدة جداً، أو مملة، أو بائسة جداً وميؤوس منها؟**
 
-**If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:** إذا صحّ ذلك، فكّر في طرق يمكنك فيها الاستعانة بالفكاهة للتعبير عن هذه الرسائل. في ما يلي بعض الأسئلة لمساعدتك على الانطلاق:
+**إذا صحّ ذلك، فكّر في طرق يمكنك فيها الاستعانة بالفكاهة للتعبير عن هذه الرسائل. في ما يلي بعض الأسئلة لمساعدتك على الانطلاق:**
 
 {% textarea label="هل من تجارب شائعة يمكن استخدامها كمادة للتهكم أو السخرية؟" id="humor1" size="small" button="false" %}
 
@@ -128,19 +128,19 @@ Comedy works best when people like or trust the comedian. Choose your messenger 
 
 في بعض الحالات، قد يختبر جمهورك تجربةً جديدةً  من دون تدخل منك، لكن يمكنك المساعدة في إغناء مرحلة التمعن والتفكير في تلك التجربة، لكي يتعلّم الأشخاص دروساً جديدة. مثلاً، إذا كان الناس يتوافدون على مراكز الاقتراع، وكان هناك مرشّح واحد فقط على ورقة الاقتراع (أو مرشّح مؤهل واحد فقط)، فقد يصوّتون لهذا المرشّح (التجربة) من دون التفكير في ذلك ملياً، لأنّ الأمر لطالما كان على هذه الحال، أي وجود مرشّح واحد على ورقة الاقتراع (لا تمعن وتفكير). عوضاً عن ذلك، يمكنك توجيه تواصلك نحو التفاعل مع الناخب قبيل تجربة الاقتراع أو بعدها بقليل، لإضفاء سياق على هذه التجربة وتشجيعه على التمعن فيها. فلمَ تضمّ بطاقة الاقتراع مرشّحاً واحداً فقط؟ هل يمكن تنظيم انتخابات ذات مصداقية من دون وجود عامل الخيار؟  كيف ستختلف البلاد إذا كان الاقتراع ينطوي على عملية اختيار حقيقية؟
 
-This type of communication can occur on any of the platforms or formats already discussed. For example, you might host a Facebook Live shortly after the election in which you pose questions to the audience aimed at causing reflection and ask them to contribute their thoughts and reactions about their experience in registering to vote. You could run newspaper or digital ads aimed at provoking reflections on common experiences that the audiences had while voting. You could hold community forums or go canvassing door-to-door to hold in-depth conversations in which people share their experience over the course of the election period and, through guided discussion, reflect on that experience to learn larger lessons about democracy, credible elections or accountability in government.
+قد يحدث هذا النوع من التواصل من خلال أي من المنصات أو الصيغ التي تمّت مناقشتها. على سبيل المثال، قد تقدّم حلقة مباشرة على "فايسبوك لايف" بعد وقت قصير على الانتخابات، حيث تطرح أسئلة على الجمهور وتطلب من الأشخاص المساهمة بآرائهم وردود فعلهم بشأن تجربة التسجيل للتصويت. فضلاً عن ذلك، يمكنك نشر إعلانات رقمية أو في الصحف هدفها التحفيز على التفكير في التجارب المشتركة التي اختبرها الجمهور أثناء التصويت. كما يمكنك أيضاً تنظيم منتديات مجتمعية أو الطواف من باب إلى باب لإجراء محادثات معمّقة، يطلعك فيها الأشخاص على تجاربهم على امتداد فترة الانتخابات، ويفكّرون، من خلال المناقشة الموجّهة، في تلك التجارب لاستخلاص دروس أكبر عن الديمقراطية، والانتخابات ذات المصداقية، أو المساءلة في الحكم.
 
-In other cases, your audience may not undergo the experience themselves, and so you'll want to simulate it for them or otherwise create some kind of empathic connection to the experience. For example, you could create a simple first person, role-playing game that puts the user in the position of having to vote with a physical disability. At each barrier in the process, the player would have to decide what to do or how to handle it. If there are stairs to the entrance of the polling place, players would have the option of asking others to carry them up the stairs or not voting that day and going home instead. By forcing able-bodied players to make choices from the point of view of a disabled voter, the player will reflect on the importance of accessible polling places, something they may not have given much thought to in the past.
+في حالات أخرى، قد لا يكون أعضاء جمهورك قد اختبروا التجربة بأنفسهم، وبالتالي سيعود إليك أن تحفّز هذه التجربة من أجلهم، أو توجد نوعاً من الصلة التخاطرية بالتجربة. على سبيل المثال، يمكنك أن تنظّم لعبة تمثيلية بسيطة، تطلب فيها من المشترك تمثيل دور ناخب مصاب بإعاقة جسدية. وسيكون على الممثل أن يقرر، عند كل حاجز يصادفه في العملية، ما العمل أو كيفية التصرف في هذه الحالة. فإذا صادف سلالم عند مدخل مركز الاقتراع، يختار إما أن يطلب المساعدة من الآخرين لحمله وإما ألا يصوّت في ذلك النهار ويعود إلى بيته. من خلال إجبار الأشخاص الأصحاء جسدياً على اتّخاذ خيارات من وجه نظر الناخب المعوّق، قد يدفع ذلك المشارك إلى التفكير في أهمية توفير مراكز اقتراع يسهل الوصول إليها من قبل أصحاب الإعاقات، وهو أمر من المحتمل ألا يكون قد فكّر فيه كثيراً في الماضي.
 
 {% figure caption:"OPORA Infographic" class:"right" %} ![OPORA Infographic](/assets/images/opora_3.jpg "OPORA Infographic") {% endfigure %}
 
-You can achieve a similar outcome with videos, virtual reality, slide decks, online quizzes, or first person essays aimed at putting the audience through an experience different from their own. Be sure to structure it in such a way that there is room for reflection about the experience to increase the chance of the audience retaining what it learns.
+يمكنك الوصول إلى نتائج مماثلة بواسطة الفيديوهات، أو تقنية الواقع الافتراضي، أو عرض باوربوينت، أو مسابقات إلكترونية، أو مقالات مكتوبة بضمير المتكلّم، هدفها تمكين الجمهور من اختبار تجربة مختلفة عن تجربته. احرص على تنظيمها بطريقة تفسح المجال أمام التفكير ملياً في هذه التجربة لزيادة فرص حفظ الجمهور للمعلومات التي استخلصها.
 
-For either of these approaches, it's best to have immediate actions ready for someone to take, in order to channel their newfound knowledge and enthusiasm into useful action. This might mean something as simple as signing up for your email list for updates and alerts, or something more involved like protesting inaccessible polling places at the election commission -- but you want to be sure people take action based on what they've just experienced and learned.
+إذا استخدمت أياً من هذه المقاربات، من الأفضل تجهيز مجموعة من الخطوات الفورية تُطبّق بهدف توجيه الأشخاص نحو الاستفادة من حماسهم ومعارفهم الجديدة عملياً. ومنها خطوات بسيطة كقيامهم بتسجيل أسمائهم في قائمة من عناوين البريد الإلكتروني للحصول على التحديثات والإخطارات، وخطوات أخرى أكثر التزاماً كالاحتجاج لدى لجنة الانتخابات بشأن مراكز الاقتراع التي يصعب على ذوي الإعاقة الوصول إليها. مهما يكن من أمر، تأكّد من تحرّك الأشخاص بناءً على التجارب التي اختبروها للتوّ والمعلومات التي استخلصوها.
 
-### YOUR TURN: Audience Experiences
+### حان دورك: تجارب الجمهور
 
-**Are there experiences that your audiences will have or should have that can teach valuable lessons about your work and mission? Brainstorm what those experiences could be:**
+**هل من تجارب سيختبرها جمهورك أو ينبغي أن يختبرها قد تعلّمه دروساً قيّمة بشأن عملك ومهمّتك؟ فكّر ملياً في  ما يمكن أن تكون هذه التجارب:**
 
 {% textarea label="1" id="experience1" size="small" button="false" %}
 
@@ -150,11 +150,11 @@ For either of these approaches, it's best to have immediate actions ready for so
 
 {% textarea label="4" id="experience4" size="small" button="false" %}
 
-**Now for each experience, decide whether your audience is likely to experience it themselves, or will need it simulated for them in some way.**
+**بالنسبة إلى كل تجربة، قرّر ما إذا كان من المرجح أن يختبرها جمهورك بنفسه، أم أنك بحاجة إلى تحفيز حدوثها بطريقة أو بأخرى.**
 
-**If they'll experience it themselves, how will you encourage them to reflect and act from the experience? If they will not experience it for themselves, what are effective ways to simulate the experience and encourage them to reflect on it?**
+**إذا كان الجمهور سيختبر التجربة بنفسه، كيف ستشجعه على التفكير فيها ملياً والتصرّف بناءً على ذلك؟ أما إذا كان لن يختبرها بنفسه، فما هي الطرق الفعالة لتحفيز هذه التجربة وتشجيعه على التفكير فيها ملياً؟**
 
-## Sharing People's Stories
+## تبادل قصص الأشخاص
 
 As already discussed, using narrative is a powerful way to emotionally connect with your audience and relay the story of your work, organization, or findings. For the most part, the narrative approaches in Chapter IV are for stories that you created or sought out -- and thereby maintain careful control of the narrative.
 
