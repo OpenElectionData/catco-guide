@@ -112,7 +112,7 @@ published: false
 
 يساعدك اختبار أ/ب في تنقيح فعالية رسالتك، ومدى جاذبيتها، فضلاً عن تحسين العنوان، والنبرة، والتصميم مع الوقت في رسائلك الإلكترونية، ومواقعك الإلكترونية، ووسائل التواصل الاجتماعي. لكن، تتطلّب منك هذه التقنية تتبّع النتائج بدقة، ودمج الدروس المستخلصة وأفضل الممارسات الجديدة في خطط الاتصالات المقبلة تحقيقاً لأكبر قدر من التأثير.
 
-### حان دورك: Review Your Goals
+### حان دورك: راجع أهدافك
 
 **راجع كلاً من أهدافك. فكّر في مؤشرات مختلفة تساعدك في معرفة  ما إذا كنت قد حقّقت هذه الأهداف.**
 
@@ -124,36 +124,36 @@ published: false
 
 **والآن، حدّد طريقةً ملموسة (مثل تحليلات غوغل أو رؤى فايسبوك إلخ.) تستخدمها من أجل قياس المؤشّرات الخاصة بكل هدف وتتبّعها.**
 
-Continuing our example, it might look something like this:
+استئنافاً للمثال المستخدم، قد يبدو الأمر على الشكل التالي:
 
-GOAL 1: Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.
+الهدف 1: نشر التوعية بشأن الجدولة المتوازية للأصوات، من خلال إقناع 10 آلاف شخص بزيارة موقعنا الإلكتروني وبلوغ ما معدّله 100 ألف شخص عبر مختلف وسائل التواصل الاجتماعي الخاصة بنا في الأسابيع الثلاثة قبل الانتخابات.
 
-* 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)
-* 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics)
-* Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics)
-* Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking)
-* Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking)
+* 10,000 unique visitors to our website who stayed longer than 5 seconds. (Google Analytics)  · 10 آلاف زائر منفرد إلى موقعنا الإلكتروني يبقون أكثر من 5 ثوان. (تحليلات غوغل)
+* 100,000 reach per week on social media channels with at least a 5 percent engagement rate. Our target demographic of young women ages 16-26 should comprise 50 percent of our reach audience. (Facebook & YouTube analytics) · الوصول إلى 100 ألف أسبوعياً عبر قنوات التواصل الاجتماعي، مع معدّل إشراك يبلغ 5% على الأقل. يجب أن تشكّل الفئة الديموغرافية المستهدفة، والمؤلفة من نساء شابات بين 16 و26 سنة، 50% من الجمهور الذي نصل إليه. (تحليلات فايسبوك ويوتيوب).
+* Emails to journalists have a 30 percent open rate and 10 percent click-through rate. (MailChimp analytics) · معدّل فتح الرسائل الإلكترونية إلى الصحافيين يبلغ 30%، ومعدّل نقر الروابط 10%. (تحليلات مايل تشيمب MailChimp analytics)
+* Quarterly calls with journalists are attended by at least 12 journalists per call. (Internal tracking) · اتصالات فصلية مع صحافيين يشارك فيها 12 صحافياً على الأقل في كل اتصال. (تتبّع داخلي)
+* Political contestants are opening our emails at a 20 percent open rate and replying to our emails at least once a week. (MailChimp analytics and internal tracking) · فتح المرشّحين السياسيين لرسائلنا الإلكترونية بمعدّل 20% وإجابتهم عنها مرةً أسبوعياً على الأقل. (تحليلات مايل تشيمب وتتبّع داخلي).
 
-## Put a System In Place
+## Put a System In Place تطبيق النظام المطلوب
 
-Once you have decided which metrics you need to track to achieve your goals, you will need to put a system in place to collect that data regularly. Your tracking system should collect the data you need to follow but not be so arduous that it is taking up too much time or effort. It should also be tracked or presented in such a way that you can easily see your progress toward your goals, or quickly identify problems or strategies that aren't working.
+بعد أن تقرر ما هي المقاييس التي تريد تتبّعها لتحقيق أهدافك، يجب أن تطبّق نظاماً يمكّنك من جمع هذه البيانات بشكل منتظم. ويجدر بنظام التتبّع هذا أن يجمع البيانات التي تحتاج إليها، من دون أن يكون معقداً جداً لدرجة تطلّبه وقتاً أو جهوداً غير اعتيادية. كما يجب تتبّع هذا النظام أو عرضه بطريقة تمكّنك من ملاحظة تقدّمك نحو أهدافك بسهولة، أو تحديد المشاكل أو الاستراتيجيات غير المجدية بسرعة.
 
-Questions to keep in mind when you are setting up your metrics-collection process:
+في ما يلي أسئلة يجب مراعاتها عند إنشائك عملية جمع المقاييس:
 
 {% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
 
-* Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)?
-* Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work?
-* How long does the collection process take and is it overly arduous?
-* Can the process or part of the process be automated?
-* How often does the data need to be collected?
-* Are all the necessary data points being collected?
-* Is the data being displayed in a way that is easy to read and draw conclusions from?
-* Who needs access to the data? Do they have it?
+* Who will be collecting and compiling the data, including data that needs be manually collected (like number of meetings held)? · من سيعمل على جمع البيانات وتجميعها، بما في ذلك البيانات التي يجب جمعها يدوياً (على غرار عدد الاجتماعات المنظّمة)؟
+* Is there one person or many contributors tracking it? How much time do they have to do this task, taking into account their other work? · هل سيتولى شخص واحد تتبّع المقاييس أم عدة مساهمين؟ كم من الوقت لديهم لإنجاز هذه المهمة، مع أخذ جوانب عملهم الأخرى في الاعتبار؟
+* How long does the collection process take and is it overly arduous? · كم تستغرق عملية جمع البيانات وهل هي صعبة جداً؟
+* Can the process or part of the process be automated? · هل يمكن أتمتة العملية أو جزء منها؟
+* How often does the data need to be collected? · كل متى يجب جمع البيانات؟
+* Are all the necessary data points being collected? · هل يتم جمع كافة نقاط البيانات المهمة؟
+* Is the data being displayed in a way that is easy to read and draw conclusions from? · هل البيانات معروضة بطريقة يسهل قراءتها واستخلاص الاستنتاجات منها؟
+* Who needs access to the data? Do they have it? · من بحاجة إلى الوصول إلى البيانات؟ هل يتمكّنون من ذلك؟
 
-Once you have a system in place, schedule regular meetings with any team members or leadership that helped create the goals and/or are carrying out the strategies of the plan. Discuss how each strategy is performing according to its metric. Are you on track to meet your goals? Are some strategies working better than others? Are some strategies not working at all? Be honest with yourself and your team about your progress and what is or isn't working.
+بعد أن تبدأ العمل بالنظام، اعقد اجتماعات منتظمة مع أي من أفراد الفريق أو القيادة الذين ساعدوا في بلورة الأهداف و/أو ينفّذون الاستراتيجيات بموجب الخطة. ناقش أداء كل استراتيجية على ضوء المقاييس الخاصة بها. هل أنت تسير في المسار الصحيح نحو تحقيق أهدافك؟ هل تنجح بعض الاستراتيجيات أكثر من غيرها؟ هل هناك استراتيجيات غير مجدية على الإطلاق؟ كن صادقاً مع نفسك وفريقك بشأن مدى تقدّمكم وما ينجح أو لا ينجح.
 
-Use these regular check-ins to refine and update your strategies and tactics based on real data. This should be an iterative and ongoing process.
+استخدم إجراءات التحقق المنتظمة هذه لتنقيح استراتيجياتك وتكتيكاتك وتحديثها بناءً على بيانات حقيقية.  يجب أن تكون هذه العملية مستمرة ومتكررة.
 
 <table>
 <thead>
