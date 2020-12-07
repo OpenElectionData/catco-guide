@@ -122,42 +122,42 @@ published: false
 * **ضع خطة:** ليس البث الحي بعذر للارتجال. فكّر في الشخص الذي سيظهر معك خلال البث الحي وحضّره قدر الإمكان: ما هي المعلومات التي تريد إيصالها بشكل مؤكّد، ما هي الرسائل التي يجب التشديد عليها، ما هي الأسئلة التي ستطرحها إلخ.
 * · **الأدوات:** تتيح لك بعض البرمجيات مثل ["منصة OBS"](https://obsproject.com/)إنتاج مقاطع بث حيّ متطوّرة نوعاً ما مجاناً أو مقابل مبلغ زهيد. يمكنك أن تبث على عدة منصات، وتضيف عناوين وتوضيحات أو رسوم في الثلث السفلي من الشاشة، أو غير ذلك من الرسوم البيانية، أو تعلق على بث حي آخر يحدث في الوقت عينه، وغير ذلك كثير.
 
-### YOUR TURN: Communications Products
+### حان دورك:منتجات التواصل
 
-**Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you're targeting and advance your goals.**
+**Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you're targeting and advance your goals. راجع أهدافك، وجماهيرك، ورسائلك. فكّر ملياً في طرق مختلفة لصياغة كل رسالة بطريقة تخلّف أفضل وقع على الجماهير التي تستهدفها وتساهم في تحقيق أهدافك.**
 
-**Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences.**
+**Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences. كن خلاقاً بشأن منتجات التواصل التي تريد العمل عليها، وحدّد كيف يمكنك إعادة توظيفها للتواصل مع جماهير متعددة.**
 
-{% textarea label="What is your topline message" id="Topline Message" size="large" button="false" %}
+{% textarea label="الرسالة الأساسية" id="Topline Message" size="large" button="false" %}
 
-**Target Audience 1**
+**1 الجمهور المستهدف**
 
-{% textarea label="Who is your audience?" id="Audience 1" size="small" button="false" %}
+{% textarea label="من هو جمهورك؟" id="Audience 1" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 1" size="small" button="false" %}
+{% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 1" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" button="false" %}
 
-**Target Audience 2**
+**2 الجمهور المستهدف**
 
-{% textarea label="Who is your audience?" id="Audience 2" size="small" button="false" %}
+{% textarea label="من هو جمهورك؟" id="Audience 2" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 2" size="small" button="false" %}
+{% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 2" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" button="false" %}
 
-**Target Audience 3**
+**3 الجمهور المستهدف**
 
-{% textarea label="Who is your audience?" id="Audience 3" size="small" button="false" %}
+{% textarea label="من هو جمهورك؟" id="Audience 3" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 3" size="small" button="false" %}
+{% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 3" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" button="false" %}
 
-**Target Audience 4**
+**4 الجمهور المستهدف**
 
-{% textarea label="Who is your audience?" id="Audience 4" size="small" button="false" %}
+{% textarea label="من هو جمهورك؟" id="Audience 4" size="small" button="false" %}
 
-{% textarea label="What message will you use?" id="Message 4" size="small" button="false" %}
+{% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 4" size="small" button="false" %}
 
 {% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" button="false" %}
