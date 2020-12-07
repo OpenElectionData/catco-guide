@@ -74,9 +74,11 @@ published: false
 * **الرسوم التفاعلية** قد تساعد في اختصار الأفكار المعقدة وتحويلها إلى مفاهيم بسيطة وأقرب إلى الناس. ويمكنك، من خلالها، أن تعتمد على الفكاهة بكل سهولة للتفاعل مع جمهورك.
 * **كن خلاقاً** بشأن الطرق الأخرى الممكن استخدامها لسرد قصتك بصرياً. لربما يستطيع أحد الرسامين أو الروائيين التصويريين أن يبتكر قصةً إيضاحيةً على طريقة القصص المصوّرة، أو قد يتمكّن أحد الفنانين من إعداد ملصقات لافتة بصرياً أو نشرات تقوم بتوزيعها.
 
-{% callout title="Choose Authenticity Over Trendiness" %} In Belarus, the poll watching group [Right To Choose (R2C)](https://pvby.org/en) had relied on memes to fill their social network feeds. But the memes weren't working -- the tone was wrong and the memes felt inauthentic, snide, and unserious. The audience felt patronized by them. Instead of showcasing memes that were unthinkingly critical of the president and ruling authorities, people wanted to see the evidence for themselves and make up their own minds.
+{% callout title="فضِّل الصدق على ركوب الموجة السائدة" %} 
 
-R2C's social media content now focuses on authentic, clear content based on facts, rather than recycling irrelevant memes. {% endcallout %}
+في بيلاروسيا، اتّكلت مجموعة مراقبة الانتخابات ([Right To Choose (R2C)](https://pvby.org/en "Right To Choose") / الحق بالاختيار) على الميمات وملأت بها صفحاتها على وسائل التواصل الاجتماعي. لكنّ هذه الميمات مُنيت بالفشل. فالنبرة لم تكن مناسبة، وشعر الناس أنها غير صادقة، وكاذبة، وغير جدية. في الواقع، لقد شعر الجمهور وكأنّ هذه الميمات تستخف به وتستصغره. بالفعل، بدل نشر الميمات التي تنتقد الرئيس والسلطات الحاكمة من دون تفكير، كان الناس يريدون لمس الأدلة واتّخاذ قرارهم بأنفسهم.
+
+اليوم، يركّز محتوى المجموعة على وسائل التواصل الاجتماعي على المضمون الصادق والواضح المبني على الحقائق، عوضاً عن إعادة استخدام ميمات لا تمتّ إلى الموضوع بصلة. {% endcallout %}
 
 ## Audio and Video Content
 
