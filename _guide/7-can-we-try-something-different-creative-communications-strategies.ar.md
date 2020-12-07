@@ -106,27 +106,27 @@ Comedy works best when people like or trust the comedian. Choose your messenger 
 
 ![](/assets/images/catco image-2.png)
 
-### YOUR TURN: Topline Messages
+### حان دورك: Topline Messages
 
-**Look back at your topline and related messages in your communications plan. Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?**
+**Look back at your topline and related messages in your communications plan. Are there any messages or concepts that are difficult to explain, overly complicated, dull, or very dire and hopeless?** عد إلى رسالتك الأساسية والرسائل ذات الصلة في خطة الاتصالات الخاصة بك. هل من رسائل أو مفاهيم يصعب شرحها، أو تُعتبر معقدة جداً، أو مملة، أو بائسة جداً وميؤوس منها؟
 
-**If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:**
+**If so, brainstorm ways humor might help you better convey those messages. Here are some questions to get you started:** إذا صحّ ذلك، فكّر في طرق يمكنك فيها الاستعانة بالفكاهة للتعبير عن هذه الرسائل. في ما يلي بعض الأسئلة لمساعدتك على الانطلاق:
 
-{% textarea label="Are there common experiences that are able to be parodied or satorized?" id="humor1" size="small" button="false" %}
+{% textarea label="هل من تجارب شائعة يمكن استخدامها كمادة للتهكم أو السخرية؟" id="humor1" size="small" button="false" %}
 
-{% textarea label="Is there an absurd or ridiculous news event you can satorize in a way that reinforces your message?" id="humor2" size="small" button="false" %}
+{% textarea label="هل من حدث سخيف أو منافٍ للمنطق يمكنك استخدامه كمادة للسخرية، بطريقة أو بأخرى، لتعزيز رسالتك؟" id="humor2" size="small" button="false" %}
 
-{% textarea label="Is there a well-known expression or idiom that can be changed for your purposes?" id="humor3" size="small" button="false" %}
+{% textarea label="هل من تعبير أو قول معروف يمكنك تغييره لتحقيق أهدافك؟" id="humor3" size="small" button="false" %}
 
-{% textarea label="What issue or aspect of your work do you often have the hardest time explaining? Is there a funny way to approach it or a funny outcome you could use to better explain it?" id="humor4" size="small" button="false" %}
+{% textarea label="ما هي أكثر القضايا أو أي جانب من جوانب عملك غالباً ما يصعب عليك شرحه؟ هل من طريقة مضحكة لمقاربة هذا الأمر أو هل من نتيجة مضحكة يمكنك استخدامها لشرحه بشكل أفضل؟" id="humor4" size="small" button="false" %}
 
-{% textarea label="Are there any comedians or comedic actors you can work with?" id="humor5" size="small" button="false" %}
+{% textarea label="هل من كوميديين أو ممثلين كوميديين يمكنك العمل معهم؟" id="humor5" size="small" button="false" %}
 
-## Experiential Learning and Communications
+## التعلّم التجريبي والاتصال
 
-Experiential learning is the process of experiencing something new and then reflecting on that experience to come to new knowledge or larger lessons. It is commonly used in the classroom or in job training programs, and used creatively, the same principles can be applied to a communications campaign.
+التعلّم التجريبي هو عملية اختبار أمر جديد، ثم التفكير في تلك التجربة لاكتساب معارف جديدة أو استخلاص دروس أكبر. يُستخدم في العادة داخل الصفوف الدراسية أو في برامج التدريب المهني، وإذا ما استُخدم بشكل مبتكر، يمكن تطبيق المبادئ نفسها على أي حملة للاتصالات.
 
-In some cases, your audience will undergo a new experience themselves, and you can help enrich the reflection stage of the experience so they learn new lessons. For example, if people are showing up at the polls and there is only one candidate on the ballot (or only one viable candidate), they may vote for that one candidate (the experience) and not think much of it because there's only ever been one candidate on the ballot (no reflection). Instead, you can aim your communications to interact with that voter shortly before or after their experience voting to add context and encourage reflection on their experience. Why was there only one candidate on the ballot? Can you have a credible election without choice? How would the country be different with a real choice at the ballot?
+في بعض الحالات، قد يختبر جمهورك تجربةً جديدةً  من دون تدخل منك، لكن يمكنك المساعدة في إغناء مرحلة التمعن والتفكير في تلك التجربة، لكي يتعلّم الأشخاص دروساً جديدة. مثلاً، إذا كان الناس يتوافدون على مراكز الاقتراع، وكان هناك مرشّح واحد فقط على ورقة الاقتراع (أو مرشّح مؤهل واحد فقط)، فقد يصوّتون لهذا المرشّح (التجربة) من دون التفكير في ذلك ملياً، لأنّ الأمر لطالما كان على هذه الحال، أي وجود مرشّح واحد على ورقة الاقتراع (لا تمعن وتفكير). عوضاً عن ذلك، يمكنك توجيه تواصلك نحو التفاعل مع الناخب قبيل تجربة الاقتراع أو بعدها بقليل، لإضفاء سياق على هذه التجربة وتشجيعه على التمعن فيها. فلمَ تضمّ بطاقة الاقتراع مرشّحاً واحداً فقط؟ هل يمكن تنظيم انتخابات ذات مصداقية من دون وجود عامل الخيار؟  كيف ستختلف البلاد إذا كان الاقتراع ينطوي على عملية اختيار حقيقية؟
 
 This type of communication can occur on any of the platforms or formats already discussed. For example, you might host a Facebook Live shortly after the election in which you pose questions to the audience aimed at causing reflection and ask them to contribute their thoughts and reactions about their experience in registering to vote. You could run newspaper or digital ads aimed at provoking reflections on common experiences that the audiences had while voting. You could hold community forums or go canvassing door-to-door to hold in-depth conversations in which people share their experience over the course of the election period and, through guided discussion, reflect on that experience to learn larger lessons about democracy, credible elections or accountability in government.
 
