@@ -69,14 +69,14 @@ published: false
 * فضلاً عن ذلك، يمكنك إعداد أبحاث وتقارير متطوّرة من خلال جمع البيانات ببعضها. انقر على زر "إضافة قسم" إلى أي شاشة تقرير، لإضافة نقاط خاصة بالبيانات. على سبيل المثال، إذا كنت تريد أن تعرف كيف يجد الرجال الشباب بين 16 و26 سنة موقعك بالمقارنة مع النساء الأكبر سناً بين 60 و75 سنة، يمكنك إضافة قسم خاص بالخصائص الديموغرافية إلى شاشة تحليلات قنواتك، لتطّلع على التفاصيل. فقد تكون هاتان المجموعتان قد اتّبعتا إحالات مختلفة تماماً، مما سيتيح لك تنقيح استراتيجية الدعاية للموقع، بغية تلبية احتياجاتهما بطريقة أكثر فعالية.
 * فضلاً عن ذلك، يمكنك تقييم أداء الموقع مع الوقت من خلال ميزة النطاق الزمني. فباستطاعتك دراسة تحليلات موقعك لفترة زمنية تختارها، مع إمكانية مقارنة هذه الفترة الزمنية بأي فترة أخرى من خلال نقر زر "مقارنة". من شأن ذلك أن يساعدك على تحليل التوجهات مع الوقت في البيانات.
 
-## Facebook Insights
+## رؤى جمهور فايسبوك
 
-Facebook offers free analytics (called Insights) for your page, and also works with your website if you are tracking users' behavior from Facebook through to your website. There is a lot of useful information collected here, too, and you should explore it to see what's available and relevant to you. But ultimately you should decide on which metrics matter the most to your success and focus on them.
+يقدّم فايسبوك برنامج تحليلات مجاني لصفحتك، يُعرف برؤى الجمهور (Insights)، ويكون متطابقاً مع موقعك الإلكتروني إذا كنت تتتبّع سلوك المستخدمين من فايسبوك إلى موقعك. وهنا أيضاً، يمكنك جمع الكثير من المعلومات المفيدة، وبالتالي يجدر بك التعمق فيها لمعرفة ما هو متوفّر ومفيد بالنسبة إليك. لكن في نهاية الأمر، يعود إليك تقرير أي المقاييس هو الأفضل لتحقيق نجاحك، فالتركيز عليها.
 
-* **Demographics:** You can learn about your audiences' demographics -- what geographic location, age, gender, and preferred language of the people are who are following your page, seeing your content and engaging with it.
-* **Reach and engagement:** You can track likes, followers, and reach over time. You can also dig into which posts have the highest reach and engagement rates.
-* **Video views:** You can see how many people watched and reacted to your videos, for how long on average, and at what point most people quit watching.
-* **Facebook to website behavior:** You can place a pixel associated with your Facebook page into the code of your website. This will allow you track how people who go from Facebook to your website behave. This is particularly useful if you want them to go from Facebook to complete an action on your website, like signing up for your email list.
+* **الخصائص الديموغرافية**: يمكنك معرفة الكثير عن الخصائص الديموغرافية لجمهورك، كالموقع الجغرافي، والسن، والنوع الاجتماعي، واللغة المفضلة للأشخاص الذين يتابعون صفحتك ويرون المحتوى ويتفاعلون معه.
+* **الوصول والإشراك**: يمكنك تتبّع عدد نقرات الإعجاب، والمتابعين، ودرجة الوصول مع الوقت. كما يمكنك تحديد أي المنشورات يتمتع بأعلى معدلات الوصول والإشراك.
+* **مشاهدات الفيديو:** يمكنك تبيّن كم من الأشخاص شاهدوا فيديوهاتك وتفاعلوا معها، وما هو معدّل الوقت الذي أمضوه في مشاهدتهم، وعند أي نقطة بالتحديد توقّف معظمهم عن المشاهدة.
+* **السلوك من فايسبوك إلى الموقع الإلكتروني:** يمكنك إدراج علامة بيكسل متعلقة بصفحتك على فايسبوك في شيفرة موقعك الإلكتروني. يتيح لك هذا الأمر تتبّع طريقة تصرّف الأشخاص الذين ينتقلون من فايسبوك إلى موقعك. ويُعتبر هذا الأمر مفيداً جداً إذا كنت تريد منهم التوجّه من فايسبوك نحو موقعك للقيام بأمر معيّن، كتسجيل أسمائهم على قائمة عناوين البريد الإلكتروني.
 
 {% callout title="Evaluating Outreach Efforts On and Offline" %}
 
