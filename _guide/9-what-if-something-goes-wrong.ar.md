@@ -78,7 +78,7 @@ published: false
 
 **حكّم عقلك لتحديد متى يجب التدخل أو التجاهل**. إذا صادفت حفنةً من المستفزين عبر الإنترنت يردّدون الأمر نفسه مراراً وتكراراً ضمن حلقتهم الصغيرة، من دون متابعين كثر، فلا بأس من تجاهلهم. فليس من الحكمة أن تلفت نظر المزيد من الأشخاص من خارج حلقتهم إلى ما يطلقونه من هجمات أو أكاذيب. أما إذا لاحظت أنّ هذه الرسائل تخرج من نطاق هذه الحلقة الأصلية وتكتسب زخماً في حلقات أوسع، أو تلقى تغطية في وسائل الإعلام الإخبارية، فحريّ بك التصرّف في الحال.
 
-## Spot the Bot فتّش عن الحسابات الوهمية
+## فتّش عن الحسابات الوهمية
 
 تزداد شعبية الحسابات الوهمية الآلية على وسائل التواصل الاجتماعي كأداة بيد المنظمات التي تشنّ هجمات، وتنشر المعلومات المضللة، وبشكل عام تزعجك وتضيّع وقتك سدى.
 
@@ -115,9 +115,9 @@ published: false
 
 للاطلاع على توجيهات إضافية عن خطط التواصل في حالات الأزمات- لا سيما كردّ على الحوادث السيبرانية- اطلع على [نموذج خطة الاتصالات في الحوادث السيبرانية في أوقات الانتخابات](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). صحيح أنّ هذا النموذج أُعدّ لجمهور من الأحزاب السياسية، إلا أنه يشكل مورداً عظيماً لأي مجموعة ترغب في إعداد خطة منظمة للتواصل في حالات الأزمات، للتعامل مع الحوادث السيبرانية، بما في ذلك انتشار المعلومات المضللة أو تعرّض المواقع الإلكترونية وحسابات التواصل الاجتماعي للقرصنة.
 
-### YOUR TURN: Threats and Crises
+### حان دورك: التهديدات والأزمات
 
-**Make a list of the most likely threats or crises you are likely to face. These don't have to be very specific, but general types of threats or lines of attack.**
+**جهز قائمة بأبرز التهديدات أو الأزمات المرجّح أن تواجهها. ليس من الداعي أن تكون هذه القائمة محدّدة جداً، ولكن ينبغي أن تتضمّن الأنواع العامة من التهديدات أو الهجمات.**
 
 {% textarea label="1" id="threat1" size="small" button="false" %}
 
@@ -127,9 +127,9 @@ published: false
 
 {% textarea label="4" id="threat4" size="small" button="false" %}
 
-**For each type of crisis you might face, make a list of messages and materials you would need in a rapid-response situation and assign a person to prepare them by a deadline.**
+**بالنسبة إلى كل نوع من الأزمات التي قد تواجهها، أعدّ قائمة من الرسائل والمواد التي ستحتاج إليها في وضع يتطلب استجابةً سريعةً، وعيّن شخصاً لتحضيرها استناداً إلى مهلة زمنية معيّنة.**
 
-**Make a list of staff spokespeople and third-party validators you will need to help you in times of crisis.**
+**أعدّ قائمةً من الناطقين باسم المنظمة من ضمن الموظفين، وأطراف ثالثة يشهدون لمصداقيتك، ممّن ستستعين بهم في حالات الأزمات.**
 
 {% textarea label="1" id="validator1" size="small" button="false" %}
 
@@ -141,6 +141,6 @@ published: false
 
 {% textarea label="5" id="validator5" size="small" button="false" %}
 
-**Schedule time with your spokespeople and potential validators where you can practice crisis scenarios. Drill them with hard questions until they are confident staying on message and responding naturally.**
+**حدّد وقتاً يناسب الأشخاص الناطقين باسم منظمتك ومن سيشهد على مصداقيتك للتمرّن على سيناريوهات الأزمات. تدرّب معهم على الأسئلة الصعبة إلى أن يتمتعوا بما يكفي من الثقة للالتزام بالرسالة والإجابة عن الأسئلة بشكل عفوي.**
 
 #### _الشكر لميليسا راين من منظمة " Ctrl Alt-Right Delete" لخبراتها التي أغنت بها هذا القسم._
