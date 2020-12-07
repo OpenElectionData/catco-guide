@@ -1,22 +1,22 @@
 ---
 lang: ar
 uses_forms: false
-title: 11. What Have Others Tried?
-subtitle: Case Studies
+title: '11. ماذا جرّب الآخرون فعله؟ '
+subtitle: دراسات حالة
 image:
-  url: ""
-  caption: ""
-permalink: /11-what-have-others-tried/
+  url: ''
+  caption: ''
+permalink: "/11-what-have-others-tried/"
 published: false
+
 ---
+## دراسة حالة: نجوم يوتيوب يقابلون الرئيس أوباما
 
-## Case Study: YouTube Stars Interview President Obama
+في منتصف ولاية الرئيس باراك أوباما الثانية، شكّلت انتخابات منتصف المدة صفارة إنذار نبّهت إلى سلوك الناخبين الشباب في المستقبل. ففي انتخابات 2014، فقدَ حزب أوباما تسعة مقاعد في مجلس الشيوخ، خاسراً بذلك سيطرته على المجلس، كما فقد 13 مقعداً في مجلس النواب. كان معدّل المشاركة في الانتخابات متدنياً بين مختلف الفئات العمرية، وبالأخص بين ناخبي جيل الألفية.  ولما كانت عين أوباما على انتخابات 2016، فقد سعى، أملاً منه في ترسيخ إنجازات عهده، إلى إشراك جماهير جيل الألفية بهدف تعزيز الشعور بالحماس، ومعدّل التصويت، والمشاركة في برنامجه السياسي.
 
-Midway through President Barack Obama's second term, the midterm elections delivered a dire warning about young voters. In the 2014 elections, Obama's party lost nine Senate seats and control of the chamber, as well as losing 13 seats in the House of Representatives. Voter turnout was down among all age groups, but especially with millennial voters. With his eye on the 2016 elections and cementing his legacy achievements, Obama sought to engage millennial audiences in the hopes of increasing enthusiasm, turnout, and participation in his political agenda.
+في الواقع، شهدت انتخابات منتصف المدة لعام 2014 مشاركة 19.9% فقط من الناخبين بين 18 و29 عاماً: وهي أدنى مشاركة للشباب في خلال 40 عاماً، مع انخفاض ملحوظ بالمقارنة مع نسبة 24% الذين كانوا قد أدلوا بأصواتهم في انتخابات منتصف المدة لعام 2010. فعلم أوباما أنه إذا ما بقي هؤلاء الناخبون يشعرون بالفتور واللامبالاة، وامتنعوا عن المشاركة في انتخابات 2016 وما بعدها، فقد يشكّل هذا خطراً على العديد من إنجازاته السياساتية ويهدّد بإبطالها أو إضعافها، على غرار سياسات التغطية الصحية والهجرة.
 
-Only 19.9 percent of voters ages 18-29 voted in the 2014 midterms, the lowest youth turnout in 40 years and a significant drop from the 24 percent that had cast ballots in 2010 midterms. Obama knew that if those voters remained disengaged and didn't turn out in 2016 and beyond, many of his signature policy achievements would be in danger of being overturned or weakened -- policies like expanded health coverage and a more humane immigration policy for undocumented immigrants who had arrived in the country as children.
-
-Rather than go to the same media outlets that he had relied on up to this point, Obama's communications team decided to speak to this younger audience through trusted messengers and on platforms and channels that already attracted young people -- rather than trying to attract young people to the platforms and channels that Obama was more familiar or comfortable with. His communications team took a broad look at the media and social media landscape and realized that many young people were on YouTube, where YouTube stars unknown to the general public had millions of young subscribers to their channels.
+لكن عوضاً عن التوجه إلى وسائل الإعلام نفسها التي كان قد اعتمد عليها حتى تلك المرحلة، قرّر فريق الاتصالات الخاص بأوباما مخاطبة هذا الجمهور الأصغر سناً من خلال أشخاص جديرين بالثقة وعبر منصات وقنوات تجذبهم. فقد استنتج الفريق أنّ محاولة جذب الشباب إلى المنصات والقنوات التي كان أوباما يستخدمها، أو يرتاح إليها عادةً، غير فعال. وما كان منه إلا أن أجرى مسحاً لمشهد الإعلام ووسائل التواصل الاجتماعي، وأدرك أنّ العديد من الشباب يستخدمون موقع يوتيوب. بالفعل، يتمتع نجوم يوتيوب غير المعروفين بالنسبة إلى الجمهور العريض بملايين من الشباب المشتركين بقنواتهم.
 
 {% figure caption:"President Barack Obama participates in an interview with YouTube and Google+ to discuss his State of the Union address in the Roosevelt Room of the White House, Jan. 30, 2012." %}
 
@@ -24,21 +24,19 @@ Rather than go to the same media outlets that he had relied on up to this point,
 
 {% endfigure %}
 
-The Obama team reached out to Hank Green, Bethany Mota, and GloZell Green asking them each to interview the president the day after the State of the Union. That is traditionally a time when the president touts his policy vision and agenda in traditional media outlets. Instead, Obama spent 15 minutes each with Hank Green, one of the “Vlog Brothers” with a following of more than 3 million; Bethany Mota, a young woman with more than 10 million followers who creates videos about style, travel, beauty, and cooking; and GloZell Green, the most-followed African American woman on YouTube, whose signature green lipstick and funny videos are watched by her 4+ million subscribers.
+تواصل فريق أوباما مع هانك غرين، وبيثاني موتا، وغلوزيل غرين، طالباً من كل واحد فيهم إجراء مقابلة مع الرئيس في اليوم التالي لخطاب حالة الاتحاد. وقد جرت العادة أن يعرض الرئيس رؤياه السياساتية وبرنامجه عبر وسائل الإعلام التقليدية في مثل هذه المناسبة. عوضاً عن ذلك، خصّ أوباما 15 دقيقة لكلّ من هانك غرين، من مدونة "الأخوان فلوغ" التي تحظى بأكثر من 3 ملايين متابع؛ وبيثاني موتا، شابة لديها أكثر من 10 ملايين متابع تنتج فيديوهات عن الموضة، والسفر، والجمال، والطهي؛ وغلوزيل غرين، الأميركية ذات الأصول الأفريقية التي تحظى بأكبر قدر من المتابعين على يوتيوب، والمعروفة باستخدام "أخضر الشفاه" وإنتاجها فيديوهات مضحكة يتابعها أكثر من 4 ملايين مشترك.
 
-While none of the YouTube stars had much (or any) experience with political topics, each shared the common traits of having large audiences that the president wanted to speak to, a different and signature style, and an authenticity that their subscribers trusted and believed in.
+صحيح أنّ أياً من نجوم يوتيوب هؤلاء لم تكن لديه خبرة كبيرة (أو أي خبرة على الإطلاق) في ما يتعلق بالمواضيع السياسية، إلا أنّهم كانوا يتمتعون بخصائص مشتركة هي جذبهم لشرائح كبيرة من الجماهير التي كان الرئيس يريد مخاطبتها، كما كان لكلّ منهم أسلوب مختلف وخاص به، ومصداقية عكست ثقة متابعيهم وإيمانهم بهم.
 
-To ensure that the interviews and encounters were authentic and “on brand” for the stars' regular subscribers, the Obama team let the YouTubers be themselves and drive the conversation. The interviews took place at the White House, but each YouTube star brought a backdrop that reflected their personality and brand, making each interview feel different and intimate. Their questions were not vetted by the Obama team and included some that challenged the president and his policies -- questions about his use of drone technology, racist policing, and sanctions on North Korea. There were also some moments of silliness, like when GloZell gave President Obama a gift for his “first wife” (instead of calling her the First Lady).
+في هذا الإطار، لضمان أن تكون المقابلات واللقاءات حقيقية وأن تعكس "العلامة التجارية" بالنسبة إلى المشتركين المنتظمين في قنوات نجوم يوتيوب، سمح لهم فريق أوباما أن يكونوا على طبيعتهم ويقودوا مجرى الحديث. انعقدت المقابلات في البيت الأبيض، لكنّ كل نجم من نجوم يوتيوب حمل معه خلفيةً عكست شخصيته وعلامته التجارية، مما جعل كل مقابلة أكثر حميمية ومختلفةً عن الأخرى. لم تخضع الأسئلة لتدقيق من فريق أوباما، وقد تضمّنت بعض الأسئلة التي طعنت في الرئيس وسياساته، بما في ذلك أسئلة عن استخدامه تكنولوجيا الطائرات بلا طيار، وضبط الأمن القائم على العنصرية، والعقوبات المفروضة على كوريا الشمالية. فضلاً عن ذلك، شهدت المقابلات بعض اللحظات المضحكة، كما حدث عندما أعطت غلوزيل الرئيس أوباما هديةً إلى "زوجته الأولى" (عوضاً عن تسميتها "السيدة الأولى"). فضلاً عن ذلك، طرح نجوم يوتيوب أسئلةً ذات طابع غير سياسي أفسحت المجال أمام لحظات من التواصل الحقيقي، كما حدث  عندما سألت بيثاني موتا الرئيس عن القدرة الخارقة التي سيختار التمتع بها لو قُدّر له ذلك. (فأجاب أوباما أنه سيختار القدرة على الطيران أو إتقان كل لغات الأرض.)
 
-There were also nonpolitical questions that allowed for moments of authentic connection, like when Bethany Mota asked the president what super power he'd choose. (Obama said he'd like to be able to fly or speak every language.)
+بالإضافة إلى ذلك، ناقش أوباما مع غلوزيل إرثه وسجل أعماله أثناء ولايته، فضلاً عن التحديات التي ستواجهها الولايات المتحدة في المستقبل. وقد سألته بيثاني موتا التي كانت في التاسعة عشرة من عمرها عند إجراء المقابلة عن الأسباب التي قد تدفع الشباب مثلها إلى الاهتمام بالسياسة. فتمكّن أوباما من شرح الطرق التي تُؤثّر عبرها السياسة والحكومة على حياة الشباب بشكل مباشر، قائلاً: "ما من قرار نتّخذه في حياتنا لا يتأثر بطريقة أو بأخرى بقوانينا، ونحن محظوظون لأننا نعيش في نظام ديمقراطي حيث يُعتبر صوتنا مهماً". ومع أنّ أوباما وجّه كلامه إلى بيثاني، إلا أنه كان يخاطب، في الوقت نفسه، مشتركيها العشرة ملايين الذين امتنع الكثير منهم عن الاقتراع في الانتخابات الأخيرة.
 
-Obama discussed his legacy with GloZell and the challenges the U.S. faces in the future. Bethany Mota, 19 years old at the time of the interview, asked about why young people like herself should pay attention to politics, and Obama was able to explain the ways politics and government affect young people's lives directly. “There's no decision in our lives that isn't touched in some ways by our laws, and we're lucky we live in a democracy where our voice matters,” he told her and, by extension, her 10 million subscribers, many of whom had sat out the last election.
+حظيت المقابلات بأكثر من 5 ملايين مشاهدة من جمهور غلب عليه جيل الألفية.
 
-The interviews were watched more than 5 million times by a predominantly millennial audience.
+شاهد المقابلات على هذا الرابط: [https://youtu.be/GbR6iQ62v9k](https://youtu.be/GbR6iQ62v9k "https://youtu.be/GbR6iQ62v9k")
 
-Watch the interviews: [https://youtu.be/GbR6iQ62v9k](https://youtu.be/GbR6iQ62v9k "https://youtu.be/GbR6iQ62v9k")
-
-You can also see great examples of Barack Obama using non-traditional platforms and outlets to reach young audiences on [Marc Maron's podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama), [Funny or Die](https://www.youtube.com/watch?v=UnW3xkHxIEQ), [Buzzfeed](https://www.facebook.com/watch/?v=1631492713658271), and [Vine](https://www.youtube.com/watch?v=XQCFdOOUDtM).
+يمكنك الاطلاع على أمثلة عظيمة أخرى عن كيفية استخدام باراك أوباما لمنصات وأدوات غير تقليدية للتواصل مع الجماهير الشابة على [بودكاست مارك مارون](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama) ([Marc Maron’s podcast](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama)[فاني أور داي](https://www.youtube.com/watch?v=UnW3xkHxIEQ) (Funny or Die), [بازفيد](https://www.facebook.com/BuzzFeedVideo/videos/1631492713658271/) (Buzzfeed)، [وفاين](https://www.youtube.com/watch?v=XQCFdOOUDtM) (Vine).
 
 ## Case Study: Telling Stories in Support of LGBTI Rights
 
