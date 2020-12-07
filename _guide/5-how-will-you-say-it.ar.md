@@ -124,9 +124,9 @@ published: false
 
 ### حان دورك:منتجات التواصل
 
-**Look at your goals, audiences, and messages. Brainstorm different ways of packaging each message that will resonate best with the audiences you're targeting and advance your goals. راجع أهدافك، وجماهيرك، ورسائلك. فكّر ملياً في طرق مختلفة لصياغة كل رسالة بطريقة تخلّف أفضل وقع على الجماهير التي تستهدفها وتساهم في تحقيق أهدافك.**
+**راجع أهدافك، وجماهيرك، ورسائلك. فكّر ملياً في طرق مختلفة لصياغة كل رسالة بطريقة تخلّف أفضل وقع على الجماهير التي تستهدفها وتساهم في تحقيق أهدافك.**
 
-**Be creative about the communications products you want to produce, and how you might repurpose them to communicate with multiple audiences. كن خلاقاً بشأن منتجات التواصل التي تريد العمل عليها، وحدّد كيف يمكنك إعادة توظيفها للتواصل مع جماهير متعددة.**
+**كن خلاقاً بشأن منتجات التواصل التي تريد العمل عليها، وحدّد كيف يمكنك إعادة توظيفها للتواصل مع جماهير متعددة.**
 
 {% textarea label="الرسالة الأساسية" id="Topline Message" size="large" button="false" %}
 
@@ -136,7 +136,7 @@ published: false
 
 {% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 1" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 1" size="large" button="false" %}
+{% textarea label="ضع قائمة بمنتجات الاتصال التي ستستخدمها لإشراكهم." id="communication products 1" size="large" button="false" %}
 
 **2 الجمهور المستهدف**
 
@@ -144,7 +144,7 @@ published: false
 
 {% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 2" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 2" size="large" button="false" %}
+{% textarea label="ضع قائمة بمنتجات الاتصال التي ستستخدمها لإشراكهم." id="communication products 2" size="large" button="false" %}
 
 **3 الجمهور المستهدف**
 
@@ -152,7 +152,7 @@ published: false
 
 {% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 3" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 3" size="large" button="false" %}
+{% textarea label="ضع قائمة بمنتجات الاتصال التي ستستخدمها لإشراكهم." id="communication products 3" size="large" button="false" %}
 
 **4 الجمهور المستهدف**
 
@@ -160,4 +160,4 @@ published: false
 
 {% textarea label="ما الرسالة التي ستستخدمها؟" id="Message 4" size="small" button="false" %}
 
-{% textarea label="List the communication products you will use to engage them" id="communication products 4" size="large" button="false" %}
+{% textarea label="ضع قائمة بمنتجات الاتصال التي ستستخدمها لإشراكهم." id="communication products 4" size="large" button="false" %}
