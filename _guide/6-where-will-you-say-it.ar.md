@@ -277,17 +277,17 @@ published: false
 
 {% textarea label="ما هي منصات إرسال الرسائل الرائجة ومع من تلقى رواجاً؟" id="messaging platforms" size="small" button="false" %}
 
-{% textarea label="How do you get your information?" id="gather information" size="small" button="false" %}
+{% textarea label="كيف تحصل على معلوماتك؟" id="gather information" size="small" button="false" %}
 
-{% textarea label="How do your parents get their information?" id="parents" size="small" button="false" %}
+{% textarea label="كيف يحصل والداك على معلوماتهما؟" id="parents" size="small" button="false" %}
 
-{% textarea label="How do your grandparents get their information?" id="grandparents" size="small" button="false" %}
+{% textarea label="كيف يحصل أجدادك على معلوماتهم؟" id="grandparents" size="small" button="false" %}
 
-{% textarea label="How do your grandparents get their information?" id="children" size="small" button="false" %}
+{% textarea label="كيف يحصل أولادك على معلوماتهم؟" id="children" size="small" button="false" %}
 
-**Now start matching up the different communications channels to your target audiences. Rely on your audience research here, if possible, rather than guessing.**
+**والآن، ابدأ بمطابقة مختلف قنوات الاتصال مع جماهيرك المستهدفة. اعتمد على البحث الذي أجريته حول الجماهير إذا استطعت ذلك، عوضاً عن الاكتفاء بالتكهنات.**
 
-Continuing our example, your communications plan might start to look like this:
+استئنافاً للمثال الذي طرحناه، لربما أصبحت خطة الاتصالات الخاصة بك على الشكل التالي:
 
 <table>
 <thead>
@@ -321,18 +321,18 @@ Continuing our example, your communications plan might start to look like this:
 </tbody>
 </table>
 
-## Go To People Where They Are
+## توجّه إلى الأشخاص حيثما يكونون
 
 {% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representatives conduct public outreach.](/assets/images/pace_2.jpg "PACE")
 
 {% endfigure %}
 
-Remember to try to go to people where they already are. If your target audience is mostly on Facebook, don't try to contact them via email. If your target audience gets most of their news in the daily paper, don't play radio ads for them. If your target audience gets most of their news at the barber shop, you need to consider a barber outreach program.
+تذكّر أن تحاول مخاطبة الأشخاص حيث يكونون. فإذا كان جمهورك المستهدف يقضي معظم وقته على فايسبوك، لا تحاول التواصل معه عبر البريد الإلكتروني. وإذا كان جمهورك المستهدف يستقي معظم أخباره من الصحف اليومية، لا تتوجّه إليه بالإعلانات الإذاعية. أما إذا كان جمهورك يستقي معظم أخباره من صالون الحلاقة، ففكّر في تطبيق برنامج للتواصل مع الحلاقين.
 
-Since you may not belong to the demographics you're reaching out to, you may not be fluent in the ways people are communicating with each other on these different channels.
+بما أنك قد لا تنتمي إلى الفئة الديموغرافية التي تتواصل معها، قد لا تتقن الطرق التي يعتمدها الأشخاص للتواصل مع بعضهم على هذه القنوات المختلفة.
 
-In this case, spend as much time as you can researching and exploring the different online and offline channels before diving in. If your audience is on Facebook and you are not a member, join. See how people interact with each other and like different pages. Assess what kinds of content spark the most conversation or comments, the tone with which people speak to each other, what slang or abbreviations might be popular on the site, how often people post, and so on. Try to get familiar with how to use the platform before you increase your organization's use of it.
+في هذه الحالة، خصّص قدر ما تستطيعه من الوقت لإجراء الأبحاث اللازمة والتعمّق في مختلف القنوات قبل الانطلاق في مهمّتك. فإذا كان جمهورك موجوداً على فايسبوك ولم تكن عضواً في هذه الشبكة، انضم إليها سريعاً. تبيّن كيف يتفاعل الأشخاص مع بعضهم ويبدون إعجابهم بصفحات مختلفة. قيّم أنواع المحتويات التي تولّد أكبر قدر من التعليقات أو تحفّز على النقاش، فضلاً عن النبرة التي يعتمدها الأشخاص مع بعضهم، والكلمات الدارجة أو الاختصارات التي يكثر استخدامها على المنصة، وكل متى يقدم الأشخاص على النشر، وهكذا دواليك. حاول أن تطّلع أكثر على كيفية استخدام المنصة قبل أن تضاعف استخدام منظّمتك لها.
 
-If your audience listens to a certain radio program during which you want to buy advertising, listen to that program for a couple of weeks and take note of the advertising. What type and tone of advertising is already there? What does the radio program's content say about the likes and interests of your audience? If you are targeting a specific blogger, read that person's blog, post comments to the blog, and strike up a relationship with the blogger to the extent possible through available channels.
+إذا كان جمهورك يصغي إلى برنامج إذاعي معيّن تنوي شراء إعلانات فيه، أصغِ إلى هذا البرنامج لأسبوعين تقريباً مسجّلاً الإعلانات الواردة فيه. ما هو نوع هذه الإعلانات ونبرتها؟ ماذا يعكس محتوى البرنامج الإذاعي عن الأمور التي تُعجب جمهورك وتثير اهتمامه؟ أما إذا كنت تستهدف مدوّناً إلكترونياً معيّناً، فاقرأ مدوّنته، وعلّق عليها، ثم انسج علاقة ودية مع هذا المدوّن قدر الإمكان من خلال القنوات المتوفرة.
 
-Do not try to lure people away from the networks they're already a part of just because you are uncomfortable or unaware of those networks. If you have an active and interesting Twitter feed but all of your potential supporters are on Facebook, you are wasting your time.
+لا تحاول أن تقنع الأشخاص بالابتعاد عن الشبكات التي يستخدمونها لمجرّد أنك لا تشعر بالارتياح إلى استخدامها أو لا تدرك بوجودها. إذا كنت ناشطاً على تويتر ولديك مضمون مثير للاهتمام، في حين أن كل مناصريك المحتملين يستخدمون فايسبوك، فأنت تهدر وقتك سدىً.
