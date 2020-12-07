@@ -7,7 +7,6 @@ image:
   url: ''
   caption: ''
 permalink: "/11-what-have-others-tried/"
-published: false
 
 ---
 ## دراسة حالة: نجوم يوتيوب يقابلون الرئيس أوباما
