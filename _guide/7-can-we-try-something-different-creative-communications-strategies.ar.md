@@ -60,11 +60,11 @@ published: false
 
 في بعض الأحيان، قد تنطوي خطتك على التواصل مع جماعات المعجبين وتنظيمهم. والمعجبون، في هذه الحالة، هم مجموعات منظّمة ذاتياً من الأشخاص الذين يحبّون فيلماً معيّناً، أو كتاباً، أو قصة مصوّرة، أو برنامجاً تلفزيونياً، أو فناناً، أو موسيقياً، أو فريقاً رياضياً إلخ. تتشكّل جماعات المعجبين غالباً عبر الإنترنت على منصات معيّنة أو استناداً إلى هاشتاغات محددة، كما يمكن أن يجتمعوا شخصياً للاستمتاع بعروض، أو مشاهدة مباريات، أو المشاركة في مؤتمرات. تُطوّر هذه الجماعات، في أغلب الأحيان، عاداتها ومفرداتها ومعاييرها الخاصة. من الأمثلة على ذلك قيام المعجبين بفيلم "الفهد الأسود" (بلاك بانتر) (وهو فيلم شهير عن بطل خارق تجري أحداثه في بلد أفريقي خيالي اسمه "واكاندا") بتنظيم حملة "واكاندا التصويت" هدفها تسجيل الأشخاص القادمين لمشاهدة الفيلم للتصويت. لم تهدف الفكرة إلى مشاهدة فيلم عن بلد خيالي نشأ بفضل قوة الشعب الأسود فحسب، بل إلى بناء قوة السود في العالم الحقيقي أيضاً.
 
-{% callout title="استخدام الفكاهة والفنون لنقل رسالة" %} 
+{% callout title="استخدام الفكاهة والفنون لنقل رسالة" %}
 
 في ماليزيا، اختبر ائتلاف الانتخابات النظيفة والنزيهة [(BERSIH 2.0)](http://www.bersih.org/ "BERSIH 2.0") استخدام عدد من التكتيكات الفنية والثقافية لحث الجمهور على الاهتمام بموضوع إعادة ترسيم الدوائر الانتخابية والمشاركة فيه. فعرض مشاهد من أفلام، تلتها جلسات مناقشة. كما نظم سلسلة من الحفلات الموسيقية لنشر التوعية بشأن القضية. فضلاً عن ذلك، نظّم عرضاً كوميدياً ارتجالياً، مشجعاً الفنانين على استخدام مواد عن الجمعية نفسها والقضايا التي تنادي بها- حتى وإن عنى ذلك السخرية من هذه القضايا والجمعية- في محاولة منه للتعليم من خلال الضحك. فنال هذا البرنامج الكوميدي شعبيةً كبيرةً لدرجة أنه تم تمديده. وانتهى الأمر بعرضه لمدة 10 أيام، بحضور 300- 400 شخص في كل مرة.
 
- {% endcallout %}
+{% endcallout %}
 
 إذا كنت تنوي التواصل مع مجموعات المعجبين، إليك بعض النصائح العملية التي ينبغي أخذها في الاعتبار:
 
@@ -72,37 +72,37 @@ published: false
 * **صغِ.** خصّص بعض الوقت للإصغاء إلى المعجبين لفهم كيف يتفاعلون مع بعضهم، وما هي الإشارات والدعابات الداخلية التي لا يفهمها إلا هم، وما أكثر ما يحبّونه بشأن الموضوع الذي يكنّون له إعجاباً. لا بأس باستراق النظر إليهم على الإنترنت أو في اجتماعاتهم لفترة، مكتفياً بالقراءة أو الإصغاء لتكوّن فكرةً عن النبرة والمواضيع التي ينبغي استخدامها عندما تصبح جاهزاً للتفاعل معهم.
 * **تفاعل معهم بصدق.** لا تحاول دوماً أن تقحم نقاط الكلام الخاصة بك أو عنوان موقعك الإلكتروني في الحديث، بل تفاعل مع المعجبين بصدق وافتح معهم حواراً حقيقياً. استخدم رسالتك عندما تشعر أنّ هذه الحركة ستكون عفوية وغير مصطنعة.
 
-## The Power of Comedy
+## قوّة الكوميديا
 
-#### _This section is largely based on the work and findings of Caty Borum Chattoo's research and report_ [_The Laughter Effect_](http://cmsimpact.org/program/comedy/ "http://cmsimpact.org/program/comedy/")_._
+#### _هذا القسم، بدرجة كبيرة، على عمل كايتي بوروم شاتو والنتائج التي توصّلت إليها من خلال تقرير:_ [_The Laughter Effect_](http://cmsimpact.org/program/comedy/)_._
 
-Using humor and comedy in your communications can help your message break through and stick -- even when the issues themselves aren't lighthearted or humorous.
+لا يخفى عليك أنّ استخدام الفكاهة والكوميديا في اتصالاتك قد يساعد رسالتك على كسر الحواجز والبقاء عالقةً في ذاكرة الأشخاص- حتى وإن لم تكن القضايا نفسها مبهجة أو باعثة على الفكاهة.
 
-There are a couple of messaging pitfalls that comedy can help overcome: messages that are over-complicated, and messages that are dire or hopeless. Sometimes democracy issues can be hard to understand and the details are often very specialized and technical -- for example, the importance of reforming an electoral code. It might make the difference between credible elections or not -- but once you start talking about the legal framework, people may get bored and stop listening to you. There is also the danger that, especially in closing spaces, the situations you are addressing feel dire and hopeless -- there is nothing but bad news. When people feel hopeless they are again likely to stop listening to you. They don't want to be reminded that things are bad, and the path forward is arduous.
+يمكن للكوميديا أن تساعد في التغلب على ثغرتين تشوبان بعض الرسائل: أي الرسائل التي تكون معقدة جداً وتلك التي تكون بائسة أو ميؤوس منها. في بعض الأحيان، يصعب فهم قضايا الديمقراطية، كما تكون التفاصيل المحيطة بها متخصصة ومغالية في تقنيتها غالباً، كأهمية إصلاح قانون الانتخابات مثلاً. فالقانون الانتخابي هو الذي يميّز بين انتخابات ذات مصداقية وأخرى مزوّرة، لكن ما إن تبدأ بالحديث عن الإطار القانوني، قد يُصاب الناس بالملل ويتوقفون عن الإصغاء إليك. هذا من جهة. أما من جهة أخرى، فهناك أيضاً خطر أن تبدو الأوضاع التي تريد معالجتها، لا سيما في المساحات المغلقة، بائسةً وميؤوساً منها، بحيث لا تحمل الرسالة إلا أخباراً سيئة. وعندما يشعر الأشخاص باليأس، سيتوقفون، في هذه الحالة أيضاً، عن الإصغاء إليك. فهم لا يريدون من يذكّرهم بسوء الأوضاع وبأنّ الطريق إلى الأمام شاقة ووعرة.
 
-The power of comedy is in humanizing issues and generating positive emotions about something that might otherwise seem dull, overly complicated, or hopeless.
+لعلّ قوة الكوميديا تكمن في أنها تضفي طابعاً إنسانياً وتولّد عواطف إيجابية بشأن شيء كان ليعتبر مملاً، أو معقداً جداً، أو ميؤوساً منه لو لم يكن من ذلك.
 
 {% figure caption:"Academy on Strengthening Citizen Observation in Closing Spaces. NDI Photo." class:"left" %}  
 ![Academy on Strengthening Citizen Observation in Closing Spaces.](/assets/images/comedy-1-1.jpg "NDI Photo") {% endfigure %}
 
-Research shows that people take seriously the information they learn through comedy. By introducing a topic and information through humor, people's minds are more open and ready to absorb otherwise challenging or complicated information. Comedians are often trusted messengers because they are seen as telling the truth or poking fun at power structures. This makes comedy an effective strategy for getting people to learn, care about, and take action on issues that might otherwise seem overly complicated, dull, or pessimistic.
+أظهرت الأبحاث أنّ الأشخاص يتعاملون مع المعلومات التي اكتشفوها من خلال الكوميديا بجدية. فمن خلال التعبير عن موضوع معيّن والمعلومات المحيطة به بالفكاهة، تصبح العقول أكثر انفتاحاً وجهوزية لاستيعاب المعلومات الصعبة أو المعقدة. في هذا الإطار، يُعتبر الفنانون الكوميديون غالباً رسلاً مؤتمين على رسائلهم، حيث يُنظر إليهم على أنهم يقولون الحقيقة أو يسخرون من أنظمة القوى. وهذا يجعل من الكوميديا استراتيجية فعالة لتعريف الناس على القضايا التي كانت، لولاها، لتكون معقدة جداً، أو مملة، أو باعثة على التشاؤم، وجعلهم يهتمون بها، ويتّخذون التحركات بشأنها.
 
-There are, of course, times when a light-hearted or humorous approach is inappropriate. But this approach is overlooked often and is so effective that it should at least be considered and integrated when appropriate.
+بطبيعة الحال، لا تكون المقاربة الفكاهية أو المبهجة مناسبةً في سائر الأوقات. لكن غالباً ما يتمّ الاستخفاف بهذه المقاربة، مع أنها من الفعالية ما يجعل من الضروري التفكير فيها والاستعانة بها عند الاقتضاء.
 
-## The Format of Your Comedy Matters
+## للصيغة والشكل دور مهمّ
 
-There are a number of ways to introduce humor into your communications, and each serves a different purpose and conveys different cues about your message. It's not enough to decide you want to integrate humor into your messaging -- think carefully about what kind of humor is appropriate for the context and best serves your purposes.
+تتعدّد طرق استخدام الفكاهة في اتصالاتك. تخدم كل طريقة هدفاً مختلفاً وتعبّر عن جوانب مختلفة من رسالتك. لذا، لا يكفي أن تقرّر أنك تريد دمج الفكاهة في رسالتك، بل ينبغي التفكير ملياً وتحديد أي نوع من الفكاهة يُعتبر ملائماً للسياق، ويخدم أهدافك على أفضل نحو.
 
-* **Satirical news.** Satirical news points out and reframes absurdity. For it to work, your audience must have some basic familiarity with the situation being satirized, or they will not understand it or find it funny. Satire is good for motivating the base of people who already agree with you, but is likely to alienate or turn off people who don't agree with you.
-* **Scripted, comedic storytelling.** Funny scripted stories -- TV shows, public service announcements (PSAs), movies, online videos, etc. -- are great for creating relationships between the viewers and your characters. This understanding or empathy can help normalize unfamiliar experiences and expose the viewer to people or situations they might not otherwise encounter.
-* **Humorous ads.** Making someone laugh in a short amount of time captures their attention and sticks in their memory. Humorous ads -- print, online, televised, or radio -- work to quickly grab your attention and can be very memorable. They can also spark discussion and sharing with friends and family.
-* **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
+* **الأخبار التهكمية**. تشير الأخبار التهكمية إلى ما يُعتبر سخيفاً أو منافياً للمنطق وتعيد تأطيره. لكي تنجح، يجب أن يكون جمهورك متآلفاً مع الوضع الذي تتم السخرية منه، وإلا فلن يفهم المغزى ولن يجده مضحكاً. التهكّم جيد لتحفيز قاعدة الناس الذين يدعمونك في الرأي، لكن من المرجح أن ينفّر ذلك الأشخاص الذين لا يتفقون معك في الرأي أو يبعدهم عنك.
+* **سرد القصص الكوميدية المرتكزة على سيناريو .** تُعتبر القصص المضحكة القائمة على سيناريو- كالبرامج التلفزيونية، وإعلانات الخدمة العامة، والأفلام، والفيديوهات الإلكترونية إلخ.- أداةً عظيمةً لنسج العلاقات بين المشاهدين والشخصيات. فمن شأن هذا التفهم أو التعاطف أن يساعد في تعميم التجارب غير المألوفة، ويعرّف المشاهد على أشخاص أو أوضاع قد لا يصادفونها عادةً.
+* **الإعلانات الفكاهية.** من شأن إضحاك شخص ما في مدة قصيرة أن يستحوذ على انتباهه ويجعله يتذكّر ذلك لوقت طويل. في هذا الإطار، تساهم الإعلانات الفكاهية- أفي الإعلام المكتوب، أم الإلكتروني، أم التلفزيوني، أم الإذاعي- في جذب اهتمام الأشخاص بسرعة، كما يمكن أن تعلق في الذاكرة لوقت طويل. فضلاً عن ذلك، قد تشعل شرارة النقاش والتشارك بين أفراد الأسرة والأصدقاء.
+* **الكوميديا الارتجالية والاسكتشات.** قد يكون هذا النوع من الكوميديا مدخلاً إلى مواضيع أطول، ويساعد الناس على تقييمها بعين ناقدة، ويكسر المحظورات.
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you're funny and therefore successful.
 
-## How Comedy Works
+## طريقة عمل الكوميديا
 
-There are five main ways comedy works to influence your audience:
+هناك خمس  طرق أساسية تؤثّر من خلالها الكوميديا على جمهورك:
 
 ![](/assets/images/catco image-2.png)
 
