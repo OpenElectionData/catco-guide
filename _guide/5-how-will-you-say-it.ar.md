@@ -74,27 +74,27 @@ published: false
 * **الرسوم التفاعلية** قد تساعد في اختصار الأفكار المعقدة وتحويلها إلى مفاهيم بسيطة وأقرب إلى الناس. ويمكنك، من خلالها، أن تعتمد على الفكاهة بكل سهولة للتفاعل مع جمهورك.
 * **كن خلاقاً** بشأن الطرق الأخرى الممكن استخدامها لسرد قصتك بصرياً. لربما يستطيع أحد الرسامين أو الروائيين التصويريين أن يبتكر قصةً إيضاحيةً على طريقة القصص المصوّرة، أو قد يتمكّن أحد الفنانين من إعداد ملصقات لافتة بصرياً أو نشرات تقوم بتوزيعها.
 
-{% callout title="فضِّل الصدق على ركوب الموجة السائدة" %} 
+{% callout title="فضِّل الصدق على ركوب الموجة السائدة" %}
 
 في بيلاروسيا، اتّكلت مجموعة مراقبة الانتخابات ([Right To Choose (R2C)](https://pvby.org/en "Right To Choose") / الحق بالاختيار) على الميمات وملأت بها صفحاتها على وسائل التواصل الاجتماعي. لكنّ هذه الميمات مُنيت بالفشل. فالنبرة لم تكن مناسبة، وشعر الناس أنها غير صادقة، وكاذبة، وغير جدية. في الواقع، لقد شعر الجمهور وكأنّ هذه الميمات تستخف به وتستصغره. بالفعل، بدل نشر الميمات التي تنتقد الرئيس والسلطات الحاكمة من دون تفكير، كان الناس يريدون لمس الأدلة واتّخاذ قرارهم بأنفسهم.
 
 اليوم، يركّز محتوى المجموعة على وسائل التواصل الاجتماعي على المضمون الصادق والواضح المبني على الحقائق، عوضاً عن إعادة استخدام ميمات لا تمتّ إلى الموضوع بصلة. {% endcallout %}
 
-## Audio and Video Content
+## المحتوى السمعي والبصري
 
 {% figure caption:"Photo: NDI Kosovo" class:"right" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
 
 {% endfigure %}
 
-Audio and video content can be great for capturing stories, conveying information in a short period of time, and connecting emotionally with your audience. Here are some tips for producing great video or audio content:
+قد يكون المحتوى السمعي والبصري طريقة رائعة لإبراز التحقيقات، ونقل المعلومات خلال فترة قصيرة، والتواصل مع جمهورك على المستوى العاطفي. في ما يلي بعض النصائح لإنتاح محتوى سمعي وبصري على قدر عال من الجودة:
 
-* **Film quality:** There is no one single rule for the quality of a video, but the quality should reflect the larger message and point you're trying to get across. A video from inside a polling station taken on a cell phone or in the middle of a protest may be shaky or grainy, but that conveys authenticity. However, an explainer video that's meant to establish your professionalism and expertise should be well-shot and nicely edited to get that point across.
-* **Length:** There is also no one single rule for the length of your video. As with text, be sure to include the most important information at the start of your video. People will rarely watch past the first minute, and on social media they will likely not watch past 10 seconds. Starting with an introduction to the topic or the speaker is wasting precious seconds that aren't conveying the most important information. But, while remaining concise and getting to the point quickly, you should take the time you need to convey your information, narrative, and point of view effectively.
-* **Sound:** If you are producing audio clips for social media, radio, or podcasting, try to capture clear, high-quality sound. People are much more forgiving of bad visuals than bad sound. If you are conducting an interview, do it in a quiet place, preferably with a good microphone. If you are trying to capture ambient sounds or crowd noise, again be aware of where your microphone is pointing and what it is capturing in an attempt to keep sound clear and high-quality.
-* If you are taking video or audio clips with your phone, be aware that the microphone will be closer to you than to your subject. The microphone will be more likely to pick up your instructions or your side of the conversation due to proximity. To make this easier to fix or edit later, avoid speaking over your subject. Let your subject say everything they need to say without interruptions, then ask the next question or give the next instruction when they have finished speaking.
-* **Subtitles:** If you plan to post your video to social media, be sure to subtitle it. Most people scrolling through Facebook or Instagram will not have their sound turned on. In addition, if people in the video are speaking in the local language you may want to consider subtitles in English, especially if your audience is the international community.
+* **جودة الأفلام**: ليس من قاعدة واحدة لا غير لضمان جودة شرائط الفيديو، لكن يجدر بالأفلام ذات النوعية الجيدة أن تعكس الرسالة الأكبر والمغزى الذي تحاول التعبير عنه. صحيحٌ أنّ صور الفيديو الذي تلتقطه داخل محطة الاقتراع عبر هاتفك الجوال، أو في خضم تظاهرة ما، قد تكون مشوّشة أو غير واضحة، لكنها تعكس إحساساً بالصدق والواقعية. أما إذا كنت تريد إنتاج فيديو لشرح خبراتك وتكريس احترافك، فيجب أن يكون مصوَّراً ببراعة ومنتجاً بشكل لافت لكي تتمكّن من إيصال فكرتك.
+* **المدة:** ليس من قاعدة واحدة لا غير لتحديد مدة شرائط الفيديو. كما هي الحال بالنسبة إلى المضمون، احرص على إدراج المعلومات الأهم في بداية الفيديو. فنادراً ما يتابع الأشخاص المشاهدة لما يتعدّى الدقيقة الأولى، لا بل من غير المرجّح أن يشاهدوا أكثر من 10 ثوانٍ على وسائل التواصل الاجتماعي. أما البدء بمقدّمة للتعريف بالموضوع أو بالمتحدّث، فيشكّل هدراً لثوانٍ ثمينة لا تقوم فيها بنقل أبرز المعلومات. هذا من جهة، أما من جهة أخرى، فرغم ضرورة المحافظة على الإيجاز والدخول إلى صلب الموضوع بسرعة، يجب أيضاً تخصيص الوقت اللازم لإيصال معلوماتك، وقصتك، ووجهة نظرك بطريقة فعالة.
+* **الصوت**: إذا كنت تنتج مقاطع صوتية لنشرها على وسائل التواصل الاجتماعي، أو الإذاعات، أو عبر البودكاست، احرص على أن يكون الصوت واضحاً وذا جودة عالية. يتسامح الأشخاص مع الصور الرديئة أكثر مما يتسامحون مع تسجيل صوتي رديء. إذا كنت تجري مقابلة، افعل ذلك في مكان هادئ، ويُفضّل أن تستعين بميكروفون ذي نوعية جيدة. أما إذا كنت تحاول إبراز الأصوات المحيطة أو جلبة الحشود، فتنبّه إلى المكان الذي توجّه نحوه الميكروفون، وماذا يقوم بتسجيله، لكي تحافظ على وضوح الصوت وجودته.
+  * إذا كنت تلتقط مقاطع بصرية أو سمعية عبر هاتفك، قرّب الميكروفون منك أكثر مما تفعل من الشخص الذي تصوّره أو تسجّله. من الأرجح أن يلتقط الميكروفون تعليماتك أو كلامك كونه أقرب إليك. لتسهيل عملية التنقيح أو التعديل لاحقاً، تجنّب التحدّث بينما يتحدث الشخص الآخر. اتركه يقول كل ما يريده من دون أن تقاطعه، ثم اطرح السؤال التالي، أو أعط التعليمات التالية ما إن ينتهي من الكلام.
+* **كتابة نص الحوار/ الترجمة**: إذا كنت تنوي نشر مقطع الفيديو الخاص بك على وسائل التواصل الاجتماعي، احرص على أن يكون فحوى الكلام مكتوباً في أسفل الشاشة. فمعظم الأشخاص الذين يتصفحون فايسبوك أو إنستغرام يفعلون ذلك من دون تشغيل خدمة الصوت. فضلاً عن ذلك، إذا كان الأشخاص يتكلمون لغة أهل البلد، فكّر في ترجمة المضمون إلى الانجليزية، لا سيما إذا كان جمهورك هو المجتمع الدولي.
 
-{% callout title="Using Video to Convey Key Information to the Public" %}
+{% callout title="استخدام تقنية الفيديو لإيصال المعلومات الأساسية إلى الجمهور" %}
 
 {% figure caption:"_Photo: ISFED_" class:"right" %}
 
@@ -102,7 +102,7 @@ Audio and video content can be great for capturing stories, conveying informatio
 
 {% endfigure %}
 
-To expand their external outreach in a more visual manner, the [International Society for fair Elections and Democracy (ISFED)](https://isfed.ge/eng) produced an ["About Us" video](https://www.youtube.com/watch?v=JV_dcsCmasU) explaining the organization's history, their work in election observation, methodologies used, and technology and outreach tools utilized. The video features several key individuals from ISFED's staff who speak to different parts of ISFED's story as an organization, and also includes subtitles in English (when someone is speaking in Georgian) and in Georgian (when someone is speaking in English), expanding the reach of who is able to view and understand the video.
+[أقدمت الجمعية الدولية لنزاهة الانتخابات والديمقراطية](http://www.isfed.ge/) (ISFED)، سعياً منها لتعزيز اتصالها الخارجي بطريقة أكثر بصرية، على إنتاج [فيديو "لمحة عنا"](https://www.youtube.com/watch?v=JV_dcsCmasU)لشرح تاريخ المنظمة، وعملها في مجال مراقبة الانتخابات، والمنهجيات المستخدمة، والتكنولوجيا وأدوات الاتصال المستخدمة. تضمّن الفيديو مشاهد لعدة موظفين بارزين في الجمعية، وهم يتحدّثون عن جوانب مختلفة من نشأة الجمعية، وأُرفق بترجمة إلى الإنجليزية (عند تحدّث أحد الموظفين بالجورجية) وإلى الجورجية (عند التحدّث بالإنجليزية)، مما وسّع نطاق الأشخاص القادرين على مشاهدة الفيديو وفهمه.
 
 {% figure caption:"_Infographic from YIAGA_" class:"left" %} ![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
 
