@@ -26,7 +26,7 @@ published: false
 
 بما أنك لا تعرف تماماً ما الذي ستصادفه، من الطبيعي أن تكون خطتك لمواجهة الأزمات مبهمة بعض الشيء. مع ذلك، حاول أن تضع العناوين العريضة لتحدد كيف ستتعامل مع كل نوع من الأزمات أو الهجمات. إذا كنت تعتقد أنه من المحتمل أن تنشر الحكومة معلومات مضللة عن تمويلك أو قيادتك مثلاً، فكّر في أفضل الرسائل المضادة، وحدّد الشخصيات البارزة الذين يمكنك الاستعانة بهم للتأكيد على مصداقيتك، والمواد التي ستكون بحاجة إلى توزيعها، وما إذا كنت ستضطر إلى تفعيل قاعدة مناصريك كي يشاركوا في تظاهرة ما إلخ. فضلاً عن ذلك، يمكنك اتّخاذ بعض الخطوات الوقائية في حالات معيّنة، كنشر تفسير واضح على موقعك الإلكتروني يكشف مصدر تمويلك، وكيفية إنفاقه، لا سيما إذا كنت تعتقد أنه من المحتمل أن تتعرّض للهجوم بسبب ذلك. وفق هذه الطريقة، يمكنك الرد من خلال الإشارة إلى المعلومات الموجودة بتصرف الناس، ولن يبدو وكأنك كنت تخفي أسراراً أو تتصرّف بطريقة مشبوهة، لا سيما إذا أشرت إلى وجود تلك المعلومات فور شنّ الهجمات.
 
-{% callout title="الاستجابة السريعة في حالات الأزمات" %} 
+{% callout title="الاستجابة السريعة في حالات الأزمات" %}
 
 في بيلاروسيا، كانت مجموعة مراقبة الانتخابات ([Right To Choose (R2C)](https://pvby.org/en) / الحق بالاختيار) هدفاً لحملة علاقات عامة مصمّمة للتشهير بالائتلاف والتشكيك بدوافعه. فتمّ نشر تسجيل صوتي سريّ لقيادة الائتلاف على مدوّنة إلكترونية، وتعديله بحيث بدا وكأنّ الائتلاف يسعى إلى الإضرار بالانتخابات. لحسن الحظ، نُشر المقطع الصوتي في وقت مبكر من النهار، وبالتالي لم تتلقّفه وسائل الإعلام الأخرى حتى المساء، مما عنى أنّ الائتلاف كان أمامه اليوم بطوله للتحضير للرد، والتريّث لتبيّن ما إذا كان الخبر سيكتسب زخماً أم لا. فاجتمعت المجموعة سريعاً وتمكّنت من تحضير بيان شدّدت فيه على الطبيعة المزيفة للتسجيل، مركّزةً على أهمية بروتوكولات المراقبة الدولية التي يلتزم بها الائتلاف.
 
@@ -42,7 +42,7 @@ published: false
 * **أمّن سلامة اتصالاتك.** إذا كنت تعتقد أنّك لن تتمكن من استخدام هاتفك الجوال أو خدمة الإنترنت في الأوقات الحرجة، أو أنّ بريدك الإلكتروني أو اتصالاتك الرقمية قد تتعرّض للقرصنة، اتّخذ الإجراءات اللازمة لتأمين سلامتك الرقمية. درّب موظفيك على أفضل الممارسات للحفاظ على سلامتهم عبر الإنترنت. حضّر خطةً لإيصال رسالتك والمحتوى الذي تنادي به عندما تكون خدمة الإنترنت أو الهاتف الجوال معطلة.
 * **اطلب دعماً دولياً.** قد يصعب عليك إيصال رسالتك إذا كانت وسائل التواصل الاجتماعي أو وسائط الإعلام التي تملكها الدولة ترزح تحت وطأة المعلومات المضللة أو الخاطئة. في هذه الحالة، لعله من الأفضل أن تعتمد على جاليات المغتربين المنظّمة أو المؤثّرين الدوليين لإيصال رسالتك على وسائل التواصل الاجتماعي أو غيرها من القنوات غير الرسمية الجديرة بالثقة. أخبر هؤلاء المناصرين الدوليين مسبقاً عن أنواع الهجمات التي تتوقعها، ولمَ يجدر بهم التشكيك فيها، وكيف يمكنهم مساعدتك على التصدي للهجمات والمعلومات المضللة أو الخاطئة. أنت تريد منهم أن يشعروا بما يكفي من القوة لمناصرة الحقيقة أو الدفاع عنك إذا دعت الحاجة إلى ذلك.
 
-{% callout title="التخطيط مسبقاً للتهديدات المحتملة" %} 
+{% callout title="التخطيط مسبقاً للتهديدات المحتملة" %}
 
 أعدّ مركز البحث والشفافية والمساءلة في صربيا خطة تصدي للأزمات شملت سيناريوهات مختلفة لما يمكن أن يحدث في يوم الانتخابات، بما في ذلك أعمال العنف، وتعطّل قنوات الاتصال، وغير ذلك.
 
@@ -50,7 +50,7 @@ published: false
 
 يقول راسا نيديليكوف، مدير البرامج في المركز: "خطط للمخاطر ولكيفية التخفيف منها. أطلق العنان لمخيّلتك قدر الإمكان، اكتب تصوراتك، ثم خطط لتنفيذ تمرين محاكاة."
 
- {% endcallout %}
+{% endcallout %}
 
 ## تتبّع مسار الهجمات وتوقّعها
 
@@ -84,22 +84,22 @@ published: false
 
 من الإشارات على أنّ حساباً ما هو، في الواقع، حساب وهمي أو آلي:
 
-* **The bio or profile picture are suspect.** Look at the bio of the account -- does it sound like a real person? Is there any personal information in it? Is the profile picture of a real person or a blank silhouette? If it's a silhouette, that strongly increases the chances it's a bot. If it's a real person, do a reverse image search of the picture. If the picture appears frequently across the internet, it is probably a fake account. · **تكون السيرة الذاتية أو الصورة الشخصية مشبوهة**. راجع السيرة الذاتية للحساب. هل يبدو وكأنه شخص حقيقي؟ هل تتضمّن أي معلومات شخصية؟ هل الصورة الشخصية هي لمستخدم حقيقي أم أنها صورة ظلية فارغة؟ إذا كان مكان الصورة فارغاً، فهذا يزيد من إمكانية أنك تواجه حساباً آلياً. أما إذا كانت صورة مستخدم حقيقي، فقم بإجراء بحث عكسي من خلال الصورة. فإذا ظهرت الصورة بشكل متكرر على الإنترنت، فهذا يعني، على الأرجح، أنه حساب مزيف.
-* **The account's posting behavior is suspect.** Is the account posting more frequently an even an energetic person would likely be able to (for example, more than 50 times per day)? _\[A widely applied benchmark, from the_ [_Oxford Internet Institute_](https://www.oii.ox.ac.uk/research/projects/computational-propaganda/)_'s Computational Propaganda initiative, is an average of more than 50 posts or tweets a day.\]_ Is it retweeting what look to be other fake accounts with frequency? Is it posting political propaganda or fake news? Is it posting commercial or advertising messages frequently? Or retweeting messages in a number of different languages? These are all signs the account may be fake. · **سلوك الحساب في النشر على موقع التواصل الاجتماعي مشبوه**. هل ينشر الحساب تعليقات بشكل متكرر لا يستطيع القيام به حتى أكثر الأشخاص نشاطاً على الإنترنت (مثلاً أكثر من 50 مرة يومياً)؟ هل يعيد نشر تغريدات لما يبدو أنها حسابات وهمية أخرى بشكل \[المعيار المعتمد على نطاق واسع، والمأخوذ من مبادرة البروباغاندا الحاسوبية الصادرة عن [معهد أكسفورد للإنترنت](https://www.oii.ox.ac.uk/research/projects/computational-propaganda/)، هو معدل يفوق الخمسين تدوينة أو تغريدة يومياً.\] متكرر؟ هل ينشر بروباغاندا سياسية أو أخباراً مضللة؟ هل ينشر رسائل تجارية أو دعائية بشكل متكرر؟ هل يعيد نشر تغريدات بعدة لغات مختلفة؟ كل هذه علامات على أنّ الحساب قد يكون وهمياً.
+* **تكون السيرة الذاتية أو الصورة الشخصية مشبوهة**. راجع السيرة الذاتية للحساب. هل يبدو وكأنه شخص حقيقي؟ هل تتضمّن أي معلومات شخصية؟ هل الصورة الشخصية هي لمستخدم حقيقي أم أنها صورة ظلية فارغة؟ إذا كان مكان الصورة فارغاً، فهذا يزيد من إمكانية أنك تواجه حساباً آلياً. أما إذا كانت صورة مستخدم حقيقي، فقم بإجراء بحث عكسي من خلال الصورة. فإذا ظهرت الصورة بشكل متكرر على الإنترنت، فهذا يعني، على الأرجح، أنه حساب مزيف.
+* **سلوك الحساب في النشر على موقع التواصل الاجتماعي مشبوه**. هل ينشر الحساب تعليقات بشكل متكرر لا يستطيع القيام به حتى أكثر الأشخاص نشاطاً على الإنترنت (مثلاً أكثر من 50 مرة يومياً)؟ هل يعيد نشر تغريدات لما يبدو أنها حسابات وهمية أخرى بشكل \[المعيار المعتمد على نطاق واسع، والمأخوذ من مبادرة البروباغاندا الحاسوبية الصادرة عن [معهد أكسفورد للإنترنت](https://www.oii.ox.ac.uk/research/projects/computational-propaganda/)، هو معدل يفوق الخمسين تدوينة أو تغريدة يومياً.\] متكرر؟ هل ينشر بروباغاندا سياسية أو أخباراً مضللة؟ هل ينشر رسائل تجارية أو دعائية بشكل متكرر؟ هل يعيد نشر تغريدات بعدة لغات مختلفة؟ كل هذه علامات على أنّ الحساب قد يكون وهمياً.
 * **متابعو الحساب مشبوهون**. هل يضمّ الحساب نسبةً عاليةً من المتابعين الذين لا يملكون صورةً شخصية أو الذين تظهر عليهم علامات أخرى على أنهم وهميون؟ هل استقبل الحساب عدداً كبيراً من المتابعين في مدة قصيرة زمنياً؟ هل يتابع الحساب عدداً هائلاً من الحسابات الأخرى، ولكنه يكاد لا يملك متابعين هو نفسه؟ كل هذه علامات على أنّ الحساب قد يكون وهمياً.
-* **Check** [**https://botcheck.me/**](https://botcheck.me/ "https://botcheck.me/") **or** [**https://botometer.iuni.iu.edu**](https://botometer.iuni.iu.edu "https://botometer.iuni.iu.edu")**.** If you don't have the time or the inclination to analyze each account to determine if it's a bot, run the profile through one of these bot detection tools to see if it's likely to be a bot.
+* **زر** [**https://botcheck.me/**](https://botcheck.me/ "https://botcheck.me/") **أو** [**https://botometer.iuni.iu.edu**](https://botometer.iuni.iu.edu "https://botometer.iuni.iu.edu")**.** إذا كنت لا تملك الوقت أو الميل لتحليل كل حساب بهدف تحديد ما إذا كان وهمياً أم لا، افحص الحساب عبر إحدى هاتين الأداتين لكشف الحسابات الوهمية كي تتأكّد من صحته.
 
-If the account is fake, report or flag it on the platform for violating the terms of service. Feel free to block or mute the fake account, and don't waste any time arguing with the bot.
+إذا كان الحساب وهمياً، بلّغ عنه أو ضع إشارةً عليه على المنصّة بسبب انتهاكه شروط الخدمة. لا تتردد بكتم وصول أي رسائل محتملة من هذا الحساب، أو منعه من إرسال الرسائل تماماً، ولا تضيّع وقتك في مجادلة حساب آلي.
 
-{% callout title="Sticking to Your Standards" %}
+{% callout title="التزم بمعاييرك" %}
 
-“The losers of the election are always going to accuse you of being an agent,” said Iryna Shvets, program manager for [OPORA](https://www.oporaua.org/en). “Always have to stick to the standards -- the standards for independent observations, and the values of your organization.” She advises making those standards and values open and available to the public, so anyone can easily find and understand your methods and purpose. This can help preempt or mitigate those accusations.
+تقول إيرينا شفيتس، مديرة البرامج في شبكة "أوبورا": "سيتهمك الخاسرون في الانتخابات دوماً بأنك عميل. يجب أن تلتزم دوماً بالمعايير، أي معايير المراقبة المستقلة والقيم التي تقوم عليها منظمتك." وهي تنصح بنشر هذه المعايير والقيم ووضعها بتصرّف الجمهور، بحيث يتمكّن أي كان من إيجادها بسهولة وفهم منهجيتك وهدفك. فمن شأن ذلك أن يساعد في استباق هذه الاتهامات والتخفيف من وقعها.
 
 {% endcallout %}
 
-## Responding to Crises of Your Own Making
+## الاستجابة لأزمات من صنعك
 
-It happens to the best of us -- sometimes the crisis is something we cause ourselves. Maybe the leadership got caught doing something wrong, maybe a tweet was offensive or insensitive, maybe the newsletter went out with inaccurate information. _These things will happen._ It's how you handle them that people will remember.
+في بعض الأحيان، نتسبّب بالأزمة بأنفسنا. وهذا أمر يصيب حتى المحترفين منا. فلربما ضُبط أحد أفراد القيادة وهو يقوم بخطأ ما، ولربما كانت إحدى التغريدات مهينة أو غير مراعية للمشاعر، ولربما أيضاً تمّ إرسال رسالة إخبارية تتضمّن معلومات غير دقيقة. لا بأس، _فهذه أمورٌ تحدث_. ما سيعلق في الأذهان هو كيفية تعاملك معها.
 
 {% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. BERSIH 2.0 Photo." %}
 
@@ -107,13 +107,13 @@ It happens to the best of us -- sometimes the crisis is something we cause ourse
 
 {% endfigure %}
 
-* **Don't obsess over the mistake.** Yes, it would be nice if there was a time machine you could take and not hit “send” on that email, but wishing will not make it so. Accept the mistake, and focus on the response and making things right.
-* **Listen to the people who told you about the mistake.** You may have said or published something not realizing it hurt people's feelings or offended a person or group of people. Instead of shrugging off their complaints, listen to what they are saying. That doesn't mean you have to accept their critique, but you should take it seriously and if you have inadvertently made a mistake, admit it, and correct it.
-* **Apologize sincerely.** If you or your organization did something wrong, admit it and apologize. Don't apologize “if people were offended.” If you published something offensive, acknowledge that and explain in your apology what you've learned and what you're doing to ensure it never happens again. People are much more likely to remain favorable toward your work and organization if they believe you are authentic and are genuinely committed to learning from your mistakes.
-* **Take any necessary steps to address the problem.** Depending on the nature of the crisis, this might mean implementing a better proofreading system, hiring a staff member from an underrepresented group, or even firing the president of the organization. Take meaningful and appropriate action to ensure the crisis doesn't happen again.
-* **Assume anything you write or say will be published.** Private emails get hacked, private conversations get recorded and leaked. Don't write or say anything you wouldn't feel comfortable being published or broadcast. Choose your words carefully and don't casually insult your co-workers, coalition partners, or opponents. Don't use offensive language, racist or misogynistic slurs, or anything else that could tarnish your reputation if it got out.
+* **لا تدع الخطأ يستحوذ على أفكارك**. طبعاً، سيكون من الروعة أن تملك آلةً زمنيةً تعيدك إلى ما قبل نقرك على زر "إرسال" لتلك الرسالة الإلكترونية، لكن ما نيل المطالب بالتمني. تقبّل الخطأ وركّز على طريقة الاستجابة وتصويب الأمور.
+* **أصغِ إلى الأشخاص الذين لفتوا نظرك إلى الخطأ**. لعلّك قلت شيئاً أو نشرت جملةً من دون أن تعي أنها ستؤذي مشاعر بعض الأشخاص أو تهين شخصاً أو مجموعةً معيّنة. بدلاً من صرف النظر عن شكاويهم، أصغِ إلى ما يقولونه. هذا لا يعني أنك مضطر لتقبّل انتقاداتهم، ولكن يجب أن تأخذها على محمل الجد. فإذا كنت قد ارتكبت فعلاً خطأ عن غير قصد، سارع إلى الإقرار بذلك وصوّب الأمور.
+* **اعتذر بصدق.** إذا ارتكبت أنت أو منظمتك خطأً ما، اعترف بذلك واعتذر في الوقت المناسب. لا تعتذر فقط "إذا شعر الأشخاص بالإهانة". فإذا نشرتَ شيئاً مهيناً، اعترف بذلك واشرح ما تعلّمته وما ستقوم به للحرص على ألا يحدث ذلك مرةً أخرى. فمن الأرجح أن يبقى الأشخاص مؤيدين لعملك ولمنظّمتك إذا شعروا أنك صادق في كلامك وملتزم فعلاً بالتعلّم من أخطائك.
+* **اتّخذ أي خطوات لازمة لمعالجة المشكلة.** تبعاً لطبيعة الأزمة، قد يعني هذا الأمر اعتماد نظام تصحيح أفضل، أو توظيف شخص من مجموعة غير ممثلة بما فيه الكفاية، أو حتى طرد رئيس المنظمة. اتّخذ خطوات هادفة ومناسبة لضمان عدم تكرر هذه الأزمة ثانيةً.
+* **افترض أنّ كل ما تكتبه أو تقوله سيُنشر يوماً ما.** يتعرّض البريد الإلكتروني الشخصي للقرصنة، والمحادثات الشخصية للتسجيل والتسريب. لذا، لا تكتب أي شيء أو تقوله إذا كان نشره أو إذاعته سيُشعرك بالانزعاج. اختر كلماتك بحذر ولا تهن زملاءك في العمل، أو شركاءك في الائتلاف، أو خصومك بشكل عرضي. لا تستخدم مفردات مهينة أو شتائم عنصرية أو ضد النساء، أو أي شيء آخر قد يشوّه سمعتك إذا ما تمّ تسريب كلامك.
 
-For additional crisis communication planning guidelines -- particularly in response to cyber incidents -- take a look at the Harvard Belfer Center's [Election Cyber Incident Communications Plan Template](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). Although developed for a political party audience, the template is a great resource for any group looking to develop a structured crisis communications plan in response to cyber incidents, such as disinformation or hacked websites or social media accounts.
+للاطلاع على توجيهات إضافية عن خطط التواصل في حالات الأزمات- لا سيما كردّ على الحوادث السيبرانية- اطلع على [نموذج خطة الاتصالات في الحوادث السيبرانية في أوقات الانتخابات](https://www.belfercenter.org/sites/default/files/files/publication/InternationalCommsTemplate.pdf). صحيح أنّ هذا النموذج أُعدّ لجمهور من الأحزاب السياسية، إلا أنه يشكل مورداً عظيماً لأي مجموعة ترغب في إعداد خطة منظمة للتواصل في حالات الأزمات، للتعامل مع الحوادث السيبرانية، بما في ذلك انتشار المعلومات المضللة أو تعرّض المواقع الإلكترونية وحسابات التواصل الاجتماعي للقرصنة.
 
 ### YOUR TURN: Threats and Crises
 
