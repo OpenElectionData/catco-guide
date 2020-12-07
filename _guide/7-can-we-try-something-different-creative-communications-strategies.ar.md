@@ -1,73 +1,76 @@
 ---
 lang: ar
-title: 7. Can We Try Something Different?
-subtitle: Creative Communications Strategies
+title: '7. هل يمكننا تجربة شيء مختلف؟ '
+subtitle: استراتيجيات الاتصال الخلاقة
 image:
-  url: ""
-  caption: ""
+  url: ''
+  caption: ''
 uses_forms: true
-permalink: /7-can-we-try-something-different/
+permalink: "/7-can-we-try-something-different/"
 published: false
+
 ---
+ليست السياسة والانتخابات بمسألة يُستهان بها. فغالباً ما ينطوي الدفع باتجاه التقدّم الديمقراطي على خوض مجازفات كبيرة، وتهديدات، لا بل مخاطر على منظمتك، و-في بعض الحالات- على سلامتك الشخصية أيضاً. لكن لمجرد أنّ موضوع عملك ونتائجه جديّة، فهذا لا يعني أنه يجدر بها أن تكون مكثّفة أو مملة.
 
-Politics and elections are serious business. Pushing for democratic progress often involves facing great risks, threats, and even dangers for your organization and -- in some cases -- your own personal safety. But just because the topics and consequences of your work are serious doesn't mean they should be dense or dull.
+بشكل عام، لا يحبّ الأشخاص من يعظهم أو يذكّرهم بمدى تردّي الأوضاع، بل يفضّلون الضحك والاستمتاع.  لذا، إذا كان باستطاعتك استخدام الفكاهة، والترفيه، والثقافة الشعبية، والتجارب الشخصية، كطريقة لتقديم المعلومات المهمة والجدية، ستكون لديك حظوظ أكبر في إيجاد آذان صاغية، ومن الأرجح أن يتذكّر جمهورك المعلومات التي تحاول إيصالها له.
 
-Generally speaking, people don't like to be lectured or reminded of how bad things are. People prefer to laugh and have fun. If you can use humor, entertainment, popular culture, or first-person experience as a way to deliver important and serious information, you'll have a better chance of being listened to, and your audiences will be more likely to retain the information you are trying to impart.
+## الاستفادة من قوة الفن والثقافة الشعبية
 
-## Harness the Power of Art and Popular Culture
+لا تنفكّ الثقافة الشعبية تعلّمنا عن الأمور التي يقدّرها مجتمعنا وما هو دورنا في ذلك. في بعض الأحيان، تتطرّق الثقافة الشعبية بشكل واضح وصريح إلى السياسة، بينما تكتفي في أحيان أخرى بالتعليق الضمني على السياسة، والأخلاقيات، والقيم التي نتشارك فيها أو نطمح إليها. ولعلّ القوة الحقيقية للثقافة الشعبية، بالإضافة إلى قدرتها على تعليمنا دروساً، تكمن في ذلك الجزء الشعبي بالذات. فاستناداً إلى التعريف المعتمد، الثقافة الشعبية تستهلكها الجماهير العريضة. فإذا كان بإمكانك الغوض في سرديات هذه الثقافة، لا بل إذا كان بإمكانك المشاركة في تنقيحها وصياغتها، فستنجح في التواصل بشكل مفيد مع هذه الجماهير العريضة.
 
-Popular culture is constantly teaching us what our society values and what our role in it is. Sometimes popular culture explicitly addresses politics, and sometimes it is more subtly commenting on the politics, ethics, and values we share or aspire to. But in addition to its ability to teach us, the real power of popular culture lies in the popular part. By definition, mass audiences are consuming it. If you can tap into pop culture narratives -- and even better, if you can help shape them -- then you will be communicating relevantly with broad audiences.
+من الصعب جداً إلهام الأشخاص بالعمل من أجل التغيير عندما لا يستطيعون تصوّر كيف سيكون شكل هذا التغيير أو نتائجه. ينطبق هذا الأمر بشكل خاص في المجتمعات والأماكن المغلقة، حيث ما تزال الديمقراطية مفهوماً جديداً، وانتقالياً، وهشاً، أو ما زال التقليد الديمقراطي حديث العهد. ففي بيئة كهذه، قد لا يتمكن الأشخاص من التصور بشكل مناسب كيف ستتغير حياتهم إذا كانت حكومتهم خاضعة لدرجة أكبر من المساءلة. في هذا الإطار، يمكن دمج استراتيجيات الثقافة الشعبية في حملات الاتصال الخاصة بك، خاصة وأنها ستكون طريقة فعالة لإثبات قيمك وتعليمها للآخرين بشكل عملي، أو التصدي للروايات الشائعة التي قد تضرّ بقضيتك أو تضعفها. من هنا، يجب العمل على الصور، والكلمات، والحوارات بإتقان لعرض الظروف المحسّنة التي يمكن أن يحملها معه التغيير، عوضاً عن الاكتفاء بالتركيز على فضح المساوئ الحالية.
 
-It's really hard to inspire people to work for change when they can't imagine what that change can look like or result in. Especially in closed societies and places where democracy is new, transitional, fragile, or a democratic tradition is new, people might not be able to adequately picture how their lives might change if their government were more accountable. Integrating popular culture strategies into your communications campaigns can be an effective way to show and teach your values in action or push back against common narratives that might harm or weaken your cause. Images, lyrics, and dialogues should be crafted to present improved circumstances that change could bring and not just concentrate on exposing present ills.
+## ما هي الحملة الثقافية؟
 
-## What is a Culture Campaign?
+هناك عدد من الطرق لدمج استراتيجيات الثقافة الشعبية في خطة الاتصال الخاصة بك. تذكّر أنّ الثقافة الشعبية تتعدى الحدود الوطنية في حالات كثيرة، وبالتالي قد تتمكّن من الاستعانة بشخصيات من خارج بلدك لمساعدتك في جهودك، وهو أمر مهم جداً في المجتمعات المغلقة.
 
-There are a number of ways to integrate pop culture strategies into your communications plan. Remember that popular culture in many instances is transnational, and you might be able to enlist figures outside your borders to assist your efforts, which is particularly important in closed societies.
+* أثن على الروايات أو التوجهات الإيجابية في مجال الفنون أو الثقافة الشعبية التي تعكس رسائلك، أو انشرها وعززها.
+* صحّح الروايات أو التوجهات السلبية أو المضرة في مجال الفنون أو الثقافة الشعبية التي تقوّض إمكانية التقدم الديمقراطي، أو تصدَّ لها.
+* اعمل مباشرةً مع فنانين، وكتّاب، وممثلين، أو مبدعين آخرين لصياغة روايات تعزز الإطار والرواية اللذين تعتمدهما في مرحلة الإنتاج.
+* تفاعل مع أفراد جمهورك من خلال نسج روابط مستوحاة من الحياة الواقعية، تتّصل بالفنون أو الثقافات التي تستهويهم، أو إعطائهم فرصاً لتوجيه شغفهم نحو العمل الحقيقي.
+* اطلب من ملحنين وموسيقيين تلحين أغانٍ لحملتك، ومن منتجين سينمائيين إنتاج فيديوهات قصيرة، ومن ممثلين التمثيل في إعلان أو فيديو، ومن فنانين تصميم ملصق أو لوحة جدارية إلخ. لحملتك.
+* اطلب من شخصيات شهيرة الانضمام إلى حملتك كناطقين باسمها أو كناقلين أمناء لرسالتها، واستعن بهم لتعزيز أثر رسائلك من خلال عروضهم وحضورهم على وسائل التواصل الاجتماعي.
+* اطلب من الجمهور نشر مساهماته في مجال الثقافة الشعبية أو إرسالها إليك دعماً لجهودك.
 
-- Praise or amplify positive narratives or trends you see in the arts or pop culture that reflect your messages.
-- Correct or push back against negative or harmful narratives or trends in the arts or pop culture that undermine potentials for democratic progress.
-- Work directly with artists, writers, actors, or other creators to help shape narratives that reinforce your frame and narrative during the production phase.
-- Engage with your audience by drawing real-world connections to the art or culture they're fans of or giving them ways to channel their passion into real-world action.
-- Ask musicians to write songs for your campaign, filmmakers to produce short videos, actors to star in an ad or video, artists to create posters or grafiti, etc., for your campaign.
-- Have celebrities join your campaign as spokespeople or trusted messengers, enlist them to amplify your messages through their performances and social media presence.
-- Invite the public to post or submit popular culture contributions to your efforts.
+كما هي الحال بالنسبة إلى استراتيجياتك الأخرى، يجب أن تكون أي استراتيجية أو تكتيك تختاره ضمن إطار الثقافة الشعبية موجوداً لخدمة أهدافك الأوسع. فإذا طلبت من شخصية شهيرة أن تكون الناطقة باسم حملتك، لكنّ هذه الشخصية لا تتمتع بشعبية كبيرة في أوساط جماهيرك الأساسية، أو لا تبدي استعداداً للالتزام بالرسالة، فلن يستحق الأمر العناء. أما إذا ازداد شعور الأشخاص بالسخرية واللامبالاة إزاء الديمقراطية، كون كافة البرامج التلفزيونية والأفلام تصوّر التلاعب في الانتخابات وفساد السياسيين، فلعلّه من الأفضل أن تتعاون مع فنانين وممثلين لصياغة روايات مضادة تشدّد على منافع المشاركة وأهمية التصويت. فضلاً عن ذلك، يمكنك دعوة الجمهور إلى نشر أو إرسال مساهمات إلى حملتك ذات صلة بالثقافة الشعبية بهدف مكافحة هذا الشعور بالسخرية واللامبالاة، مع أنه من الضروري في هذه الحالة تحديد أفضل السبل لتصفية تعليقات المتصيّدين عبر الإنترنت وغيرهم من العناصر الخبيثة التي قد تحاول تقويض جهودك. من شأن كل ذلك أن يرسّخ الإطار الذي تعتمده ويرسي أساساً يسهّل عليك إنجاز بقية عملك.
 
-As with your other strategies, any pop culture strategies and tactics you pursue should be in service to your larger goals. If you recruit a celebrity to be your spokesperson but that person is not popular with key audiences or isn't willing to stay on message, then it's not worth the effort. If, however, people are becoming increasingly cynical about democracy because the dominant television shows and movies all portray elections as rigged and politicians as corrupt, then you might want to work with artists and actors to create counter narratives that emphasize the benefits of participation and the importance of voting. Inviting the public to post or submit popular culture contributions to your campaigns can also help counter cynicism, while you will need to filter against trolls and other malign actors who may try to sabotage such efforts. This will reinforce your frame and lay a foundation that makes the rest of your work easier.
+### حان دورك: السياسة والثقافة الشعبية
 
-### Your Turn: Politics and Popular Culture
+**خصّص بعض الوقت للتفكير ملياً في أشهر البرامج التلفزيونية، والأفلام، والكتب، والأغاني، والمشاهير في بلدك. تمعن في هذه القائمة، ثم اطرح على نفسك الأسئلة التالية:**
 
-**Spend some time brainstorming the country's most popular television shows, movies, books, music, and celebrities. Looking at this list, ask yourself the following questions:**
+{% textarea label="هل يتعاطى أيّ من هذه الاحتمالات في الشأن السياسي؟ إذا أجبت بنعم، فما هو موقفها منها؟" id="culture1" size="large" button="false" %}
 
-{% textarea label="Do any of these explicitly deal with politics? If so, what are they saying about it?" id="culture1" size="large" button="false" %}
+{% textarea label="بالنسبة إلى الاحتمالات التي لا تتعاطى في الشأن السياسي، ما هي الروايات المهيمنة ذات الصلة؟ ما هي القيم أو الأخلاقيات التي تعبّر عنها؟ ما هي الأفكار التي تسلّم بها جدلاً أو تعززها؟ ما هو الإطار الذي تعمل ضمنه؟" id="culture2" size="large" button="false" % }
 
-{% textarea label="For those that aren't dealing with politics, what are the dominant narratives? What values or morals do they impart? What ideas do they take for granted or reinforce? What frame are they operating within?" id="culture2" size="large" button="false" % }
+{% textarea label="من بين الروايات والقيم التي حددتها، أيها يرسّخ الإطار والرسالة اللذين تعتمدهما، وأيها يناقضهما أو يهددهما؟" id="culture3" size="large" button="false" %}
 
-{% textarea label="Of the narratives and values you identified, which reinforce your frame and message, and which contradict or undermine it?" id="culture3" size="large" button="false" %}
+{% textarea label="هل من شيء أو شخص في قائمة الثقافة الشعبية يستقطب إعجاب جماهيرك المستهدفة بشكل خاص؟" id="culture4" size="large" button="false" %}
 
-{% textarea label="Is there anything or anyone on the list of pop culture that is particularly appealing to your target audiences?" id="culture4" size="large" button="false" %}
+بالنسبة إلى الروايات التي ترسّخ رسالتك وإطارك- لا سيما تلك التي تلقى رواجاً لدى جماهيرك المستهدفة- كيف يمكنك تعزيز هذه الأجزاء من الثقافة الشعبية وإشراكها؟ هل يمكنك ربط عملك ورسالتك بالطرائق المعتمدة في الثقافة الشعبية؟ هل يمكنك التفاعل بشكل صادق مع المعجبين بشأن تأثير ذلك في الحياة الواقعية؟ هل يمكنك استقطاب نجوم أو ناطقين باسم المنظمة للانضمام إلى حملتك أو التنسيق معك بطريقة أو بأخرى؟
 
-**For the narratives that reinforce your message and frame -- especially the ones popular with your target audiences -- how can you amplify and engage with those parts of pop culture? Can you tie your work and message to the pop culture modalities? Can you engage authentically with fans about the real-world counterparts or impact? Can you recruit the stars or spokespeople to join your campaign or collaborate with you in some way?**
+أما بالنسبة إلى الروايات التي تناقض رسالتك وإطارك أو تقلّل من قيمتهما، فكّر في كيفية عرض الروايات المضادة أو الطعون التي تدحض كل ما هو مضرّ. فهل يمكنك العمل مع المؤلّفين مباشرةً لتغيير طريقة عرض قضايا ضمن الثقافة؟ هل يمكنك استقطاب الممثلين أو الفنانين المعنيين ليكونوا ناطقين رسميين باسم قضيتك، بهدف دحض بعض من الرسائل المضرة في عملهم؟ هل يمكنك إجراء محاكاة ساخرة أو مسرحية تتناول الرواية الأصلية كي تتمكن من عرض وجهك نظرك أو أفكارك بدلاً من ذلك؟
 
-**For the narratives that contradict or devalue your message and frame, think about how you can present counter narratives or rebuttals to what is harmful. Can you work directly with the creators to change how your issues are presented within the culture? Can you recruit the actors or artists involved to serve as spokespeople for your cause to debunk some of the harmful messages in their work? Can you parody or play with the original narrative to present your side or ideas instead?**
+## نصائح للتعاون مع الفنانين والمعجبين
 
-## Tips for Collaborating with Artists and Fans
+يعني العمل في الشأن السياسي أو في منظمة غير حكومية أنّ تعاملك مع الفنانين وغيرهم من الأشخاص المبدعين يبقى محدوداً. في ما يلي بعض النصائح لنسج علاقات مثمرة معهم تكون مفيدةً لكلا الطرفين:
 
-Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them:
+* **دع الفنانين يطلقون العنان لفنّهم.** تقوم وظيفة الفنان على الإبداع والابتكار في سياق عمله، ويجدر بك أن تمنحه الفسحة اللازمة للقيام بذلك. لا تحاول أن تملي عليه كيفية القيام بعمله. اسمح له بعرض أفكاره حول أفضل الطرق للاستفادة من مواهبه. إذا بدت لك فكرته غريبة أو مبهمة في بداية الأمر، أصغِ إليه. لمجرّد أن الفكرة لا تريحك أو تبدو مغايرة لعاداتك، فهذا لا يعني أنها فكرة سيئة. لا تحاول كبح جماحه أو تغيير رؤياه، إلا إذا كان اقتضت الضرورة.
+* **وقت الفنان ثمين.** يُعتبر الفنانون وغيرهم من المبدعين محترفين يتقاضون أجراً مقابل أفكارهم؛ فلا تفترض أنهم سيقدّمون لك خدماتهم من باب التطوّع. استعدّ لعرض المقابل المادي عليهم وسدّده بحسب سعر السوق. إذا كنت لا تستطيع تكبّد ثمن عملهم، اسألهم عما إذا كانوا لا يمانعون التطوّع بخدماتهم أو منحك حسماً معيّناً في الأسعار، لكن يجب أن تدرك أنك، بذلك، تطلب منهم الكثير، فعامل وقتهم باحترام وتقدير حتى وإن كنت لا تدفع أجرهم مباشرة.
+* **تعاون معهم ولا تملي عليهم الشروط.** يتمتع كلّ منكما بمجموعة مختلفة من المعارف التي يمكن أن تعود بالفائدة على الحملة. لذا، شكّل شراكة تعاونية مع الفنان، يساهم كلٌّ منكما، بموجبها، في دعم عمل الآخر، ولا تحاول أن تجعله يمتثل لأفكارك المكوّنة سلفاً.
 
-- **Let the artists do the art.** An artist's job is to be professionally creative, and you should give them the space to do so. Don't try to tell them how to do their jobs. Let them pitch ideas of how their talents might be best used. If an idea sounds weird or out there at first, hear them out -- just because it feels uncomfortable or different from how you have done things before doesn't mean it is a bad idea. Don't try to rein them in or change their vision unless absolutely necessary.
-- **An artist's time is valuable.** Artists and other creatives are paid professionals; don't assume they will volunteer their services. Be prepared to offer and pay them at their market rate. If you can't afford to pay them, ask them if they will volunteer their services or offer a reduced rate but understand this is a lot to ask for and treat their time with value and respect even if you are not paying for it directly.
-- **Collaborate, don't dictate.** You're each bringing different knowledge bases to the table. Form a collaborative partnership where you're lifting up each other's work, not trying to make it fit into your preconceived ideas.
+في بعض الأحيان، قد تنطوي خطتك على التواصل مع جماعات المعجبين وتنظيمهم. والمعجبون، في هذه الحالة، هم مجموعات منظّمة ذاتياً من الأشخاص الذين يحبّون فيلماً معيّناً، أو كتاباً، أو قصة مصوّرة، أو برنامجاً تلفزيونياً، أو فناناً، أو موسيقياً، أو فريقاً رياضياً إلخ. تتشكّل جماعات المعجبين غالباً عبر الإنترنت على منصات معيّنة أو استناداً إلى هاشتاغات محددة، كما يمكن أن يجتمعوا شخصياً للاستمتاع بعروض، أو مشاهدة مباريات، أو المشاركة في مؤتمرات. تُطوّر هذه الجماعات، في أغلب الأحيان، عاداتها ومفرداتها ومعاييرها الخاصة. من الأمثلة على ذلك قيام المعجبين بفيلم "الفهد الأسود" (بلاك بانتر) (وهو فيلم شهير عن بطل خارق تجري أحداثه في بلد أفريقي خيالي اسمه "واكاندا") بتنظيم حملة "واكاندا التصويت" هدفها تسجيل الأشخاص القادمين لمشاهدة الفيلم للتصويت. لم تهدف الفكرة إلى مشاهدة فيلم عن بلد خيالي نشأ بفضل قوة الشعب الأسود فحسب، بل إلى بناء قوة السود في العالم الحقيقي أيضاً.
 
-One example is when _Black Panther_ (a popular superhero movie which takes place in the mythical African nation of Wakanda) fans organized a “Wakanda The Vote” campaign to register people attending _Black Panther_ film screenings to vote. The idea was not just to watch a screening about a fictional country built on the power of black people, but to simultaneously build black power in the real world.
+{% callout title="استخدام الفكاهة والفنون لنقل رسالة" %} 
 
-{% callout title="Using Humor and the Arts to Convey a Message" %} In Malaysia, [BERSIH 2.0](http://www.bersih.org/) experimented with a number of arts and culture tactics to get the public interested and engaged on the topic of redistricting. They presented film screenings followed by discussion sessions. They organized a series of concerts to raise awareness of the issue. They also organized a standup comedy show and encouraged the comics to use material about BERSIH 2.0 and the issues - even if it meant poking fun at the issues and the organization - in an effort to teach through laughter. The comedy show proved to be so popular they extended its run - it ended up running for 10 days, and 300-400 people came to each show. {% endcallout %}
+في ماليزيا، اختبر ائتلاف الانتخابات النظيفة والنزيهة [(BERSIH 2.0)](http://www.bersih.org/ "BERSIH 2.0") استخدام عدد من التكتيكات الفنية والثقافية لحث الجمهور على الاهتمام بموضوع إعادة ترسيم الدوائر الانتخابية والمشاركة فيه. فعرض مشاهد من أفلام، تلتها جلسات مناقشة. كما نظم سلسلة من الحفلات الموسيقية لنشر التوعية بشأن القضية. فضلاً عن ذلك، نظّم عرضاً كوميدياً ارتجالياً، مشجعاً الفنانين على استخدام مواد عن الجمعية نفسها والقضايا التي تنادي بها- حتى وإن عنى ذلك السخرية من هذه القضايا والجمعية- في محاولة منه للتعليم من خلال الضحك. فنال هذا البرنامج الكوميدي شعبيةً كبيرةً لدرجة أنه تم تمديده. وانتهى الأمر بعرضه لمدة 10 أيام، بحضور 300- 400 شخص في كل مرة.
 
-If you plan to communicate with fan communities, here are some practical tips to keep in mind:
+ {% endcallout %}
 
-- **Be a fan.** If you want to talk to fan communities about a movie, TV show, book, or musician, be a fan! Fans are fiercely loyal and passionate about the object of their adoration -- don't start by criticizing or pointing out the shortcomings, but approach from a place of authentic admiration.
-- **Listen.** Spend some time listening to the fans, how they interact, what their internal references and jokes are, and what they love about the thing they're a fan of. It's okay to lurk online or at events for a while, just listening to get a sense for the tone and topics to use once you're ready to engage.
+إذا كنت تنوي التواصل مع مجموعات المعجبين، إليك بعض النصائح العملية التي ينبغي أخذها في الاعتبار:
 
-**Have authentic interactions.** Don't always try to wedge in your talking points or web address. Interact authentically and have real conversations with fans -- pivot to your message when it feels natural.
+* **كن معجباً أنت أيضاً.** إذا كنت تريد التحدث مع مجموعات المعجبين بشأن فيلم، أو برنامج تلفزيوني، أو كتاب، أو موسيقي، كن معجباً بهذه الاحتمالات أنت أيضاً! فالمعجبون يكنون ولاءً شديداً للموضوع الذي يحبّونه، إن لم نقل شغفاً كبيراً. فلا تبدأ بانتقاد النواقص أو الإشارة إليها، بل اطرق بابهم مبدياً إعجابك الفعلي والحقيقي.
+* **صغِ.** خصّص بعض الوقت للإصغاء إلى المعجبين لفهم كيف يتفاعلون مع بعضهم، وما هي الإشارات والدعابات الداخلية التي لا يفهمها إلا هم، وما أكثر ما يحبّونه بشأن الموضوع الذي يكنّون له إعجاباً. لا بأس باستراق النظر إليهم على الإنترنت أو في اجتماعاتهم لفترة، مكتفياً بالقراءة أو الإصغاء لتكوّن فكرةً عن النبرة والمواضيع التي ينبغي استخدامها عندما تصبح جاهزاً للتفاعل معهم.
+* **تفاعل معهم بصدق.** لا تحاول دوماً أن تقحم نقاط الكلام الخاصة بك أو عنوان موقعك الإلكتروني في الحديث، بل تفاعل مع المعجبين بصدق وافتح معهم حواراً حقيقياً. استخدم رسالتك عندما تشعر أنّ هذه الحركة ستكون عفوية وغير مصطنعة.
 
 ## The Power of Comedy
 
@@ -90,10 +93,10 @@ There are, of course, times when a light-hearted or humorous approach is inappro
 
 There are a number of ways to introduce humor into your communications, and each serves a different purpose and conveys different cues about your message. It's not enough to decide you want to integrate humor into your messaging -- think carefully about what kind of humor is appropriate for the context and best serves your purposes.
 
-- **Satirical news.** Satirical news points out and reframes absurdity. For it to work, your audience must have some basic familiarity with the situation being satirized, or they will not understand it or find it funny. Satire is good for motivating the base of people who already agree with you, but is likely to alienate or turn off people who don't agree with you.
-- **Scripted, comedic storytelling.** Funny scripted stories -- TV shows, public service announcements (PSAs), movies, online videos, etc. -- are great for creating relationships between the viewers and your characters. This understanding or empathy can help normalize unfamiliar experiences and expose the viewer to people or situations they might not otherwise encounter.
-- **Humorous ads.** Making someone laugh in a short amount of time captures their attention and sticks in their memory. Humorous ads -- print, online, televised, or radio -- work to quickly grab your attention and can be very memorable. They can also spark discussion and sharing with friends and family.
-- **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
+* **Satirical news.** Satirical news points out and reframes absurdity. For it to work, your audience must have some basic familiarity with the situation being satirized, or they will not understand it or find it funny. Satire is good for motivating the base of people who already agree with you, but is likely to alienate or turn off people who don't agree with you.
+* **Scripted, comedic storytelling.** Funny scripted stories -- TV shows, public service announcements (PSAs), movies, online videos, etc. -- are great for creating relationships between the viewers and your characters. This understanding or empathy can help normalize unfamiliar experiences and expose the viewer to people or situations they might not otherwise encounter.
+* **Humorous ads.** Making someone laugh in a short amount of time captures their attention and sticks in their memory. Humorous ads -- print, online, televised, or radio -- work to quickly grab your attention and can be very memorable. They can also spark discussion and sharing with friends and family.
+* **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you're funny and therefore successful.
 
