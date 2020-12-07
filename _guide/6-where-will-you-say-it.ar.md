@@ -105,9 +105,9 @@ If the contents of your communications are sensitive, though, keep in mind that 
 
 أما إذا قررت إنشاء صفحة على فايسبوك لمنظمتك عوضاً عن مجموعة، أو بالإضافة إليها، فستكون الشخص الوحيد المخوّل نشر مواد على هذه الصفحة. وسيُظهر فايسبوك المحتوى لجزءٍ من متابعيك بناءً على خوارزمياته التي لا تنفكّ تتبدّل، لا بل قد يكون من الصعب أن تستنتج بالضبط ما الذي سيحظى بنطاق تغطية واسع أو مشاركة كبيرة. لهذا السبب، من الضروري أن تكون ماهراً وفطناً وخلاقاً في إعداد المحتوى على فايسبوك، وأن تستجيب جيداً لما تشير إليه البيانات والتحليلات _(راجع القسم التالي)._ فأنواع المحتوى التي تلقى نجاحاً على فايسبوك قد لا ترقى إلى مستوى توقعاتك أو حتى تفضيلاتك. مع ذلك، لا تكفّ عن تجربة طرق جديدة لعرض معلوماتك إلى أن تجد الناجحة منها. تذكّر أن تركّز على رسالتك حتى بينما تقوم باختبار المحتوى- فإذا كان المحتوى الذي تقدّمه يحظى بانتشار واسع ومشاركة كثيفة لكنه لا يمتّ إلى رسالتك بصلة، فأنت لا تساهم في دعم قضيتك أو التقدّم في تحقيق أهدافك.
 
-{% callout title="When to Create Multiple Facebook Pages" %}
+{% callout title="متى يجب إنشاء صفحات متعددة على فايسبوك" %}
 
-In Ukraine, [OPORA](https://www.oporaua.org/en) maintains one [main Facebook page](https://www.facebook.com/cn.opora/) that features content that is in line with the organization's main message. When it launches different campaigns and initiatives with more specific goals, it also creates a separate Facebook page for each, so people can easily follow and access the more specific and narrow content about that particular initiative.
+In Ukraine, [OPORA](https://www.oporaua.org/en) maintains one [main Facebook page](https://www.facebook.com/cn.opora/) that features content that is in line with the organization's main message. When it launches different campaigns and initiatives with more specific goals, it also creates a separate Facebook page for each, so people can easily follow and access the more specific and narrow content about that particular initiative. في أوكرانيا، تحافظ جمعية أوبورا (OPORA) على [صفحة أساسية واحدة على فايسبوك](https://www.facebook.com/cn.opora/)تتضمّن محتوى يحاكي رسالة المنظمة الأساسية. لكن لدى إطلاقها حملات ومبادرات مختلفة ذات أهداف أكثر تحديداً، تنشئ هذه الجمعية صفحة مستقلة على فايسبوك لكلّ من هذه الحملات والمبادرات، لكي يتمكّن الأشخاص من متابعتها بسهولة والوصول إلى محتوى أكثر تحديداً وتفصيلاً بشأن تلك المبادرة بعينها. 
 
 {% endcallout %}
 
