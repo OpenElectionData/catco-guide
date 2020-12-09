@@ -88,7 +88,7 @@ uses_forms: true
 
 قالت ماريا تشين عبد الله، الرئيسة السابقة لمجموعة "BERSIH 2.0":  "كي تتمكّنوا من بناء حركة، يجب أن تكون قيادتكم قوية فعلاً. سيختلف الناس في آرائهم، ولكن في نهاية الأمر، يجدر بعناصر القيادة أن تعمل معاً نحو تحقيق الأهداف المشتركة."
 
-![BERSIH 2.0 memebrs encouraging people to vote](/assets/images/BERSIH_3.jpg "BERSIH 2.0: الصورة")
+![أعضاء BERSIH 2.0 يشجعون الناس على التصويت](/assets/images/BERSIH_3.jpg "BERSIH 2.0: الصورة")
 
 {% endcallout %}
 
