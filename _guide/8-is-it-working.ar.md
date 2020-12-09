@@ -79,7 +79,7 @@ permalink: "/8-is-it-working/"
 
 {% callout title="تقييم جهود الوصول إلى الأشخاص عبر الإنترنت وخارجها" %}
 
-{% figure caption:"Malaysians protest in the Bersih 5 rally." class:"right" %}![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
+{% figure caption:"Malaysians protest in the Bersih 5 rally. _BERSIH 2.0: الصورة_" class:"right" %}![Malaysians protest in the Bersih 5 rally.](/assets/images/BERSIH_1-1.jpg "BERSIH 2.0"){% endfigure %}
 
 في ماليزيا، يتتبّع ائتلاف الانتخابات النظيفة والنزيهة [(BERSIH 2.0)](http://www.bersih.org/ "BERSIH 2.0") كافة التحليلات ذات الصلة على وسائل التواصل الاجتماعي التي يستخدمها. كما يتتبّع أيضاً مقاييس حول التنظيم خارج نطاق الإنترنت- أي قياس عدد المجموعات التي يتواصل معها المنسّقون ونسبة المشاركة في اللقاءات. ومن خلال احتساب نسبة المشاركة هذه، عرف الائتلاف أنّ الحشود تتزايد بشكل تدريجي في المهرجانات الصغيرة في الأسابيع المؤدية إلى مهرجانها الكبير. بالفعل، من خلال قياس نسبة المشاركة وملاحظتها وهي تنمو شيئاً فشيئاً، استطاعت المجموعة توقّع حضور 200 ألف شخص لمهرجانها الأكبر المقرّر عقده خلال سبعة أسابيع، والتخطيط بناءً على ذلك.
 
@@ -103,7 +103,7 @@ permalink: "/8-is-it-working/"
 
 عند استخدامك المقاييس لمعرفة ما ينجح وكيف يمكنك تحقيق أهدافك بشكل فعال، يمكنك أيضاً دمج خطة اختبار أ/ب في بعض اتصالاتك أو كلها. وهذا يعني تحضير موضوعين مختلفين، ومحتويين، ورسومات بيانية، ونبرتين، ورسالتين وغير ذلك لمجموعتين فرعيتين عشوائيتين من جمهورين متشابهين، لمعرفة أيّ الاحتمالين يلقى استجابةً أفضل.
 
-{% figure caption:"NDI Photo." class:"left" %}
+{% figure caption:"_NDI: الصورة_" class:"left" %}
 
 ![Woman does work on computer.](/assets/images/kosovo-1.jpg "NDI Photo."){% endfigure %}
 
@@ -139,7 +139,7 @@ permalink: "/8-is-it-working/"
 
 في ما يلي أسئلة يجب مراعاتها عند إنشائك عملية جمع المقاييس:
 
-{% figure caption:"NDI Photo." class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
+{% figure caption:"_NDI: الصورة_" class:"right" %} ![Woman being interviewed.](/assets/images/yemen_1-1.jpg "NDI Photo") {% endfigure %}
 
 * من سيعمل على جمع البيانات وتجميعها، بما في ذلك البيانات التي يجب جمعها يدوياً (على غرار عدد الاجتماعات المنظّمة)؟
 * هل سيتولى شخص واحد تتبّع المقاييس أم عدة مساهمين؟ كم من الوقت لديهم لإنجاز هذه المهمة، مع أخذ جوانب عملهم الأخرى في الاعتبار؟
