@@ -167,7 +167,7 @@ permalink: "/4-what-do-you-want-to-say/"
 
 يميل الإنسان، بطبيعته، إلى سرد القصص والتماهي معها. فالقصص توجد رابطاً عاطفياً وإحساساً بالتعاطف، وتعلق في ذاكرة الأشخاص لوقت أطول من الحقائق أو الإحصاءات. بالفعل، إنّ سرد القصص هو طريقتنا في تعليم الأشخاص، والتواصل معهم، وكسب ثقتهم وصداقتهم. من هنا، فإنّ استخدام القصص لتحقيق أهداف التواصل الخاصة بك، ونقل رسائلك، قد يكون مقاربةً قويةً وفعالة.
 
-{% figure caption:"_Photo: ISFED_" class:"center" %} ![](/assets/images/ISFED-1.jpg)
+{% figure caption:"_ISFED:_ الصورة" class:"center" %} ![](/assets/images/ISFED-1.jpg)
 
 {% endfigure %}
 
@@ -181,7 +181,7 @@ permalink: "/4-what-do-you-want-to-say/"
 
 {% callout title="استخدم السرد المقنع في مراقبة الانتخابات" %}
 
-{% figure caption:"_Photo: CODEO_" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg)
+{% figure caption:"_CODEO:_ الصورة" class:"right" %} ![CODEO Domestic Election Observer sharing key parts of a PVT in a video](/assets/images/CDD-video.jpg)
 
 {% endfigure %}
 
