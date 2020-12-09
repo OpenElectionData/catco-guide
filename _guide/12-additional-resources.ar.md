@@ -7,7 +7,6 @@ image:
   url: ''
   caption: ''
 permalink: "/12-additional-resources/"
-published: false
 
 ---
 ## سرد القصص
@@ -22,7 +21,7 @@ Framing for Activists, George Lakoff: [https://georgelakoff.com/framingforactivi
 
 “How the American Cancer Society Learned to Touch Hearts to Boost Donations,” Carmine Gallo, Forbes: [https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203](https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203 "https://www.forbes.com/sites/carminegallo/2018/11/19/how-the-american-cancer-society-learned-to-touch-hearts-to-boost-donations/#265045296203")
 
-## Audience & Messaging
+## الجمهور وصياغة الرسائل
 
 How To Run Focus Groups, Citizens Advice: [https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf "https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf")
 
@@ -34,7 +33,7 @@ Tips for Facilitating Focus Groups, Center for the Promotion of Health in the Ne
 
 Google Trends: [https://trends.google.com/trends/explore](https://trends.google.com/trends/explore "https://trends.google.com/trends/explore")
 
-## Platforms
+## المنصات
 
 “Google Thinks the Future of the Web Is...Email,” Mark Wilson, Fast Company: [https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email](https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email "https://www.fastcodesign.com/90160460/google-thinks-the-future-of-the-web-is-email")
 
@@ -50,7 +49,7 @@ Hustle texting platform: [https://hustle.com/](https://hustle.com/ "https://hust
 
 WhatsApp Uses for Campaigns: [https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit](https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit "https://docs.google.com/document/d/1mGs26iM1aRKnTcTviNizO17VZTLpadKctzK30KtsxYs/edit")
 
-## Video
+## الفيديوهات
 
 OBS Studio, Open Broadcaster Software: [https://obsproject.com/](https://obsproject.com/ "https://obsproject.com/")
 
@@ -60,7 +59,7 @@ YouTube Creator Academy: [https://creatoracademy.youtube.com/page/education](htt
 
 “What Video Editing Software Do YouTubers Use”: [https://editinginsider.com/youtube/what-video-editing-youtubers-use/](https://editinginsider.com/youtube/what-video-editing-youtubers-use/ "https://editinginsider.com/youtube/what-video-editing-youtubers-use/")
 
-## Data Visualization
+## تصوير البيانات
 
 Storytelling with Data: [http://www.storytellingwithdata.com/](http://www.storytellingwithdata.com/ "http://www.storytellingwithdata.com/")
 
@@ -72,7 +71,7 @@ Data Smart Cities Solutions Search: [https://datasmart.ash.harvard.edu/civic-ana
 
 “2018 Report: Engaging Your Audience with Visual Content,” The Content Strategist: [https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content](https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content "https://the-content-strategist-13.docs.contently.com/v/2018-report-engaging-your-audience-with-visual-content")
 
-## Creative Strategies
+## الاستراتيجيات المبتكرة
 
 “#PopJustice: Social Justice and the Promise of Pop Culture Strategies” reports, Liz Mann Strategy: [http://www.lizmanne.com/popjustice/](http://www.lizmanne.com/popjustice/ "http://www.lizmanne.com/popjustice/")
 
@@ -86,7 +85,7 @@ The Voter Suppression Trail, Chris Baker, Brian Moore and Mike Lacher, The New Y
 
 “The Back-of-the-Envelope Guide to Communications Strategy,” Ann Christiano and Annie Neimand, Stanford Social Innovation Review: [https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title](https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title "https://ssir.org/articles/entry/the_back_of_the_envelope_guide_to_communications_strategy?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now&utm_content=Title")
 
-## Crisis Communications
+## الاتصال في خلال الأزمات
 
 Election Cyber Incident Communications Plan Template for Political Parties and Campaigns, International Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf](https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf "https://www.ndi.org/sites/default/files/International%20CommTemplate%20-%20web%202.pdf")
 
@@ -94,7 +93,7 @@ Botcheck.me: [https://botcheck.me/](https://botcheck.me/ "https://botcheck.me/")
 
 Botometer: [https://botometer.iuni.iu.edu/#](https://botometer.iuni.iu.edu/# "https://botometer.iuni.iu.edu/#")[!/](https://botometer.iuni.iu.edu/#!/)
 
-## Digital Security
+## الأمن الرقمي
 
 Digital First Aid Kit, Digital Defenders Partnership: [https://www.digitaldefenders.org/digitalfirstaid/](https://www.digitaldefenders.org/digitalfirstaid/ "https://www.digitaldefenders.org/digitalfirstaid/")
 
@@ -106,7 +105,7 @@ The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Be
 
 [https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
 
-## Citizen Election Observation
+## المراقبة المدنية للانتخابات
 
 Global Network of Domestic Election Monitors (GNDEM): [https://gndem.org](https://gndem.org "https://gndem.org")
 
