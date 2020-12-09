@@ -39,7 +39,7 @@ permalink: "/5-how-will-you-say-it/"
   3. **أخيراً، النشرة الصحفية** هي الأطول بين هذه الأنواع الثلاثة من الوثائق الإعلامية. يجب أن تُكتب وكأنها تحقيق إخباري، وتؤطَّر بالطريقة نفسها التي تريد فيها من الإعلام أن يؤطّر عملك، أو قضيتك، أو النتائج التي توصّلت إليها. راجع _الموارد الإضافية_ للاطلاع على نموذج عن النشرات الصحفية من منظمة " YIAGA AFRICA " في نيجيريا و"PACE " في ميانمار.
 * احرص على ترجمة موادك الصحفية إلى اللغة الإنجليزية بحيث تكون متوفّرة بسهولة لوسائل الإعلام الدولية.
 
-{% figure caption:" YIAGA staff presenting at a press conference. _Photo: YIAGA Africa_" class:"center" %}
+{% figure caption:" YIAGA staff presenting at a press conference. _YIAGA Africa: الصورة_" class:"center" %}
 
 ![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
 {% endfigure %}
@@ -81,7 +81,7 @@ permalink: "/5-how-will-you-say-it/"
 
 ## المحتوى السمعي والبصري
 
-{% figure caption:"Photo: NDI Kosovo" class:"right" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
+{% figure caption:"_NDI Kosovo: الصورة_" class:"right" %} ![Camera recording a woman speak ](/assets/images/NDI_kosovo_1-1.jpg "Audio and Video Content")
 
 {% endfigure %}
 
@@ -95,7 +95,7 @@ permalink: "/5-how-will-you-say-it/"
 
 {% callout title="استخدام تقنية الفيديو لإيصال المعلومات الأساسية إلى الجمهور" %}
 
-{% figure caption:"_Photo: ISFED_" class:"right" %}
+{% figure caption:"_ISFED: الصورة_" class:"right" %}
 
 ![Image shows a person utilizing SMS services to collect information.](/assets/images/ISFED-2.jpg 'ISFED produced an "About Us" video')
 
