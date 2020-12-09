@@ -50,6 +50,5 @@ list:
 - acronym: YIAGA AFRICA
   full_name: 'Youth Initiative for Advocacy, Growth & Advancement (Initiative de la
     jeunesse pour un plaidoyer, une croissance et du progrès) '
-published: false
 
 ---
