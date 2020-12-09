@@ -5,7 +5,7 @@ title: 6. أين ستتكلّم؟
 subtitle: " تحديد المنصّة الأفضل"
 image:
   url: "/assets/images/NDI_Honduras.jpg"
-  caption: 'Photo: NDI Honduras'
+  caption: 'الصورة: NDI Honduras'
 permalink: "/6-where-will-you-say-it/"
 
 ---
