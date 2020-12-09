@@ -9,7 +9,7 @@ image:
 permalink: "/10-who-is-going-to-do-all-this-work/"
 
 ---
-{% figure caption:"PACE staff working on developing topline messages. PACE Photo." class:"left" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}
+{% figure caption:".يعمل موظفو PACE على تطوير الرسائل الرئيسية. _PACE : الصورة_" class:"left" %} ![PACE staff working on developing topline messages.](/assets/images/IMG_4422 (1).JPG "PACE Photo.") {% endfigure %}
 
 تُنظّم كل مجموعة نفسها بشكل مختلف عن الأخرى، وتخصص مقداراً مختلفاً من الموارد لاتصالاتها. ولعلّ أحد أسباب العمل على التمارين والخطوات الواردة في هذا الدليل هو فهم العمل المطلوب بشكل واضح، فضلاً عن الأدوار التي يجب إسنادها، وعدد الأشخاص المطلوبين، والعمل الذي يجب إعطاؤه الأولوية وإدراجه في خانة الخطوات الملحة، وذلك الذي يمكن إنجازه في وقت لاحق.
 

@@ -4,7 +4,7 @@ subtitle: تحديد الأهداف والاستراتيجيات والتكتي�
 lang: ar
 image:
   url: "/assets/images/NDI_moscow.jpg"
-  caption: 'Photo: NDI, Mikhail Velmakin'
+  caption: 'الصورة: NDI, Mikhail Velmakin'
 permalink: "/2-what-are-you-trying-to-accomplish/"
 uses_forms: true
 
