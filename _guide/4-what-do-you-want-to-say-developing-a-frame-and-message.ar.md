@@ -112,7 +112,7 @@ permalink: "/4-what-do-you-want-to-say/"
 
 ## اختلاف أثر الرسائل باختلاف الجماهير
 
-{% figure caption:"_Photo: YIAGA Africa_" class:"left" %} ![Representative from YIAGA Africa interviews a woman in the market.](/assets/images/yiaga_2.jpg "Topline message ")
+{% figure caption:"_YIAGA Africa:_ الصورة" class:"left" %} ![مسؤول الاتصالات في مبادرة "مراقبة التصويت" (Watching The Vote)، مسهود إيسا، يجمع عيّنة عن آراء المواطنين قبل انتخابات المحافظة في نيجيريا. ](/assets/images/yiaga_2.jpg "Topline message ")
 
 {% endfigure %}
 
