@@ -45,7 +45,7 @@ permalink: "/11-what-have-others-tried/"
 
 بغية فهم الجماهير المستهدفة بشكل أفضل، تعاون الناشطون مع المعهد الديمقراطي الوطني أولاً لتصميم دراسة على نطاق البلد ككل حول المواقف تجاه مجتمع الميم. أما الهدف من ذلك، فتحديد كيف تنظر هذه الجماهير إلى مجتمع الميم، وكيف تبلورت هذه المواقف، وما الذي أثّر عليها. كما أراد الناشطون تكوين فكرة عن نوع الرسائل الذي قد يخلّف تأثيراً على الأشخاص مستقيمي الميول، عوضاً عن محاولة تكهن الرسائل المناسبة أو فرض رسائل تؤثّر في مجتمع الميم لكنها لا تترك أثراً لدى أشخاص من خارج هذا المجتمع.
 
-{% figure caption:"NDI Photo" %}
+{% figure caption:"_NDI: الصورة_" %}
 
 ![Citizens marching in a parade.](/assets/images/NDI_lgbti-1.jpg "NDI Photo")
 
@@ -93,7 +93,7 @@ permalink: "/11-what-have-others-tried/"
 
 استخدم المركز عدة استراتيجيات ومجموعة متنوعة من القنوات والمنتجات لتحقيق هذا الهدف، من أجل بلوغ جماهيره الأساسية عبر رسائل تخلّف وقعاً ملحوظاً.
 
-{% figure caption:"CRTA Photo." %}
+{% figure caption:"_CRTA: الصورة_" %}
 
 ![CSO representatives give a press conference for a room of journalists.](/assets/images/CRTA-2-1.jpg "CRTA Photo.")
 
@@ -125,7 +125,7 @@ permalink: "/11-what-have-others-tried/"
 
 ## دراسة حالة: "الاتصال يصبّ في عمل الجميع"
 
-{% figure caption:"YIAGA Africa Photo." %}
+{% figure caption:"_YIAGA Africa: الصورة_" %}
 
 ![YIAGA Africa Photo.](/assets/images/yiaga_8-1.jpg "YIAGA Africa Photo.")
 
