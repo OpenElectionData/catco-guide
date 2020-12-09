@@ -1,7 +1,7 @@
 ---
 lang: ar
 uses_forms: true
-title: "12.\tموارد إضافية "
+title: 'موارد إضافية '
 subtitle: ''
 image:
   url: ''
