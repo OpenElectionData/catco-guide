@@ -100,7 +100,7 @@ permalink: "/9-what-if-something-goes-wrong/"
 
 في بعض الأحيان، نتسبّب بالأزمة بأنفسنا. وهذا أمر يصيب حتى المحترفين منا. فلربما ضُبط أحد أفراد القيادة وهو يقوم بخطأ ما، ولربما كانت إحدى التغريدات مهينة أو غير مراعية للمشاعر، ولربما أيضاً تمّ إرسال رسالة إخبارية تتضمّن معلومات غير دقيقة. لا بأس، _فهذه أمورٌ تحدث_. ما سيعلق في الأذهان هو كيفية تعاملك معها.
 
-{% figure caption:"On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report. _BERSIH 2.0: الصورة_." %}
+{% figure caption:"في 28 آب/أغسطس 2019، استدعي النائب السابق لرئيس مجلس إدارة ائتلاف الانتخابات النظيفة والنزيهة 2.0 للإدلاء بشهادته بعد رفعه تقريراً إلى الشرطة. _BERSIH 2.0: الصورة_." %}
 
 ![On 28 August 2019, Shahrul Aman, Bersih 2.0's former acting chairperson was called to give a witness statement after lodging a police report.](/assets/images/BERSIH_4-1.jpg "BERSIH 2.0 Photo")
 
