@@ -218,7 +218,7 @@ permalink: "/6-where-will-you-say-it/"
 
 بصراحة، يصعب تنظيم مؤتمر صحافي ناجح إذا كان معظم المتكلمين لا يبالون إلا بأنفسهم. فإذا أصرّ القادة/ الناطقون باسم المنظمة على تلاوة خطابات طويلة، يركّزون فيها على آرائهم الشخصية عوضاً عن نقاط المناقشة المتّفق عليها والنتائج التي توصّلت إليها المنظمة، أو كرّروا ما قاله آخرون من دون إضافة أي معلومات جديدة أو مثيرة للاهتمام، فحريّ بك التفكير في استراتيجيات أخرى قائمة على وسائل الإعلام المكتسبة، كإجراء مقابلات وجهاً لوجه مع القادة، أو إرسال سوابق صحفية صغيرة إلى مختلف الصحافيين الأصدقاء. بالفعل، إذا لم يكن مؤتمرك الصحافي مثيراً للاهتمام بما فيه الكفاية لنيل تغطية صحافية، فسيُعتبر مضيعةً لوقتك ووقت الصحافيين. والأسوأ من ذلك أنه إذا تخلّل مؤتمرك الصحافي وجهات نظر مختلفة أو شتّ عن الرسالة الأساسية، فقد يلحق الضرر بقضيتك ومصداقيتك.
 
-{% figure caption:"_Photo: PACE_" class:"center" %} ![PACE representative gives press statement.](/assets/images/Preliminary finding press conference of 2017 By-Elections (1).JPG "PACE") {% endfigure %}
+{% figure caption:"_الصورة: PACE_" class:"center" %} ![ممثل PACE يدلي ببيان صحفي.](/assets/images/Preliminary finding press conference of 2017 By-Elections (1).JPG "PACE") {% endfigure %}
 
 ## الإعلام المدفوع
 
@@ -288,37 +288,7 @@ permalink: "/6-where-will-you-say-it/"
 
 استئنافاً للمثال الذي طرحناه، لربما أصبحت خطة الاتصالات الخاصة بك على الشكل التالي:
 
-<table>
-<thead>
-<tr>
-<th>Goal</th>
-<th>Topline Message</th>
-<th>Target Audience</th>
-<th>Target Message</th>
-<th>Communication Tool</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="3">Raise awareness of what a PVT is by having 10,000 people visit our website and having an average reach of 100,000 people across our social media channels in the three weeks before the election.</td>
-<td rowspan="3">A PVT independently verifies whether official election results are accurate, because every vote should be counted and every voice should be heard.</td>
-<td>Journalists who write about elections.</td>
-<td>A PVT is a statistically rigorous and internationally accepted standard of gauging the accuracy or fraudulence of an election. The results of the PVT will help tell the story of the upcoming election by providing another data set against which to check election results.</td>
-<td>- Email press releases & press conferences<br>- Materials on website<br>- One-on-one phone interviews & quarterly conference calls<br>- Twitter<br>- Whatsapp group<br>- YouTube
-</td>
-</tr>
-<tr>
-<td>Members of the party in power</td>
-<td>A PVT verifies fair and accurate election results. Win or lose, great leaders respect the will of the people, when every vote is counted and every voice is heard.</td>
-<td>- One-on-one outreach to party leadership<br>- Ads & op-eds in the The Daily Journal, The Weekly Magazine, and The Radio Newshour<br>- Facebook ads</td>
-</tr>
-<tr>
-<td>Members of the opposition party</td>
-<td>A PVT verifies that true results are known and dissuades fraud, because every vote should be counted and every voice should heard.</td>
-<td>- Facebook ads<br>- One-on-one outreach to the party leadership<br>- Ads in the Opposition Weekly<br>- Blast emails</td>
-</tr>
-</tbody>
-</table>
+<table> <thead> <tr> <th>الهدف</th> <th>الرسالة الأساسية</th> <th>الجماهير المستهدفة</th> <th>الرسالة الهدف</th> <th>أداة الاتصال</th> </tr> </thead> <tbody> <tr> <td rowspan="3">نشر التوعية بشأن الجدولة المتوازية للأصوات، من خلال إقناع 10 آلاف شخص بزيارة موقعنا الإلكتروني وبلوغ ما معدّله 100 ألف شخص عبر مختلف وسائل التواصل الاجتماعي الخاصة بنا في الأسابيع الثلاثة قبل الانتخابات.</td> <td rowspan="3">الجدولة المتوازية للأصوات تتحقّق، بشكل مستقل، مما إذا كانت نتائج الانتخابات الرسمية دقيقة، لأنه يجب احتساب كل صوت وسماع كل رأي.</td> <td>الصحافيون الذين يكتبون عن الانتخابات</td> <td>الجدولة المتوازية للأصوات ممارسة ثاقبة إحصائياً ومقبولة عالمياً لتقييم دقة نتائج الانتخابات الرسمية أو تعرّضها للتزوير. تساعد نتائج الجدولة المتوازية للأصوات في نشر تفاصيل الانتخابات من خلال توفير مجموعة أخرى من البيانات، يمكن الاستناد إليها لمقارنة نتائج الانتخابات الرسمية.</td> <td>إرسال النشرات الصحفية بالبريد الإلكتروني والمؤتمرات الصحفية -<br>المواد على الموقع الإلكتروني-<br>المقابلات الهاتفية مع كل شخص والمؤتمرات الفصلية عبر الهاتف-<br>- تويتر<br>- مجموعة على واتساب<br>- يوتيوب</td> </tr> <tr> <td>أعضاء الحزب الحاكم</td> <td>تتحقق الجدولة المتوازية للأصوات مما إذا كانت نتائج الانتخابات دقيقة. أفاز القادة العظماء أم خسروا، فإنهم يحترمون إرادة الشعب عندما يتمّ احتساب كل صوت وسماع كل رأي.</td> <td>-التواصل الشخصي مع قيادة الحزب<br>-الإعلانات والافتتاحيات في صحف "ذا دايلي جورنال"، و"ذا ويكلي ماغازين"، و"ذا راديو نيوزاور"<br>- الإعلانات على فايسبوك</td> </tr> <tr> <td>أعضاء الحزب المعارض</td> <td>تتحقق الجدولة المتوازية للأصوات مما إذا كانت النتائج الحقيقية معروفة، مما يضمن احتساب كافة الأصوات بدقة ومعرفة الفائز الحقيقي.</td> <td>- الإعلانات على فايسبوك<br>- التواصل الشخصي مع قيادة الحزب<br>- الإعلانات في مجلة "المعارضة في أسبوع"<br>- رسائل البريد الإلكتروني الجماعية</td> </tr> </tbody> </table>
 
 ## توجّه إلى الأشخاص حيثما يكونون
 
