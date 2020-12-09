@@ -39,9 +39,9 @@ permalink: "/5-how-will-you-say-it/"
   3. **أخيراً، النشرة الصحفية** هي الأطول بين هذه الأنواع الثلاثة من الوثائق الإعلامية. يجب أن تُكتب وكأنها تحقيق إخباري، وتؤطَّر بالطريقة نفسها التي تريد فيها من الإعلام أن يؤطّر عملك، أو قضيتك، أو النتائج التي توصّلت إليها. راجع _الموارد الإضافية_ للاطلاع على نموذج عن النشرات الصحفية من منظمة " YIAGA AFRICA " في نيجيريا و"PACE " في ميانمار.
 * احرص على ترجمة موادك الصحفية إلى اللغة الإنجليزية بحيث تكون متوفّرة بسهولة لوسائل الإعلام الدولية.
 
-{% figure caption:" YIAGA staff presenting at a press conference. _YIAGA Africa: الصورة_" class:"center" %}
+{% figure caption:"أعضاء مجلس إدارة مبادرة "مراقبة التصويت" (Watching The Vote) يتحدّثون في مؤتمر صحافي عن مدى استعداد لجنة الانتخابات لتنظيم انتخابات 2019. _YIAGA Africa: الصورة_" class:"center" %}
 
-![YIAGA Staff at a Press Conference](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
+![أعضاء مجلس إدارة مبادرة "مراقبة التصويت" (Watching The Vote) يتحدّثون في مؤتمر صحافي عن مدى استعداد لجنة الانتخابات لتنظيم انتخابات 2019. ](/assets/images/yiaga_1-2.jpg "YIAGA Staff at a Press Conference")
 {% endfigure %}
 
 ## أفضل الممارسات لكتابة بيانات المراقبة والتقارير الأخرى
