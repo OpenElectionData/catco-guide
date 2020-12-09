@@ -116,7 +116,7 @@ permalink: "/6-where-will-you-say-it/"
 
 جرّب أيضاً أن تنشر البيانات نفسها بنسخ أو طرق مختلفة. فبما أنّ تدوينة معيّنة لن تظهر إلا لجزء من متابعيك، ليس من خطر في أن يرون المنشور نفسه عدة مرات، بل ستكوّن فكرةً قيّمة عن الرسم أو الصورة التي نالت أكبر قدر من المشاركة والفهم من قبل جمهورك، وسيكون باستطاعتك تصميم محتواك في المستقبل بناءً على تعلّمته.
 
-{% figure caption:"إنفوجرافيك من OPORA يشجع الناس على التصويت. _OPORA: : الصورة_" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
+{% figure caption:"إنفوجرافيك من OPORA يشجع الناس على التصويت. _OPORA: : الصورة"_" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
 
 {% endfigure %}
 
