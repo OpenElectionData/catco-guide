@@ -103,7 +103,7 @@ permalink: "/5-how-will-you-say-it/"
 
 [أقدمت الجمعية الدولية لنزاهة الانتخابات والديمقراطية](http://www.isfed.ge/) (ISFED)، سعياً منها لتعزيز اتصالها الخارجي بطريقة أكثر بصرية، على إنتاج [فيديو "لمحة عنا"](https://www.youtube.com/watch?v=JV_dcsCmasU)لشرح تاريخ المنظمة، وعملها في مجال مراقبة الانتخابات، والمنهجيات المستخدمة، والتكنولوجيا وأدوات الاتصال المستخدمة. تضمّن الفيديو مشاهد لعدة موظفين بارزين في الجمعية، وهم يتحدّثون عن جوانب مختلفة من نشأة الجمعية، وأُرفق بترجمة إلى الإنجليزية (عند تحدّث أحد الموظفين بالجورجية) وإلى الجورجية (عند التحدّث بالإنجليزية)، مما وسّع نطاق الأشخاص القادرين على مشاهدة الفيديو وفهمه.
 
-{% figure caption:"_Infographic from YIAGA_" class:"left" %} ![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
+{% figure caption:"_YIAGA Africa: الصورة_ " class:"left" %} ![Screen grab of YIAGA video that highlights political parties role in election observation ](/assets/images/yiaga_video.png "Infographic showing data collected from prior PVTs")
 
 {% endfigure %}
 
