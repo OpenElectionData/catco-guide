@@ -32,8 +32,6 @@ list:
   full_name: المعهد الديمقراطي الوطني (National Democratic Institute)
 - acronym: NGO
   full_name: منظمة غير حكومية
-- acronym: OPORA
-  full_name: " شبكة أوبورا المدنية (Громадянська мережа ОПОРА)"
 - acronym: PACE
   full_name: 'التحالف الشعبي من أجل انتخابات ذات مصداقية (People''s Alliance for Credible
     Elections) '
