@@ -33,8 +33,6 @@ list:
   full_name: 'L’institut National Démocratique '
 - acronym: ONG
   full_name: Organisation non-gouvernementale
-- acronym: OPORA
-  full_name: Громадянська мережа ОПОРА (Civil Network OPORA) Réseau Civil OPORA
 - acronym: PACE
   full_name: People’s Alliance for Credible Elections
 - acronym: DCP
