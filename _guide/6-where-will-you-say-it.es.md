@@ -100,21 +100,11 @@ Los grupos pueden ser abiertos o cerrados, moderados o no. Antes de iniciar un g
 
 Si decide crear una página de Facebook para su organización en lugar de, o además de, una página grupal, usted será el único que publique dicho contenido. Facebook le muestra su contenido a una fracción de sus seguidores a partir de su siempre cambiante algoritmo, y podría resultar difícil deducir exactamente qué habrá de tener un amplio alcance o fuerte participación. Por dicha razón en Facebook es importante ser ágil y creativo con su contenido, y sensible a lo que los datos y analítica le digan (_consúltese la siguiente sección_). El tipo de contenido que tiene éxito en Facebook podría no ser el que usted espera o incluso el que preferiría. Pero siga intentando cosas nuevas y formas novedosas de presentar su información hasta que halle qué funciona. Recuerde atenerse al mensaje incluso cuando experimente con el contenido; si este tiene un amplio alcance y participación pero se ha alejado del mensaje, usted en realidad no habrá ayudado a su causa o a avanzar hacia sus metas.
 
-{% callout title="Cuándo crear múltiples páginas en Facebook" %}
-
-En Ucrania, OPORA tiene una [página principal en Facebook](https://www.facebook.com/cn.opora/),  la cual incluye contenido que está alineado con su mensaje principal. Cuando lanza distintas campañas e iniciativas con metas más específicas, también crea una página distinta en Facebook para cada una de ellas, de modo tal que la gente pueda seguir y acceder al contenido más específico y restringido referido a dicha iniciativa en particular.
-
-{% endcallout %}
-
 Facebook acepta textos, enlaces, imágenes y video. Sobresale sobre todo en el contenido visual: imágenes y álbumes de fotos, gráficos e infografías, videos producidos o en vivo. Cuando planee su estrategia de Facebook asegúrese de incluir un montón de contenido visual. Pero si su grupo opera en un entorno cerrado o en vías de serlo, asegúrese de tener cuidado cuando publique videos y/o fotos de personas, y considere si esto podría exponerlos a riesgos de seguridad tales como intimidación, acoso o represalias.
 
 Preste atención a los tipos de contenido y de mensajes que más participación reciben (me gusta, comentarios y compartir). Sígalos en el tiempo para ver a qué tipo de contenido responde su público.
 
 Podría también intentar publicar varias versiones o presentaciones de los mismos datos. Dado que solo una facción de sus seguidores verá una publicación dada, no corre el riesgo de que todos vean la misma cosa varias veces, pero usted sí ganará valiosa información acerca de qué gráfico o qué tipo de presentación consigue la mayor participación y comprensión de parte de su público, y podrá luego modelar el contenido futuro a partir de lo que aprenda.
-
-{% figure caption:"_Infografía de OPORA animando a los ciudadanos a votar._" class:"right" %} ![Infografía de OPORA](/assets/images/opora_1.jpg "Infografía de OPORA")
-
-{% endfigure %}
 
 Facebook tiende a priorizar contenidos que provoquen comentarios y diálogo, a los que muestra a más personas en su _newsfeed_. Para alentar a la gente a que comente y participe responda a las preguntas o entable conversación con quienes comentan, cuando lo hagan en buena fe. Si le da la impresión de que los comentarios son falsos, bots o que repiten puntos diseñados para dañar su credibilidad, tal vez deberá esconder o bloquear dichas cuentas. Pero si la gente acude a su página con preguntas o malentendidos sinceros tómese el tiempo de responder y de entablarles conversación. Esto no solo ayudará a enseñarles cuál es su trabajo y misión, sino que además a la gente le gusta que la escuchen y saber que detrás de la presencia organizativa se encuentra una persona real.
 
