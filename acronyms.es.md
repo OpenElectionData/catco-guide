@@ -37,8 +37,6 @@ list:
   full_name: Instituto Nacional Demócrata (National Democratic Institute)
 - acronym: NGO
   full_name: organización no gubernamental
-- acronym: OPORA
-  full_name: Громадянська мережа ОПОРА (Red Civil OPORA)
 - acronym: PACE
   full_name: Alianza Popular para Elecciones Creíbles (People's Alliance for Credible
     Elections)
