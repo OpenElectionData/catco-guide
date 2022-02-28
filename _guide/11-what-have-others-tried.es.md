@@ -109,22 +109,6 @@ También usaron redes sociales para llevar transparencia a procesos antes secret
 
 “Debes tener contenido sobre las elecciones continuamente”, dice Jovana Djurbabic, gerente de comunicaciones del CRTA. “No solo cuando la campaña se inicia, sino un esfuerzo continuo de encontrar formas de interesar a la gente”. Al aplicar distintas estrategias y tipos de comunicaciones todo el año, CRTA ha incrementado el interés y la participación en el proceso electoral en Serbia.
 
-## Estudio de caso: humorizando el envejecimiento de una comisión electoral
-
-Con su experiencia monitoreando las elecciones e interactuando con el público ucraniano desde 2005, OPORA ha tenido que adaptarse a lo largo del tiempo a un cambiante entorno político y social. Aunque el grupo inició su trabajo observando elecciones en un entorno de riesgo, recientemente ha asumido un conjunto más amplio de cuestiones en las cuales trabajar. Aunque sigue monitoreando y reportando elecciones — y se ha convertido en una confiable fuente nacional de ello —, en años recientes el grupo volvió su atención a las campañas para fortalecer otros aspectos de una democracia emergente.
-
-Un tema de atención: la necesidad de que el presidente nombrara una nueva Comisión Electoral Central (CEC). Esta comisión — el cuerpo responsable por la supervisión del funcionamiento apropiado de las elecciones nacionales — está conformada por 15 miembros. Para junio de 2014, el mandato de 12 de sus integrantes había vencido. En febrero de 2017 venció el de un 13º miembro. El mandatario siguió retrasando el nombramiento de nuevos integrantes, y en el ínterin sus antiguos miembros siguieron formando parte de la comisión mucho tiempo después de vencido su mandato legal.
-
-“Aunque es un tema serio, cada vez se hacía más difícil tomarlo así porque era tan ridículo como se estaba volviendo” dice Iryna Shvets, directora de programas de OPORA. Cada mes, el presidente pospone para el siguiente mes los nuevos nombramientos de la comisión. “‘En el futuro más cercano’ es la frase que siguen usando”, recuerda Shvets.
-
-Para resaltar lo absurdo de la situación y al mismo tiempo impulsar la demanda de acción, OPORA adoptó un enfoque humorístico del problema. Lanzó así una campaña en las redes sociales, comparando a la Comisión Electoral Central con el vino. “La Comisión Electoral Central no es como el vino, no está envejeciendo bien”, fue su mensaje central. A partir de dicha premisa se creó una serie de imágenes, gráficos y otro contenido chistosas en Facebook y Twitter, como encuestas. Preguntaron a sus seguidores que cosa probablemente sucedería primero: por, ejemplo, la construcción de una nueva línea del metro o que se volviera a nombrar a la CEC, resaltando así el tiempo que estaba tomando completar algo comparativamente fácil.
-
-Shvets atribuye el éxito de esta campaña a la marca fuerte y confiable de OPORA. “Cuando nos estamos comunicando con los MP (miembros del parlamento) u organizaciones internacionales hacemos un informe serio”, dice. Pero con el público podemos divertirnos más. Somos una organización bien conocida desde nuestra época en las campañas electorales, lo que quiere decir que podemos hacer bromas y ser creativos, y que no tenemos que limitarnos a un solo formato”. Por ejemplo, cuando OPORA presentó un análisis de campañas electorales en zonas en conflicto, no podía correr el riesgo de ser malinterpretado acerca de la naturaleza de esta cuestión y decidió no emplear el humor.
-
-Usar el humor en el caso de la Comisión Electoral Central no solo elevó la conciencia en torno a esta cuestión entre un público más amplio, sino que además hizo que un tema por lo demás complicado o aburrido pasara a ser relevante y urgente para el público. Es posible que no hayan conocido los detalles de la comisión, su composición o incluso su papel en la supervisión de las elecciones, pero sí podían entender e identificarse con un gobierno que prometía algo y luego lo posponía indefinidamente. El humor asimismo transmitía rápidamente el concepto de que este debía ser un proceso veloz: el vino podía envejecer bien, pero esta comisión ciertamente no.
-
-Al final, la campaña contribuyó a que se nombrara una nueva CEC. En enero de 2018 el presidente cesó formalmente a los 13 miembros cuyo mandato se había vencido y nombró oficialmente a sus reemplazantes, bastante antes de las elecciones presidenciales y parlamentarias de 2019.
-
 ## Estudio de caso: “las comunicaciones son cosa de todos”
 
 {% figure caption:"Foto: YIAGA Africa." %}
