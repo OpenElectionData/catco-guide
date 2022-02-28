@@ -3,12 +3,12 @@ lang: en
 title: 7. Can We Try Something Different?
 subtitle: Creative Communications Strategies
 image:
-  url: ""
-  caption: ""
+  url: ''
+  caption: ''
 uses_forms: true
 permalink: "/7-can-we-try-something-different/"
----
 
+---
 Politics and elections are serious business. Pushing for democratic progress often involves facing great risks, threats, and even dangers for your organization and -- in some cases -- your own personal safety. But just because the topics and consequences of your work are serious doesn't mean they should be dense or dull.
 
 Generally speaking, people don't like to be lectured or reminded of how bad things are. People prefer to laugh and have fun. If you can use humor, entertainment, popular culture, or first-person experience as a way to deliver important and serious information, you'll have a better chance of being listened to, and your audiences will be more likely to retain the information you are trying to impart.
@@ -23,13 +23,13 @@ It's really hard to inspire people to work for change when they can't imagine wh
 
 There are a number of ways to integrate pop culture strategies into your communications plan. Remember that popular culture in many instances is transnational, and you might be able to enlist figures outside your borders to assist your efforts, which is particularly important in closed societies.
 
-- Praise or amplify positive narratives or trends you see in the arts or pop culture that reflect your messages.
-- Correct or push back against negative or harmful narratives or trends in the arts or pop culture that undermine potentials for democratic progress.
-- Work directly with artists, writers, actors, or other creators to help shape narratives that reinforce your frame and narrative during the production phase.
-- Engage with your audience by drawing real-world connections to the art or culture they're fans of or giving them ways to channel their passion into real-world action.
-- Ask musicians to write songs for your campaign, filmmakers to produce short videos, actors to star in an ad or video, artists to create posters or grafiti, etc., for your campaign.
-- Have celebrities join your campaign as spokespeople or trusted messengers, enlist them to amplify your messages through their performances and social media presence.
-- Invite the public to post or submit popular culture contributions to your efforts.
+* Praise or amplify positive narratives or trends you see in the arts or pop culture that reflect your messages.
+* Correct or push back against negative or harmful narratives or trends in the arts or pop culture that undermine potentials for democratic progress.
+* Work directly with artists, writers, actors, or other creators to help shape narratives that reinforce your frame and narrative during the production phase.
+* Engage with your audience by drawing real-world connections to the art or culture they're fans of or giving them ways to channel their passion into real-world action.
+* Ask musicians to write songs for your campaign, filmmakers to produce short videos, actors to star in an ad or video, artists to create posters or grafiti, etc., for your campaign.
+* Have celebrities join your campaign as spokespeople or trusted messengers, enlist them to amplify your messages through their performances and social media presence.
+* Invite the public to post or submit popular culture contributions to your efforts.
 
 As with your other strategies, any pop culture strategies and tactics you pursue should be in service to your larger goals. If you recruit a celebrity to be your spokesperson but that person is not popular with key audiences or isn't willing to stay on message, then it's not worth the effort. If, however, people are becoming increasingly cynical about democracy because the dominant television shows and movies all portray elections as rigged and politicians as corrupt, then you might want to work with artists and actors to create counter narratives that emphasize the benefits of participation and the importance of voting. Inviting the public to post or submit popular culture contributions to your campaigns can also help counter cynicism, while you will need to filter against trolls and other malign actors who may try to sabotage such efforts. This will reinforce your frame and lay a foundation that makes the rest of your work easier.
 
@@ -53,23 +53,27 @@ As with your other strategies, any pop culture strategies and tactics you pursue
 
 Working in politics or for an NGO means you may have limited exposure to artists and other creative people. Here are tips for productive and mutually beneficial relationships with them:
 
-- **Let the artists do the art.** An artist's job is to be professionally creative, and you should give them the space to do so. Don't try to tell them how to do their jobs. Let them pitch ideas of how their talents might be best used. If an idea sounds weird or out there at first, hear them out -- just because it feels uncomfortable or different from how you have done things before doesn't mean it is a bad idea. Don't try to rein them in or change their vision unless absolutely necessary.
-- **An artist's time is valuable.** Artists and other creatives are paid professionals; don't assume they will volunteer their services. Be prepared to offer and pay them at their market rate. If you can't afford to pay them, ask them if they will volunteer their services or offer a reduced rate but understand this is a lot to ask for and treat their time with value and respect even if you are not paying for it directly.
-- **Collaborate, don't dictate.** You're each bringing different knowledge bases to the table. Form a collaborative partnership where you're lifting up each other's work, not trying to make it fit into your preconceived ideas.
+* **Let the artists do the art.** An artist's job is to be professionally creative, and you should give them the space to do so. Don't try to tell them how to do their jobs. Let them pitch ideas of how their talents might be best used. If an idea sounds weird or out there at first, hear them out -- just because it feels uncomfortable or different from how you have done things before doesn't mean it is a bad idea. Don't try to rein them in or change their vision unless absolutely necessary.
+* **An artist's time is valuable.** Artists and other creatives are paid professionals; don't assume they will volunteer their services. Be prepared to offer and pay them at their market rate. If you can't afford to pay them, ask them if they will volunteer their services or offer a reduced rate but understand this is a lot to ask for and treat their time with value and respect even if you are not paying for it directly.
+* **Collaborate, don't dictate.** You're each bringing different knowledge bases to the table. Form a collaborative partnership where you're lifting up each other's work, not trying to make it fit into your preconceived ideas.
 
 Sometimes your plan might involve outreach and organizing to fan communities. Fan communities are self-organized groups of people who love a movie, book, comic book, TV show, artist, musician, sports team, etc. Fan communities most frequently gather online around certain platforms or hashtags, but they also gather in person to enjoy performances, matches, or conventions. Fan communities often generate their own customs, language, and norms. One example is when _Black Panther_ (a popular superhero movie which takes place in the mythical African nation of Wakanda) fans organized a “Wakanda The Vote” campaign to register people attending _Black Panther_ film screenings to vote. The idea was not just to watch a screening about a fictional country built on the power of black people, but to simultaneously build black power in the real world.
 
 If you plan to communicate with fan communities, here are some practical tips to keep in mind:
 
-<<<<<<< HEAD:\_guide/7-can-we-try-something-different-creative-communications-strategies.en.md
-
-- **Be a fan.** If you want to talk to fan communities about a movie, TV show, book, or musician, be a fan! Fans are fiercely loyal and passionate about the object of their adoration -- don't start by criticizing or pointing out the shortcomings, but approach from a place of authentic admiration.
-- **Listen.** Spend some time listening to the fans, how they interact, what their internal references and jokes are, and what they love about the thing they're a fan of. It's okay to lurk online or at events for a while, just listening to get a sense for the tone and topics to use once you're ready to engage.
-- # **Have authentic interactions.** Don't always try to wedge in your talking points or web address. Interact authentically and have real conversations with fans -- pivot to your message when it feels natural.
+<<<<<<< HEAD:_guide/7-can-we-try-something-different-creative-communications-strategies.en.md
 
 * **Be a fan.** If you want to talk to fan communities about a movie, TV show, book, or musician, be a fan! Fans are fiercely loyal and passionate about the object of their adoration -- don't start by criticizing or pointing out the shortcomings, but approach from a place of authentic admiration.
 * **Listen.** Spend some time listening to the fans, how they interact, what their internal references and jokes are, and what they love about the thing they're a fan of. It's okay to lurk online or at events for a while, just listening to get a sense for the tone and topics to use once you're ready to engage.
-  > > > > > > > Begin adding French language & RTL CSS:\_guide/7-can-we-try-something-different-creative-communications-strategies.fr.md
+* 
+
+  # **Have authentic interactions.** Don't always try to wedge in your talking points or web address. Interact authentically and have real conversations with fans -- pivot to your message when it feels natural.
+
+
+* **Be a fan.** If you want to talk to fan communities about a movie, TV show, book, or musician, be a fan! Fans are fiercely loyal and passionate about the object of their adoration -- don't start by criticizing or pointing out the shortcomings, but approach from a place of authentic admiration.
+* **Listen.** Spend some time listening to the fans, how they interact, what their internal references and jokes are, and what they love about the thing they're a fan of. It's okay to lurk online or at events for a while, just listening to get a sense for the tone and topics to use once you're ready to engage.
+
+  > > > > > > > Begin adding French language & RTL CSS:_guide/7-can-we-try-something-different-creative-communications-strategies.fr.md
 
 {% callout title="Using Humor and the Arts to Convey a Message" %} In Malaysia, [BERSIH 2.0](http://www.bersih.org/) experimented with a number of arts and culture tactics to get the public interested and engaged on the topic of redistricting. They presented film screenings followed by discussion sessions. They organized a series of concerts to raise awareness of the issue. They also organized a standup comedy show and encouraged the comics to use material about BERSIH 2.0 and the issues - even if it meant poking fun at the issues and the organization - in an effort to teach through laughter. The comedy show proved to be so popular they extended its run - it ended up running for 10 days, and 300-400 people came to each show. {% endcallout %}
 
@@ -94,10 +98,10 @@ There are, of course, times when a light-hearted or humorous approach is inappro
 
 There are a number of ways to introduce humor into your communications, and each serves a different purpose and conveys different cues about your message. It's not enough to decide you want to integrate humor into your messaging -- think carefully about what kind of humor is appropriate for the context and best serves your purposes.
 
-- **Satirical news.** Satirical news points out and reframes absurdity. For it to work, your audience must have some basic familiarity with the situation being satirized, or they will not understand it or find it funny. Satire is good for motivating the base of people who already agree with you, but is likely to alienate or turn off people who don't agree with you.
-- **Scripted, comedic storytelling.** Funny scripted stories -- TV shows, public service announcements (PSAs), movies, online videos, etc. -- are great for creating relationships between the viewers and your characters. This understanding or empathy can help normalize unfamiliar experiences and expose the viewer to people or situations they might not otherwise encounter.
-- **Humorous ads.** Making someone laugh in a short amount of time captures their attention and sticks in their memory. Humorous ads -- print, online, televised, or radio -- work to quickly grab your attention and can be very memorable. They can also spark discussion and sharing with friends and family.
-- **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
+* **Satirical news.** Satirical news points out and reframes absurdity. For it to work, your audience must have some basic familiarity with the situation being satirized, or they will not understand it or find it funny. Satire is good for motivating the base of people who already agree with you, but is likely to alienate or turn off people who don't agree with you.
+* **Scripted, comedic storytelling.** Funny scripted stories -- TV shows, public service announcements (PSAs), movies, online videos, etc. -- are great for creating relationships between the viewers and your characters. This understanding or empathy can help normalize unfamiliar experiences and expose the viewer to people or situations they might not otherwise encounter.
+* **Humorous ads.** Making someone laugh in a short amount of time captures their attention and sticks in their memory. Humorous ads -- print, online, televised, or radio -- work to quickly grab your attention and can be very memorable. They can also spark discussion and sharing with friends and family.
+* **Stand up comedy and sketch comedy.** This form of comedy can introduce longer topics, help people critically evaluate them, and break taboos.
 
 Comedy works best when people like or trust the comedian. Choose your messenger wisely for maximum impact. Your comedy should also be funny (this sounds obvious but is surprisingly hard to do). Partnering with a professional or experienced comedian can help you be sure you're funny and therefore successful.
 
@@ -132,8 +136,6 @@ In some cases, your audience will undergo a new experience themselves, and you c
 This type of communication can occur on any of the platforms or formats already discussed. For example, you might host a Facebook Live shortly after the election in which you pose questions to the audience aimed at causing reflection and ask them to contribute their thoughts and reactions about their experience in registering to vote. You could run newspaper or digital ads aimed at provoking reflections on common experiences that the audiences had while voting. You could hold community forums or go canvassing door-to-door to hold in-depth conversations in which people share their experience over the course of the election period and, through guided discussion, reflect on that experience to learn larger lessons about democracy, credible elections or accountability in government.
 
 In other cases, your audience may not undergo the experience themselves, and so you'll want to simulate it for them or otherwise create some kind of empathic connection to the experience. For example, you could create a simple first person, role-playing game that puts the user in the position of having to vote with a physical disability. At each barrier in the process, the player would have to decide what to do or how to handle it. If there are stairs to the entrance of the polling place, players would have the option of asking others to carry them up the stairs or not voting that day and going home instead. By forcing able-bodied players to make choices from the point of view of a disabled voter, the player will reflect on the importance of accessible polling places, something they may not have given much thought to in the past.
-
-{% figure caption:"OPORA Infographic" class:"right" %} ![OPORA Infographic](/assets/images/opora_3.jpg "OPORA Infographic") {% endfigure %}
 
 You can achieve a similar outcome with videos, virtual reality, slide decks, online quizzes, or first person essays aimed at putting the audience through an experience different from their own. Be sure to structure it in such a way that there is room for reflection about the experience to increase the chance of the audience retaining what it learns.
 
