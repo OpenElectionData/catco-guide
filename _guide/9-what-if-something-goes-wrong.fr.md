@@ -88,12 +88,6 @@ Les signes qui montrent qu'un compte est en fait un robot :
 
 Si le compte est faux, signalez-le sur la plateforme pour violation des conditions d'utilisation. N'hésitez pas à bloquer ou à désactiver le faux compte, et ne perdez pas de temps à argumenter avec le compte robot.
 
-{% callout title="Respecter vos normes" %}
-
-« Les perdants de l'élection vous accuseront toujours d'être un agent », déclare Iryna Shvets, responsable de programme pour OPORA. « \[Vous\] ... devez toujours vous en tenir aux normes - les normes pour les observations indépendantes et les valeurs de votre organisation ». Elle conseille de rendre ces normes et valeurs ouvertes et accessibles au public, afin que tout le monde puisse facilement trouver et comprendre votre méthodologie et votre objectif. Cela peut aider à prévenir ou à atténuer ces accusations.
-
-{% endcallout %}
-
 ## Répondre aux crises de votre propre initiative
 
 Cela arrive aux meilleurs d'entre nous - parfois la crise est quelque chose que nous créons nous-mêmes. Peut-être que les dirigeants ont été surpris en train de faire quelque chose de mal, peut-être qu'un tweet était offensant ou insensible, peut-être que le bulletin d'information a été diffusé avec des informations inexactes. Ces choses arriveront. C’est la façon dont vous les gérez dont on se souviendra.
