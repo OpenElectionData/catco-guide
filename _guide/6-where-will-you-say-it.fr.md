@@ -100,21 +100,11 @@ Les groupes peuvent être ouverts ou fermés, modérés ou non. Réfléchissez �
 
 Si vous décidez de créer une page Facebook pour votre organisation à la place ou en plus d'un groupe, vous serez le seul éditeur de ce contenu. Facebook montre votre contenu à une fraction de vos abonnés en fonction de son algorithme en constante évolution, et il peut être difficile de déduire exactement ce qui aura une large portée ou un engagement fort. Pour cette raison, il est important d'être agile et créatif avec votre contenu Facebook, et réactif à ce que les données et les analyses vous disent (voir la section suivante). Le type de contenu qui réussit sur Facebook peut ne pas être ce à quoi vous vous attendez ou même ce que vous préférez. Mais continuez à essayer de nouvelles façons de présenter vos informations jusqu'à ce que vous trouviez ce qui fonctionne. N'oubliez pas de rester sur le message même lorsque vous testez du contenu - si votre contenu a une large portée et un large engagement, mais qu'il est hors du message voulu, vous n'avez pas réellement aidé votre cause ou votre progression vers vos objectifs.
 
-{% callout title="Quand créer plusieurs pages Facebook" %}
-
-En Ukraine, OPORA gère une [page principale Facebook](https://www.facebook.com/cn.opora/ "opora")  qui présente un contenu conforme au message principal de l'organisation. Lorsqu'il lance différentes campagnes et initiatives avec des objectifs plus spécifiques, il crée également une page Facebook distincte pour chacune de ces initiatives, afin que les gens puissent facilement suivre et accéder au contenu plus spécifique et restreint de cette initiative particulière.
-
-{% endcallout %}
-
 Facebook accueille du texte, des liens, des images et des vidéos. Il excelle en particulier dans le contenu visuel - images et albums photo, graphiques et infographies, vidéo produite ou en direct. Lors de la planification de votre stratégie Facebook, assurez-vous d'inclure beaucoup de contenu visuel. Cependant, si votre groupe opère dans un environnement politique fermé ou tendant vers une fermeture, assurez-vous d'être prudent lorsque vous publiez des vidéos et / ou des photos de personnes, cela pourrait les exposer à des risques pour la sécurité, tels que l'intimidation, le harcèlement ou les représailles.
 
 Faites attention aux types et aux messages du contenu qui suscite le plus d'engagement (« likes », commentaires et partages). Suivez-le au fil du temps pour voir à quel contenu votre public répond.
 
 Vous pouvez également essayer de publier plusieurs versions ou présentations des mêmes données. Parce que seule une fraction de vos abonnés verra un message donné, vous ne risquez pas qu'ils voient la même chose plusieurs fois, mais vous obtenez des informations précieuses sur le graphique ou le type de présentation qui suscite le plus d'engagement et de compréhension de votre public, et vous pouvez modéliser le futur contenu sur ce que vous apprenez au fur et à mesure.
-
-{% figure caption:"infographique d'OPORA encourageant à voter" class:"right" %} ![OPORA Infographic](/assets/images/opora_1.jpg "OPORA Infographic")
-
-{% endfigure %}
 
 Facebook a tendance à donner la priorité au contenu qui stimule les commentaires et le dialogue, en le montrant à plus de personnes dans leurs fils d'actualité. Encourager les gens à commenter et à s'engager, à répondre aux questions ou à dialoguer avec les commentateurs - lorsqu'ils commentent de bonne foi. Si vous avez l'impression que les commentateurs sont des faux, des robots ou des points de discussion répétés conçus pour nuire à votre crédibilité, vous pouvez masquer ou bloquer ces comptes. Sinon, si les gens viennent sur votre page avec des questions honnêtes ou des malentendus, prenez le temps de répondre et engagez-les dans un dialogue. Cela aidera non seulement à sensibiliser les gens sur votre travail et votre mission, mais les gens aiment être entendus et savoir qu'il y a une vraie personne derrière la présence organisationnelle.
 
