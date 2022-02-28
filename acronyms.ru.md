@@ -34,8 +34,6 @@ list:
   full_name: National Democratic Institute (Национальный демократический институт)
 - acronym: НГО
   full_name: негосударственные организации
-- acronym: ОПОРА
-  full_name: Громадянська мережа ОПОРА (Civil Network OPORA)
 - acronym: PACE
   full_name: People's Alliance for Credible Elections (Народный альянс за честные
     выборы в Мьянме)
