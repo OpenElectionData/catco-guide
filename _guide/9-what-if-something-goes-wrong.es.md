@@ -85,12 +85,6 @@ Señales de que la cuenta en realidad es un bot:
 
 Si la cuenta es falsa, repórtela o márquela en la plataforma por violar las condiciones de servicio. Siéntase libre de bloquear o silenciar a la cuenta falsa y no pierda tiempo discutiendo con el bot.
 
-{% callout title="Aténgase a sus normas" %}
-
-“Los perdedores de la elección siempre le acusarán de ser una agente”, dice Iryna Shvets, directora de programa de OPORA. “Siempre aténgase a las normas: las de la observación independiente y los valores de su organización”. Ella aconseja hacer que dichas normas y valores sean abiertos y estén a disposición del público, para que así todos puedan fácilmente encontrar y comprender sus métodos y fines. Esto puede ayudarle a anticiparse a estas acusaciones o a mitigarlas.
-
-{% endcallout %}
-
 ## Respondiendo a crisis que usted mismo crea
 
 Le sucede a todos: a veces la crisis es algo que nosotros mismos provocamos. Tal vez los dirigentes fueron cogidos haciendo algo malo, tal vez un tweet fue ofensivo o insensible, o quizás la hoja informativa salió con información inexacta. _Estas cosas pasan_. Lo que la gente recordará es cómo las manejó.
