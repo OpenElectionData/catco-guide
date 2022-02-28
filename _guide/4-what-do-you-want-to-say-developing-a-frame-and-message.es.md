@@ -78,10 +78,6 @@ El mensaje del ejemplo anterior es:
 
 Si el mensaje central únicamente fuera que “una PVT verifica de modo independiente que los resultados electorales oficiales sean precisos, lo que disuade la comisión de fraudes”, esto le enseñaría al público lo que es, pero carecería de una forma emocional para que el público se conecte. Si el mensaje solo fuera que “debemos asegurarnos de que cada voto se cuente”, esto podría resonar emocionalmente con el público, pero no cumpliría con la meta de formar conciencia de qué es una PVT o para qué sirve.
 
-{% callout title="Focalizándose en un mensaje" %} La [Red Civil OPORA](https://www.oporaua.org/en) es un grupo ciudadano en Ucrania que ha estado observando las elecciones y pidiendo instituciones democráticas más fuertes por más de una década. Una cosa que aprendieron en dicho lapso es a elegir un mensaje y conservarlo durante toda la campaña. “Si presentas docenas de cuestiones o mensajes a la vez, no conseguirás que la gente se concentre”, dijo Iryna Shvets, su director de programa. OPORA más bien elige un mensaje focalizado y lo promueve exclusivamente durante al menos dos meses, o hasta que el grupo siente que ha llegado a su público.
-
-Aunque el grupo estaba llevando a cabo una campaña para presionar al gobierno para que nombrara nuevos miembros de la Comisión Electoral Central, su mensaje central era que esta había superado su mandato y que debía renovársela lo antes posible. Impulsaron el mensaje en todas sus comunicaciones externas hasta que se nombraron nuevos comisionados. (Para más información sobre la campaña véase la sección de estudios de caso.) {% endcallout %}
-
 ### Su turno: Cree su mensaje central
 
 **Comience con una lluvia de ideas de todas las cosas posibles que podría querer decir. ¡No se contenga! Algunas podrían ser oraciones, otras apenas palabras. He aquí algunas preguntas para ayudarle a comenzar su lluvia de ideas:**
