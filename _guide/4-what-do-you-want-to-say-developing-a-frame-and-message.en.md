@@ -71,16 +71,12 @@ Continuing with our example, if your goal is to raise awareness of your PVT and 
 
 The message in the example above is:
 
-- Short
-- Clear
-- Teaches the audience something it might not know
-- Embedded with values and emotion meant to connect with the audience
+* Short
+* Clear
+* Teaches the audience something it might not know
+* Embedded with values and emotion meant to connect with the audience
 
 If the topline message were only “a PVT independently verifies that official election results are accurate, which deters fraud,” it would teach the audience about a PVT, but would lack an emotional way for the audience to connect. If the message were only “we must ensure every vote is counted,” it might resonate emotionally with the audience but not meet the goal of raising awareness of what a PVT is or does.
-
-{% callout title="Focusing on One Message" %} [Civil Network OPORA](https://www.oporaua.org/en) is a citizen group in Ukraine that has been observing elections and calling for stronger democratic institutions for more than a decade. One thing they've learned in that time is to choose one message and stick to it for the duration of a campaign. “If you present dozens of issues or messages at a time, you're not going to get people to focus,” said Iryna Shvets, OPORA's program manager. Instead, OPORA will choose one focused message and push it out exclusively for at least two months, or until the group feels like it has broken through with their audience.
-
-While the group was conducting a campaign to pressure the government to appoint new members to the Central Election Commission, its central message was that the commission had overstayed its term and needed to be updated as soon as possible. They drove the message in all their external communications until new commissioners were appointed. (See Case Studies section for more information on the campaign). {% endcallout %}
 
 ### YOUR TURN: Create Your Topline Message
 
