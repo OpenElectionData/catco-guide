@@ -4,11 +4,11 @@ uses_forms: false
 title: 11. What Have Others Tried?
 subtitle: Case Studies
 image:
-  url: ""
-  caption: ""
-permalink: /11-what-have-others-tried/
----
+  url: ''
+  caption: ''
+permalink: "/11-what-have-others-tried/"
 
+---
 ## Case Study: YouTube Stars Interview President Obama
 
 Midway through President Barack Obama's second term, the midterm elections delivered a dire warning about young voters. In the 2014 elections, Obama's party lost nine Senate seats and control of the chamber, as well as losing 13 seats in the House of Representatives. Voter turnout was down among all age groups, but especially with millennial voters. With his eye on the 2016 elections and cementing his legacy achievements, Obama sought to engage millennial audiences in the hopes of increasing enthusiasm, turnout, and participation in his political agenda.
@@ -108,22 +108,6 @@ To raise awareness of people's rights and responsibilities in the voting booth, 
 They also used social media to bring transparency to previously-secretive processes. They live tweeted from inside local electoral commission sessions, meetings that had previously been closed to the public, with a live report of what was being said and done. CRTA observers' live tweets from within the sessions were the public's first glimpse into the recklessness and lack of professionalism of the commissions. The live tweeting built the group's following and credibility, along with bringing increased transparency to the process. CRTA also deployed observers to the locations where ballots were printed to tweet and live stream that process, to bring light to that process and get people engaged in the elections before election day.
 
 “You have to have content about the elections continuously,” said Jovana Djurbabic, the communications manager of CRTA. “Not just when the campaign starts, but a continuous effort on how to find ways to interest people.” By deploying different strategies and types of communications all year-round, CRTA has increased interest and engagement in the electoral process in Serbia.
-
-## Case Study: Poking Fun at the Aging Central Election Commission
-
-With experience monitoring elections and engaging with the Ukrainian public since 2005, OPORA has had to adapt to a changing political and social environment over time. While the group got its start observing elections in a challenging environment, more recently it has taken on a broader set of issues to work on. While the group still monitors and reports on elections -- and has become a trusted national source for doing so -- in recent years it has turned its attention to campaigns to strengthen other aspects of an emerging democracy.
-
-One topic of attention: the need for the president to appoint a new Central Election Commission (CEC). The Central Election Commission -- the body responsible for overseeing the proper functioning of national elections -- is composed of 15 members. In June of 2014, 12 members' terms expired. In February of 2017, a 13th member's term expired. The president continued to delay the appointment of new members, and in the meantime the old members continued to sit on the commission, long past their legal term limit.
-
-“Even though it was a serious topic, it became hard to take seriously because it was getting so ridiculous,” said Iryna Shvets, program manager of OPORA. Every month, the president put off new appointments to the commission to the next month. “‘In the nearest future' is the phrase they kept using,” Shvets recalled.
-
-To highlight the absurdity of the situation and simultaneously drive demand for action, OPORA took a humorous approach to the problem. They launched a campaign on social media comparing the Central Election Commission to wine. “The Central Election Commission is not like wine, it isn't aging well” was their topline message. From that premise, they created a series of funny images, graphics, and other Facebook and Twitter content, like polls. They asked their followers what was likely to happen first -- a new metro line being built or the CEC being re-appointed, for example, highlighting the length of time it was taking for something comparatively easy to complete.
-
-Shvets credits the success of this campaign to the strong and trusted brand of OPORA. “When we're communicating with MPs \[members of parliament\] or international organizations we might do a serious report,” she said. “But with the public, we can have more fun. We are a well-known organization from our election campaigns, which means we can make jokes and be creative, we don't just have to stick to one format.” For example, whenOPORA presented an analysis of electoral campaigns in conflict zones, and couldn't risk being misunderstood about the nature of the matter, they decided against employing humor
-
-Using humor in the case of the Central Election Commission not only raised awareness of the issue with a larger audience but made an otherwise complicated or boring issue feel relevant and urgent to the public. They may not have known the details of the commission, its composition, or even its role in overseeing elections -- but they could understand and identify with a government promising something and putting it off indefinitely. The humor also quickly conveyed the concept that this should be a speedy process -- wine might age well, but this commission most certainly did not.
-
-Ultimately the campaign contributed to a new CEC being appointed. In January of 2018, the president formally dismissed the 13 members whose term had expired and officially appointed their replacements, well ahead of 2019 presidential and parliamentary elections.
 
 ## Case Study: “Communications Is Everyone's Business”
 
