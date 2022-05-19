@@ -101,9 +101,7 @@ Surveillance Self-Defense, Electronic Frontier Foundation: [https://ssd.eff.org/
 
 « Ressources de sécurité numérique », Front Line Defenders : [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
 
-The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs:
-
-[https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+The Cybersecurity Campaign Playbook, European Edition, Harvard Kennedy School Belfer Center for Science and International Affairs: [https://cso.cyberhandbook.org/](https://cso.cyberhandbook.org/ "https://cso.cyberhandbook.org/")
 
 ## Observation électorale citoyenne
 
