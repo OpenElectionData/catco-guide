@@ -101,7 +101,7 @@ OBS Studio (свободная программа с открытым исход
 
 «Ресурсы по цифровой безопасности», Организация «Защитники передовой» (Front Line Defenders): [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
 
-«Стратегия обеспечения кибербезопасности во время проведения избирательной кампании», Европейское издание, Центр науки и международных отношений им. Роберта и Рене Белфер Института государственного управления им. Дж.Ф.Кеннеди Гарвардского университета, США: [https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf](https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf "https://www.ndi.org/sites/default/files/RU%20Campaign%20Playbook_3%20%281%29.pdf")
+«Стратегия обеспечения кибербезопасности во время проведения избирательной кампании», Европейское издание, Центр науки и международных отношений им. Роберта и Рене Белфер Института государственного управления им. Дж.Ф.Кеннеди Гарвардского университета, США: [https://cso.cyberhandbook.org/](https://cso.cyberhandbook.org/ "https://cso.cyberhandbook.org/")
 
 ## Группы общественных наблюдателей за выборами
 
