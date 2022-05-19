@@ -101,7 +101,7 @@ Surveillance Self-Defense (Autodefensa de vigilancia), Electronic Frontier Found
 
 “Digital Security Resources” (Recursos de seguridad digital), Front Line Defenders: [https://www.frontlinedefenders.org/en/digital-security-resources](https://www.frontlinedefenders.org/en/digital-security-resources "https://www.frontlinedefenders.org/en/digital-security-resources")
 
-The Cybersecurity Campaign Playbook, European Edition (El libro de jugadas de ciberseguridad para campañas, Edición europea), Harvard Kennedy School Belfer Center for Science and International Affairs: [https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf](https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf "https://www.ndi.org/sites/default/files/european_campaign_playbook_-_web.pdf")
+The Cybersecurity Campaign Playbook, European Edition (El libro de jugadas de ciberseguridad para campañas, Edición europea), Harvard Kennedy School Belfer Center for Science and International Affairs: [https://cso.cyberhandbook.org/es/](https://cso.cyberhandbook.org/es/ "https://cso.cyberhandbook.org/es/")
 
 ## La observación electoral ciudadana
 
