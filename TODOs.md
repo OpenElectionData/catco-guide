@@ -9,3 +9,9 @@
 # Redirects/Renames
 
 - Rename #3 file to match permalink
+
+# TinaCMS setup
+
+- {% figure %}
+- {% callout %}
+- {% textarea %}
