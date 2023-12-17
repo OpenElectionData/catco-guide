@@ -1,0 +1,33 @@
+{% set items = collections.guide | filterCollectionByLocale(locale) | sortCollectionByKey('menu_order') %}
+{% set numItems = items | length %}
+{% set currentItemIndex = items | getCurrentItemIndex(page.url) %}
+
+{% if currentItemIndex < 0 %}
+  {% set nextLabel %}{{ items[0].data.title }}{% endset %}
+  {% set nextUrl = items[0].url | locale_url %}
+{% else %}
+  {% if currentItemIndex < numItems - 1 %}
+    {% set nextLabel %}{{ items[currentItemIndex + 1].data.title }}{% endset %}
+    {% set nextUrl = items[currentItemIndex + 1].url | locale_url %}
+  {% endif %}
+  {% if currentItemIndex > 0 %}
+    {% set prevLabel %}{{ items[currentItemIndex - 1].data.title }}{% endset %}
+    {% set prevUrl = items[currentItemIndex - 1].url | locale_url %}
+  {% endif %}
+{% endif %}
+
+<ul class="pagination" role="list">
+  {% if prevUrl %}
+  <li class="pagination__item pagination__item--prev">
+    <a href="{{ prevUrl }}" class="pagination__link"
+      >{{ prevLabel }}</a
+    >
+  </li>
+  {% endif %} {% if nextUrl %}
+  <li class="pagination__item pagination__item--next">
+    <a href="{{ nextUrl }}" class="pagination__link"
+      >{{ nextLabel }}</i
+    ></a>
+  </li>
+  {% endif %}
+</ul>

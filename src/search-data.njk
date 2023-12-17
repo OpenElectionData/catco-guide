@@ -1,0 +1,21 @@
+---
+layout: search
+permalink: /search-data.json
+---
+
+{
+  {%- for locale in locales -%}
+  "{{ locale.code }}": [
+    {%- set items = collections.guide | filterCollectionByLocale(locale.code) | sortCollectionByKey('menu_order') -%}
+    {%- for item in items -%}
+      {
+        "id": "{{ loop.index0 }}",
+        "title": "{{ item.data.title }}",
+        "excerpt": "{{ item.content | createExcerpt }}",
+        "content": "{{ item.content }}",
+        "url": "{{ item.url }}"
+      }{%- if not loop.last -%},{%- endif -%}
+    {%- endfor -%}
+  ]{%- if not loop.last -%},{%- endif -%}
+  {%- endfor -%}
+}

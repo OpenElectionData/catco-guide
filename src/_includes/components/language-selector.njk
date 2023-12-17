@@ -1,0 +1,14 @@
+{# Is this ludicrous or crafty? #}
+{% set pageUrl = page.url.split('/').slice(2).join('/') %}
+
+{% if locales.length %}
+<div class="language-selection">
+  {% set active = locale or 'en' %}
+  <div class="language-selection__active">{{ page.lang | getLocaleLabel }}</div>
+  <ul class="language-menu">
+    {% for locale in locales -%}
+      <li class="menu-item"><a href="/{{ locale.code }}/{{ pageUrl }}" rel="alternate" hreflang="{{ locale.code }}">{{ locale.label }}</a></li>
+    {% endfor -%}
+  </ul>
+</div>
+{% endif %}

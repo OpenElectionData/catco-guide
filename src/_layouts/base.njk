@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}" dir="{{ dir }}">
+<head prefix="og: http://ogp.me/ns">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ title }} | {{ site.title }}</title>
+  <meta property="og:title" content="Global Network of Domestic Election Monitors" />
+  <meta property="og:locale" content="{{ locale }}" />
+  <meta name="description" content="{{ excerpt or site.description }}" />
+  <meta property="og:description" content="{{ excerpt or site.description }}" />
+  <link rel="canonical" href="{{ site.url }}" />
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <!-- TODO: SEO image -->
+
+  <link rel="shortcut icon" href="{{ site.url }}/{{ "_assets/images/favicon.ico" }}" type="image/x-icon">
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Noto+Serif:400,700|Sanchez&display=swap"
+    rel="stylesheet">
+
+  {% if layout == 'home' %}
+    <link rel="stylesheet" href="{{ site.url }}{{ "/_assets/css/home.css" }}">
+  {% else %}
+   <link rel="stylesheet" href="{{ site.url }}{{ "/_assets/css/just-the-docs.css" }}">
+  {% endif %}
+
+  {% if dir == 'rtl' %}
+    <link rel="stylesheet" href="{{ site.url }}{{ "/_assets/css/rtl.css" }}">
+  {% endif %}
+
+  {# TODO: Setup GA analytics #}
+  {% include 'components/google-analytics.njk' %}
+
+  <script type="text/javascript" src="{{ site.url }}{{ "/_assets/js/vendor/lunr.min.js"}}"></script>
+</head>
+<body class="{{ layout }}">
+  {% include "icons.njk" %}
+
+  {% block pageLayout %}
+    <div class="page-wrap">
+      {% include 'header.njk' %}
+      <div class="side-bar">
+        <div class="navigation main-nav js-main-nav">
+          {% include "components/menu.njk" %}
+        </div>
+      </div>
+
+      <div class="main-content js-main-content">
+        <main id="main-content" class="page-content">
+          {{ content | safe }}
+        </main>
+        <footer class="page__footer">
+        {% include "components/pagination.njk" %}
+        </footer>
+      </div>
+      {% include 'footer.njk' %}
+    </div>
+  {% endblock %}
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js"
+  integrity="sha384-NaWTHo/8YCBYJ59830LTz/P4aQZK1sS0SneOgAvhsIl3zBu8r9RevNg5lHCHAuQ/" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.2.4/jspdf.plugin.autotable.min.js"
+  integrity="sha256-BE1yckVjFtT/a0Vn/w+HzjeTau8GlAtFM+7BSq5zarI=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="{{ site.url}}{{ "/_assets/js/just-the-docs.js" }}"></script>
+</body>
+</html>

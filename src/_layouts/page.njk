@@ -1,0 +1,26 @@
+---
+layout: base
+---
+
+{%- if image.url -%}
+<figure class="page__img">
+  <img src="{{ image.url }}" alt="" title="{{ image.caption }}" />
+  {%- if image.caption -%}
+  <figcaption class="caption">{{ image.caption }}</figcaption>
+  {%- endif -%}
+</figure>
+{%- endif -%}
+
+<h1 class="fs-9 page__title" data-title="{{ title }} {{ subtitle }}">
+  {{ title }}
+  {%- if subtitle -%}<span class="page__subtitle">{{ subtitle }}</span
+  >{%- endif -%}
+</h1>
+
+{{ content | safe }}
+
+{%- if uses_forms -%}
+<button class="btn btn--pdf btn--pdf-all" data-id="printAll">
+  Save All Responses
+</button>
+{%- endif -%}

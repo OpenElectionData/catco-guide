@@ -1,0 +1,15 @@
+<header class="site-header" role="banner">
+  <a class="site-title fs-6 lh-tight" href="{{ "/" | locale_url }}">
+    {{ 'guide_title' | i18n }}
+  </a>
+  <button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button>
+  <div class="page-header aux-nav js-aux-nav">
+    {% include "components/search.njk" %}
+    <ul class="list-style-none">
+      <li class="d-inline-block my-0">
+        <a href="{{ 'guide_pdf' | i18n }}" class="btn btn-download">{{ 'download_guide' | i18n }}</a>
+      </li>
+    </ul>
+    {% include "components/language-selector.njk" %}
+  </div>
+</header>

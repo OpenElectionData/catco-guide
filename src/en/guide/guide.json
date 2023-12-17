@@ -1,0 +1,4 @@
+{
+  "tags": "guide",
+  "permalink": "{{ lang }}/{{page.fileSlug}}/"
+}

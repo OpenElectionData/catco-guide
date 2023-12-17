@@ -1,0 +1,52 @@
+{% extends "./base.njk" %}
+
+{% block pageLayout %}
+<header class="home__header">
+    <a href="https://www.ndi.org" class="home__logo">
+      <img src="{{ site_url }}{{ "/_assets/images/ndi_logo_green.svg" }}" alt="National
+        Democratic Institute" title="Visit the NDI website">
+    </a>
+    <button class="js-main-nav-trigger home__nav-trigger btn btn-outline" type="button"
+      data-text-toggle="Hide">Menu</button>
+    <div class="home__nav js-main-nav">
+      <ul class="home__nav-download">
+        <li class="d-inline-block my-0">
+          <a href="{{ 'guide_pdf' | i18n({}, 'en') }}" class="btn btn-download">{{ 'download_guide' | i18n({}, 'en') }}</a>
+        </li>
+      </ul>
+      {% include "components/search.njk" %}
+      {% include "components/menu.njk" %}
+      {% include "components/language-selector.njk" %}
+    </div>
+  </header>
+  <main>
+    <section class="home__intro">
+      <div class="home__intro-bg">
+        <picture>
+          <source srcset="{{ site.url }}{{ "/_assets/images/ukraine-protest-TS.jpg"}}" media="(max-width: 800px)">
+          <source srcset="{{ site.url }}{{ "/_assets/images/ukraine-protest-TS@1,5x.jpg"}}" media="(max-width: 1200px)">
+          <source srcset="{{ site.url }}{{ "/_assets/images/ukraine-protest-TS@2x.jpg"}}" media="(max-width: 1600px)">
+          <img src="{{ site.url }}{{ "/_assets/images/ukraine-protest-TS@3x.jpg"}}" alt="Protest in Ukraine">
+        </picture>
+      </div>
+      <h1 class="home__intro-title">{{ 'guide_title_br' | i18n | safe }}</h1>
+      <div class="home__intro-subtitle">{{ 'guide_subtitle' | i18n | safe }}</div>
+      <a href="/en/introduction" class="btn home__intro-btn">{{ 'start_reading' | i18n | safe }}</a>
+    </section>
+    <section class="home__subsection home__purpose">
+      <img src="{{ site.url }}{{ "/_assets/images/BERSIH_2.jpg"}}" class="home__subsection-img" alt="" />
+      <div class="home__subsection-content">
+        <h2 class="home__subsection-title">{{ 'purpose_title' | i18n | safe }}</h2>
+        {{ 'purpose_desc' | i18n | safe }}
+      </div>
+    </section>
+    <section class="home__subsection home__use">
+      <img src="{{ site.url }}{{ "/_assets/images/NDI_kosovo_2.jpg"}}" class="home__subsection-img" alt="" />
+      <div class="home__subsection-content">
+        <h2 class="home__subsection-title">{{ 'how_to_use_title' | i18n | safe }}</h2>
+        {{ 'how_to_use_desc' | i18n | safe }}
+      </div>
+    </section>
+  </main>
+  {% include 'footer.njk' %}
+{% endblock %}

@@ -1,0 +1,13 @@
+//
+// Utility classes for lists
+//
+
+@use '../abstracts/' as *;
+
+// stylelint-disable primer/selector-no-utility, primer/no-override
+
+.list-style-none {
+  padding: 0 !important;
+  margin: 0 !important;
+  list-style: none !important;
+}

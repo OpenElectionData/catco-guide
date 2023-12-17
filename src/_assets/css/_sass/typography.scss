@@ -1,0 +1,94 @@
+//
+// Typography
+//
+// stylelint-disable primer/selector-no-utility, primer/no-override, selector-no-type, selector-max-type
+
+@use './abstracts/' as *;
+
+.main-content {
+  h1,
+  .text-alpha {
+    color: $gray-dark;
+    font-family: $font__montserrat;
+    @include fs-8;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+  }
+
+  h2,
+  .text-beta {
+    position: relative;
+    font-family: $font__sanchez;
+    @include fs-6;
+
+    &::before {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 5px;
+      margin-bottom: 1rem;
+      border-top: 1px solid $gray-light;
+      border-bottom: 1px solid $gray-light;
+    }
+  }
+
+  h3,
+  .text-gamma {
+    color: $green-dark;
+    font-family: $font__sanchez;
+    @include fs-5;
+  }
+
+  h4,
+  .text-delta {
+    @include fs-2;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  h5,
+  .text-epsilon {
+    @include fs-3;
+    color: $grey-dk-200;
+  }
+
+  h6,
+  .text-zeta {
+    @include fs-2;
+    color: $grey-dk-200;
+  }
+}
+
+li {
+  .highlight {
+    margin-top: $sp-2;
+  }
+}
+
+.text-small {
+  @include fs-2;
+}
+
+.text-mono {
+  font-family: $mono-font-family !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.page__subtitle {
+  display: block;
+  color: $blue;
+  font-family: $font__sanchez;
+  font-weight: normal;
+  @include fs-7;
+  letter-spacing: 0;
+}
+
+address {
+  font-style: normal;
+  font-size: 14px;
+}
