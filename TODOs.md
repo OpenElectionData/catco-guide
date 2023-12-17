@@ -15,3 +15,13 @@
 - {% figure %}
 - {% callout %}
 - {% textarea %}
+
+Shortcodes work, although not entirely because Tina formats them differently than 11ty requires.
+
+https://discord.com/channels/835168149439643678/1186036738888564827
+
+Possible solutions:
+
+- Liquid doesn't require comma separated properties, switch?
+- Can we hook into something in Tina that would let us modify how it's saved in the markdown file?
+- Alternatively, can we modify it as a part of the eleventy process instead

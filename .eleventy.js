@@ -86,11 +86,14 @@ module.exports = function (eleventyConfig) {
     }
   );
 
-  eleventyConfig.on('eleventy.before', ({ runMode }) => {
+  eleventyConfig.on('eleventy.before', ({ dir, runMode, outputMode }) => {
     // Set the environment variable
     if (runMode === 'serve' || runMode === 'watch') {
       process.env.BUILD_DRAFTS = true;
     }
+
+    console.log('eleventy.before');
+    console.log(dir);
   });
 
   // Collections
@@ -168,6 +171,19 @@ module.exports = function (eleventyConfig) {
 
   // TEMPORARY
   eleventyConfig.ignores.add('src/{ar,es,fr,ru}/');
+
+  // eleventyConfig.addExtension('md', {
+  //   compile: function (inputContent, inputPath) {
+  //     console.log(inputContent);
+
+  //     inputContent = inputContent.replaceAll('/figure', 'endfigure');
+
+  //     return function (data) {
+  //       console.log(data);
+  //       return this.defaultRenderer(data);
+  //     };
+  //   }
+  // });
 
   // Configuration
   return {

@@ -11,6 +11,8 @@ $ npm install
 $ npm run start
 ```
 
+Copy `.env.sample` to `.env`. Variables can be found by logging into Tina and viewing the site configuration, or by asking Jacque.
+
 ## TinaCMS
 
 This project uses [TinaCMS](https://tina.io/) as a content manager system. To add or modify content, you must log into the admin panel. Content is organized by type and then by language.

@@ -1,20 +1,14 @@
 ---
 title: 1. Introduction
 subtitle: And Summary
+uses_forms: false
+menu_order: 1
 image:
   url: ''
   caption: ''
-uses_forms: false
-menu_order: 1
 ---
 
 Nonpartisan citizen election observation groups and other civil society organizations (CSOs) work hard every day organizing citizens, collecting and analyzing data, and making the case for democratic reforms. In more closed environments, they also must push back against infringements by authoritarian power structures. Over the past three-plus decades, the citizen-based electoral integrity movement spread to more than 100 countries and involved more than four million activists. Working to defend and advance universal and equal suffrage through a free and informed choice simultaneously reinforces democratic norms and exposes the repression and political corruption of autocrats. That's why frustrating citizen election observation is a goal for those who seek to close democratic space and why it is important to invigorate citizen election observation to meet the challenges of closing environments.
-
-{% figure "_NDI Photo_" %}
-
-![NDI Photo](/_assets/images/ndi_kyrgyz_debates-1.jpg 'NDI Photo.')
-
-{% endfigure %}
 
 Robust and thoughtful election observation and analysis can only foster democratic progress if compelling messages reach changemakers. In an open society they include government officials and legislators, as well as media, advocacy groups, businesses, and citizens in general. In relatively closed societies, traditional media, legislators, and businesses may be controlled by autocratic power structures, making it harder to reach citizens and to effect change. To be effective, election observer groups' reports, analyses, and narratives need to break through, grab attention, and spur action.
 
@@ -28,12 +22,6 @@ Communications strategies need to be updated to take into account the effects no
 
 It is also true that not all communications challenges come in the form of outside threats. Sometimes the challenges are internal -- leadership that doesn't prioritize or understand the importance of effective communications, a lack of resources or funding to carry out certain strategies, insufficient staff to do the work, or a lack of expertise in how to plan or carry out effective communications. This guide seeks to build internal expertise and capacity as well as make the case for increased support, resources, and staff dedicated to communications.
 
-{% figure "NDI Photo/Mikhail Velmakin", "right" %}
-
-![NDI Photo/Mikhail Velmakin](/_assets/images/NDI_moscow.jpg 'NDI Photo/Mikhail Velmakin')
-
-{% endfigure %}
-
 This guide is primarily intended to help citizen election observation groups and other CSOs promoting electoral integrity to increase their impact with creative and artful communications. It focuses particularly on ways to break through in closing and closed political environments by developing sound communication strategies, leveraging new opportunities in information communication technologies, and communicating in ways that are more proactive, tailored to specific target audiences, frequent, compelling, and media savvy. While the guide is mainly focused on citizen election observation groups, the principles of good communications are applicable to any number of causes and contexts. CSOs that work on issues other than electoral integrity can use this guide to create impactful communications plans that spur action on the issues they care about. International practitioners can use this guide and the process it lays out to develop effective trainings and provide technical assistance to groups that want to strengthen their communications and outreach.
 
 ## How To Use This Guide
@@ -45,3 +33,7 @@ Each chapter introduces a new concept and component in the strategic communicati
 The guide is structured to be used as a workbook or to guide a group planning process. Practical exercises throughout each chapter will allow you and your team to immediately apply the concepts to your own strategic plan. There are hypothetical and real-world examples included in each chapter to illustrate how the concepts and ideas can be used, and case studies at the end to give you a sense of what others are doing and what is possible. By the time you reach the end of this guide, you should have a complete strategic communications plan in hand that you can begin implementing immediately.
 
 Authoritarian actors have become increasingly savvy at using communications strategies to limit debate, close spaces, and silence critics. CSOs will need to increase, amplify, and professionalize their communications approaches in order to overcome these new challenges. We hope this guide will serve as an important tool to help you do just that.
+
+{% figure class="center" %}
+![](/_assets/images/A_DSC1721.jpg)
+{% /figure %}

@@ -1,8 +1,8 @@
-const en = require('./en.js');
-const es = require('./es.js');
-const fr = require('./fr.js');
-const ar = require('./ar.js');
-const ru = require('./ru.js');
+const en = require('./en.json');
+const es = require('./es.json');
+const fr = require('./fr.json');
+const ar = require('./ar.json');
+const ru = require('./ru.json');
 
 const locales = {
   en,
