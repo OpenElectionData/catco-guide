@@ -1,0 +1,155 @@
+//
+// The basic two column layout
+//
+
+@use './abstracts/' as *;
+
+.page-wrap {
+  display: grid;
+  grid-template-areas: 'header' 'sidebar' 'content' 'footer';
+  grid-template-columns: auto;
+  width: 100%;
+
+  @include mq(lg) {
+    grid-template-areas: 'header header' 'sidebar content' 'footer footer';
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: $header-height auto auto;
+  }
+}
+
+.side-bar {
+  display: flex;
+  grid-area: sidebar;
+  flex-wrap: wrap;
+  background-color: $sidebar-color;
+
+  @include mq(lg) {
+    position: relative;
+    flex-wrap: nowrap;
+    padding-bottom: 0;
+    flex-direction: column;
+    border-right: $border $border-color;
+    align-items: flex-end;
+  }
+}
+
+.main-content-wrap {
+  position: relative;
+
+  @include mq(lg) {
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+}
+
+.main-content {
+  grid-area: content;
+  padding-top: $gutter-spacing-sm;
+  @include container;
+
+  @include mq(lg) {
+    position: relative;
+    width: 100%;
+    max-width: $content-width;
+    margin: 0 auto;
+    padding: $gutter-spacing;
+  }
+}
+
+.navigation,
+.site-title,
+.site-footer {
+  @include container;
+  width: 100%;
+}
+
+// stylelint-disable selector-max-type
+
+body {
+  position: relative;
+
+  @include mq(lg) {
+    position: static;
+    padding-bottom: 0;
+  }
+}
+
+.page__img {
+  margin: 1rem auto;
+
+  @include mq(lg) {
+    float: right;
+    max-width: 300px;
+    margin: 0 0 1rem 2rem;
+  }
+
+  img {
+    margin: 0 auto;
+  }
+}
+
+.callout {
+  margin: 2rem 0;
+  padding: 2rem;
+  color: $grey-dk-200;
+  @include fs-3;
+  background-color: $grey-lt-100;
+
+  h3 {
+    position: relative;
+    margin: 0 0 1rem;
+    color: $blue;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: -1rem;
+      right: -1rem;
+      bottom: -1rem;
+      left: -1rem;
+      border-top: 1px solid $blue;
+      border-left: 1px solid $blue;
+    }
+  }
+
+  p:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+figure {
+  margin: 1rem auto;
+
+  p:empty {
+    display: none;
+  }
+
+  img {
+    display: block;
+  }
+
+  figcaption {
+    color: $gray;
+    @include fs-2;
+  }
+
+  &.right {
+    @include mq(lg) {
+      float: right;
+      width: 40%;
+      margin: 0 0 1rem 1rem;
+    }
+  }
+
+  &.left {
+    @include mq(lg) {
+      float: left;
+      width: 40%;
+      margin: 0 1rem 1rem 0;
+    }
+  }
+}

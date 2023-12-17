@@ -1,0 +1,68 @@
+@use './abstracts/' as *;
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: grid;
+  grid-template-areas: 'logo' 'navigation';
+  grid-template-columns: 1fr;
+  grid-area: header;
+  width: 100%;
+
+  @include mq(lg) {
+    grid-template-areas: 'logo navigation';
+    grid-template-columns: 1fr 3fr;
+  }
+
+  .site-title {
+    position: relative;
+    display: flex;
+    grid-area: logo;
+    align-items: center;
+    padding: $sp-4 100px $sp-4 $sp-4;
+    color: $white;
+    font-family: $font__montserrat;
+    font-weight: 700;
+    background-color: $blue;
+
+    @include mq(md) {
+      padding-right: $sp-4;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -10px;
+      left: 0;
+      width: 100%;
+      @include stripes($blue);
+    }
+  }
+
+  .page-header {
+    position: relative;
+    display: none;
+    grid-area: navigation;
+    padding-top: $gutter-spacing-sm;
+    padding-bottom: $gutter-spacing-sm;
+    @include container;
+    background-color: $white;
+
+    @include mq(lg) {
+      display: flex;
+      align-items: center;
+    }
+
+    &::after {
+      @include mq(lg) {
+        content: '';
+        position: absolute;
+        bottom: -10px;
+        left: 0;
+        width: 100%;
+        @include stripes($grey-lt-100);
+      }
+    }
+  }
+}

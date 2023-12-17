@@ -1,0 +1,63 @@
+<footer class="site-footer main-footer {% if layout === 'home' %}home__footer{% endif %}">
+  <a href="https://www.ndi.org" class="footer__logo">
+    <img src="{{ site.url }}{{ "/_assets/images/ndi_logo.svg" }}" alt="National
+    Democratic Institute" title="Visit the NDI website">
+  </a>
+  <div class="footer__about">
+    <div class="footer__heading">{{ 'about_the_site' | i18n }}</div>
+    <p>
+      {{ 'about_the_site_desc' | i18n }}
+    </p>
+  </div>
+  <div class="footer__address">
+    <div class="footer__heading">National Democratic Institute</div>
+    <address>
+      455 Massachusetts Ave, NW<br />
+      8th Floor<br />
+      Washington, DC 20001-2621<br />
+      +1-202-728-5500
+    </address>
+  </div>
+  <ul class="footer__social">
+    <li class="footer__social-item">
+      <a href="mailto:{{ site.email }}">
+        <svg class="icon icon-mail">
+          <use xlink:href="#icon-mail"></use>
+        </svg>
+        {{ site.email }}
+      </a>
+    </li>
+    <li class="footer__social-item">
+      <a href="https://facebook.com/{{ site.facebook_username }}">
+        <svg class="icon icon-facebook">
+          <use xlink:href="#icon-facebook"></use>
+        </svg>
+        {{ site.facebook_username }}
+      </a>
+    </li>
+    <li class="footer__social-item">
+      <a href="https://twitter.com/{{ site.twitter_username }}">
+        <svg class="icon icon-twitter">
+          <use xlink:href="#icon-twitter"></use>
+        </svg>
+        @{{ site.twitter_username}}</a
+      >
+    </li>
+    <li class="footer__social-item">
+      <a href="https://instagram.com/{{ site.instagram_username }}">
+        <svg class="icon icon-instagram">
+          <use xlink:href="#icon-instagram"></use>
+        </svg>
+        @{{ site.instagram_username}}</a
+      >
+    </li>
+  </ul>
+  <div class="footer__copyright">
+    <p class="text-small text-grey-dk-000 mb-0">
+      Copyright 2019 &copy; - National Democratic Institute - All rights
+      reserved.
+      <a href="{{ "/en/privacy-policy/" }}">Privacy Policy</a> |
+      <a href="{{ "/en/terms-and-conditions/" }}">Terms &amp; Conditions</a>
+    </p>
+  </div>
+</footer>

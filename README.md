@@ -1,15 +1,19 @@
 # CATCO Guide
 
-Website for the CATCO report.
+Website for the CATCO report. It is built using the [11ty static site generator](https://www.11ty.dev/). It is hosted on Netlify.
 
-## Development
+## Quick-start Instructions
 
-1. `$ bundle install`
-2. `$ bundle exec jekyll serve`
+```shell
+$ git clone https://github.com/OpenElectionData/catco-guide.git
+$ cd catco-guide
+$ npm install
+$ npm run start
+```
 
-## Build
+## TinaCMS
 
-1. `$ bundle exec jekyll build`
+This project uses [TinaCMS](https://tina.io/) as a content manager system. To add or modify content, you must log into the admin panel. Content is organized by type and then by language.
 
 ## License
 

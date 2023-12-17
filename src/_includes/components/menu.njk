@@ -1,0 +1,25 @@
+{% set items = collections.guide | filterCollectionByLocale(locale) | sortCollectionByKey('menu_order') %}
+
+<ul class="navigation-list">
+  {% for item in items %}
+    <li class="navigation-list-item {% if page.url == item.url %} active{% endif %}">
+      <a href="{{ item.url | locale_url }}" class="navigation-list-link {% if page.url == item.url %} active{% endif %}"
+        >
+        {{ item.data.title }}
+      </a>
+      {% if page.url == item.url %}
+        {% set subheaders = item.content | getSubheadings %}
+
+        {% if subheaders %}
+        <ul class="navigation-list-child-list">
+          {% for subheader in subheaders %}
+          <li class="navigation-list-item">
+            <a href="{{ subheader.slug }}" class="navigation-list-link">{{ subheader.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

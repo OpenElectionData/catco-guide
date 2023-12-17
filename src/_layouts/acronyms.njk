@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<h1 class="fs-9 page__title" data-title="{{ title }}">
+  {{ title }}
+</h1>
+
+{{ content | safe }}
+
+<dl>
+  {% for item in list %}
+  <dt>{{ item.acronym }}</dt>
+  <dd>{{ item.full_name }}</dd>
+  {% endfor %}
+</dl>
